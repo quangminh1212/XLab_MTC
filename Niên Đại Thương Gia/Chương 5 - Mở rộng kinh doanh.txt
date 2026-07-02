@@ -1,0 +1,99 @@
+============================================================
+Chương 5: Mở rộng kinh doanh
+============================================================
+
+Trong tuần tiếp theo, Trần Văn Hùng đều đặn đi huyện thành bán hàng. Ông tăng dần lượng hàng hóa bán ra, từ 2kg gạo và 0.5kg thịt ban đầu lên 5kg gạo và 1kg thịt mỗi ngày.
+
+Nhờ kỹ năng thương mại cấp 2, ông luôn biết khi nào nên bán giá cao, khi nào nên giảm giá để thu hút khách hàng. Doanh thu của ông tăng nhanh chóng.
+
+Sau một tuần, ông đã tích lũy được 100 điểm kinh nghiệm.
+
+Hệ thống thông báo:
+
+"Chúc mừng chủ nhân đã hoàn thành nhiệm vụ đầu tiên!"
+
+"Phần thưởng:"
+- 100 điểm kinh nghiệm
+- Mở rộng không gian thêm 200m²
+- Kỹ năng mới: Kỹ năng đàm phán cấp 1
+
+"Điểm kinh nghiệm hiện tại: 200."
+
+Trần Văn Hùng mừng rỡ. Không gian của ông giờ đã rộng 1200m², đủ để chứa nhiều hàng hóa hơn. Kỹ năng đàm phán mới sẽ giúp ông trong các giao dịch lớn.
+
+Ông quyết định bắt đầu kinh doanh quy mô lớn hơn. Ông không chỉ bán lẻ nữa, mà sẽ bán sỉ cho các thương lái.
+
+Ông tìm đến một thương lái tên là ông Ba, người nổi tiếng ở huyện Quốc Oai.
+
+"Ông Ba, tôi có nguồn hàng gạo và thịt tốt, muốn bán sỉ cho ông," Trần Văn Hùng nói.
+
+Ông Ba nhìn chàng trai trẻ trước mặt, nghi ngờ. "Nguồn hàng tốt? Cậu lấy đâu ra?"
+
+"Tôi có quen người ở miền Nam, họ gửi hàng về," Trần Văn Hùng nói dối khéo léo. "Giá tốt hơn ông mua ở chỗ khác."
+
+Ông Ba suy nghĩ một chút. "Được, tôi xem hàng trước."
+
+Trần Văn Hùng lấy từ không gian ra 50kg gạo trắng và 10kg thịt bò, đặt lên bàn. Ông Ba sững sờ trước số lượng hàng hóa lớn như vậy.
+
+"Đây... đây là gạo trắng thật sao?" Ông Ba ngạc nhiên.
+
+"Thật," Trần Văn Hùng nói. "Giá tôi bán: gạo 3 đồng một kg, thịt 10 đồng một kg. Giá sỉ, rẻ hơn giá lẻ nhiều."
+
+Ông Ba tính toán nhanh chóng. Nếu mua ở giá này và bán lại, ông sẽ kiếm được lợi nhuận lớn.
+
+"Được, tôi mua hết," Ông Ba nói nhanh chóng. "Nhưng tôi cần nguồn hàng ổn định."
+
+"Tôi có thể cung cấp ổn định," Trần Văn Hùng nói. "Mỗi tuần tôi có thể cung cấp 100kg gạo và 20kg thịt."
+
+Ông Ba gật đầu. "Được, chúng ta hợp tác."
+
+Hai người ký kết thỏa thuận bằng lời nói. Trong thời bao cấp, hợp đồng viết không có giá trị pháp lý, nhưng lời hứa giữa thương nhân vẫn được tôn trọng.
+
+Trần Văn Hùng về nhà với một xấp tiền lớn - tổng cộng 250 đồng từ giao dịch này. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả năm.
+
+Khi về đến nhà, ông đưa cho bà 100 đồng. "Bà, đây là tiền cháu kiếm được."
+
+Bà Hà sững sờ nhìn số tiền lớn. "Nhiều quá! Cháu làm gì mà kiếm được nhiều tiền như vậy?"
+
+"Cháu bán sỉ cho thương lái," Trần Văn Hùng nói. "Cháu có nguồn hàng tốt."
+
+Bà Hà lo lắng. "Nhưng cháu cẩn thận nhé. Số tiền lớn như vậy có thể gây chú ý."
+
+"Cháu biết ạ," Trần Văn Hùng nói. "Cháu sẽ cẩn thận."
+
+Lan cũng chạy ra, ngạc nhiên khi thấy số tiền lớn. "Anh, anh kiếm được nhiều tiền quá!"
+
+"Anh muốn em và bà sống tốt hơn," Trần Văn Hùng nói. "Anh sẽ dùng tiền này để sửa nhà, mua đồ dùng mới."
+
+Lan rưng rưng nước mắt. "Cảm ơn anh."
+
+Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+
+"Chủ nhân đã hoàn thành giao dịch thương mại lớn đầu tiên. Nhận được 50 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 250/500."
+
+"Nhiệm vụ mới: Mở rộng mạng lưới kinh doanh trong vòng 30 ngày"
+- Mục tiêu: Tìm được 5 đối tác kinh doanh
+- Phần thưởng: 200 điểm kinh nghiệm, mở rộng không gian thêm 300m², kỹ năng quản lý cấp 1
+- Thời gian: 30 ngày
+
+Trần Văn Hùng gật đầu. Ông cần tìm thêm 4 đối tác nữa để hoàn thành nhiệm vụ.
+
+Ông quyết định ngày mai sẽ đi các huyện lân cận tìm kiếm đối tác mới. Với hàng hóa trong không gian, ông có thể cung cấp cho nhiều thương lái cùng lúc.
+
+Buổi tối, gia đình ăn cơm với thức ăn ngon. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+
+"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì cho tương lai không?"
+
+"Cháu có," Trần Văn Hùng nói. "Cháu muốn xây dựng một mạng lưới kinh doanh rộng khắp, không chỉ ở huyện Quốc Oai mà còn các huyện lân cận, thậm chí cả Hà Nội."
+
+Bà Hà ngạc nhiên. "Hà Nội? Cháu nói quá tham vọng rồi."
+
+"Không phải tham vọng," Trần Văn Hùng nói. "Cháu có khả năng. Cháu tin mình sẽ làm được."
+
+Bà Hà nhìn cháu trai, thấy ánh mắt kiên định của ông, bà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, an toàn là quan trọng nhất."
+
+"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+
+Sau bữa tối, Trần Văn Hùng vào phòng, tiếp tục vẽ kế hoạch kinh doanh. Với hệ thống và kiến thức của mình, ông tin sẽ trở thành thương gia lớn nhất Việt Nam.
