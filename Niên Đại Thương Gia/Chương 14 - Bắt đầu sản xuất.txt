@@ -1,0 +1,74 @@
+============================================================
+Chương 14: Bắt đầu sản xuất
+============================================================
+
+Trần Văn Hùng quyết định bắt đầu sản xuất quần áo. Ông kiểm tra không gian, thấy có máy may, vải vóc, và các nguyên liệu khác.
+
+Ông tập trung vào không gian, và ý thức của ông được đưa vào đó. Ông đi vào căn nhà gỗ hai tầng, vào phòng may, nơi có máy may và vải vóc.
+
+Ông bắt đầu may quần áo với kỹ năng may mặc cơ bản. Với kiến thức của thế kỷ 21, ông biết cách thiết kế quần áo đẹp và thời trang.
+
+Sau vài giờ, ông đã may xong 5 bộ quần áo. Ông kiểm tra chất lượng, thấy rất tốt.
+
+Hệ thống thông báo:
+
+"Chủ nhân đã sản xuất hàng hóa đầu tiên. Nhận được 10 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 1095."
+
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất quần áo để bán.
+
+Trong tuần tiếp theo, ông dành thời gian trong không gian để sản xuất quần áo. Ông may được 50 bộ quần áo, với các thiết kế khác nhau: áo sơ mi, quần tây, váy, và áo khoác.
+
+Ông quyết định bán quần áo tự sản xuất này. Vì chất lượng tốt hơn quần áo nhập khẩu, ông có thể bán giá cao hơn.
+
+Ông lấy 20 bộ quần áo, đi đến huyện Quốc Oai bán.
+
+Khi đến chợ, ông bày quần áo ra. Quần áo với thiết kế đẹp và chất lượng tốt nhanh chóng thu hút sự chú ý.
+
+"Quần áo đẹp quá!" một người phụ nữ nói. "Bán thế nào?"
+
+"20 đồng một bộ," Trần Văn Hùng nói. "Hàng tự may, chất lượng tốt."
+
+Người phụ nữ ngạc nhiên. "Đắt quá! Nhưng đẹp thật..."
+
+Cô mua một bộ, và tin lan nhanh. Trong vòng một giờ, ông đã bán hết 20 bộ quần áo, tổng cộng kiếm được 400 đồng.
+
+Ông về nhà với số tiền lớn, đưa cho bà 150 đồng.
+
+"Bà, đây là tiền cháu kiếm được hôm nay," Trần Văn Hùng nói.
+
+Bà Hà ngạc nhiên. "Cháu tự may quần áo à? Cháu giỏi quá!"
+
+"Cháu học may từ nhỏ," Trần Văn Hùng nói dối. "Cháu muốn làm ăn tốt hơn."
+
+Lan cũng chạy ra. "Anh, em muốn một bộ quần áo đẹp như vậy."
+
+"Được," Trần Văn Hùng mỉm cười. "Lần sau anh sẽ may cho em."
+
+Lan mỉm cười. "Cảm ơn anh."
+
+Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+
+"Chủ nhân đã bán hàng hóa tự sản xuất đầu tiên. Nhận được 20 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 1115."
+
+"Nhiệm vụ mới: Sản xuất và bán 500 bộ quần áo trong vòng 60 ngày"
+- Mục tiêu: Sản xuất và bán 500 bộ quần áo
+- Phần thưởng: 300 điểm kinh nghiệm, kỹ năng sản xuất cấp 1, mở rộng nhà xưởng trong không gian
+- Thời gian: 60 ngày
+
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 500 bộ quần áo để hoàn thành nhiệm vụ.
+
+Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+
+"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+
+"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất quần áo và bán cho các đối tác của cháu."
+
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+
+"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất. Ông quyết định thuê thêm người giúp việc để tăng năng suất sản xuất.
