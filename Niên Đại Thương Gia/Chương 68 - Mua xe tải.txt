@@ -1,0 +1,50 @@
+============================================================
+Chương 68: Mua xe tải
+============================================================
+
+Trần Văn Hùng quyết định mua xe tải để bắt đầu dịch vụ vận chuyển hàng hóa. Ông kiểm tra không gian, thấy có 5 chiếc xe tải sẵn sàng để sử dụng.
+
+Ông lấy 2 chiếc xe tải từ không gian, rồi bắt đầu tuyển tài xế từ làng và các huyện lân cận. Ông tuyển 4 tài xế, mỗi người lái một chiếc xe tải.
+
+Ông cũng thuê một kho bãi ở huyện Quốc Oai để làm nơi tập kết hàng hóa trước khi vận chuyển.
+
+Khi mọi thứ sẵn sàng, Trần Văn Hùng bắt đầu dịch vụ vận chuyển. Ông vận chuyển hàng hóa từ các xưởng sản xuất đến các cửa hàng và đối tác.
+
+Trong tuần đầu tiên, dịch vụ vận chuyển hoạt động hiệu quả. Ông vận chuyển được 50 tấn hàng hóa, kiếm được 2000 đồng.
+
+Ông đưa cho bà 600 đồng.
+
+"Bà, đây là tiền cháu kiếm được từ dịch vụ vận chuyển," Trần Văn Hùng nói.
+
+Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+
+Lan cũng chạy ra. "Anh, em muốn quản lý dịch vụ vận chuyển."
+
+"Được," Trần Văn Hùng mỉm cười. "Em sẽ học cách quản lý."
+
+Lan mỉm cười. "Em muốn giúp anh nhiều hơn."
+
+Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+
+"Chủ nhân đã bắt đầu dịch vụ vận chuyển. Nhận được 50 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 8085."
+
+"Nhiệm vụ mới: Vận chuyển 500 tấn hàng hóa trong vòng 90 ngày"
+- Mục tiêu: Vận chuyển 500 tấn hàng hóa
+- Phần thưởng: 300 điểm kinh nghiệm, kỹ năng logistics cấp 2
+- Thời gian: 90 ngày
+
+Trần Văn Hùng gật đầu. Ông cần vận chuyển 500 tấn hàng hóa để hoàn thành nhiệm vụ.
+
+Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+
+"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+
+"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục mở rộng dịch vụ vận chuyển."
+
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+
+"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch mở rộng dịch vụ vận chuyển. Ông quyết định mua thêm xe tải và tuyển thêm tài xế.

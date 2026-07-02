@@ -1,0 +1,45 @@
+============================================================
+Chương 24: Mở rộng làm túi
+============================================================
+
+Trần Văn Hùng quyết định mở rộng khu vực làm túi. Ông thuê thêm 4 người nữa: cô Liên, cô Mai, cô Nga và cô Vy. Cả bốn đều giỏi làm túi.
+
+Ông cũng mua thêm 5 máy làm túi từ không gian, đưa vào khu vực làm túi. Khu vực làm túi giờ có 7 người và 8 máy làm túi, năng suất sản xuất tăng lên rất nhanh.
+
+Trong một tuần, họ đã làm được 40 chiếc túi. Trần Văn Hùng bán túi cho các đối tác của mình, kiếm được 1200 đồng.
+
+Ông đưa cho bà 400 đồng.
+
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+
+Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+
+Lan cũng chạy ra. "Anh, em đã làm được 3 chiếc túi rồi."
+
+"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá."
+
+Lan mỉm cười. "Em muốn giúp anh nhiều hơn."
+
+"Được," Trần Văn Hùng nói. "Em sẽ giúp anh khi em giỏi hơn."
+
+Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+
+"Chủ nhân đã mở rộng khu vực làm túi. Nhận được 40 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 1795."
+
+"Tiến độ nhiệm vụ: 65/200 chiếc túi."
+
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán thêm 135 chiếc túi nữa để hoàn thành nhiệm vụ.
+
+Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+
+"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+
+"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất túi và bán cho các đối tác."
+
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+
+"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+
+Sau bữa tối, Trần Văn Hùng vào phòng, kiểm tra tiến độ các nhiệm vụ khác. Ông cũng cần hoàn thành nhiệm vụ sản xuất giày - đã bán được 80 đôi, cần thêm 220 đôi.

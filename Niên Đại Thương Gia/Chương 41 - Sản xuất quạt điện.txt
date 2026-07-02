@@ -1,0 +1,64 @@
+============================================================
+Chương 41: Sản xuất quạt điện
+============================================================
+
+Trần Văn Hùng quyết định bắt đầu sản xuất quạt điện. Ông kiểm tra không gian, thấy có linh kiện điện tử, động cơ, và các công cụ khác.
+
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất điện tử, bắt đầu lắp ráp quạt điện.
+
+Với kiến thức của thế kỷ 21 về điện tử và kỹ năng điện tử cấp 1, ông biết cách lắp ráp quạt điện chất lượng tốt.
+
+Sau vài giờ, ông đã lắp ráp xong 2 chiếc quạt điện. Ông kiểm tra chất lượng, thấy rất tốt.
+
+Hệ thống thông báo:
+
+"Chủ nhân đã sản xuất quạt điện đầu tiên. Nhận được 10 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 3855."
+
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất quạt điện để bán.
+
+Ông quyết định sử dụng cùng một nhóm thợ điện tử để lắp ráp quạt điện. Với kinh nghiệm từ sản xuất radio, họ có thể lắp ráp quạt điện nhanh chóng.
+
+Trong một tuần, họ đã lắp ráp được 40 chiếc quạt điện. Trần Văn Hùng bán quạt điện cho các cửa hàng của mình. Vì quạt điện là hàng mới và rất cần thiết trong mùa hè, chúng bán rất chạy.
+
+Ông bán mỗi chiếc quạt điện với giá 80 đồng, tổng cộng kiếm được 3200 đồng.
+
+Ông đưa cho bà 1000 đồng.
+
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+
+Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+
+Lan cũng chạy ra. "Anh, em đã lắp ráp được 8 chiếc quạt điện rồi."
+
+"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá."
+
+Lan mỉm cười. "Em muốn giúp anh nhiều hơn."
+
+"Được," Trần Văn Hùng nói. "Em sẽ giúp anh khi em giỏi hơn."
+
+Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+
+"Chủ nhân đã sản xuất quạt điện thành công. Nhận được 30 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 3885."
+
+"Nhiệm vụ mới: Sản xuất và bán 150 chiếc quạt điện trong vòng 60 ngày"
+- Mục tiêu: Sản xuất và bán 150 chiếc quạt điện
+- Phần thưởng: 200 điểm kinh nghiệm, kỹ năng kỹ thuật cấp 1
+- Thời gian: 60 ngày
+
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 150 chiếc quạt điện để hoàn thành nhiệm vụ.
+
+Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+
+"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+
+"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất quạt điện và bán cho các cửa hàng."
+
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+
+"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất quạt điện. Ông quyết định tăng năng suất để hoàn thành nhiệm vụ nhanh hơn.

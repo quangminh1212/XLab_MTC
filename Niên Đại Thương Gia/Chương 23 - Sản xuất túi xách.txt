@@ -1,0 +1,84 @@
+============================================================
+Chương 23: Sản xuất túi xách
+============================================================
+
+Trần Văn Hùng quyết định bắt đầu sản xuất túi xách. Ông kiểm tra không gian, thấy có nguyên liệu da, máy làm túi, và các công cụ khác.
+
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực làm túi, nơi có máy làm túi và nguyên liệu da.
+
+Ông bắt đầu làm túi với kỹ năng cơ bản. Với kiến thức của thế kỷ 21, ông biết cách thiết kế túi đẹp và bền.
+
+Sau vài giờ, ông đã làm xong 2 chiếc túi. Ông kiểm tra chất lượng, thấy rất tốt.
+
+Hệ thống thông báo:
+
+"Chủ nhân đã sản xuất túi xách đầu tiên. Nhận được 10 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 1725."
+
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất túi xách để bán.
+
+Ông quyết định thuê thêm người giỏi làm túi trong làng. Ông tìm đến cô Yến, một người phụ nữ giỏi làm túi.
+
+"Cô Yến, cháu muốn thuê cô giúp việc làm túi," Trần Văn Hùng nói.
+
+Cô Yến ngạc nhiên. "Thuê cháu? Cháu làm ăn gì mà cần người làm túi?"
+
+"Cháu có xưởng làm túi," Trần Văn Hùng nói dối khéo léo. "Cháu cần người giỏi như cô giúp việc."
+
+Cô Yến suy nghĩ một chút. "Được, nhưng cháu trả lương thế nào?"
+
+"5 đồng một ngày," Trần Văn Hùng nói. "Cô làm bao nhiêu cháu trả bấy nhiêu."
+
+Cô Yến sững sờ. "Nhiều quá! Cháu chắc chứ?"
+
+"Cháu chắc," Trần Văn Hùng nói. "Cháu có khả năng chi trả."
+
+Cô Yến gật đầu. "Được, tôi sẽ giúp cháu."
+
+Trần Văn Hùng cũng thuê thêm hai người nữa: cô Hương và cô Thảo, cả hai đều giỏi làm túi.
+
+Ông đưa họ đến khu vực làm túi trong xưởng, đưa cho họ nguyên liệu da và máy làm túi, bắt đầu làm việc.
+
+Với sự giúp đỡ của ba người, năng suất sản xuất túi tăng lên rất nhanh. Trong một tuần, họ đã làm được 25 chiếc túi.
+
+Trần Văn Hùng bán túi cho các đối tác của mình. Vì túi chất lượng tốt và thiết kế đẹp, giá bán cao hơn túi nhập khẩu.
+
+Ông bán mỗi chiếc túi với giá 30 đồng, tổng cộng kiếm được 750 đồng.
+
+Ông đưa cho bà 200 đồng.
+
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+
+Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+
+Lan cũng chạy ra. "Anh, em muốn học làm túi."
+
+"Được," Trần Văn Hùng mỉm cười. "Anh sẽ dạy em."
+
+Lan mỉm cười. "Cảm ơn anh."
+
+Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+
+"Chủ nhân đã thuê người làm túi đầu tiên. Nhận được 30 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 1755."
+
+"Nhiệm vụ mới: Sản xuất và bán 200 chiếc túi trong vòng 60 ngày"
+- Mục tiêu: Sản xuất và bán 200 chiếc túi
+- Phần thưởng: 200 điểm kinh nghiệm, kỹ năng thiết kế thời trang cấp 1
+- Thời gian: 60 ngày
+
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 200 chiếc túi để hoàn thành nhiệm vụ.
+
+Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+
+"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+
+"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất túi và bán cho các đối tác."
+
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+
+"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất túi. Ông quyết định mở rộng khu vực làm túi và thuê thêm người.

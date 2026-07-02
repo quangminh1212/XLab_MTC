@@ -1,0 +1,84 @@
+============================================================
+Chương 61: Sản xuất xe đạp
+============================================================
+
+Trần Văn Hùng quyết định bắt đầu sản xuất xe đạp. Ông kiểm tra không gian, thấy có linh kiện xe đạp, máy lắp ráp, và các công cụ khác.
+
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất cơ khí, nơi có máy lắp ráp và linh kiện.
+
+Ông bắt đầu lắp ráp xe đạp với kỹ năng cơ bản. Với kiến thức của thế kỷ 21 về cơ khí và kỹ năng kỹ thuật cấp 1, ông biết cách lắp ráp xe đạp chất lượng tốt.
+
+Sau vài giờ, ông đã lắp ráp xong 2 chiếc xe đạp. Ông kiểm tra chất lượng, thấy rất tốt.
+
+Hệ thống thông báo:
+
+"Chủ nhân đã sản xuất xe đạp đầu tiên. Nhận được 10 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 6985."
+
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất xe đạp để bán.
+
+Ông quyết định thuê thêm người giỏi cơ khí trong làng. Ông tìm đến ông Hùng, một người thợ cơ khí có kinh nghiệm.
+
+"Ông Hùng, cháu muốn thuê ông giúp việc lắp ráp xe đạp," Trần Văn Hùng nói.
+
+Ông Hùng ngạc nhiên. "Thuê cháu? Cháu làm ăn gì mà cần người lắp ráp xe đạp?"
+
+"Cháu có xưởng sản xuất cơ khí," Trần Văn Hùng nói dối khéo léo. "Cháu cần người giỏi như ông giúp việc."
+
+Ông Hùng suy nghĩ một chút. "Được, nhưng cháu trả lương thế nào?"
+
+"8 đồng một ngày," Trần Văn Hùng nói. "Ông làm bao nhiêu cháu trả bấy nhiêu."
+
+Ông Hùng sững sờ. "Nhiều quá! Cháu chắc chứ?"
+
+"Cháu chắc," Trần Văn Hùng nói. "Cháu có khả năng chi trả."
+
+Ông Hùng gật đầu. "Được, tôi sẽ giúp cháu."
+
+Trần Văn Hùng cũng thuê thêm hai người nữa: ông Tuấn và ông Dũng, cả hai đều là thợ cơ khí có kinh nghiệm.
+
+Ông đưa họ đến khu vực sản xuất cơ khí trong xưởng, đưa cho họ linh kiện và máy lắp ráp, bắt đầu làm việc.
+
+Với sự giúp đỡ của ba người, năng suất sản xuất xe đạp tăng lên rất nhanh. Trong một tuần, họ đã lắp ráp được 25 chiếc xe đạp.
+
+Trần Văn Hùng bán xe đạp cho các cửa hàng của mình. Vì xe đạp chất lượng tốt và giá hợp lý, chúng bán rất chạy.
+
+Ông bán mỗi chiếc xe đạp với giá 100 đồng, tổng cộng kiếm được 2500 đồng.
+
+Ông đưa cho bà 800 đồng.
+
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+
+Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+
+Lan cũng chạy ra. "Anh, em muốn học lắp ráp xe đạp."
+
+"Được," Trần Văn Hùng mỉm cười. "Anh sẽ dạy em."
+
+Lan mỉm cười. "Cảm ơn anh."
+
+Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+
+"Chủ nhân đã thuê người lắp ráp xe đạp đầu tiên. Nhận được 30 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 7015."
+
+"Nhiệm vụ mới: Sản xuất và bán 200 chiếc xe đạp trong vòng 90 ngày"
+- Mục tiêu: Sản xuất và bán 200 chiếc xe đạp
+- Phần thưởng: 300 điểm kinh nghiệm, kỹ năng cơ khí cấp 1
+- Thời gian: 90 ngày
+
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 200 chiếc xe đạp để hoàn thành nhiệm vụ.
+
+Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+
+"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+
+"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất xe đạp và bán cho các cửa hàng."
+
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+
+"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất xe đạp. Ông quyết định mở rộng khu vực sản xuất cơ khí và thuê thêm người.

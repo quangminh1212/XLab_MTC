@@ -1,0 +1,84 @@
+============================================================
+Chương 20: Sản xuất giày dép
+============================================================
+
+Trần Văn Hùng quyết định bắt đầu sản xuất giày dép. Ông kiểm tra không gian, thấy có nguyên liệu da, máy làm giày, và các công cụ khác.
+
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng mới. Ông đi vào khu vực làm giày, nơi có máy làm giày và nguyên liệu da.
+
+Ông bắt đầu làm giày với kỹ năng cơ bản. Với kiến thức của thế kỷ 21, ông biết cách thiết kế giày đẹp và thoải mái.
+
+Sau vài giờ, ông đã làm xong 2 đôi giày. Ông kiểm tra chất lượng, thấy rất tốt.
+
+Hệ thống thông báo:
+
+"Chủ nhân đã sản xuất giày dép đầu tiên. Nhận được 10 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 1595."
+
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất giày dép để bán.
+
+Ông quyết định thuê thêm người giỏi làm giày trong làng. Ông tìm đến ông Thành, một người thợ giày có kinh nghiệm.
+
+"Ông Thành, cháu muốn thuê ông giúp việc làm giày," Trần Văn Hùng nói.
+
+Ông Thành ngạc nhiên. "Thuê cháu? Cháu làm ăn gì mà cần người làm giày?"
+
+"Cháu có xưởng làm giày," Trần Văn Hùng nói dối khéo léo. "Cháu cần người giỏi như ông giúp việc."
+
+Ông Thành suy nghĩ một chút. "Được, nhưng cháu trả lương thế nào?"
+
+"6 đồng một ngày," Trần Văn Hùng nói. "Ông làm bao nhiêu cháu trả bấy nhiêu."
+
+Ông Thành sững sờ. "Nhiều quá! Cháu chắc chứ?"
+
+"Cháu chắc," Trần Văn Hùng nói. "Cháu có khả năng chi trả."
+
+Ông Thành gật đầu. "Được, tôi sẽ giúp cháu."
+
+Trần Văn Hùng cũng thuê thêm hai người nữa: ông Hòa và ông Hùng, cả hai đều là thợ giày có kinh nghiệm.
+
+Ông đưa họ đến khu vực làm giày trong xưởng, đưa cho họ nguyên liệu da và máy làm giày, bắt đầu làm việc.
+
+Với sự giúp đỡ của ba người, năng suất sản xuất giày tăng lên rất nhanh. Trong một tuần, họ đã làm được 30 đôi giày.
+
+Trần Văn Hùng bán giày cho các đối tác của mình. Vì giày chất lượng tốt và thiết kế đẹp, giá bán cao hơn giày nhập khẩu.
+
+Ông bán mỗi đôi giày với giá 25 đồng, tổng cộng kiếm được 750 đồng.
+
+Ông đưa cho bà 200 đồng.
+
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+
+Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+
+Lan cũng chạy ra. "Anh, em muốn học làm giày."
+
+"Được," Trần Văn Hùng mỉm cười. "Anh sẽ dạy em."
+
+Lan mỉm cười. "Cảm ơn anh."
+
+Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+
+"Chủ nhân đã thuê người làm giày đầu tiên. Nhận được 30 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 1625."
+
+"Nhiệm vụ mới: Sản xuất và bán 300 đôi giày trong vòng 60 ngày"
+- Mục tiêu: Sản xuất và bán 300 đôi giày
+- Phần thưởng: 200 điểm kinh nghiệm, kỹ năng thiết kế cấp 1
+- Thời gian: 60 ngày
+
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 300 đôi giày để hoàn thành nhiệm vụ.
+
+Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+
+"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+
+"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất giày và bán cho các đối tác."
+
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+
+"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất giày. Ông quyết định mở rộng khu vực làm giày và thuê thêm người.

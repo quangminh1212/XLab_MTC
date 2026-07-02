@@ -1,0 +1,84 @@
+============================================================
+Chương 38: Sản xuất radio
+============================================================
+
+Trần Văn Hùng quyết định bắt đầu sản xuất radio. Ông kiểm tra không gian, thấy có linh kiện điện tử, máy lắp ráp, và các công cụ khác.
+
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất điện tử, nơi có máy lắp ráp và linh kiện.
+
+Ông bắt đầu lắp ráp radio với kỹ năng cơ bản. Với kiến thức của thế kỷ 21 về điện tử, ông biết cách lắp ráp radio chất lượng tốt.
+
+Sau vài giờ, ông đã lắp ráp xong 2 chiếc radio. Ông kiểm tra chất lượng, thấy rất tốt.
+
+Hệ thống thông báo:
+
+"Chủ nhân đã sản xuất radio đầu tiên. Nhận được 10 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 3575."
+
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất radio để bán.
+
+Ông quyết định thuê thêm người giỏi điện tử trong làng. Ông tìm đến ông Tuấn, một người thợ điện tử có kinh nghiệm.
+
+"Ông Tuấn, cháu muốn thuê ông giúp việc lắp ráp radio," Trần Văn Hùng nói.
+
+Ông Tuấn ngạc nhiên. "Thuê cháu? Cháu làm ăn gì mà cần người lắp ráp radio?"
+
+"Cháu có xưởng sản xuất điện tử," Trần Văn Hùng nói dối khéo léo. "Cháu cần người giỏi như ông giúp việc."
+
+Ông Tuấn suy nghĩ một chút. "Được, nhưng cháu trả lương thế nào?"
+
+"7 đồng một ngày," Trần Văn Hùng nói. "Ông làm bao nhiêu cháu trả bấy nhiêu."
+
+Ông Tuấn sững sờ. "Nhiều quá! Cháu chắc chứ?"
+
+"Cháu chắc," Trần Văn Hùng nói. "Cháu có khả năng chi trả."
+
+Ông Tuấn gật đầu. "Được, tôi sẽ giúp cháu."
+
+Trần Văn Hùng cũng thuê thêm hai người nữa: ông Hùng và ông Dũng, cả hai đều là thợ điện tử có kinh nghiệm.
+
+Ông đưa họ đến khu vực sản xuất điện tử trong xưởng, đưa cho họ linh kiện và máy lắp ráp, bắt đầu làm việc.
+
+Với sự giúp đỡ của ba người, năng suất sản xuất radio tăng lên rất nhanh. Trong một tuần, họ đã lắp ráp được 30 chiếc radio.
+
+Trần Văn Hùng bán radio cho các cửa hàng của mình. Vì radio chất lượng tốt và giá hợp lý, chúng bán rất chạy.
+
+Ông bán mỗi chiếc radio với giá 50 đồng, tổng cộng kiếm được 1500 đồng.
+
+Ông đưa cho bà 500 đồng.
+
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+
+Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+
+Lan cũng chạy ra. "Anh, em muốn học lắp ráp radio."
+
+"Được," Trần Văn Hùng mỉm cười. "Anh sẽ dạy em."
+
+Lan mỉm cười. "Cảm ơn anh."
+
+Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+
+"Chủ nhân đã thuê người lắp ráp radio đầu tiên. Nhận được 30 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 3605."
+
+"Nhiệm vụ mới: Sản xuất và bán 200 chiếc radio trong vòng 60 ngày"
+- Mục tiêu: Sản xuất và bán 200 chiếc radio
+- Phần thưởng: 200 điểm kinh nghiệm, kỹ năng điện tử cấp 1
+- Thời gian: 60 ngày
+
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 200 chiếc radio để hoàn thành nhiệm vụ.
+
+Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+
+"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+
+"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất radio và bán cho các cửa hàng."
+
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+
+"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất radio. Ông quyết định mở rộng khu vực sản xuất điện tử và thuê thêm người.

@@ -1,0 +1,64 @@
+============================================================
+Chương 64: Sản xuất máy cày
+============================================================
+
+Trần Văn Hùng quyết định bắt đầu sản xuất máy cày. Ông kiểm tra không gian, thấy có linh kiện cơ khí, động cơ, và các công cụ khác.
+
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất cơ khí, bắt đầu lắp ráp máy cày.
+
+Với kiến thức của thế kỷ 21 về cơ khí và kỹ năng cơ khí cấp 1, ông biết cách lắp ráp máy cày chất lượng tốt.
+
+Sau vài giờ, ông đã lắp ráp xong 1 chiếc máy cày. Ông kiểm tra chất lượng, thấy rất tốt.
+
+Hệ thống thông báo:
+
+"Chủ nhân đã sản xuất máy cày đầu tiên. Nhận được 10 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 7365."
+
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất máy cày để bán.
+
+Ông quyết định sử dụng cùng một nhóm thợ cơ khí để lắp ráp máy cày. Với kinh nghiệm từ sản xuất xe đạp, họ có thể lắp ráp máy cày nhanh chóng.
+
+Trong một tuần, họ đã lắp ráp được 15 chiếc máy cày. Trần Văn Hùng bán máy cày cho các cửa hàng của mình. Vì máy cày là hàng mới và rất cần thiết cho nông nghiệp, chúng bán rất chạy.
+
+Ông bán mỗi chiếc máy cày với giá 200 đồng, tổng cộng kiếm được 3000 đồng.
+
+Ông đưa cho bà 1000 đồng.
+
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+
+Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+
+Lan cũng chạy ra. "Anh, em đã lắp ráp được 3 chiếc máy cày rồi."
+
+"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá."
+
+Lan mỉm cười. "Em muốn giúp anh nhiều hơn."
+
+"Được," Trần Văn Hùng nói. "Em sẽ giúp anh khi em giỏi hơn."
+
+Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+
+"Chủ nhân đã sản xuất máy cày thành công. Nhận được 30 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 7395."
+
+"Nhiệm vụ mới: Sản xuất và bán 100 chiếc máy cày trong vòng 90 ngày"
+- Mục tiêu: Sản xuất và bán 100 chiếc máy cày
+- Phần thưởng: 300 điểm kinh nghiệm, kỹ năng nông nghiệp cấp 1
+- Thời gian: 90 ngày
+
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 100 chiếc máy cày để hoàn thành nhiệm vụ.
+
+Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+
+"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+
+"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất máy cày và bán cho các cửa hàng."
+
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+
+"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất máy cày. Ông quyết định tăng năng suất để hoàn thành nhiệm vụ nhanh hơn.

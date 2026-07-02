@@ -1,0 +1,47 @@
+============================================================
+Chương 81: Mở rộng phòng khám
+============================================================
+
+Trần Văn Hùng quyết định mở rộng phòng khám. Ông mở phòng khám thứ hai ở Hà Nội, nơi ông có cửa hàng lớn.
+
+Ông thuê một căn nhà lớn ở khu trung tâm, đặt tên là "Thương Gia Clinic - Hà Nội". Ông tuyển bác sĩ và y tá từ Hà Nội và các tỉnh lân cận.
+
+Ông cũng mở phòng khám thứ ba ở Thành phố Hồ Chí Minh, đặt tên là "Thương Gia Clinic - Sài Gòn".
+
+Khi các phòng khám khai trương, có tổng cộng 100 bệnh nhân đến khám trong ngày đầu tiên. Trong tuần đầu tiên, các phòng khám có tổng cộng 600 bệnh nhân, kiếm được 3000 đồng từ phí khám và bán thuốc.
+
+Ông đưa cho bà 900 đồng.
+
+"Bà, đây là tiền cháu kiếm được từ các phòng khám mới," Trần Văn Hùng nói.
+
+Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+
+Lan cũng chạy ra. "Anh, em đã làm y tá ở phòng khám Hà Nội rồi."
+
+"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá."
+
+Lan mỉm cười. "Em muốn giúp anh nhiều hơn."
+
+"Được," Trần Văn Hùng nói. "Em sẽ giúp anh khi em giỏi hơn."
+
+Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+
+"Chủ nhân đã mở rộng phòng khám. Nhận được 50 điểm kinh nghiệm."
+
+"Điểm kinh nghiệm hiện tại: 10275."
+
+"Tiến độ nhiệm vụ: 600/1000 bệnh nhân."
+
+Trần Văn Hùng gật đầu. Ông cần điều trị thêm 400 bệnh nhân để hoàn thành nhiệm vụ.
+
+Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+
+"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+
+"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục mở rộng phòng khám."
+
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+
+"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch mở rộng phòng khám. Ông quyết định tăng số lượng bệnh nhân để hoàn thành nhiệm vụ nhanh hơn.
