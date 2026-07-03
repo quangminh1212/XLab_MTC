@@ -2,9 +2,17 @@
 Chương 5: Mở rộng kinh doanh
 ============================================================
 
-Trong tuần tiếp theo, Trần Văn Hùng đều đặn đi huyện thành bán hàng. Ông tăng dần lượng hàng hóa bán ra, từ 2kg gạo và 0.5kg thịt ban đầu lên 5kg gạo và 1kg thịt mỗi ngày. Ông biết phải cẩn thận, không bán quá nhiều cùng lúc để tránh bị nghi ngờ, nhưng cũng cần tăng doanh thu để tích lũy điểm kinh nghiệm.
+Trong tuần tiếp theo, Trần Văn Hùng đều đặn đi huyện thành bán hàng. Ông thức dậy sớm mỗi sáng, kiểm tra không gian, lấy ra lượng hàng hóa cần thiết cho ngày hôm nay. Ông tăng dần lượng hàng hóa bán ra, từ 2kg gạo và 0.5kg thịt ban đầu lên 5kg gạo và 1kg thịt mỗi ngày. Ông biết phải cẩn thận, không bán quá nhiều cùng lúc để tránh bị nghi ngờ, nhưng cũng cần tăng doanh thu để tích lũy điểm kinh nghiệm.
 
-Nhờ kỹ năng thương mại cấp 2, ông luôn biết khi nào nên bán giá cao, khi nào nên giảm giá để thu hút khách hàng. Ông quan sát thị trường, thấy nhu cầu gạo trắng và thịt bò ngày càng cao, giá cả cũng tăng theo. Doanh thu của ông tăng nhanh chóng, mỗi ngày ông kiếm được từ 15-20 đồng.
+Ông đi trên con đường đất đỏ mỗi sáng, hai bên là những cánh đồng lúa xanh mướt. Ông có thể thấy những người nông dân đang làm việc trên đồng, cày bừa, gieo hạt, chăm sóc lúa. Họ mặc áo bà ba, đội nón lá, làm việc chăm chỉ dưới ánh nắng mặt trời. Ông cảm thấy kính trọng những người nông dân này, những người làm việc chăm chỉ để nuôi sống gia đình và đất nước. Ông suy nghĩ về việc làm ăn của mình, biết rằng ông đang làm điều gì tốt cho gia đình và xã hội.
+
+Khi đến chợ tự phát, ông chọn một vị trí tốt, trải khăn ra và bắt đầu bán hàng. Chợ tự phát đông đúc, người ra người vào, ai cũng đang tìm kiếm hàng hóa để mua. Gạo trắng và thịt bò của ông nhanh chóng thu hút sự chú ý của người dân, vì đây là những hàng hóa xa xỉ trong thời bao cấp. Ông bán với giá thấp hơn giá thị trường, để thu hút khách hàng và xây dựng uy tín.
+
+Nhờ kỹ năng thương mại cấp 2, ông luôn biết khi nào nên bán giá cao, khi nào nên giảm giá để thu hút khách hàng. Ông quan sát thị trường, thấy nhu cầu gạo trắng và thịt bò ngày càng cao, giá cả cũng tăng theo. Doanh thu của ông tăng nhanh chóng, mỗi ngày ông kiếm được từ 15-20 đồng. Ông sử dụng kỹ năng thương mại để đánh giá giá trị thực của hàng hóa và thương lượng giá tốt hơn. Với kỹ năng này, ông có thể biết giá trị thực của hàng hóa và biết khi nào nên mua, khi nào nên bán.
+
+Ông cũng sử dụng kỹ năng thương mại cấp 2 để dự đoán xu hướng thị trường. Với kỹ năng này, ông có thể biết những hàng hóa nào sẽ khan hiếm trong tương lai, những hàng hóa nào sẽ giảm giá, và những hàng hóa nào sẽ tăng giá. Ông có thể mua hàng hóa trước khi giá tăng, và bán hàng hóa trước khi giá giảm, để tối đa hóa lợi nhuận. Ông biết rằng trong thời bao cấp, giá cả thường không phản ánh giá trị thực, và ai có kỹ năng đánh giá giá trị sẽ có lợi thế lớn trong kinh doanh.
+
+Ông xây dựng uy tín với khách hàng, cung cấp hàng hóa chất lượng với giá hợp lý. Mọi người đều biết đến ông, biết rằng ông bán gạo trắng và thịt bò chất lượng với giá rẻ. Họ tin tưởng ông, và thường xuyên quay lại mua hàng. Ông cũng bắt đầu nhận được các đơn đặt hàng từ các hộ gia đình, cung cấp những gì họ cần với giá hợp lý.
 
 Sau một tuần, ông đã tích lũy được 100 điểm kinh nghiệm. Hệ thống thông báo:
 
@@ -17,53 +25,57 @@ Sau một tuần, ông đã tích lũy được 100 điểm kinh nghiệm. Hệ 
 
 "Điểm kinh nghiệm hiện tại: 200."
 
-Trần Văn Hùng mừng rỡ. Không gian của ông giờ đã rộng 1200m², đủ để chứa nhiều hàng hóa hơn. Kỹ năng đàm phán mới sẽ giúp ông trong các giao dịch lớn, cho phép ông thương lượng giá cả tốt hơn và đạt được thỏa thuận có lợi.
+Trần Văn Hùng mừng rỡ. Không gian của ông giờ đã rộng 1200m², đủ để chứa nhiều hàng hóa hơn. Kỹ năng đàm phán mới sẽ giúp ông trong các giao dịch lớn, cho phép ông thương lượng giá cả tốt hơn và đạt được thỏa thuận có lợi. Ông biết rằng kỹ năng đàm phán là rất quan trọng trong kinh doanh, đặc biệt là khi ông muốn mở rộng sang các giao dịch lớn hơn.
 
-Ông quyết định bắt đầu kinh doanh quy mô lớn hơn. Ông không chỉ bán lẻ nữa, mà sẽ bán sỉ cho các thương lái. Bán lẻ tốn nhiều thời gian và công sức, trong khi bán sỉ có thể kiếm được nhiều tiền hơn trong thời gian ngắn hơn.
+Ông suy nghĩ về việc sử dụng kỹ năng đàm phán mới. Với kỹ năng này, ông có thể thương lượng giá cả tốt hơn, đạt được thỏa thuận có lợi hơn trong các giao dịch. Ông có thể mua hàng hóa giá thấp hơn, và bán hàng hóa giá cao hơn, để tối đa hóa lợi nhuận. Ông cũng có thể đàm phán với các đối tác kinh doanh, đạt được các thỏa thuận có lợi cho cả hai bên. Trong thời bao cấp, kỹ năng đàm phán là rất quan trọng, vì giá cả thường không cố định và người buôn bán cần có kỹ năng thương lượng để đạt được giá tốt.
 
-Ông tìm đến một thương lái tên là ông Ba, người nổi tiếng ở huyện Quốc Oai. Ông Ba là một thương lái giàu kinh nghiệm, có mạng lưới buôn bán rộng khắp, thường xuyên đi các tỉnh mua hàng về bán lại.
+Ông quyết định bắt đầu kinh doanh quy mô lớn hơn. Ông không chỉ bán lẻ nữa, mà sẽ bán sỉ cho các thương lái. Bán lẻ tốn nhiều thời gian và công sức, trong khi bán sỉ có thể kiếm được nhiều tiền hơn trong thời gian ngắn hơn. Ông suy nghĩ về kế hoạch chi tiết cho việc bán sỉ. Ông sẽ tìm các thương lái uy tín, cung cấp hàng hóa chất lượng với giá hợp lý, và xây dựng mối quan hệ lâu dài với họ. Ông biết rằng bán sỉ sẽ mang lại lợi nhuận lớn hơn, nhưng cũng cần cẩn thận để không bị nghi ngờ về nguồn hàng.
 
-"Ông Ba, tôi có nguồn hàng gạo và thịt tốt, muốn bán sỉ cho ông," Trần Văn Hùng nói, giọng nói bình tĩnh.
+Ông tìm đến một thương lái tên là ông Ba, người nổi tiếng ở huyện Quốc Oai. Ông Ba là một thương lái giàu kinh nghiệm, có mạng lưới buôn bán rộng khắp, thường xuyên đi các tỉnh mua hàng về bán lại. Ông Ba có một cửa hàng nhỏ ở huyện thành, nơi ông bán hàng hóa cho người dân và các thương lái khác. Ông Ba được biết đến là một người uy tín, luôn giữ lời hứa và làm ăn trung thực.
 
-Ông Ba nhìn chàng trai trẻ trước mặt, nghi ngờ. "Nguồn hàng tốt? Cậu lấy đâu ra? Giờ này hàng hóa khan hiếm lắm."
+"Ông Ba, tôi có nguồn hàng gạo và thịt tốt, muốn bán sỉ cho ông," Trần Văn Hùng nói, giọng nói bình tĩnh. Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng ông cần thuyết phục ông Ba về chất lượng hàng hóa và giá cả. Ông sẽ sử dụng kỹ năng đàm phán cấp 1 để thương lượng giá tốt hơn và đạt được thỏa thuận có lợi.
 
-"Tôi có quen người ở miền Nam, họ gửi hàng về," Trần Văn Hùng nói dối khéo léo, giọng nói chân thành. "Giá tốt hơn ông mua ở chỗ khác, hàng chất lượng."
+Ông Ba nhìn chàng trai trẻ trước mặt, nghi ngờ. "Nguồn hàng tốt? Cậu lấy đâu ra? Giờ này hàng hóa khan hiếm lắm." Ông Ba nói, giọng nói đầy nghi ngờ. Ông là một thương lái giàu kinh nghiệm, và ông biết rằng trong thời bao cấp, hàng hóa khan hiếm. Ông chưa từng thấy một chàng trai trẻ có nhiều hàng hóa như vậy, và ông nghi ngờ về nguồn gốc của hàng hóa.
 
-Ông Ba suy nghĩ một chút, ánh mắt vẫn còn nghi ngờ. "Được, tôi xem hàng trước. Nếu hàng tốt, tôi sẽ mua."
+"Tôi có quen người ở miền Nam, họ gửi hàng về," Trần Văn Hùng nói dối khéo léo, giọng nói chân thành. "Giá tốt hơn ông mua ở chỗ khác, hàng chất lượng." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng lời nói dối này là cần thiết để bảo vệ bí mật của hệ thống. Ông không thể nói với ông Ba về hệ thống, vì ông sẽ không tin và có thể bị lo lắng. Ông cần một lời nói dối hợp lý để giải thích nguồn gốc của hàng hóa.
 
-Trần Văn Hùng lấy từ không gian ra 50kg gạo trắng và 10kg thịt bò, đặt lên bàn. Ông Ba sững sờ trước số lượng hàng hóa lớn như vậy. Trong thời bao cấp, hiếm có ai có nhiều hàng hóa như vậy.
+Ông Ba suy nghĩ một chút, ánh mắt vẫn còn nghi ngờ. "Được, tôi xem hàng trước. Nếu hàng tốt, tôi sẽ mua." Ông nói, giọng nói đầy thận trọng. Ông muốn xem hàng hóa trước khi quyết định, vì ông muốn đảm bảo chất lượng hàng hóa. Ông là một thương lái uy tín, và ông không muốn bán hàng hóa kém chất lượng cho khách hàng.
 
-"Đây... đây là gạo trắng thật sao?" Ông Ba ngạc nhiên, đôi mắt mở to. "Cậu lấy đâu ra nhiều hàng như vậy?"
+Trần Văn Hùng lấy từ không gian ra 50kg gạo trắng và 10kg thịt bò, đặt lên bàn. Ông Ba sững sờ trước số lượng hàng hóa lớn như vậy. Trong thời bao cấp, hiếm có ai có nhiều hàng hóa như vậy. Ông Ba nhìn gạo trắng thơm ngát, hạt gạo trắng tinh, và thịt bò màu đỏ tươi, mùi thơm nức mũi. Ông chưa từng thấy hàng hóa chất lượng như vậy trong thời bao cấp.
 
-"Thật," Trần Văn Hùng nói, giọng nói kiên định. "Giá tôi bán: gạo 3 đồng một kg, thịt 10 đồng một kg. Giá sỉ, rẻ hơn giá lẻ nhiều."
+"Đây... đây là gạo trắng thật sao?" Ông Ba ngạc nhiên, đôi mắt mở to. "Cậu lấy đâu ra nhiều hàng như vậy?" Ông Ba nói, giọng nói đầy ngạc nhiên. Ông chưa từng thấy gạo trắng chất lượng như vậy trong thời bao cấp. Hạt gạo trắng tinh, thơm ngát, khác hẳn với gạo lứt mà người dân thường ăn. Thịt bò màu đỏ tươi, mùi thơm nức mũi, là hàng hóa xa xỉ mà ông chưa từng thấy nhiều như vậy.
 
-Ông Ba tính toán nhanh chóng. Nếu mua ở giá này và bán lại, ông sẽ kiếm được lợi nhuận lớn. Gạo trắng giá lẻ là 4-5 đồng một kg, thịt bò giá lẻ là 12-15 đồng một kg. Nếu mua ở giá sỉ và bán lại, ông sẽ kiếm được lợi nhuận đáng kể.
+"Thật," Trần Văn Hùng nói, giọng nói kiên định. "Giá tôi bán: gạo 3 đồng một kg, thịt 10 đồng một kg. Giá sỉ, rẻ hơn giá lẻ nhiều." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng giá này là rẻ hơn giá thị trường, và ông muốn thu hút ông Ba bằng giá tốt. Ông sử dụng kỹ năng đàm phán cấp 1 để thương lượng giá tốt hơn và đạt được thỏa thuận có lợi.
 
-"Được, tôi mua hết," Ông Ba nói nhanh chóng, giọng nói hào hứng. "Nhưng tôi cần nguồn hàng ổn định. Cậu có thể cung cấp thường xuyên không?"
+Ông Ba tính toán nhanh chóng. Nếu mua ở giá này và bán lại, ông sẽ kiếm được lợi nhuận lớn. Gạo trắng giá lẻ là 4-5 đồng một kg, thịt bò giá lẻ là 12-15 đồng một kg. Nếu mua ở giá sỉ và bán lại, ông sẽ kiếm được lợi nhuận đáng kể. Ông là một thương lái giàu kinh nghiệm, và ông biết cách tính toán lợi nhuận. Ông thấy rằng đây là một cơ hội tốt để kiếm tiền.
 
-"Tôi có thể cung cấp ổn định," Trần Văn Hùng nói. "Mỗi tuần tôi có thể cung cấp 100kg gạo và 20kg thịt. Giá vẫn như thế."
+"Được, tôi mua hết," Ông Ba nói nhanh chóng, giọng nói hào hứng. "Nhưng tôi cần nguồn hàng ổn định. Cậu có thể cung cấp thường xuyên không?" Ông nói, giọng nói đầy hào hứng. Ông biết rằng đây là một cơ hội tốt, và ông muốn đảm bảo nguồn hàng ổn định để tiếp tục kinh doanh.
 
-Ông Ba gật đầu, ánh mắt hài lòng. "Được, chúng ta hợp tác. Tôi sẽ thanh toán ngay."
+"Tôi có thể cung cấp ổn định," Trần Văn Hùng nói. "Mỗi tuần tôi có thể cung cấp 100kg gạo và 20kg thịt. Giá vẫn như thế." Ông nói thật lòng, giọng nói đầy hứa hẹn. Ông biết rằng ông có thể cung cấp hàng hóa từ không gian, và ông có thể cung cấp ổn định cho ông Ba. Ông muốn xây dựng mối quan hệ lâu dài với ông Ba, để mở rộng kinh doanh trong tương lai.
 
-Hai người ký kết thỏa thuận bằng lời nói. Trong thời bao cấp, hợp đồng viết không có giá trị pháp lý, nhưng lời hứa giữa thương nhân vẫn được tôn trọng. Ông Ba đếm tiền, đưa cho Trần Văn Hùng 250 đồng - tổng cộng 150 đồng cho gạo và 100 đồng cho thịt.
+Ông Ba gật đầu, ánh mắt hài lòng. "Được, chúng ta hợp tác. Tôi sẽ thanh toán ngay." Ông nói, giọng nói đầy hài lòng. Ông biết rằng đây là một cơ hội tốt để kiếm tiền, và ông muốn bắt đầu hợp tác ngay lập tức. Ông là một thương lái uy tín, và ông luôn giữ lời hứa.
 
-Trần Văn Hùng về nhà với một xấp tiền lớn - tổng cộng 250 đồng từ giao dịch này. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả năm. Bình thường một người làm việc cả tháng cũng chỉ kiếm được vài chục đồng, nhưng ông chỉ mất một buổi đã kiếm được 250 đồng.
+Hai người ký kết thỏa thuận bằng lời nói. Trong thời bao cấp, hợp đồng viết không có giá trị pháp lý, nhưng lời hứa giữa thương nhân vẫn được tôn trọng. Ông Ba đếm tiền, đưa cho Trần Văn Hùng 250 đồng - tổng cộng 150 đồng cho gạo và 100 đồng cho thịt. Ông Ba cẩn thận đếm từng đồng tiền, đảm bảo số tiền chính xác. Ông biết rằng trong thời bao cấp, tiền là rất quý giá, và ông muốn đảm bảo thanh toán đúng số tiền.
 
-Khi về đến nhà, ông đưa cho bà 100 đồng. "Bà, đây là tiền cháu kiếm được. Bà giữ tiền này, bà mua chút đồ ăn ngon."
+Trần Văn Hùng về nhà với một xấp tiền lớn - tổng cộng 250 đồng từ giao dịch này. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả năm. Bình thường một người làm việc cả tháng cũng chỉ kiếm được vài chục đồng, nhưng ông chỉ mất một buổi đã kiếm được 250 đồng. Ông cảm thấy hạnh phúc khi cầm những đồng tiền trong tay, vì ông biết rằng đây là kết quả của sự nỗ lực và kiến thức của ông. Ông biết rằng với hệ thống và kỹ năng của mình, ông có thể kiếm được nhiều tiền hơn nữa.
 
-Bà Hà sững sờ nhìn số tiền lớn, đôi mắt rưng rưng nước mắt. "Nhiều quá! Cháu làm gì mà kiếm được nhiều tiền như vậy? Cháu có làm gì sai trái không?"
+Ông đi trên con đường đất đỏ, hai bên là những cánh đồng lúa xanh mướt. Ông suy nghĩ về kế hoạch kinh doanh của mình. Ông biết rằng bán sỉ cho thương lái là một cách tốt để kiếm tiền, nhưng ông cũng biết rằng ông cần cẩn thận. Ông cần bán dần dần, xây dựng uy tín, không để ai nghi ngờ về nguồn hàng của mình. Ông sẽ nói là anh đi làm thêm ở huyện thành và kiếm được hàng hóa, để giải thích nguồn gốc của hàng hóa.
 
-"Cháu bán sỉ cho thương lái," Trần Văn Hùng nói, giọng nói chân thành. "Cháu có nguồn hàng tốt, cháu buôn bán hợp pháp, không làm gì sai trái."
+Khi về đến nhà, ông đưa cho bà 100 đồng. "Bà, đây là tiền cháu kiếm được. Bà giữ tiền này, bà mua chút đồ ăn ngon." Ông nói thật lòng, giọng nói đầy yêu thương. Ông muốn bà có cuộc sống tốt hơn, và ông sẽ làm mọi thứ để đạt được mục tiêu đó.
 
-Bà Hà lo lắng, ánh mắt vẫn còn nghi ngờ. "Nhưng cháu cẩn thận nhé. Số tiền lớn như vậy có thể gây chú ý. Hộ nhà ta lại có lý lịch không tốt, cháu không được gây phiền toái."
+Bà Hà sững sờ nhìn số tiền lớn, đôi mắt rưng rưng nước mắt. "Nhiều quá! Cháu làm gì mà kiếm được nhiều tiền như vậy? Cháu có làm gì sai trái không?" Bà nói, giọng nói đầy lo lắng và ngạc nhiên. Bà chưa từng thấy cháu trai kiếm được nhiều tiền như vậy, và bà lo lắng rằng cháu trai có thể đã làm điều gì sai trái. Trong thời bao cấp, việc có nhiều tiền có thể bị nghi ngờ, và bà sợ rằng cháu trai sẽ gặp rắc rối.
 
-"Cháu biết ạ," Trần Văn Hùng nói, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
+"Cháu bán sỉ cho thương lái," Trần Văn Hùng nói, giọng nói chân thành. "Cháu có nguồn hàng tốt, cháu buôn bán hợp pháp, không làm gì sai trái." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng lời nói dối này là cần thiết để bảo vệ bí mật của hệ thống. Ông không thể nói với bà về hệ thống, vì bà sẽ không tin và có thể bị lo lắng. Ông cần một lời nói dối hợp lý để giải thích nguồn gốc của tiền.
 
-Lan cũng chạy ra, ngạc nhiên khi thấy số tiền lớn. "Anh, anh kiếm được nhiều tiền quá! Em chưa từng thấy nhiều tiền như vậy!"
+Bà Hà lo lắng, ánh mắt vẫn còn nghi ngờ. "Nhưng cháu cẩn thận nhé. Số tiền lớn như vậy có thể gây chú ý. Hộ nhà ta lại có lý lịch không tốt, cháu không được gây phiền toái." Bà nói, giọng nói đầy lo lắng. Bà biết rằng hộ nhà mình có lý lịch không tốt, và nếu cháu làm điều gì sai trái, cả gia đình sẽ gặp rắc rối. Bà muốn cháu trai cẩn thận, không muốn cháu trai gặp rắc rối.
 
-"Anh muốn em và bà sống tốt hơn," Trần Văn Hùng nói, giọng nói dịu dàng. "Anh sẽ dùng tiền này để sửa nhà, mua đồ dùng mới. Anh sẽ khiến em và bà không còn phải chịu khổ nữa."
+"Cháu biết ạ," Trần Văn Hùng nói, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa." Ông nói thật lòng, giọng nói đầy hứa hẹn. Ông biết rằng bà lo lắng, và ông muốn trấn an bà. Ông sẽ cẩn thận, sẽ không làm điều gì sai trái. Ông sẽ sử dụng hệ thống để kiếm tiền, nhưng sẽ không để bị phát hiện.
 
-Lan rưng rưng nước mắt, ôm lấy anh. "Cảm ơn anh. Em tin anh."
+Lan cũng chạy ra, ngạc nhiên khi thấy số tiền lớn. "Anh, anh kiếm được nhiều tiền quá! Em chưa từng thấy nhiều tiền như vậy!" Cô nói, giọng nói đầy ngạc nhiên. Cô chưa từng nghĩ rằng một ngày nào đó anh sẽ kiếm được nhiều tiền như vậy, và cô cảm thấy như đang mơ. Cô cầm những đồng tiền trong tay, cảm nhận sự mịn màng của từng đồng tiền. Cô chưa từng nghĩ rằng cô sẽ có nhiều tiền như vậy.
+
+"Anh muốn em và bà sống tốt hơn," Trần Văn Hùng nói, giọng nói dịu dàng. "Anh sẽ dùng tiền này để sửa nhà, mua đồ dùng mới. Anh sẽ khiến em và bà không còn phải chịu khổ nữa." Ông nói thật lòng, giọng nói đầy hứa hẹn. Ông biết rằng lời nói chưa đủ, ông cần hành động để chứng minh. Ông sẽ bắt đầu từ việc chăm sóc gia đình tốt hơn, sau đó sẽ mở rộng kinh doanh, và cuối cùng sẽ trở thành thương gia lớn nhất Việt Nam.
+
+Lan rưng rưng nước mắt, ôm lấy anh. "Cảm ơn anh. Em tin anh." Cô nói, giọng nói đầy cảm xúc. Cô quyết định tin anh, vì cô thấy ánh mắt chân thành của ông. Cô hy vọng rằng sự thay đổi này là thật, hy vọng rằng anh sẽ thực sự chăm sóc bà và cô tốt hơn. Cô biết rằng anh đã thay đổi, và cô tin rằng anh sẽ tiếp tục thay đổi để tốt hơn.
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
