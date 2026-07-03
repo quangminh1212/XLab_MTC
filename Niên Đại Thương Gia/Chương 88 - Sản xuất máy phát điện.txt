@@ -2,13 +2,15 @@
 Chương 88: Sản xuất máy phát điện
 ============================================================
 
-Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông quyết định bắt đầu sản xuất máy phát điện. Trong thời bao cấp, điện là yếu tố quan trọng để phát triển kinh tế, nhưng nguồn điện rất hạn chế. Với kiến thức của thế kỷ 21 về năng lượng và kỹ năng năng lượng cấp 1, ông biết cách sản xuất máy phát điện chất lượng cao.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm, trước khi mặt trời mọc. Ông đã hoàn thành nhiệm vụ pin mặt trời, nhận được kỹ năng năng lượng cấp 1. Bây giờ, ông muốn bắt đầu sản xuất máy phát điện.
 
-Ông kiểm tra không gian, thấy có linh kiện điện tử, động cơ, và các công cụ khác. Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất năng lượng, bắt đầu lắp ráp máy phát điện.
+Trong thời bao cấp, điện là yếu tố quan trọng để phát triển kinh tế, nhưng nguồn điện rất hạn chế. Điện lưới chỉ phủ sóng các thành phố lớn, nông thôn hầu như không có điện. Pin mặt trời giúp người dân có điện ban ngày, nhưng ban đêm hoặc ngày mưa, pin mặt trời không hoạt động. Máy phát điện có thể chạy bằng xăng hoặc dầu, cung cấp điện liên tục, bất kể ngày đêm. Nếu ông sản xuất máy phát điện, người dân sẽ có điện sử dụng mọi lúc.
 
-Với kiến thức của thế kỷ 21 về năng lượng và kỹ năng năng lượng cấp 1, ông biết cách lắp ráp máy phát điện chất lượng tốt. Ông thiết kế quy trình lắp ráp hiệu quả, với tối ưu hóa thời gian lắp ráp và giảm chi phí vận hành.
+Với kiến thức của thế kỷ 21 về năng lượng và kỹ năng năng lượng cấp 1, ông biết cách sản xuất máy phát điện chất lượng cao. Ông kiểm tra không gian, thấy có linh kiện điện tử, động cơ, và các công cụ khác. Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng.
 
-Sau vài giờ, ông đã lắp ráp xong 2 chiếc máy phát điện. Ông kiểm tra chất lượng, thấy rất tốt. Các máy phát điện có hiệu suất cao, có thể phát điện ổn định và an toàn.
+Ông bắt đầu lắp ráp máy phát điện. Ông lắp động cơ, máy phát điện, và bộ điều khiển vào khung sắt. Ông kết nối các linh kiện, kiểm tra hệ thống, và thử nghiệm. Với kiến thức của thế kỷ 21 về năng lượng và kỹ năng năng lượng cấp 1, ông biết cách lắp ráp máy phát điện chất lượng tốt. Ông thiết kế quy trình lắp ráp hiệu quả, với tối ưu hóa thời gian lắp ráp và giảm chi phí vận hành.
+
+Sau vài giờ, ông đã lắp ráp xong 2 chiếc máy phát điện. Ông kiểm tra chất lượng, thấy rất tốt. Các máy phát điện có hiệu suất cao, có thể phát điện ổn định và an toàn. Mỗi chiếc máy phát điện có thể phát 500W điện, đủ để chạy đèn, quạt, radio, và TV.
 
 Hệ thống thông báo:
 
@@ -18,25 +20,29 @@ Hệ thống thông báo:
 
 Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất máy phát điện để bán.
 
-Ông quyết định sử dụng cùng một nhóm thợ điện tử để lắp ráp máy phát điện. Ông hướng dẫn nhóm thợ cách lắp ráp máy phát điện hiệu quả. Với sự hướng dẫn của ông, nhóm thợ biết cách lắp ráp máy phát điện chất lượng cao.
+Ông quyết định sử dụng cùng nhóm thợ điện tử để lắp ráp máy phát điện. Ông hướng dẫn nhóm thợ cách lắp ráp máy phát điện. "Khi lắp động cơ, chú ý cố định chắc," ông nói. "Động cơ rung mạnh, nếu không cố định chắc, sẽ hỏng máy. Khi kết nối máy phát điện, chú ý đấu dây chính xác. Nếu đấu sai, máy sẽ không phát điện."
 
-Trong một tuần, họ đã lắp ráp được 20 chiếc máy phát điện. Trần Văn Hùng bán máy phát điện cho các cửa hàng của mình. Vì máy phát điện là hàng mới và rất cần thiết, chúng bán rất chạy. Trong thời bao cấp, nguồn điện rất hạn chế, người dân rất mong muốn có máy phát điện để sử dụng.
+"Khi lắp bộ điều khiển, chú ý an toàn," ông nói. "Bộ điều khiển điều chỉnh điện áp, nếu không chính xác, điện áp sẽ cao, hỏng thiết bị."
 
-Ông bán mỗi chiếc máy phát điện với giá 200 đồng, tổng cộng kiếm được 4000 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả tuần.
+Với sự hướng dẫn của ông, nhóm thợ biết cách lắp ráp máy phát điện chất lượng cao.
+
+Trong một tuần, họ đã lắp ráp được 20 chiếc máy phát điện. Trần Văn Hùng bán máy phát điện cho các cửa hàng của mình. Vì máy phát điện là hàng mới và rất cần thiết, chúng bán rất chạy.
+
+"Máy phát điện tốt quá," một thương nhân nói. "Cửa hàng tôi không có điện, phải đóng cửa khi tối. Bây giờ có máy phát điện, tôi có thể mở cửa đến tối. Bán được nhiều hơn."
+
+"Nông dân cũng mua máy phát điện," một nông dân nói. "Tôi có máy phát điện, có thể chạy máy bơm nước tưới ruộng. Năng suất tăng lên."
+
+Ông bán mỗi chiếc máy phát điện với giá 200 đồng, tổng cộng kiếm được 4000 đồng.
 
 Ông về nhà, đưa cho bà 1200 đồng.
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Cháu đã lắp ráp 20 chiếc máy phát điện trong tuần này. Cháu sẽ tiếp tục sản xuất."
+"Bà, cháu đã lắp ráp 20 chiếc máy phát điện trong tuần này," Trần Văn Hùng nói. "Thương nhân và nông dân rất vui vì có điện dùng."
 
-Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất máy phát điện."
+Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà chưa từng nghĩ cháu sẽ sản xuất máy phát điện."
 
-Lan cũng chạy ra, ánh mắt hào hứng nhìn anh. "Anh, em đã lắp ráp được 5 chiếc máy phát điện rồi. Em giỏi quá."
+Lan cũng nói. "Anh, em đã lắp ráp được 5 chiếc máy phát điện rồi. Em giỏi quá."
 
-"Tốt lắm," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em giỏi quá. Anh tự hào về em. Em đã làm việc chăm chỉ."
-
-Lan mỉm cười, đôi mắt sáng lên. "Em muốn giúp anh nhiều hơn. Em sẽ làm việc chăm chỉ hơn."
-
-"Được," Trần Văn Hùng nói, giọng nói dịu dàng. "Em sẽ giúp anh khi em giỏi hơn. Anh sẽ dạy em nhiều kỹ năng. Em sẽ giỏi như anh."
+"Tốt lắm," Trần Văn Hùng mỉm cười. "Anh tự hào về em."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -49,16 +55,14 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 - Phần thưởng: 500 điểm kinh nghiệm, kỹ năng kỹ thuật cấp 3
 - Thời gian: 180 ngày
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 100 chiếc máy phát điện để hoàn thành nhiệm vụ. Ông quyết định tiếp tục sản xuất máy phát điện.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 100 chiếc máy phát điện. Với năng suất 20 chiếc một tuần, ông sẽ hoàn thành trong khoảng 5 tuần.
 
-Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
+Buổi tối, gia đình ăn cơm. "Hùng à, cháu có kế hoạch gì tiếp theo?" bà Hà hỏi.
 
-"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
+"Cháu sẽ tiếp tục sản xuất máy phát điện," Trần Văn Hùng nói. "Cháu cần 100 chiếc trong 180 ngày. Cháu sẽ mở rộng nhà xưởng, tuyển thêm công nhân."
 
-"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất máy phát điện và bán cho các cửa hàng. Cháu muốn hoàn thành nhiệm vụ sản xuất 100 chiếc máy phát điện trong vòng 180 ngày."
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải cẩn thận."
 
-Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
+"Cháu biết ạ," Trần Văn Hùng mỉm cười.
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
-
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất máy phát điện. Ông quyết định tăng năng suất để hoàn thành nhiệm vụ nhanh hơn. Với kiến thức của thế kỷ 21, ông biết cách quản lý năng lượng hiệu quả. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất máy phát điện. Hành trình của ông tiếp tục.

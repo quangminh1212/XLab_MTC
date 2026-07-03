@@ -2,13 +2,19 @@
 Chương 41: Sản xuất quạt điện
 ============================================================
 
-Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông kiểm tra không gian, suy nghĩ về kế hoạch sản xuất quạt điện. Ông muốn bắt đầu sản xuất quạt điện vì nhu cầu cao trong mùa hè. Với kiến thức của thế kỷ 21 về điện tử và kỹ năng điện tử cấp 1, ông tin sẽ sản xuất được quạt điện chất lượng cao.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm, trước khi mặt trời mọc. Ông đã hoàn thành nhiệm vụ sản xuất radio thành công, đạt được kỹ năng điện tử cấp 1. Bây giờ, ông sẽ bắt đầu sản xuất quạt điện, sản phẩm điện tử tiếp theo trong kế hoạch đa dạng hóa hàng hóa.
 
-Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất điện tử, nơi có máy lắp ráp hiện đại và linh kiện điện tử chất lượng cao. Ông bắt đầu lắp ráp quạt điện với kỹ năng cơ bản.
+Mùa hè đang đến, nhiệt độ tăng cao, nhu cầu quạt điện rất lớn. Trong thời bao cấp, quạt điện là mặt hàng xa xỉ, hiếm có và đắt đỏ. Quạt điện nhập khẩu từ Liên Xô hoặc Trung Quốc thường có chất lượng trung bình, giá đắt, và khó mua. Nếu ông sản xuất quạt điện chất lượng cao, giá hợp lý, ông sẽ có thị trường lớn.
 
-Ông sử dụng linh kiện từ không gian, lắp ráp từng bộ phận một cách tỉ mỉ và chính xác. Với kiến thức của thế kỷ 21 về điện tử và kỹ năng điện tử cấp 1, ông biết cách lắp ráp quạt điện chất lượng tốt. Ông thiết kế quạt điện với động cơ mạnh mẽ, cánh quạt bền đẹp, và hệ thống an toàn.
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất điện tử, nơi có máy lắp ráp hiện đại và linh kiện điện tử chất lượng cao. Ông bắt đầu lắp ráp quạt điện với kỹ năng điện tử cấp 1.
 
-Sau vài giờ, ông đã lắp ráp xong 2 chiếc quạt điện. Ông kiểm tra chất lượng, thấy rất tốt. Quạt điện hoạt động êm ái, gió mạnh, thiết kế đẹp đẽ. Trong thời bao cấp, quạt điện là một mặt hàng xa xỉ, hiếm có và đắt đỏ.
+Ông sử dụng linh kiện từ không gian, lắp ráp từng bộ phận một cách tỉ mỉ và chính xác. Với kiến thức của thế kỷ 21 về điện tử và kỹ năng điện tử cấp 1, ông biết cách lắp ráp quạt điện chất lượng tốt. Ông thiết kế quạt điện với động cơ mạnh mẽ, cánh quạt bền đẹp, lồng quạt an toàn, và hệ thống điều khiển tốc độ.
+
+Ông lắp động cơ, cánh quạt, lồng quạt, chân đế, và hệ thống điều khiển. Ông kiểm tra từng bộ phận, đảm bảo chất lượng. Động cơ phải chạy êm, cánh quạt phải cân bằng, lồng quạt phải an toàn, chân đế phải vững chắc.
+
+Sau vài giờ, ông đã lắp ráp xong 2 chiếc quạt điện. Ông kiểm tra chất lượng, thấy rất tốt. Quạt điện hoạt động êm ái, gió mạnh, không rung lắc, thiết kế đẹp đẽ. Ông bật quạt, cảm nhận gió mát, nghe động cơ chạy êm, không có tiếng ồn. Quạt có 3 tốc độ, từ nhẹ đến mạnh, đáp ứng nhiều nhu cầu.
+
+Trong thời bao cấp, quạt điện là một mặt hàng xa xỉ, hiếm có và đắt đỏ. Quạt điện nhập khẩu thường có chất lượng trung bình, giá 100-150 đồng, khó mua. Quạt của Trần Văn Hùng chất lượng cao hơn, giá rẻ hơn, chắc chắn sẽ thu hút nhiều khách hàng.
 
 Hệ thống thông báo:
 
@@ -16,29 +22,43 @@ Hệ thống thông báo:
 
 "Điểm kinh nghiệm hiện tại: 3855."
 
-Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất quạt điện để bán. Ông quyết định mở rộng sản xuất để tăng năng suất.
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất quạt điện để bán. Ông quyết định sử dụng cùng nhóm thợ điện tử để lắp ráp quạt điện. Với kinh nghiệm từ sản xuất radio, họ có thể học cách lắp ráp quạt điện nhanh chóng.
 
-Ông quyết định sử dụng cùng một nhóm thợ điện tử để lắp ráp quạt điện. Với kinh nghiệm từ sản xuất radio, họ có thể lắp ráp quạt điện nhanh chóng. Ông tổ chức quy trình sản xuất một cách khoa học, chia công việc cho từng người để tối ưu hóa năng suất.
+Ông gọi 7 công nhân đến, hướng dẫn họ cách lắp ráp quạt điện. Ông chia công việc: ông Tuấn lắp động cơ, ông Hùng hàn mạch điều khiển, ông Dũng lắp lồng quạt, ông Quân lắp cánh quạt, ông Thành lắp chân đế, ông Long kiểm tra cân bằng, ông Huy kiểm tra chất lượng.
 
-Trong một tuần, họ đã lắp ráp được 40 chiếc quạt điện. Trần Văn Hùng bán quạt điện cho các cửa hàng của mình. Vì quạt điện là hàng mới và rất cần thiết trong mùa hè, chúng bán rất chạy. Mùa hè đang đến, nhiệt độ tăng cao, nhu cầu quạt điện rất lớn.
+"Các ông đã có kinh nghiệm lắp ráp radio," Trần Văn Hùng nói. "Lắp ráp quạt điện cũng tương tự, nhưng phức tạp hơn một chút. Ông cần lắp động cơ, cánh quạt, lồng quạt, chân đế, và hệ thống điều khiển. Cháu sẽ hướng dẫn từng bước."
 
-Ông bán mỗi chiếc quạt điện với giá 80 đồng, tổng cộng kiếm được 3200 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả tháng.
+Công nhân lắng nghe, học hỏi nhanh. Với kinh nghiệm từ sản xuất radio, họ hiểu các nguyên lý điện tử cơ bản, và có thể lắp ráp quạt điện sau vài ngày học.
 
-Ông đưa cho bà 1000 đồng.
+Lan cũng đến xưởng, học cách lắp ráp quạt điện. Cô đã học cách lắp ráp radio, và cô muốn học thêm về quạt điện. Trần Văn Hùng dạy cô cách lắp động cơ, cánh quạt, và kiểm tra cân bằng.
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon."
+"Anh, quạt điện phức tạp hơn radio," Lan nói. "Nhiều bộ phận hơn, cần chính xác hơn. Nhưng em sẽ học."
 
-Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất được quạt điện."
+"Em đúng," Trần Văn Hùng mỉm cười. "Quạt điện phức tạp hơn, nhưng em thông minh, em sẽ học nhanh. Anh tin em."
 
-Lan cũng chạy ra, ánh mắt hào hứng nhìn anh. "Anh, em đã lắp ráp được 8 chiếc quạt điện rồi. Em giỏi không?"
+Trong tuần đầu tiên, họ đã lắp ráp được 40 chiếc quạt điện. Năng suất thấp hơn radio, vì quạt điện phức tạp hơn, nhưng ông tin năng suất sẽ tăng khi công nhân quen tay.
 
-"Tốt lắm," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em giỏi quá. Em đã học rất nhanh. Anh tự hào về em."
+Trần Văn Hùng bán quạt điện cho các cửa hàng của mình. Vì quạt điện là hàng mới và rất cần thiết trong mùa hè, chúng bán rất chạy. Mùa hè đang đến, nhiệt độ tăng cao, nhu cầu quạt điện rất lớn. Khách hàng đến mua quạt điện đông đúc, nhiều người phải đặt trước.
+
+"Quạt điện này ở đâu ra?" một khách hàng hỏi. "Chất lượng tốt quá, gió mạnh, chạy êm. Quạt nhập khẩu đắt gấp đôi mà chất lượng kém hơn."
+
+"Quạt tự sản xuất," nhân viên cửa hàng nói. "Chủ chúng tôi có xưởng sản xuất điện tử. Quạt chất lượng cao, giá hợp lý."
+
+Khách hàng gật đầu, mua quạt ngay. Nhiều người mua thêm cho người thân. Quạt của Trần Văn Hùng nhanh chóng trở nên phổ biến, người dân truyền tai nhau về cửa hàng có bán quạt điện chất lượng cao, giá rẻ.
+
+Ông bán mỗi chiếc quạt điện với giá 80 đồng, rẻ hơn quạt nhập khẩu 100-150 đồng. Tổng cộng 40 chiếc, ông kiếm được 3200 đồng. Ông đưa cho bà 1000 đồng.
+
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói. "Cháu đã sản xuất quạt điện thành công, bán được 40 chiếc."
+
+Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất được quạt điện. Bà nhớ ngày xưa, mùa hè nóng bức, bà chỉ có quạt giấy quạt tay. Bây giờ cháu sản xuất được quạt điện, tuyệt quá."
+
+Lan cũng nói. "Anh, em đã lắp ráp được 8 chiếc quạt điện rồi. Em đã học cách lắp động cơ, cánh quạt. Em giỏi không?"
+
+"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá. Em đã học rất nhanh. Anh tự hào về em."
 
 Lan mỉm cười, đôi mắt sáng lên. "Em muốn giúp anh nhiều hơn. Em muốn lắp ráp nhiều quạt điện hơn."
 
-"Được," Trần Văn Hùng nói, giọng nói dịu dàng. "Em sẽ giúp anh khi em giỏi hơn. Anh sẽ dạy em nhiều kỹ năng hơn. Em sẽ giỏi như anh."
-
-Lan mỉm cười, đôi mắt sáng lên. "Em cảm thấy như đang mơ. Em chưa từng nghĩ em sẽ làm được như vậy."
+"Được," Trần Văn Hùng nói. "Em sẽ giúp anh. Em sẽ giỏi hơn nữa."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -51,16 +71,14 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 - Phần thưởng: 200 điểm kinh nghiệm, kỹ năng kỹ thuật cấp 1
 - Thời gian: 60 ngày
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 150 chiếc quạt điện để hoàn thành nhiệm vụ. Ông quyết định tiếp tục mở rộng sản xuất để hoàn thành nhiệm vụ nhanh hơn.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 150 chiếc quạt điện trong 60 ngày. Với năng suất 40 chiếc mỗi tuần, ông cần khoảng 4 tuần, well trong thời hạn. Nhưng ông quyết định tăng năng suất để hoàn thành nhanh hơn.
 
-Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
+Buổi tối, gia đình ăn cơm. Bà Hà nấu nhiều món ngon. "Hùng à, cháu có kế hoạch gì tiếp theo?"
 
-"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
+"Cháu sẽ tiếp tục sản xuất quạt điện," Trần Văn Hùng nói. "Cháu cần sản xuất 150 chiếc trong 60 ngày. Với năng suất hiện tại, cháu sẽ hoàn thành trong 4 tuần."
 
-"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất quạt điện và bán cho các cửa hàng. Cháu muốn hoàn thành nhiệm vụ sản xuất 150 chiếc quạt điện trong vòng 60 ngày."
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe quan trọng nhất."
 
-Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
+"Cháu biết ạ," Trần Văn Hùng mỉm cười. "Cháu sẽ cẩn thận."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
-
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất quạt điện. Ông quyết định tăng năng suất để hoàn thành nhiệm vụ nhanh hơn. Với kiến thức của thế kỷ 21, ông biết cách quản lý sản xuất hiệu quả. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất quạt điện. Ông sẽ tăng năng suất bằng cách cải thiện quy trình, hướng dẫn công nhân lắp ráp nhanh hơn. Hành trình của ông tiếp tục.

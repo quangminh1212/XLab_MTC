@@ -2,29 +2,57 @@
 Chương 39: Mở rộng sản xuất radio
 ============================================================
 
-Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông kiểm tra không gian, suy nghĩ về kế hoạch mở rộng sản xuất radio. Ông muốn tăng năng suất để hoàn thành nhiệm vụ sản xuất 200 chiếc radio trong vòng 60 ngày. Với kiến thức của thế kỷ 21, ông biết cách quản lý sản xuất hiệu quả.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm, trước khi mặt trời mọc. Ông đã sản xuất được 30 chiếc radio trong tuần đầu tiên, nhưng ông cần sản xuất thêm 170 chiếc nữa để hoàn thành nhiệm vụ 200 chiếc trong 60 ngày. Với năng suất hiện tại, ông cần khoảng 6 tuần nữa, vừa kịp thời hạn. Nhưng ông muốn hoàn thành nhanh hơn, để có thời gian sản xuất các sản phẩm điện tử khác.
 
-Ông quyết định mở rộng khu vực sản xuất radio. Ông thuê thêm 4 người nữa: ông Quân, ông Thành, ông Long và ông Huy. Cả bốn đều là thợ điện tử có kinh nghiệm, có kỹ năng tốt trong việc lắp ráp radio và các thiết bị điện tử khác.
+Ông quyết định mở rộng khu vực sản xuất radio. Ông cần thuê thêm thợ điện tử có kinh nghiệm. Ông hỏi người dân xung quanh, và được giới thiệu 4 thợ điện tử: ông Quân, ông Thành, ông Long, và ông Huy.
 
-Ông cũng mua thêm 5 máy lắp ráp từ không gian, đưa vào khu vực sản xuất điện tử. Khu vực sản xuất giờ có 7 người và 8 máy lắp ráp, năng suất sản xuất tăng lên rất nhanh. Ông tổ chức quy trình sản xuất một cách khoa học, chia công việc cho từng người để tối ưu hóa năng suất.
+Ông Quân là người trẻ, nhanh nhẹn, có kỹ năng hàn mạch giỏi. Ông Thành là người trung niên, cẩn thận, có kỹ năng lắp mạch tốt. Ông Long là người trẻ, sáng tạo, có kỹ năng thiết kế vỏ. Ông Huy là người trung niên, lành nghề, có kỹ năng kiểm tra chất lượng.
 
-Trong một tuần, họ đã lắp ráp được 50 chiếc radio. Trần Văn Hùng bán radio cho các cửa hàng của mình, kiếm được 2500 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả tháng.
+Trần Văn Hùng đến nhà từng người, mời họ làm việc. Ông giới thiệu xưởng sản xuất, trả lương 7 đồng một ngày, và hứa tăng lương nếu làm tốt. Cả bốn người đều đồng ý, vì lương cao hơn nhiều so với mức trung bình.
 
-Ông đưa cho bà 800 đồng.
+"Cháu trả lương 7 đồng một ngày?" ông Quân hỏi, đôi mắt mở to. "Nhiều quá! Tôi chưa từng nghe ai trả lương cao như vậy. Cháu chắc chứ?"
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon."
+"Cháu chắc," Trần Văn Hùng nói, giọng nói kiên định. "Cháu muốn thuê người giỏi, trả lương xứng đáng. Nếu các ông làm tốt, cháu sẽ tăng lương."
 
-Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất được nhiều radio như vậy."
+Cả bốn người gật đầu, vui vẻ đồng ý. Họ cảm thấy may mắn vì có công việc tốt, lương cao, trong thời bao cấp khó khăn.
 
-Lan cũng chạy ra, ánh mắt hào hứng nhìn anh. "Anh, em đã lắp ráp được 5 chiếc radio rồi. Em giỏi không?"
+Sau khi thuê thêm người, ông cũng mua thêm 5 máy lắp ráp từ không gian, đưa vào khu vực sản xuất điện tử. Khu vực sản xuất giờ có 7 người và 8 máy lắp ráp, năng suất sản xuất tăng lên rất nhanh.
 
-"Tốt lắm," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em giỏi quá. Em đã học rất nhanh. Anh tự hào về em."
+Ông tổ chức quy trình sản xuất một cách khoa học, chia công việc cho từng người để tối ưu hóa năng suất. Ông Tuấn phụ trách lắp mạch khuếch đại, ông Hùng phụ trách hàn mạch, ông Dũng phụ trách lắp vỏ, ông Quân phụ trách hàn mạch thứ hai, ông Thành phụ trách lắp mạch thu sóng, ông Long phụ trách thiết kế và lắp vỏ, ông Huy phụ trách kiểm tra chất lượng. Mỗi người phụ trách một công đoạn, giúp tăng năng suất và đảm bảo chất lượng.
+
+Trần Văn Hùng giám sát toàn bộ quy trình, đảm bảo chất lượng sản phẩm. Ông cũng hướng dẫn thợ các kỹ thuật mới, giúp họ làm việc hiệu quả hơn. Với kiến thức của thế kỷ 21 về quản lý sản xuất, ông biết cách tối ưu hóa quy trình, giảm thời gian lãng phí, và tăng năng suất.
+
+Lan cũng tiếp tục học cách lắp ráp radio. Cô đã lắp ráp được 5 chiếc radio trong tuần trước, và cô muốn lắp ráp nhiều hơn. Cô học cách hàn mạch, lắp mạch khuếch đại, và kiểm tra chất lượng. Cô tiến bộ nhanh, và anh giao cho cô phụ trách lắp mạch thu sóng.
+
+"Anh, em đã lắp ráp được 10 chiếc radio trong tuần này," Lan báo cáo, mỉm cười. "Em đã lắp mạch thu sóng cho tất cả. Em thấy mình giỏi hơn rồi."
+
+"Tốt lắm," Trần Văn Hùng mỉm cười. "Em tiến bộ nhanh lắm. Anh tự hào về em."
+
+Với 7 người và 8 máy lắp ráp, năng suất sản xuất tăng lên đáng kể. Trong tuần đầu tiên sau khi mở rộng, họ đã lắp ráp được 50 chiếc radio. So với 30 chiếc tuần trước, năng suất tăng gần gấp đôi, nhờ có thêm người và máy, cùng quy trình sản xuất khoa học.
+
+Trần Văn Hùng bán radio cho các cửa hàng của mình. Mỗi cửa hàng đều bán radio rất chạy. Khách hàng đến mua radio đông đúc, nhiều người phải đặt trước vì hàng không đủ bán.
+
+"Radio của ông bán nhanh quá," nhân viên cửa hàng Hà Nội báo cáo. "Khách hàng đến mua đông, hàng không đủ bán. Nhiều người đặt trước 3-4 ngày mới có hàng."
+
+"Tôi sẽ tăng sản xuất," Trần Văn Hùng nói. "Tôi sẽ sản xuất thêm để đáp ứng nhu cầu."
+
+Ông cũng bán radio cho đối tác quốc tế. Ông Sombath ở Lào đặt mua 20 chiếc, ông Sokha ở Campuchia đặt mua 15 chiếc, ông Somchai ở Thái Lan đặt mua 25 chiếc. Radio của ông chất lượng cao, giá rẻ, nên đối tác quốc tế cũng rất thích.
+
+Trong tuần, ông đã bán được 50 chiếc radio, với giá 50 đồng mỗi chiếc, tổng cộng kiếm được 2500 đồng. Ông đưa cho bà 800 đồng.
+
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói. "Cháu đã bán được 50 chiếc radio, doanh thu 2500 đồng."
+
+Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất được nhiều radio như vậy. Nhiều tiền quá, bà không biết tiêu vào đâu."
+
+"Bà cứ tiêu thoải mái," Trần Văn Hùng nói, mỉm cười. "Bà mua đồ ăn ngon, mua quần áo mới. Bà đã vất vả nhiều năm, bây giờ cháu muốn bà sống thoải mái."
+
+Lan cũng nói. "Anh, em đã lắp ráp được 10 chiếc radio trong tuần này. Em đã lắp mạch thu sóng cho tất cả. Em giỏi không?"
+
+"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá. Em đã học rất nhanh. Anh tự hào về em."
 
 Lan mỉm cười, đôi mắt sáng lên. "Em muốn giúp anh nhiều hơn. Em muốn lắp ráp nhiều radio hơn."
 
-"Được," Trần Văn Hùng nói, giọng nói dịu dàng. "Em sẽ giúp anh khi em giỏi hơn. Anh sẽ dạy em nhiều kỹ năng hơn. Em sẽ giỏi như anh."
-
-Lan mỉm cười, đôi mắt sáng lên. "Em cảm thấy như đang mơ. Em chưa từng nghĩ em sẽ làm được như vậy."
+"Được," Trần Văn Hùng nói. "Em sẽ giúp anh. Em sẽ giỏi hơn nữa."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -34,16 +62,14 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
 "Tiến độ nhiệm vụ: 80/200 chiếc radio."
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán thêm 120 chiếc radio nữa để hoàn thành nhiệm vụ. Ông quyết định tiếp tục mở rộng sản xuất để hoàn thành nhiệm vụ nhanh hơn.
+Trần Văn Hùng gật đầu. Ông đã sản xuất được 80 chiếc radio, cần thêm 120 chiếc nữa. Với năng suất 50 chiếc mỗi tuần, ông cần khoảng 2-3 tuần nữa, well trong thời hạn 60 ngày.
 
-Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
+Buổi tối, gia đình ăn cơm. Bà Hà nấu nhiều món ngon. "Hùng à, cháu có kế hoạch gì tiếp theo?"
 
-"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
+"Cháu sẽ tiếp tục sản xuất radio," Trần Văn Hùng nói. "Cháu cần sản xuất thêm 120 chiếc nữa. Với năng suất hiện tại, cháu sẽ hoàn thành trong 2-3 tuần."
 
-"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất radio và bán cho các cửa hàng. Cháu muốn hoàn thành nhiệm vụ sản xuất 200 chiếc radio trong vòng 60 ngày."
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe quan trọng nhất."
 
-Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
+"Cháu biết ạ," Trần Văn Hùng mỉm cười. "Cháu sẽ cẩn thận."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
-
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất radio. Ông quyết định tăng năng suất để hoàn thành nhiệm vụ nhanh hơn. Với kiến thức của thế kỷ 21, ông biết cách quản lý sản xuất hiệu quả. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất radio. Ông sẽ duy trì năng suất 50 chiếc mỗi tuần, hoàn thành nhiệm vụ trong 3 tuần. Sau đó, ông sẽ bắt đầu sản xuất quạt điện. Hành trình của ông tiếp tục.

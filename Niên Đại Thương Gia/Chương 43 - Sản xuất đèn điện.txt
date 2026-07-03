@@ -2,13 +2,19 @@
 Chương 43: Sản xuất đèn điện
 ============================================================
 
-Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông kiểm tra không gian, suy nghĩ về kế hoạch sản xuất đèn điện. Ông muốn bắt đầu sản xuất đèn điện để đa dạng hóa sản phẩm. Với kiến thức của thế kỷ 21 về điện tử và kỹ năng kỹ thuật cấp 1, ông tin sẽ sản xuất được đèn điện chất lượng cao.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm, trước khi mặt trời mọc. Ông đã hoàn thành nhiệm vụ sản xuất radio và quạt điện thành công. Bây giờ, ông sẽ bắt đầu sản xuất đèn điện, sản phẩm điện tử tiếp theo trong kế hoạch đa dạng hóa hàng hóa.
 
-Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất điện tử, nơi có máy lắp ráp hiện đại và linh kiện điện tử chất lượng cao. Ông bắt đầu lắp ráp đèn điện với kỹ năng cơ bản.
+Đèn điện là nhu cầu thiết yếu, ai cũng cần. Trong thời bao cấp, nhiều gia đình nông thôn vẫn dùng đèn dầu, vì không có điện hoặc đèn điện đắt đỏ. Đèn điện chất lượng cao, giá hợp lý, sẽ thu hút nhiều khách hàng. Ông quyết định sản xuất hai loại: đèn bàn và đèn treo, đáp ứng nhiều nhu cầu.
 
-Ông sử dụng linh kiện từ không gian, lắp ráp từng bộ phận một cách tỉ mỉ và chính xác. Với kiến thức của thế kỷ 21 về điện tử và kỹ năng kỹ thuật cấp 1, ông biết cách lắp ráp đèn điện chất lượng tốt. Ông thiết kế đèn bàn và đèn treo với bóng đèn sáng, thiết kế đẹp đẽ, và hệ thống an toàn.
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất điện tử, nơi có máy lắp ráp hiện đại và linh kiện điện tử chất lượng cao. Ông bắt đầu lắp ráp đèn điện với kỹ năng kỹ thuật cấp 1.
 
-Sau vài giờ, ông đã lắp ráp xong 3 chiếc đèn bàn. Ông kiểm tra chất lượng, thấy rất tốt. Đèn bàn hoạt động tốt, ánh sáng sáng rõ, thiết kế đẹp đẽ. Trong thời bao cấp, đèn điện là một mặt hàng xa xỉ, hiếm có và đắt đỏ.
+Ông sử dụng linh kiện từ không gian, lắp ráp từng bộ phận một cách tỉ mỉ và chính xác. Với kiến thức của thế kỷ 21 về điện tử và kỹ năng kỹ thuật cấp 1, ông biết cách lắp ráp đèn điện chất lượng tốt. Ông thiết kế đèn bàn với chân đế vững chắc, thân đèn cao, chụp đèn đẹp, và bóng đèn sáng. Ông thiết kế đèn treo với móc treo chắc chắn, dây điện an toàn, chụp đèn sang trọng, và bóng đèn sáng.
+
+Ông lắp chân đế, thân đèn, chụp đèn, bóng đèn, và hệ thống công tắc. Ông kiểm tra từng bộ phận, đảm bảo chất lượng. Đèn phải sáng rõ, không chập chờn, công tắc phải hoạt động tốt, dây điện phải an toàn.
+
+Sau vài giờ, ông đã lắp ráp xong 3 chiếc đèn bàn. Ông kiểm tra chất lượng, thấy rất tốt. Đèn bàn hoạt động tốt, ánh sáng sáng rõ, thiết kế đẹp đẽ. Ông bật đèn, ánh sáng ấm áp, không chói mắt, công tắc hoạt động êm. Đèn bàn có thiết kế đẹp, với chụp đèn xanh, thân đèn vàng, chân đế nâu, tạo vẻ đẹp truyền thống nhưng hiện đại.
+
+Trong thời bao cấp, đèn điện là một mặt hàng xa xỉ, hiếm có và đắt đỏ. Đèn điện nhập khẩu thường có chất lượng trung bình, giá đắt, và khó mua. Đèn của Trần Văn Hùng chất lượng cao hơn, giá rẻ hơn, chắc chắn sẽ thu hút nhiều khách hàng.
 
 Hệ thống thông báo:
 
@@ -16,29 +22,39 @@ Hệ thống thông báo:
 
 "Điểm kinh nghiệm hiện tại: 4095."
 
-Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất đèn điện để bán. Ông quyết định mở rộng sản xuất để tăng năng suất.
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất đèn điện để bán. Ông quyết định sử dụng cùng nhóm thợ điện tử để lắp ráp đèn điện. Với kinh nghiệm từ sản xuất radio và quạt điện, họ có thể học cách lắp ráp đèn điện nhanh chóng.
 
-Ông quyết định sử dụng cùng một nhóm thợ điện tử để lắp ráp đèn điện. Với kinh nghiệm từ sản xuất radio và quạt điện, họ có thể lắp ráp đèn điện nhanh chóng. Ông tổ chức quy trình sản xuất một cách khoa học, chia công việc cho từng người để tối ưu hóa năng suất.
+Ông gọi 7 công nhân đến, hướng dẫn họ cách lắp ráp đèn điện. Ông chia công việc: ông Tuấn lắp hệ thống điện, ông Hùng hàn mạch, ông Dũng lắp chụp đèn, ông Quân lắp chân đế, ông Thành lắp thân đèn, ông Long lắp bóng đèn, ông Huy kiểm tra chất lượng.
 
-Trong một tuần, họ đã lắp ráp được 50 chiếc đèn bàn và 20 chiếc đèn treo. Trần Văn Hùng bán đèn điện cho các cửa hàng của mình. Vì đèn điện là hàng mới và rất cần thiết, chúng bán rất chạy. Trong thời bao cấp, đèn điện là một mặt hàng xa xỉ, hiếm có và đắt đỏ. Đèn điện của Trần Văn Hùng chất lượng cao, giá hợp lý, thu hút nhiều khách hàng.
+"Các ông đã có kinh nghiệm lắp ráp radio và quạt điện," Trần Văn Hùng nói. "Lắp ráp đèn điện đơn giản hơn, nhưng cần cẩn thận với hệ thống điện. Ông phải đảm bảo dây điện an toàn, công tắc hoạt động tốt, bóng đèn sáng rõ."
 
-Ông bán mỗi chiếc đèn bàn với giá 40 đồng, mỗi chiếc đèn treo với giá 60 đồng, tổng cộng kiếm được 3200 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả tháng.
+Công nhân lắng nghe, học hỏi nhanh. Với kinh nghiệm từ sản xuất radio và quạt điện, họ hiểu các nguyên lý điện tử cơ bản, và có thể lắp ráp đèn điện sau vài giờ học.
 
-Ông đưa cho bà 1000 đồng.
+Lan cũng đến xưởng, học cách lắp ráp đèn điện. Cô đã học cách lắp ráp radio và quạt điện, và cô muốn học thêm về đèn điện. Trần Văn Hùng dạy cô cách lắp hệ thống điện, chụp đèn, và kiểm tra chất lượng.
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon."
+"Anh, đèn điện đơn giản hơn quạt điện," Lan nói. "Ít bộ phận hơn, dễ lắp hơn. Em có thể lắp ráp nhanh."
 
-Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất được đèn điện."
+"Em đúng," Trần Văn Hùng mỉm cười. "Đèn điện đơn giản hơn, nhưng cần cẩn thận với hệ thống điện. An toàn là quan trọng nhất."
 
-Lan cũng chạy ra, ánh mắt hào hứng nhìn anh. "Anh, em đã lắp ráp được 15 chiếc đèn rồi. Em giỏi không?"
+Trong một tuần, họ đã lắp ráp được 50 chiếc đèn bàn và 20 chiếc đèn treo. Năng suất cao hơn quạt điện, vì đèn điện đơn giản hơn. Trần Văn Hùng bán đèn điện cho các cửa hàng của mình.
 
-"Tốt lắm," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em giỏi quá. Em đã học rất nhanh. Anh tự hào về em."
+Đèn điện bán rất chạy, vì ai cũng cần đèn. Trong thời bao cấp, nhiều gia đình vẫn dùng đèn dầu, và họ muốn chuyển sang đèn điện khi có cơ hội. Đèn của Trần Văn Hùng chất lượng cao, giá hợp lý, thu hút nhiều khách hàng.
 
-Lan mỉm cười, đôi mắt sáng lên. "Em muốn giúp anh nhiều hơn. Em muốn lắp ráp nhiều đèn hơn."
+"Đèn này ở đâu ra?" một khách hàng hỏi. "Chất lượng tốt quá, sáng rõ, đẹp đẽ. Đèn nhập khẩu đắt gấp đôi mà chất lượng kém hơn."
 
-"Được," Trần Văn Hùng nói, giọng nói dịu dàng. "Em sẽ giúp anh khi em giỏi hơn. Anh sẽ dạy em nhiều kỹ năng hơn. Em sẽ giỏi như anh."
+"Đèn tự sản xuất," nhân viên cửa hàng nói. "Chủ chúng tôi có xưởng sản xuất điện tử. Đèn chất lượng cao, giá hợp lý."
 
-Lan mỉm cười, đôi mắt sáng lên. "Em cảm thấy như đang mơ. Em chưa từng nghĩ em sẽ làm được như vậy."
+Khách hàng gật đầu, mua đèn ngay. Nhiều người mua thêm cho người thân. Đèn của Trần Văn Hùng nhanh chóng trở nên phổ biến.
+
+Ông bán mỗi chiếc đèn bàn với giá 40 đồng, mỗi chiếc đèn treo với giá 60 đồng. Tổng cộng 70 chiếc (50 đèn bàn + 20 đèn treo), ông kiếm được 2000 + 1200 = 3200 đồng. Ông đưa cho bà 1000 đồng.
+
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói. "Cháu đã sản xuất đèn điện thành công, bán được 70 chiếc."
+
+Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất được đèn điện. Bà nhớ ngày xưa, nhà mình chỉ có đèn dầu, tối om. Bây giờ cháu sản xuất được đèn điện, sáng rực rỡ."
+
+Lan cũng nói. "Anh, em đã lắp ráp được 15 chiếc đèn rồi. Em đã học cách lắp hệ thống điện, chụp đèn. Em giỏi không?"
+
+"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá. Em đã học rất nhanh. Anh tự hào về em."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -51,16 +67,14 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 - Phần thưởng: 200 điểm kinh nghiệm, kỹ năng sáng tạo cấp 1
 - Thời gian: 60 ngày
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 200 chiếc đèn để hoàn thành nhiệm vụ. Ông quyết định tiếp tục mở rộng sản xuất để hoàn thành nhiệm vụ nhanh hơn.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 200 chiếc đèn trong 60 ngày. Với năng suất 70 chiếc mỗi tuần, ông cần khoảng 3 tuần, well trong thời hạn.
 
-Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
+Buổi tối, gia đình ăn cơm. "Hùng à, cháu có kế hoạch gì tiếp theo?" bà Hà hỏi.
 
-"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
+"Cháu sẽ tiếp tục sản xuất đèn điện," Trần Văn Hùng nói. "Cháu cần sản xuất 200 chiếc trong 60 ngày. Với năng suất hiện tại, cháu sẽ hoàn thành trong 3 tuần."
 
-"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất đèn điện và bán cho các cửa hàng. Cháu muốn hoàn thành nhiệm vụ sản xuất 200 chiếc đèn trong vòng 60 ngày."
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe quan trọng nhất."
 
-Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
+"Cháu biết ạ," Trần Văn Hùng mỉm cười. "Cháu sẽ cẩn thận."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
-
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất đèn điện. Ông quyết định tăng năng suất để hoàn thành nhiệm vụ nhanh hơn. Với kiến thức của thế kỷ 21, ông biết cách quản lý sản xuất hiệu quả. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất đèn điện. Ông sẽ duy trì năng suất, hoàn thành nhiệm vụ trong 3 tuần. Hành trình của ông tiếp tục.

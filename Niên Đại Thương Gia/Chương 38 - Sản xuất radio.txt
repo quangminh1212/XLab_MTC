@@ -2,13 +2,17 @@
 Chương 38: Sản xuất radio
 ============================================================
 
-Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông kiểm tra không gian, suy nghĩ về kế hoạch sản xuất radio. Ông muốn bắt đầu sản xuất các hàng hóa điện tử để đa dạng hóa sản phẩm. Với kiến thức của thế kỷ 21 về điện tử, ông biết cách sản xuất radio chất lượng cao.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm, trước khi mặt trời mọc. Ông ngồi bên cửa sổ, suy nghĩ về kế hoạch sản xuất radio. Ông đã mở 5 chi nhánh cửa hàng thành công, doanh thu ổn định, mạng lưới kinh doanh mở rộng. Nhưng ông biết rằng mình không thể chỉ dựa vào hàng hóa từ không gian mãi. Ông cần tự sản xuất, xây dựng ngành công nghiệp thực sự, tạo việc làm cho người dân, và phát triển kinh tế đất nước.
 
-Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất điện tử, nơi có máy lắp ráp hiện đại và linh kiện điện tử chất lượng cao. Khu vực sản xuất rộng rãi, với đầy đủ công cụ và thiết bị cần thiết.
+Với kiến thức của thế kỷ 21 về điện tử, ông biết cách sản xuất radio chất lượng cao. Radio là sản phẩm phổ biến, nhu cầu cao, và có thể sản xuất với quy mô lớn. Trong thời bao cấp, radio là mặt hàng xa xỉ, hiếm có và đắt đỏ. Người dân Việt Nam chủ yếu nghe radio để nắm thông tin tin tức, nghe nhạc, và giải trí. Nếu ông sản xuất radio chất lượng cao, giá hợp lý, ông sẽ có thị trường lớn.
 
-Ông bắt đầu lắp ráp radio với kỹ năng cơ bản. Với kiến thức của thế kỷ 21 về điện tử, ông biết cách lắp ráp radio chất lượng tốt. Ông sử dụng linh kiện từ không gian, lắp ráp từng bộ phận một cách tỉ mỉ và chính xác.
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất điện tử, nơi có máy lắp ráp hiện đại và linh kiện điện tử chất lượng cao. Khu vực sản xuất rộng rãi, với đầy đủ công cụ và thiết bị cần thiết: máy hàn, máy lắp ráp, đồng hồ đo điện, và các linh kiện điện tử như điện trở, tụ điện, cuộn cảm, transistor, và loa.
 
-Sau vài giờ, ông đã lắp ráp xong 2 chiếc radio. Ông kiểm tra chất lượng, thấy rất tốt. Radio hoạt động tốt, âm thanh rõ ràng, thiết kế đẹp đẽ. Trong thời bao cấp, radio là một mặt hàng xa xỉ, hiếm có và đắt đỏ.
+Ông bắt đầu lắp ráp radio với kỹ năng cơ bản. Với kiến thức của thế kỷ 21 về điện tử, ông biết cách lắp ráp radio chất lượng tốt. Ông sử dụng linh kiện từ không gian, lắp ráp từng bộ phận một cách tỉ mỉ và chính xác. Ông lắp mạch khuếch đại, mạch thu sóng, mạch tách sóng, và mạch khuếch đại âm tần. Ông lắp loa, antenna, và vỏ nhựa.
+
+Sau vài giờ, ông đã lắp ráp xong 2 chiếc radio. Ông kiểm tra chất lượng, thấy rất tốt. Radio hoạt động tốt, âm thanh rõ ràng, thu sóng tốt, thiết kế đẹp đẽ. Ông bật radio, nghe đài tiếng Việt Nam, âm thanh trong trẻo, không nhiễu sóng. Ông cũng nghe đài nước ngoài, radio thu sóng tốt, âm thanh rõ ràng.
+
+Trong thời bao cấp, radio là một mặt hàng xa xỉ, hiếm có và đắt đỏ. Radio nhập khẩu từ Liên Xô hoặc Trung Quốc thường có chất lượng trung bình, giá đắt, và khó mua. Radio của Trần Văn Hùng chất lượng cao hơn, giá hợp lý hơn, chắc chắn sẽ thu hút nhiều khách hàng.
 
 Hệ thống thông báo:
 
@@ -16,43 +20,57 @@ Hệ thống thông báo:
 
 "Điểm kinh nghiệm hiện tại: 3575."
 
-Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất radio để bán. Ông quyết định mở rộng sản xuất để tăng năng suất.
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất radio để bán. Nhưng ông biết rằng mình không thể tự lắp ráp tất cả, ông cần thuê người giúp. Ông quyết định tìm thợ điện tử có kinh nghiệm trong làng.
 
-Ông quyết định thuê thêm người giỏi điện tử trong làng. Ông tìm đến ông Tuấn, một người thợ điện tử có kinh nghiệm. Ông Tuấn là một người thợ giỏi, có nhiều năm kinh nghiệm trong việc sửa chữa radio và các thiết bị điện tử khác.
+Ông hỏi người dân xung quanh, và được giới thiệu ông Tuấn, một người thợ điện tử có kinh nghiệm. Ông Tuấn là người trung niên, với khuôn mặt thông minh, đôi tay khéo léo, và đôi mắt sharp. Ông đã sửa chữa radio và các thiết bị điện tử nhiều năm, có kỹ năng tốt.
+
+Trần Văn Hùng đến nhà ông Tuấn, giới thiệu mình và mời ông làm việc.
 
 "Ông Tuấn, cháu muốn thuê ông giúp việc lắp ráp radio," Trần Văn Hùng nói, giọng nói dịu dàng. "Cháu có xưởng sản xuất điện tử, cần người giỏi như ông giúp việc."
 
-Ông Tuấn ngạc nhiên, đôi mắt mở to. "Thuê cháu? Cháu làm ăn gì mà cần người lắp ráp radio? Giờ này ai cũng khó khăn, cháu lấy đâu ra tiền thuê người?"
+Ông Tuấn ngạc nhiên, đôi mắt mở to. "Thuê cháu? Cháu làm ăn gì mà cần người lắp ráp radio? Giờ này ai cũng khó khăn, cháu lấy đâu ra tiền thuê người? Cháu có xưởng sản xuất điện tử à? Ở đâu?"
 
-"Cháu có xưởng sản xuất điện tử," Trần Văn Hùng nói dối khéo léo, giọng nói chân thành. "Cháu cần người giỏi như ông giúp việc. Cháu có khả năng chi trả lương tốt."
+"Cháu có xưởng sản xuất ở huyện Quốc Oai," Trần Văn Hùng nói, giọng nói chân thành. "Cháu cần người giỏi như ông giúp việc lắp ráp radio. Cháu có khả năng chi trả lương tốt."
 
-Ông Tuấn suy nghĩ một chút, ánh mắt vẫn còn nghi ngờ. "Được, nhưng cháu trả lương thế nào? Lương bao nhiêu một ngày?"
+Ông Tuấn suy nghĩ một chút, ánh mắt vẫn còn nghi ngờ. "Được, nhưng cháu trả lương thế nào? Lương bao nhiêu một ngày? Tôi cần biết rõ trước khi đồng ý."
 
-"7 đồng một ngày," Trần Văn Hùng nói, giọng nói kiên định. "Ông làm bao nhiêu cháu trả bấy nhiêu. Nếu ông làm tốt, cháu sẽ tăng lương."
+"7 đồng một ngày," Trần Văn Hùng nói, giọng nói kiên định. "Ông làm bao nhiêu cháu trả bấy nhiêu. Nếu ông làm tốt, cháu sẽ tăng lương. Ngoài ra, cháu cung cấp cơm trưa cho ông."
 
-Ông Tuấn sững sờ, đôi mắt mở to. "Nhiều quá! Cháu chắc chứ? Giờ này lương 7 đồng một ngày là rất cao, người bình thường chỉ kiếm được 2-3 đồng một ngày."
+Ông Tuấn sững sờ, đôi mắt mở to. "Nhiều quá! Cháu chắc chứ? Giờ này lương 7 đồng một ngày là rất cao, người bình thường chỉ kiếm được 2-3 đồng một ngày. Tôi chưa từng nghe ai trả lương cao như vậy."
 
-"Cháu chắc," Trần Văn Hùng nói, giọng nói kiên định. "Cháu có khả năng chi trả. Cháu muốn thuê người giỏi, trả lương xứng đáng."
+"Cháu chắc," Trần Văn Hùng nói, giọng nói kiên định. "Cháu có khả năng chi trả. Cháu muốn thuê người giỏi, trả lương xứng đáng. Cháu tin rằng trả lương tốt sẽ giúp người làm việc chăm chỉ và trung thành."
 
-Ông Tuấn gật đầu, ánh mắt hài lòng. "Được, tôi sẽ giúp cháu. Tôi sẽ làm việc chăm chỉ."
+Ông Tuấn gật đầu, ánh mắt hài lòng. "Được, tôi sẽ giúp cháu. Tôi sẽ làm việc chăm chỉ. Cháu sẽ không thất vọng."
 
-Trần Văn Hùng cũng thuê thêm hai người nữa: ông Hùng và ông Dũng, cả hai đều là thợ điện tử có kinh nghiệm. Ông đưa họ đến khu vực sản xuất điện tử trong xưởng, đưa cho họ linh kiện và máy lắp ráp, bắt đầu làm việc.
+Trần Văn Hùng cũng thuê thêm hai người nữa: ông Hùng và ông Dũng, cả hai đều là thợ điện tử có kinh nghiệm. Ông Hùng là người trẻ, nhanh nhẹn, có kỹ năng hàn mạch tốt. Ông Dũng là người trung niên, cẩn thận, có kỹ năng lắp ráp vỏ tốt.
 
-Với sự giúp đỡ của ba người, năng suất sản xuất radio tăng lên rất nhanh. Trong một tuần, họ đã lắp ráp được 30 chiếc radio. Trần Văn Hùng bán radio cho các cửa hàng của mình. Vì radio chất lượng tốt và giá hợp lý, chúng bán rất chạy.
+Ông đưa họ đến khu vực sản xuất điện tử trong xưởng, đưa cho họ linh kiện và máy lắp ráp, bắt đầu làm việc. Ông hướng dẫn họ cách lắp ráp radio, từ lắp mạch đến lắp vỏ. Với kinh nghiệm sửa chữa radio, họ học nhanh và làm việc hiệu quả.
 
-Ông bán mỗi chiếc radio với giá 50 đồng, tổng cộng kiếm được 1500 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả tháng.
+Ông tổ chức quy trình sản xuất khoa học: ông Tuấn lắp mạch khuếch đại, ông Hùng hàn mạch, ông Dũng lắp vỏ. Mỗi người phụ trách một công đoạn, giúp tăng năng suất và đảm bảo chất lượng.
 
-Ông đưa cho bà 500 đồng.
+Lan cũng đến xưởng, học cách lắp ráp radio. Cô đã học được nhiều kỹ năng từ anh, và cô muốn học thêm về điện tử. Trần Văn Hùng dạy cô cách lắp mạch cơ bản, cách hàn mạch, và cách kiểm tra chất lượng.
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon."
+"Anh, em đã lắp ráp được chiếc radio đầu tiên!" Lan nói, mỉm cười rạng rỡ. "Em bật lên, âm thanh rõ ràng. Em làm được rồi!"
 
-Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất được radio."
+"Tốt lắm," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em học nhanh lắm. Anh tự hào về em. Em sẽ giỏi hơn nữa."
 
-Lan cũng chạy ra, ánh mắt ngạc nhiên nhìn anh. "Anh, em muốn học lắp ráp radio. Em muốn giúp anh."
+Với sự giúp đỡ của ba người, năng suất sản xuất radio tăng lên rất nhanh. Trong một tuần, họ đã lắp ráp được 30 chiếc radio. Trần Văn Hùng bán radio cho các cửa hàng của mình, với giá 50 đồng một chiếc. Vì radio chất lượng tốt và giá hợp lý, chúng bán rất chạy. Khách hàng ngạc nhiên khi thấy radio chất lượng cao, âm thanh rõ ràng, giá rẻ hơn radio nhập khẩu.
 
-"Được," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Anh sẽ dạy em. Em sẽ học cách lắp ráp radio. Em sẽ giỏi như anh."
+"Radio này ở đâu ra?" một khách hàng hỏi. "Chất lượng tốt quá, âm thanh rõ ràng, giá lại rẻ. Radio nhập khẩu đắt gấp đôi mà chất lượng kém hơn."
 
-Lan mỉm cười, đôi mắt sáng lên. "Cảm ơn anh. Em cảm thấy như đang mơ."
+"Radio tự sản xuất," Trần Văn Hùng nói. "Tôi có xưởng sản xuất điện tử. Radio của tôi chất lượng cao, giá hợp lý."
+
+Khách hàng gật đầu, mua thêm cho bạn bè. Radio của Trần Văn Hùng nhanh chóng trở nên phổ biến, người dân truyền tai nhau về cửa hàng có bán radio chất lượng cao, giá rẻ.
+
+Ông bán 30 chiếc radio với giá 50 đồng mỗi chiếc, tổng cộng kiếm được 1500 đồng. Ông đưa cho bà 500 đồng.
+
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói. "Cháu đã sản xuất radio thành công, bán được 30 chiếc."
+
+Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất được radio. Bà nhớ ngày xưa, bố cháu chỉ bán hàng nhỏ, không bao giờ dám mơ đến sản xuất điện tử."
+
+Lan cũng nói. "Anh, em đã lắp ráp được 5 chiếc radio. Em đã học cách hàn mạch, lắp vỏ. Em muốn giúp anh nhiều hơn."
+
+"Anh biết," Trần Văn Hùng mỉm cười. "Em giỏi quá. Anh sẽ dạy em nhiều kỹ năng hơn."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -65,16 +83,14 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 - Phần thưởng: 200 điểm kinh nghiệm, kỹ năng điện tử cấp 1
 - Thời gian: 60 ngày
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 200 chiếc radio để hoàn thành nhiệm vụ. Ông quyết định mở rộng sản xuất để hoàn thành nhiệm vụ nhanh hơn.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 200 chiếc radio trong 60 ngày. Với năng suất hiện tại 30 chiếc mỗi tuần, ông cần khoảng 7 tuần để hoàn thành, trong thời hạn 60 ngày. Nhưng ông quyết định mở rộng sản xuất để hoàn thành nhanh hơn.
 
-Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
+Buổi tối, gia đình ăn cơm. Bà Hà nấu nhiều món ngon. "Hùng à, cháu có kế hoạch gì tiếp theo?"
 
-"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
+"Cháu sẽ mở rộng sản xuất radio," Trần Văn Hùng nói. "Cháu cần sản xuất 200 chiếc trong 60 ngày. Cháu sẽ thuê thêm người, mua thêm máy, tăng năng suất."
 
-"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất radio và bán cho các cửa hàng. Cháu muốn hoàn thành nhiệm vụ sản xuất 200 chiếc radio trong vòng 60 ngày."
+Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe quan trọng nhất."
 
-Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
+"Cháu biết ạ," Trần Văn Hùng mỉm cười. "Cháu sẽ cẩn thận."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
-
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất radio. Ông quyết định mở rộng khu vực sản xuất điện tử và thuê thêm người. Với kiến thức của thế kỷ 21, ông biết cách sản xuất radio hiệu quả. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch mở rộng sản xuất radio. Ông sẽ thuê thêm thợ, mua thêm máy, và tổ chức quy trình sản xuất khoa học hơn. Hành trình của ông tiếp tục.
