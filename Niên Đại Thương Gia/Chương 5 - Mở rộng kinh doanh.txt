@@ -2,13 +2,11 @@
 Chương 5: Mở rộng kinh doanh
 ============================================================
 
-Trong tuần tiếp theo, Trần Văn Hùng đều đặn đi huyện thành bán hàng. Ông tăng dần lượng hàng hóa bán ra, từ 2kg gạo và 0.5kg thịt ban đầu lên 5kg gạo và 1kg thịt mỗi ngày.
+Trong tuần tiếp theo, Trần Văn Hùng đều đặn đi huyện thành bán hàng. Ông tăng dần lượng hàng hóa bán ra, từ 2kg gạo và 0.5kg thịt ban đầu lên 5kg gạo và 1kg thịt mỗi ngày. Ông biết phải cẩn thận, không bán quá nhiều cùng lúc để tránh bị nghi ngờ, nhưng cũng cần tăng doanh thu để tích lũy điểm kinh nghiệm.
 
-Nhờ kỹ năng thương mại cấp 2, ông luôn biết khi nào nên bán giá cao, khi nào nên giảm giá để thu hút khách hàng. Doanh thu của ông tăng nhanh chóng.
+Nhờ kỹ năng thương mại cấp 2, ông luôn biết khi nào nên bán giá cao, khi nào nên giảm giá để thu hút khách hàng. Ông quan sát thị trường, thấy nhu cầu gạo trắng và thịt bò ngày càng cao, giá cả cũng tăng theo. Doanh thu của ông tăng nhanh chóng, mỗi ngày ông kiếm được từ 15-20 đồng.
 
-Sau một tuần, ông đã tích lũy được 100 điểm kinh nghiệm.
-
-Hệ thống thông báo:
+Sau một tuần, ông đã tích lũy được 100 điểm kinh nghiệm. Hệ thống thông báo:
 
 "Chúc mừng chủ nhân đã hoàn thành nhiệm vụ đầu tiên!"
 
@@ -19,53 +17,53 @@ Hệ thống thông báo:
 
 "Điểm kinh nghiệm hiện tại: 200."
 
-Trần Văn Hùng mừng rỡ. Không gian của ông giờ đã rộng 1200m², đủ để chứa nhiều hàng hóa hơn. Kỹ năng đàm phán mới sẽ giúp ông trong các giao dịch lớn.
+Trần Văn Hùng mừng rỡ. Không gian của ông giờ đã rộng 1200m², đủ để chứa nhiều hàng hóa hơn. Kỹ năng đàm phán mới sẽ giúp ông trong các giao dịch lớn, cho phép ông thương lượng giá cả tốt hơn và đạt được thỏa thuận có lợi.
 
-Ông quyết định bắt đầu kinh doanh quy mô lớn hơn. Ông không chỉ bán lẻ nữa, mà sẽ bán sỉ cho các thương lái.
+Ông quyết định bắt đầu kinh doanh quy mô lớn hơn. Ông không chỉ bán lẻ nữa, mà sẽ bán sỉ cho các thương lái. Bán lẻ tốn nhiều thời gian và công sức, trong khi bán sỉ có thể kiếm được nhiều tiền hơn trong thời gian ngắn hơn.
 
-Ông tìm đến một thương lái tên là ông Ba, người nổi tiếng ở huyện Quốc Oai.
+Ông tìm đến một thương lái tên là ông Ba, người nổi tiếng ở huyện Quốc Oai. Ông Ba là một thương lái giàu kinh nghiệm, có mạng lưới buôn bán rộng khắp, thường xuyên đi các tỉnh mua hàng về bán lại.
 
-"Ông Ba, tôi có nguồn hàng gạo và thịt tốt, muốn bán sỉ cho ông," Trần Văn Hùng nói.
+"Ông Ba, tôi có nguồn hàng gạo và thịt tốt, muốn bán sỉ cho ông," Trần Văn Hùng nói, giọng nói bình tĩnh.
 
-Ông Ba nhìn chàng trai trẻ trước mặt, nghi ngờ. "Nguồn hàng tốt? Cậu lấy đâu ra?"
+Ông Ba nhìn chàng trai trẻ trước mặt, nghi ngờ. "Nguồn hàng tốt? Cậu lấy đâu ra? Giờ này hàng hóa khan hiếm lắm."
 
-"Tôi có quen người ở miền Nam, họ gửi hàng về," Trần Văn Hùng nói dối khéo léo. "Giá tốt hơn ông mua ở chỗ khác."
+"Tôi có quen người ở miền Nam, họ gửi hàng về," Trần Văn Hùng nói dối khéo léo, giọng nói chân thành. "Giá tốt hơn ông mua ở chỗ khác, hàng chất lượng."
 
-Ông Ba suy nghĩ một chút. "Được, tôi xem hàng trước."
+Ông Ba suy nghĩ một chút, ánh mắt vẫn còn nghi ngờ. "Được, tôi xem hàng trước. Nếu hàng tốt, tôi sẽ mua."
 
-Trần Văn Hùng lấy từ không gian ra 50kg gạo trắng và 10kg thịt bò, đặt lên bàn. Ông Ba sững sờ trước số lượng hàng hóa lớn như vậy.
+Trần Văn Hùng lấy từ không gian ra 50kg gạo trắng và 10kg thịt bò, đặt lên bàn. Ông Ba sững sờ trước số lượng hàng hóa lớn như vậy. Trong thời bao cấp, hiếm có ai có nhiều hàng hóa như vậy.
 
-"Đây... đây là gạo trắng thật sao?" Ông Ba ngạc nhiên.
+"Đây... đây là gạo trắng thật sao?" Ông Ba ngạc nhiên, đôi mắt mở to. "Cậu lấy đâu ra nhiều hàng như vậy?"
 
-"Thật," Trần Văn Hùng nói. "Giá tôi bán: gạo 3 đồng một kg, thịt 10 đồng một kg. Giá sỉ, rẻ hơn giá lẻ nhiều."
+"Thật," Trần Văn Hùng nói, giọng nói kiên định. "Giá tôi bán: gạo 3 đồng một kg, thịt 10 đồng một kg. Giá sỉ, rẻ hơn giá lẻ nhiều."
 
-Ông Ba tính toán nhanh chóng. Nếu mua ở giá này và bán lại, ông sẽ kiếm được lợi nhuận lớn.
+Ông Ba tính toán nhanh chóng. Nếu mua ở giá này và bán lại, ông sẽ kiếm được lợi nhuận lớn. Gạo trắng giá lẻ là 4-5 đồng một kg, thịt bò giá lẻ là 12-15 đồng một kg. Nếu mua ở giá sỉ và bán lại, ông sẽ kiếm được lợi nhuận đáng kể.
 
-"Được, tôi mua hết," Ông Ba nói nhanh chóng. "Nhưng tôi cần nguồn hàng ổn định."
+"Được, tôi mua hết," Ông Ba nói nhanh chóng, giọng nói hào hứng. "Nhưng tôi cần nguồn hàng ổn định. Cậu có thể cung cấp thường xuyên không?"
 
-"Tôi có thể cung cấp ổn định," Trần Văn Hùng nói. "Mỗi tuần tôi có thể cung cấp 100kg gạo và 20kg thịt."
+"Tôi có thể cung cấp ổn định," Trần Văn Hùng nói. "Mỗi tuần tôi có thể cung cấp 100kg gạo và 20kg thịt. Giá vẫn như thế."
 
-Ông Ba gật đầu. "Được, chúng ta hợp tác."
+Ông Ba gật đầu, ánh mắt hài lòng. "Được, chúng ta hợp tác. Tôi sẽ thanh toán ngay."
 
-Hai người ký kết thỏa thuận bằng lời nói. Trong thời bao cấp, hợp đồng viết không có giá trị pháp lý, nhưng lời hứa giữa thương nhân vẫn được tôn trọng.
+Hai người ký kết thỏa thuận bằng lời nói. Trong thời bao cấp, hợp đồng viết không có giá trị pháp lý, nhưng lời hứa giữa thương nhân vẫn được tôn trọng. Ông Ba đếm tiền, đưa cho Trần Văn Hùng 250 đồng - tổng cộng 150 đồng cho gạo và 100 đồng cho thịt.
 
-Trần Văn Hùng về nhà với một xấp tiền lớn - tổng cộng 250 đồng từ giao dịch này. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả năm.
+Trần Văn Hùng về nhà với một xấp tiền lớn - tổng cộng 250 đồng từ giao dịch này. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả năm. Bình thường một người làm việc cả tháng cũng chỉ kiếm được vài chục đồng, nhưng ông chỉ mất một buổi đã kiếm được 250 đồng.
 
-Khi về đến nhà, ông đưa cho bà 100 đồng. "Bà, đây là tiền cháu kiếm được."
+Khi về đến nhà, ông đưa cho bà 100 đồng. "Bà, đây là tiền cháu kiếm được. Bà giữ tiền này, bà mua chút đồ ăn ngon."
 
-Bà Hà sững sờ nhìn số tiền lớn. "Nhiều quá! Cháu làm gì mà kiếm được nhiều tiền như vậy?"
+Bà Hà sững sờ nhìn số tiền lớn, đôi mắt rưng rưng nước mắt. "Nhiều quá! Cháu làm gì mà kiếm được nhiều tiền như vậy? Cháu có làm gì sai trái không?"
 
-"Cháu bán sỉ cho thương lái," Trần Văn Hùng nói. "Cháu có nguồn hàng tốt."
+"Cháu bán sỉ cho thương lái," Trần Văn Hùng nói, giọng nói chân thành. "Cháu có nguồn hàng tốt, cháu buôn bán hợp pháp, không làm gì sai trái."
 
-Bà Hà lo lắng. "Nhưng cháu cẩn thận nhé. Số tiền lớn như vậy có thể gây chú ý."
+Bà Hà lo lắng, ánh mắt vẫn còn nghi ngờ. "Nhưng cháu cẩn thận nhé. Số tiền lớn như vậy có thể gây chú ý. Hộ nhà ta lại có lý lịch không tốt, cháu không được gây phiền toái."
 
-"Cháu biết ạ," Trần Văn Hùng nói. "Cháu sẽ cẩn thận."
+"Cháu biết ạ," Trần Văn Hùng nói, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Lan cũng chạy ra, ngạc nhiên khi thấy số tiền lớn. "Anh, anh kiếm được nhiều tiền quá!"
+Lan cũng chạy ra, ngạc nhiên khi thấy số tiền lớn. "Anh, anh kiếm được nhiều tiền quá! Em chưa từng thấy nhiều tiền như vậy!"
 
-"Anh muốn em và bà sống tốt hơn," Trần Văn Hùng nói. "Anh sẽ dùng tiền này để sửa nhà, mua đồ dùng mới."
+"Anh muốn em và bà sống tốt hơn," Trần Văn Hùng nói, giọng nói dịu dàng. "Anh sẽ dùng tiền này để sửa nhà, mua đồ dùng mới. Anh sẽ khiến em và bà không còn phải chịu khổ nữa."
 
-Lan rưng rưng nước mắt. "Cảm ơn anh."
+Lan rưng rưng nước mắt, ôm lấy anh. "Cảm ơn anh. Em tin anh."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -78,22 +76,22 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 - Phần thưởng: 200 điểm kinh nghiệm, mở rộng không gian thêm 300m², kỹ năng quản lý cấp 1
 - Thời gian: 30 ngày
 
-Trần Văn Hùng gật đầu. Ông cần tìm thêm 4 đối tác nữa để hoàn thành nhiệm vụ.
+Trần Văn Hùng gật đầu. Ông cần tìm thêm 4 đối tác nữa để hoàn thành nhiệm vụ. Với kỹ năng đàm phán mới, ông tin sẽ tìm được nhiều đối tác tốt.
 
-Ông quyết định ngày mai sẽ đi các huyện lân cận tìm kiếm đối tác mới. Với hàng hóa trong không gian, ông có thể cung cấp cho nhiều thương lái cùng lúc.
+Ông quyết định ngày mai sẽ đi các huyện lân cận tìm kiếm đối tác mới. Với hàng hóa trong không gian, ông có thể cung cấp cho nhiều thương lái cùng lúc. Ông sẽ mở rộng mạng lưới kinh doanh, không chỉ ở huyện Quốc Oai mà còn các huyện lân cận.
 
-Buổi tối, gia đình ăn cơm với thức ăn ngon. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+Buổi tối, gia đình ăn cơm với thức ăn ngon. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Họ cảm thấy hạnh phúc vì không còn phải lo lắng về việc ăn uống.
 
-"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì cho tương lai không?"
+"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì cho tương lai không? Cháu muốn làm gì sau này?"
 
-"Cháu có," Trần Văn Hùng nói. "Cháu muốn xây dựng một mạng lưới kinh doanh rộng khắp, không chỉ ở huyện Quốc Oai mà còn các huyện lân cận, thậm chí cả Hà Nội."
+"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu muốn xây dựng một mạng lưới kinh doanh rộng khắp, không chỉ ở huyện Quốc Oai mà còn các huyện lân cận, thậm chí cả Hà Nội. Cháu muốn trở thành thương gia lớn nhất Việt Nam."
 
-Bà Hà ngạc nhiên. "Hà Nội? Cháu nói quá tham vọng rồi."
+Bà Hà ngạc nhiên, ánh mắt nghi ngờ. "Hà Nội? Cháu nói quá tham vọng rồi. Giờ này làm ăn khó lắm, cháu phải cẩn thận."
 
-"Không phải tham vọng," Trần Văn Hùng nói. "Cháu có khả năng. Cháu tin mình sẽ làm được."
+"Không phải tham vọng," Trần Văn Hùng nói, giọng nói kiên định. "Cháu có khả năng. Cháu tin mình sẽ làm được. Cháu sẽ không làm bà lo lắng nữa."
 
-Bà Hà nhìn cháu trai, thấy ánh mắt kiên định của ông, bà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, an toàn là quan trọng nhất."
+Bà Hà nhìn cháu trai, thấy ánh mắt kiên định của ông, bà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, an toàn là quan trọng nhất. Cháu không được làm gì nguy hiểm."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, tiếp tục vẽ kế hoạch kinh doanh. Với hệ thống và kiến thức của mình, ông tin sẽ trở thành thương gia lớn nhất Việt Nam.
+Sau bữa tối, Trần Văn Hùng vào phòng, tiếp tục vẽ kế hoạch kinh doanh. Với hệ thống và kiến thức của mình, ông tin sẽ trở thành thương gia lớn nhất Việt Nam. Đây là cơ hội thứ hai, ông sẽ không lãng phí.

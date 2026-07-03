@@ -2,13 +2,15 @@
 Chương 61: Sản xuất xe đạp
 ============================================================
 
-Trần Văn Hùng quyết định bắt đầu sản xuất xe đạp. Ông kiểm tra không gian, thấy có linh kiện xe đạp, máy lắp ráp, và các công cụ khác.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông quyết định bắt đầu sản xuất xe đạp. Trong thời bao cấp, xe đạp là phương tiện giao thông xa xỉ, rất cần thiết cho người dân. Với kiến thức của thế kỷ 21 về cơ khí và kỹ năng kỹ thuật cấp 1, ông biết cách sản xuất xe đạp chất lượng cao.
 
-Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất cơ khí, nơi có máy lắp ráp và linh kiện.
+Ông kiểm tra không gian, thấy có linh kiện xe đạp, máy lắp ráp, và các công cụ khác. Hệ thống cung cấp đầy đủ vật liệu cần thiết để sản xuất xe đạp.
 
-Ông bắt đầu lắp ráp xe đạp với kỹ năng cơ bản. Với kiến thức của thế kỷ 21 về cơ khí và kỹ năng kỹ thuật cấp 1, ông biết cách lắp ráp xe đạp chất lượng tốt.
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất cơ khí, nơi có máy lắp ráp và linh kiện. Nhà xưởng rộng rãi, với đầy đủ thiết bị hiện đại.
 
-Sau vài giờ, ông đã lắp ráp xong 2 chiếc xe đạp. Ông kiểm tra chất lượng, thấy rất tốt.
+Ông bắt đầu lắp ráp xe đạp với kỹ năng cơ bản. Ông lắp ráp từng chi tiết tỉ mỉ, từ khung xe, bánh xe, đến phanh và tay lái. Với kiến thức của thế kỷ 21 về cơ khí và kỹ năng kỹ thuật cấp 1, ông biết cách lắp ráp xe đạp chất lượng tốt, bền đẹp và an toàn.
+
+Sau vài giờ, ông đã lắp ráp xong 2 chiếc xe đạp. Ông kiểm tra chất lượng, thấy rất tốt. Xe đạp bền đẹp, khung chắc chắn, bánh xe trơn tru, phanh hoạt động tốt.
 
 Hệ thống thông báo:
 
@@ -16,47 +18,47 @@ Hệ thống thông báo:
 
 "Điểm kinh nghiệm hiện tại: 6985."
 
-Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất xe đạp để bán.
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất xe đạp để bán. Tuy nhiên, ông biết rằng một mình không thể sản xuất đủ số lượng lớn. Ông cần thuê thêm người để tăng năng suất.
 
-Ông quyết định thuê thêm người giỏi cơ khí trong làng. Ông tìm đến ông Hùng, một người thợ cơ khí có kinh nghiệm.
+Ông quyết định thuê thêm người giỏi cơ khí trong làng. Ông tìm đến ông Hùng, một người thợ cơ khí có kinh nghiệm. Ông Hùng là người trung niên, với đôi tay khéo léo và kinh nghiệm lâu năm trong nghề.
 
-"Ông Hùng, cháu muốn thuê ông giúp việc lắp ráp xe đạp," Trần Văn Hùng nói.
+"Ông Hùng, cháu muốn thuê ông giúp việc lắp ráp xe đạp," Trần Văn Hùng nói, giọng nói dịu dàng. "Cháu có xưởng sản xuất cơ khí, cần người giỏi như ông giúp việc."
 
-Ông Hùng ngạc nhiên. "Thuê cháu? Cháu làm ăn gì mà cần người lắp ráp xe đạp?"
+Ông Hùng ngạc nhiên, đôi mắt mở to. "Thuê cháu? Cháu làm ăn gì mà cần người lắp ráp xe đạp? Cháu có xưởng sản xuất à?"
 
-"Cháu có xưởng sản xuất cơ khí," Trần Văn Hùng nói dối khéo léo. "Cháu cần người giỏi như ông giúp việc."
+"Có," Trần Văn Hùng nói, giọng nói chân thành. "Cháu có xưởng sản xuất cơ khí nhỏ. Cháu muốn sản xuất xe đạp để bán. Cháu cần người giỏi như ông giúp việc."
 
-Ông Hùng suy nghĩ một chút. "Được, nhưng cháu trả lương thế nào?"
+Ông Hùng suy nghĩ một chút, quan sát Trần Văn Hùng từ đầu đến chân. "Được, nhưng cháu trả lương thế nào? Cháu có khả năng chi trả không?"
 
-"8 đồng một ngày," Trần Văn Hùng nói. "Ông làm bao nhiêu cháu trả bấy nhiêu."
+"8 đồng một ngày," Trần Văn Hùng nói, giọng nói kiên định. "Ông làm bao nhiêu cháu trả bấy nhiêu. Cháu có khả năng chi trả."
 
-Ông Hùng sững sờ. "Nhiều quá! Cháu chắc chứ?"
+Ông Hùng sững sờ, đôi mắt mở to. "Nhiều quá! Cháu chắc chứ? 8 đồng một ngày là lương rất cao trong thời này."
 
-"Cháu chắc," Trần Văn Hùng nói. "Cháu có khả năng chi trả."
+"Cháu chắc," Trần Văn Hùng nói, giọng nói kiên định. "Cháu có khả năng chi trả. Cháu muốn thuê người giỏi, nên cháu trả lương cao."
 
-Ông Hùng gật đầu. "Được, tôi sẽ giúp cháu."
+Ông Hùng gật đầu, mỉm cười. "Được, tôi sẽ giúp cháu. Tôi sẽ làm việc chăm chỉ."
 
-Trần Văn Hùng cũng thuê thêm hai người nữa: ông Tuấn và ông Dũng, cả hai đều là thợ cơ khí có kinh nghiệm.
+Trần Văn Hùng cũng thuê thêm hai người nữa: ông Tuấn và ông Dũng, cả hai đều là thợ cơ khí có kinh nghiệm. Ông trả lương 8 đồng một ngày cho mỗi người, mức lương rất cao trong thời bao cấp.
 
-Ông đưa họ đến khu vực sản xuất cơ khí trong xưởng, đưa cho họ linh kiện và máy lắp ráp, bắt đầu làm việc.
+Ông đưa họ đến khu vực sản xuất cơ khí trong xưởng, đưa cho họ linh kiện và máy lắp ráp, bắt đầu làm việc. Ông hướng dẫn họ cách lắp ráp xe đạp, với kỹ năng kỹ thuật cấp 1, ông biết cách hướng dẫn hiệu quả.
 
-Với sự giúp đỡ của ba người, năng suất sản xuất xe đạp tăng lên rất nhanh. Trong một tuần, họ đã lắp ráp được 25 chiếc xe đạp.
+Với sự giúp đỡ của ba người, năng suất sản xuất xe đạp tăng lên rất nhanh. Trong một tuần, họ đã lắp ráp được 25 chiếc xe đạp. Ông Hùng, ông Tuấn và ông Dũng làm việc chăm chỉ, với kinh nghiệm lâu năm, họ lắp ráp xe đạp nhanh chóng và chất lượng.
 
-Trần Văn Hùng bán xe đạp cho các cửa hàng của mình. Vì xe đạp chất lượng tốt và giá hợp lý, chúng bán rất chạy.
+Trần Văn Hùng bán xe đạp cho các cửa hàng của mình. Vì xe đạp chất lượng tốt và giá hợp lý, chúng bán rất chạy. Trong thời bao cấp, xe đạp là phương tiện giao thông xa xỉ, rất cần thiết cho người dân. Xe đạp của Trần Văn Hùng bền đẹp, giá hợp lý, thu hút nhiều khách hàng.
 
-Ông bán mỗi chiếc xe đạp với giá 100 đồng, tổng cộng kiếm được 2500 đồng.
+Ông bán mỗi chiếc xe đạp với giá 100 đồng, tổng cộng kiếm được 2500 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả tháng.
 
-Ông đưa cho bà 800 đồng.
+Ông về nhà, đưa cho bà 800 đồng.
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Cháu đã sản xuất và bán 25 chiếc xe đạp. Cháu sẽ tiếp tục sản xuất."
 
-Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất xe đạp."
 
-Lan cũng chạy ra. "Anh, em muốn học lắp ráp xe đạp."
+Lan cũng chạy ra, ánh mắt hào hứng nhìn anh. "Anh, em muốn học lắp ráp xe đạp. Em muốn giúp anh."
 
-"Được," Trần Văn Hùng mỉm cười. "Anh sẽ dạy em."
+"Được," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Anh sẽ dạy em. Em sẽ giỏi như anh."
 
-Lan mỉm cười. "Cảm ơn anh."
+Lan mỉm cười, đôi mắt sáng lên. "Cảm ơn anh. Em sẽ học chăm chỉ."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -69,16 +71,16 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 - Phần thưởng: 300 điểm kinh nghiệm, kỹ năng cơ khí cấp 1
 - Thời gian: 90 ngày
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 200 chiếc xe đạp để hoàn thành nhiệm vụ.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 200 chiếc xe đạp để hoàn thành nhiệm vụ. Ông quyết định tiếp tục mở rộng sản xuất.
 
-Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
 
-"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
 
-"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất xe đạp và bán cho các cửa hàng."
+"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất xe đạp và bán cho các cửa hàng. Cháu muốn hoàn thành nhiệm vụ sản xuất 200 chiếc xe đạp trong vòng 90 ngày."
 
-Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất xe đạp. Ông quyết định mở rộng khu vực sản xuất cơ khí và thuê thêm người.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất xe đạp. Ông quyết định mở rộng khu vực sản xuất cơ khí và thuê thêm người. Với kiến thức của thế kỷ 21, ông biết cách quản lý sản xuất hiệu quả. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.

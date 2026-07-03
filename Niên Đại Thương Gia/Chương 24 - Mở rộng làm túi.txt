@@ -2,25 +2,31 @@
 Chương 24: Mở rộng làm túi
 ============================================================
 
-Trần Văn Hùng quyết định mở rộng khu vực làm túi. Ông thuê thêm 4 người nữa: cô Liên, cô Mai, cô Nga và cô Vy. Cả bốn đều giỏi làm túi.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông kiểm tra không gian, suy nghĩ về kế hoạch mở rộng khu vực làm túi. Ông cần tăng năng suất sản xuất để hoàn thành nhiệm vụ sản xuất 200 chiếc túi trong vòng 60 ngày. Với kiến thức của thế kỷ 21, ông biết cách quản lý xưởng làm túi hiệu quả.
 
-Ông cũng mua thêm 5 máy làm túi từ không gian, đưa vào khu vực làm túi. Khu vực làm túi giờ có 7 người và 8 máy làm túi, năng suất sản xuất tăng lên rất nhanh.
+Ông quyết định thuê thêm 4 người nữa: cô Liên, cô Mai, cô Nga và cô Vy. Cô Liên là người có kinh nghiệm làm túi nhiều năm, từng làm việc cho các xưởng túi lớn trước đây. Cô Mai là người trẻ, có tay nghề nhanh nhẹn. Cô Nga và cô Vy đều là người giỏi làm túi, từng làm việc cho các xưởng túi lớn.
 
-Trong một tuần, họ đã làm được 40 chiếc túi. Trần Văn Hùng bán túi cho các đối tác của mình, kiếm được 1200 đồng.
+Ông cũng mua thêm 5 máy làm túi từ không gian, đưa vào khu vực làm túi. Máy làm túi trong không gian là máy làm túi hiện đại, khác hẳn với máy làm túi thời bao cấp thường thủ công và kém hiệu quả. Khu vực làm túi giờ có 7 người và 8 máy làm túi, năng suất sản xuất tăng lên rất nhanh.
+
+Ông tổ chức khu vực làm túi hiệu quả, phân công công việc cho mỗi người. Cô Yến và cô Hương làm việc làm túi xách nữ, cô Thảo và cô Liên làm việc làm túi xách nam, cô Mai, cô Nga và cô Vy làm việc kiểm tra chất lượng và hoàn thiện sản phẩm. Lan cũng tham gia, đã làm được 3 chiếc túi đơn giản, tuy tay nghề còn chưa thành thạo nhưng rất chăm chỉ.
+
+Trong một tuần, họ đã làm được 40 chiếc túi. Mỗi người làm việc chăm chỉ, sản xuất khoảng 5-6 chiếc túi mỗi tuần. Trần Văn Hùng bán túi cho các đối tác của mình: ông Ba ở huyện Quốc Oai, ông Tâm ở huyện Chương Mỹ, ông Hùng ở Hà Nội, ông Tuấn ở Hà Nam, và ông Hưng ở Hải Dương. Mỗi đối tác đều hài lòng với chất lượng túi.
+
+Sau một tuần, ông đã bán được 40 chiếc túi, kiếm được 1200 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả năm.
 
 Ông đưa cho bà 400 đồng.
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon."
 
-Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ làm ăn tốt như vậy."
 
-Lan cũng chạy ra. "Anh, em đã làm được 3 chiếc túi rồi."
+Lan cũng chạy ra, ánh mắt ngạc nhiên nhìn anh. "Anh, em đã làm được 3 chiếc túi rồi. Em rất vui."
 
-"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá."
+"Tốt lắm," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em giỏi quá. Em rất có năng khiếu. Anh tự hào về em."
 
-Lan mỉm cười. "Em muốn giúp anh nhiều hơn."
+Lan mỉm cười, đôi mắt sáng lên. "Em muốn giúp anh nhiều hơn. Em muốn làm việc chăm chỉ."
 
-"Được," Trần Văn Hùng nói. "Em sẽ giúp anh khi em giỏi hơn."
+"Được," Trần Văn Hùng nói, giọng nói dịu dàng. "Em sẽ giúp anh khi em giỏi hơn. Anh sẽ dạy em thêm nhiều kỹ năng."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -30,16 +36,16 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
 "Tiến độ nhiệm vụ: 65/200 chiếc túi."
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán thêm 135 chiếc túi nữa để hoàn thành nhiệm vụ.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán thêm 135 chiếc túi nữa để hoàn thành nhiệm vụ. Ông cũng cần hoàn thành nhiệm vụ sản xuất giày - đã bán được 80 đôi, cần thêm 220 đôi.
 
-Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
 
-"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
 
-"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất túi và bán cho các đối tác."
+"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất túi và bán cho các đối tác. Cháu cần hoàn thành cả hai nhiệm vụ: sản xuất túi và sản xuất giày."
 
-Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, kiểm tra tiến độ các nhiệm vụ khác. Ông cũng cần hoàn thành nhiệm vụ sản xuất giày - đã bán được 80 đôi, cần thêm 220 đôi.
+Sau bữa tối, Trần Văn Hùng vào phòng, kiểm tra tiến độ các nhiệm vụ khác. Ông quyết định tập trung vào sản xuất trong hai tuần tới để hoàn thành cả hai nhiệm vụ. Với xưởng đã mở rộng, ông tin sẽ hoàn thành nhiệm vụ sớm. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.

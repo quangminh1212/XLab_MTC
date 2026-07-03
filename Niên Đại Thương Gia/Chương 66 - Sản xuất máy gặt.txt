@@ -2,13 +2,15 @@
 Chương 66: Sản xuất máy gặt
 ============================================================
 
-Trần Văn Hùng quyết định bắt đầu sản xuất máy gặt. Ông kiểm tra không gian, thấy có linh kiện cơ khí, động cơ, và các công cụ khác.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông quyết định bắt đầu sản xuất máy gặt. Trong thời bao cấp, máy gặt là máy móc nông nghiệp xa xỉ, rất cần thiết cho nông dân để tăng năng suất thu hoạch. Với kiến thức của thế kỷ 21 về cơ khí và kỹ năng cơ khí cấp 1, ông biết cách sản xuất máy gặt chất lượng cao.
 
-Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất cơ khí, bắt đầu lắp ráp máy gặt.
+Ông kiểm tra không gian, thấy có linh kiện cơ khí, động cơ, và các công cụ khác. Hệ thống cung cấp đầy đủ vật liệu cần thiết để sản xuất máy gặt.
 
-Với kiến thức của thế kỷ 21 về cơ khí và kỹ năng cơ khí cấp 1, ông biết cách lắp ráp máy gặt chất lượng tốt.
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất cơ khí, bắt đầu lắp ráp máy gặt. Nhà xưởng rộng rãi, với đầy đủ thiết bị hiện đại.
 
-Sau vài giờ, ông đã lắp ráp xong 1 chiếc máy gặt. Ông kiểm tra chất lượng, thấy rất tốt.
+Ông bắt đầu lắp ráp máy gặt với kỹ năng cơ khí cấp 1. Ông lắp ráp từng chi tiết tỉ mỉ, từ khung máy, động cơ, đến bánh xe và các bộ phận thu hoạch. Với kiến thức của thế kỷ 21 về cơ khí và kỹ năng cơ khí cấp 1, ông biết cách lắp ráp máy gặt chất lượng tốt, bền đẹp và hiệu quả.
+
+Sau vài giờ, ông đã lắp ráp xong 1 chiếc máy gặt. Ông kiểm tra chất lượng, thấy rất tốt. Máy gặt bền đẹp, động cơ mạnh mẽ, bánh xe chắc chắn, các bộ phận thu hoạch hoạt động tốt.
 
 Hệ thống thông báo:
 
@@ -16,27 +18,27 @@ Hệ thống thông báo:
 
 "Điểm kinh nghiệm hiện tại: 7705."
 
-Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất máy gặt để bán.
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất máy gặt để bán. Ông quyết định sử dụng cùng một nhóm thợ cơ khí để lắp ráp máy gặt. Với kinh nghiệm từ sản xuất máy cày, họ có thể lắp ráp máy gặt nhanh chóng.
 
-Ông quyết định sử dụng cùng một nhóm thợ cơ khí để lắp ráp máy gặt. Với kinh nghiệm từ sản xuất máy cày, họ có thể lắp ráp máy gặt nhanh chóng.
+Ông hướng dẫn nhóm thợ cách lắp ráp máy gặt. Ông Hùng lắp ráp khung máy, ông Tuấn lắp ráp động cơ, ông Dũng lắp ráp bánh xe, ông Quân lắp ráp các bộ phận thu hoạch, ông Thành lắp ráp hệ thống truyền động, ông Long lắp ráp hệ thống cắt, và ông Huy lắp ráp các chi tiết nhỏ. Lan phụ trách kiểm tra chất lượng cuối cùng.
 
-Trong một tuần, họ đã lắp ráp được 12 chiếc máy gặt. Trần Văn Hùng bán máy gặt cho các cửa hàng của mình. Vì máy gặt là hàng mới và rất cần thiết cho nông nghiệp, chúng bán rất chạy.
+Trong một tuần, họ đã lắp ráp được 12 chiếc máy gặt. Trần Văn Hùng bán máy gặt cho các cửa hàng của mình. Vì máy gặt là hàng mới và rất cần thiết cho nông nghiệp, chúng bán rất chạy. Trong thời bao cấp, máy gặt là máy móc nông nghiệp xa xỉ, rất cần thiết cho nông dân để tăng năng suất thu hoạch. Máy gặt của Trần Văn Hùng bền đẹp, hiệu quả, giá hợp lý, thu hút nhiều khách hàng.
 
-Ông bán mỗi chiếc máy gặt với giá 250 đồng, tổng cộng kiếm được 3000 đồng.
+Ông bán mỗi chiếc máy gặt với giá 250 đồng, tổng cộng kiếm được 3000 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả tháng.
 
-Ông đưa cho bà 1000 đồng.
+Ông về nhà, đưa cho bà 1000 đồng.
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Cháu đã sản xuất và bán 12 chiếc máy gặt. Cháu sẽ tiếp tục sản xuất."
 
-Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất máy gặt."
 
-Lan cũng chạy ra. "Anh, em đã lắp ráp được 2 chiếc máy gặt rồi."
+Lan cũng chạy ra, ánh mắt hào hứng nhìn anh. "Anh, em đã lắp ráp được 2 chiếc máy gặt rồi. Em giỏi quá."
 
-"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá."
+"Tốt lắm," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em giỏi quá. Anh tự hào về em."
 
-Lan mỉm cười. "Em muốn giúp anh nhiều hơn."
+Lan mỉm cười, đôi mắt sáng lên. "Em muốn giúp anh nhiều hơn. Em sẽ làm việc chăm chỉ."
 
-"Được," Trần Văn Hùng nói. "Em sẽ giúp anh khi em giỏi hơn."
+"Được," Trần Văn Hùng nói, giọng nói dịu dàng. "Em sẽ giúp anh khi em giỏi hơn. Anh sẽ dạy em nhiều kỹ năng."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -49,16 +51,16 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 - Phần thưởng: 300 điểm kinh nghiệm, kỹ năng kỹ thuật cấp 2
 - Thời gian: 90 ngày
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 80 chiếc máy gặt để hoàn thành nhiệm vụ.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 80 chiếc máy gặt để hoàn thành nhiệm vụ. Ông quyết định tiếp tục mở rộng sản xuất.
 
-Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
 
-"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
 
-"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất máy gặt và bán cho các cửa hàng."
+"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất máy gặt và bán cho các cửa hàng. Cháu muốn hoàn thành nhiệm vụ sản xuất 80 chiếc máy gặt trong vòng 90 ngày."
 
-Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất máy gặt. Ông quyết định tăng năng suất để hoàn thành nhiệm vụ nhanh hơn.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất máy gặt. Ông quyết định tăng năng suất để hoàn thành nhiệm vụ nhanh hơn. Với kiến thức của thế kỷ 21, ông biết cách quản lý sản xuất hiệu quả. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.

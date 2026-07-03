@@ -2,13 +2,13 @@
 Chương 41: Sản xuất quạt điện
 ============================================================
 
-Trần Văn Hùng quyết định bắt đầu sản xuất quạt điện. Ông kiểm tra không gian, thấy có linh kiện điện tử, động cơ, và các công cụ khác.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông kiểm tra không gian, suy nghĩ về kế hoạch sản xuất quạt điện. Ông muốn bắt đầu sản xuất quạt điện vì nhu cầu cao trong mùa hè. Với kiến thức của thế kỷ 21 về điện tử và kỹ năng điện tử cấp 1, ông tin sẽ sản xuất được quạt điện chất lượng cao.
 
-Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất điện tử, bắt đầu lắp ráp quạt điện.
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực sản xuất điện tử, nơi có máy lắp ráp hiện đại và linh kiện điện tử chất lượng cao. Ông bắt đầu lắp ráp quạt điện với kỹ năng cơ bản.
 
-Với kiến thức của thế kỷ 21 về điện tử và kỹ năng điện tử cấp 1, ông biết cách lắp ráp quạt điện chất lượng tốt.
+Ông sử dụng linh kiện từ không gian, lắp ráp từng bộ phận một cách tỉ mỉ và chính xác. Với kiến thức của thế kỷ 21 về điện tử và kỹ năng điện tử cấp 1, ông biết cách lắp ráp quạt điện chất lượng tốt. Ông thiết kế quạt điện với động cơ mạnh mẽ, cánh quạt bền đẹp, và hệ thống an toàn.
 
-Sau vài giờ, ông đã lắp ráp xong 2 chiếc quạt điện. Ông kiểm tra chất lượng, thấy rất tốt.
+Sau vài giờ, ông đã lắp ráp xong 2 chiếc quạt điện. Ông kiểm tra chất lượng, thấy rất tốt. Quạt điện hoạt động êm ái, gió mạnh, thiết kế đẹp đẽ. Trong thời bao cấp, quạt điện là một mặt hàng xa xỉ, hiếm có và đắt đỏ.
 
 Hệ thống thông báo:
 
@@ -16,27 +16,29 @@ Hệ thống thông báo:
 
 "Điểm kinh nghiệm hiện tại: 3855."
 
-Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất quạt điện để bán.
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất quạt điện để bán. Ông quyết định mở rộng sản xuất để tăng năng suất.
 
-Ông quyết định sử dụng cùng một nhóm thợ điện tử để lắp ráp quạt điện. Với kinh nghiệm từ sản xuất radio, họ có thể lắp ráp quạt điện nhanh chóng.
+Ông quyết định sử dụng cùng một nhóm thợ điện tử để lắp ráp quạt điện. Với kinh nghiệm từ sản xuất radio, họ có thể lắp ráp quạt điện nhanh chóng. Ông tổ chức quy trình sản xuất một cách khoa học, chia công việc cho từng người để tối ưu hóa năng suất.
 
-Trong một tuần, họ đã lắp ráp được 40 chiếc quạt điện. Trần Văn Hùng bán quạt điện cho các cửa hàng của mình. Vì quạt điện là hàng mới và rất cần thiết trong mùa hè, chúng bán rất chạy.
+Trong một tuần, họ đã lắp ráp được 40 chiếc quạt điện. Trần Văn Hùng bán quạt điện cho các cửa hàng của mình. Vì quạt điện là hàng mới và rất cần thiết trong mùa hè, chúng bán rất chạy. Mùa hè đang đến, nhiệt độ tăng cao, nhu cầu quạt điện rất lớn.
 
-Ông bán mỗi chiếc quạt điện với giá 80 đồng, tổng cộng kiếm được 3200 đồng.
+Ông bán mỗi chiếc quạt điện với giá 80 đồng, tổng cộng kiếm được 3200 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả tháng.
 
 Ông đưa cho bà 1000 đồng.
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon."
 
-Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất được quạt điện."
 
-Lan cũng chạy ra. "Anh, em đã lắp ráp được 8 chiếc quạt điện rồi."
+Lan cũng chạy ra, ánh mắt hào hứng nhìn anh. "Anh, em đã lắp ráp được 8 chiếc quạt điện rồi. Em giỏi không?"
 
-"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá."
+"Tốt lắm," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em giỏi quá. Em đã học rất nhanh. Anh tự hào về em."
 
-Lan mỉm cười. "Em muốn giúp anh nhiều hơn."
+Lan mỉm cười, đôi mắt sáng lên. "Em muốn giúp anh nhiều hơn. Em muốn lắp ráp nhiều quạt điện hơn."
 
-"Được," Trần Văn Hùng nói. "Em sẽ giúp anh khi em giỏi hơn."
+"Được," Trần Văn Hùng nói, giọng nói dịu dàng. "Em sẽ giúp anh khi em giỏi hơn. Anh sẽ dạy em nhiều kỹ năng hơn. Em sẽ giỏi như anh."
+
+Lan mỉm cười, đôi mắt sáng lên. "Em cảm thấy như đang mơ. Em chưa từng nghĩ em sẽ làm được như vậy."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -49,16 +51,16 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 - Phần thưởng: 200 điểm kinh nghiệm, kỹ năng kỹ thuật cấp 1
 - Thời gian: 60 ngày
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 150 chiếc quạt điện để hoàn thành nhiệm vụ.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 150 chiếc quạt điện để hoàn thành nhiệm vụ. Ông quyết định tiếp tục mở rộng sản xuất để hoàn thành nhiệm vụ nhanh hơn.
 
-Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
 
-"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
 
-"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất quạt điện và bán cho các cửa hàng."
+"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất quạt điện và bán cho các cửa hàng. Cháu muốn hoàn thành nhiệm vụ sản xuất 150 chiếc quạt điện trong vòng 60 ngày."
 
-Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất quạt điện. Ông quyết định tăng năng suất để hoàn thành nhiệm vụ nhanh hơn.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất quạt điện. Ông quyết định tăng năng suất để hoàn thành nhiệm vụ nhanh hơn. Với kiến thức của thế kỷ 21, ông biết cách quản lý sản xuất hiệu quả. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.

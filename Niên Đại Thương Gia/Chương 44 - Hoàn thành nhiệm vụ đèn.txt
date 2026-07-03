@@ -2,29 +2,33 @@
 Chương 44: Hoàn thành nhiệm vụ đèn
 ============================================================
 
-Trong hai tuần tiếp theo, Trần Văn Hùng tập trung vào sản xuất đèn điện. Với kỹ năng kỹ thuật cấp 1 và nhóm thợ lành nghề, năng suất sản xuất tăng lên rất nhanh.
+Trong hai tuần tiếp theo, Trần Văn Hùng tập trung vào sản xuất đèn điện. Với kỹ năng kỹ thuật cấp 1 và nhóm thợ lành nghề, năng suất sản xuất tăng lên rất nhanh. Ông và 7 công nhân làm việc chăm chỉ, mỗi ngày lắp ráp được khoảng 18 chiếc đèn.
 
-Ông và 7 công nhân làm việc chăm chỉ, mỗi ngày lắp ráp được khoảng 18 chiếc đèn. Trong hai tuần, họ đã lắp ráp được 150 chiếc đèn, hoàn thành mục tiêu 200 chiếc.
+Ông tổ chức quy trình sản xuất một cách khoa học, chia công việc cho từng người để tối ưu hóa năng suất. Ông giám sát công việc, đảm bảo chất lượng sản phẩm. Với kiến thức của thế kỷ 21 về điện tử, ông biết cách sản xuất đèn điện chất lượng cao và hiệu quả.
 
-Trần Văn Hùng bán đèn điện cho các cửa hàng của mình. Đèn điện bán rất chạy vì chất lượng tốt và giá hợp lý.
+Trong hai tuần, họ đã lắp ráp được 150 chiếc đèn, hoàn thành mục tiêu 200 chiếc. Tổng cộng, từ khi bắt đầu sản xuất đèn điện, họ đã sản xuất được 200 chiếc đèn, hoàn thành nhiệm vụ.
 
-Sau hai tuần, ông đã bán được 200 chiếc đèn, kiếm được 8800 đồng.
+Trần Văn Hùng bán đèn điện cho các cửa hàng của mình. Đèn điện bán rất chạy vì chất lượng tốt và giá hợp lý. Trong thời bao cấp, đèn điện là một mặt hàng xa xỉ, hiếm có và đắt đỏ. Đèn điện của Trần Văn Hùng chất lượng cao, giá hợp lý, thu hút nhiều khách hàng.
+
+Sau hai tuần, ông đã bán được 200 chiếc đèn, kiếm được 8800 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả năm.
 
 Ông đưa cho bà 3000 đồng.
 
-"Bà, đây là tiền cháu kiếm được trong hai tuần này," Trần Văn Hùng nói.
+"Bà, đây là tiền cháu kiếm được trong hai tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon."
 
-Bà Hà sững sờ. "Nhiều quá! Cháu làm ăn tốt quá."
+Bà Hà sững sờ, đôi mắt mở to. "Nhiều quá! Cháu làm ăn tốt quá. Bà chưa từng nghĩ cháu sẽ kiếm được nhiều tiền như vậy."
 
-"Cháu đã hoàn thành mục tiêu sản xuất đèn điện," Trần Văn Hùng nói. "Cháu sẽ tiếp tục mở rộng."
+"Cháu đã hoàn thành mục tiêu sản xuất đèn điện," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục mở rộng. Cháu muốn mở rộng kinh doanh sang lĩnh vực dịch vụ."
 
-Lan cũng chạy ra. "Anh, em đã lắp ráp được 30 chiếc đèn rồi."
+Lan cũng chạy ra, ánh mắt hào hứng nhìn anh. "Anh, em đã lắp ráp được 30 chiếc đèn rồi. Em giỏi không?"
 
-"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá."
+"Tốt lắm," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em giỏi quá. Em đã học rất nhanh. Anh tự hào về em."
 
-Lan mỉm cười. "Em muốn giúp anh nhiều hơn."
+Lan mỉm cười, đôi mắt sáng lên. "Em muốn giúp anh nhiều hơn. Em muốn làm nhiều việc hơn."
 
-"Được," Trần Văn Hùng nói. "Em sẽ giúp anh khi em giỏi hơn."
+"Được," Trần Văn Hùng nói, giọng nói dịu dàng. "Em sẽ giúp anh khi em giỏi hơn. Anh sẽ dạy em nhiều kỹ năng hơn. Em sẽ giỏi như anh."
+
+Lan mỉm cười, đôi mắt sáng lên. "Em cảm thấy như đang mơ. Em chưa từng nghĩ em sẽ làm được như vậy."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -36,20 +40,20 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
 "Điểm kinh nghiệm hiện tại: 4325."
 
-Trần Văn Hùng mừng rỡ. Kỹ năng sáng tạo mới sẽ giúp ông thiết kế các sản phẩm mới và độc đáo hơn.
+Trần Văn Hùng mừng rỡ. Kỹ năng sáng tạo mới sẽ giúp ông thiết kế các sản phẩm mới và độc đáo hơn. Với kỹ năng sáng tạo cấp 1, ông có thể thiết kế các sản phẩm sáng tạo, độc đáo, thu hút khách hàng.
 
-Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
 
-"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
 
-"Cháu có," Trần Văn Hùng nói. "Cháu muốn mở rộng kinh doanh sang lĩnh vực dịch vụ."
+"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu muốn mở rộng kinh doanh sang lĩnh vực dịch vụ. Cháu muốn mở nhà hàng và khách sạn để phục vụ khách hàng tốt hơn."
 
-Bà Hà ngạc nhiên. "Dịch vụ? Cháu nói thế có phải quá tham vọng không?"
+Bà Hà ngạc nhiên, đôi mắt mở to. "Dịch vụ? Cháu nói thế có phải quá tham vọng không? Nhà hàng và khách sạn là những kinh doanh lớn, cháu có thể làm được không?"
 
-"Không phải tham vọng," Trần Văn Hùng nói. "Cháu có khả năng. Cháu tin mình sẽ làm được."
+"Không phải tham vọng," Trần Văn Hùng nói, giọng nói kiên định. "Cháu có khả năng. Cháu tin mình sẽ làm được. Cháu đã có kinh nghiệm kinh doanh, cháu có thể mở rộng sang lĩnh vực dịch vụ."
 
-Bà Hà nhìn cháu trai, thấy ánh mắt kiên định của ông, bà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+Bà Hà nhìn cháu trai, thấy ánh mắt kiên định của ông, bà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch kinh doanh dịch vụ. Ông quyết định mở nhà hàng và khách sạn.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch kinh doanh dịch vụ. Ông quyết định mở nhà hàng và khách sạn. Với kiến thức của thế kỷ 21, ông biết cách quản lý dịch vụ hiệu quả. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.

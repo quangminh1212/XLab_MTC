@@ -2,25 +2,31 @@
 Chương 21: Mở rộng làm giày
 ============================================================
 
-Trần Văn Hùng quyết định mở rộng khu vực làm giày. Ông thuê thêm 4 người nữa: ông Quân, ông Dũng, ông Thắng và ông Long. Cả bốn đều là thợ giày có kinh nghiệm.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông kiểm tra không gian, suy nghĩ về kế hoạch mở rộng khu vực làm giày. Ông cần tăng năng suất sản xuất để hoàn thành nhiệm vụ sản xuất 300 đôi giày trong vòng 60 ngày. Với kiến thức của thế kỷ 21, ông biết cách quản lý xưởng làm giày hiệu quả.
 
-Ông cũng mua thêm 5 máy làm giày từ không gian, đưa vào khu vực làm giày. Khu vực làm giày giờ có 7 người và 8 máy làm giày, năng suất sản xuất tăng lên rất nhanh.
+Ông quyết định thuê thêm 4 người nữa: ông Quân, ông Dũng, ông Thắng và ông Long. Ông Quân là người có kinh nghiệm làm giày nhiều năm, từng làm việc cho các xưởng giày lớn trước đây. Ông Dũng là người trẻ, có tay nghề nhanh nhẹn. Ông Thắng và ông Long đều là thợ giày có kinh nghiệm, từng làm việc cho các xưởng giày lớn.
 
-Trong một tuần, họ đã làm được 50 đôi giày. Trần Văn Hùng bán giày cho các đối tác của mình, kiếm được 1250 đồng.
+Ông cũng mua thêm 5 máy làm giày từ không gian, đưa vào khu vực làm giày. Máy làm giày trong không gian là máy làm giày hiện đại, khác hẳn với máy làm giày thời bao cấp thường thủ công và kém hiệu quả. Khu vực làm giày giờ có 7 người và 8 máy làm giày, năng suất sản xuất tăng lên rất nhanh.
+
+Ông tổ chức khu vực làm giày hiệu quả, phân công công việc cho mỗi người. Ông Thành và ông Hòa làm việc làm giày nam, ông Hùng và ông Quân làm việc làm giày nữ, ông Dũng, ông Thắng và ông Long làm việc kiểm tra chất lượng và hoàn thiện sản phẩm. Lan cũng tham gia, đã làm được 2 đôi giày đơn giản, tuy tay nghề còn chưa thành thạo nhưng rất chăm chỉ.
+
+Trong một tuần, họ đã làm được 50 đôi giày. Mỗi người làm việc chăm chỉ, sản xuất khoảng 7-8 đôi giày mỗi tuần. Trần Văn Hùng bán giày cho các đối tác của mình: ông Ba ở huyện Quốc Oai, ông Tâm ở huyện Chương Mỹ, ông Hùng ở Hà Nội, ông Tuấn ở Hà Nam, và ông Hưng ở Hải Dương. Mỗi đối tác đều hài lòng với chất lượng giày.
+
+Sau một tuần, ông đã bán được 50 đôi giày, kiếm được 1250 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả năm.
 
 Ông đưa cho bà 400 đồng.
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon."
 
-Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ làm ăn tốt như vậy."
 
-Lan cũng chạy ra. "Anh, em đã làm được 2 đôi giày rồi."
+Lan cũng chạy ra, ánh mắt ngạc nhiên nhìn anh. "Anh, em đã làm được 2 đôi giày rồi. Em rất vui."
 
-"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá."
+"Tốt lắm," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em giỏi quá. Em rất có năng khiếu. Anh tự hào về em."
 
-Lan mỉm cười. "Em muốn giúp anh nhiều hơn."
+Lan mỉm cười, đôi mắt sáng lên. "Em muốn giúp anh nhiều hơn. Em muốn làm việc chăm chỉ."
 
-"Được," Trần Văn Hùng nói. "Em sẽ giúp anh khi em giỏi hơn."
+"Được," Trần Văn Hùng nói, giọng nói dịu dàng. "Em sẽ giúp anh khi em giỏi hơn. Anh sẽ dạy em thêm nhiều kỹ năng."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -30,16 +36,16 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
 "Tiến độ nhiệm vụ: 80/300 đôi giày."
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán thêm 220 đôi giày nữa để hoàn thành nhiệm vụ.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán thêm 220 đôi giày nữa để hoàn thành nhiệm vụ. Ông quyết định đi các tỉnh miền Nam để mở rộng thị trường.
 
-Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
 
-"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
 
-"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất giày và bán cho các đối tác mới."
+"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất giày và bán cho các đối tác mới. Cháu muốn đi các tỉnh miền Nam để mở rộng thị trường."
 
-Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch tìm đối tác mới cho giày dép. Ông quyết định đi các tỉnh miền Nam để mở rộng thị trường.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch tìm đối tác mới cho giày dép. Ông quyết định đi Thành phố Hồ Chí Minh để mở rộng thị trường miền Nam. Với kỹ năng marketing cấp 1, ông tin sẽ tìm được nhiều đối tác tốt và mở rộng mạng lưới kinh doanh rộng khắp. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.

@@ -2,13 +2,15 @@
 Chương 20: Sản xuất giày dép
 ============================================================
 
-Trần Văn Hùng quyết định bắt đầu sản xuất giày dép. Ông kiểm tra không gian, thấy có nguyên liệu da, máy làm giày, và các công cụ khác.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông kiểm tra không gian, suy nghĩ về kế hoạch sản xuất giày dép. Ông muốn đa dạng hóa sản phẩm để tăng lợi nhuận. Với kiến thức của thế kỷ 21, ông biết cách thiết kế và sản xuất giày dép đẹp và thoải mái.
 
-Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng mới. Ông đi vào khu vực làm giày, nơi có máy làm giày và nguyên liệu da.
+Ông kiểm tra không gian, thấy có nguyên liệu da, máy làm giày, và các công cụ khác. Máy làm giày trong không gian là máy làm giày hiện đại, khác hẳn với máy làm giày thời bao cấp thường thủ công và kém hiệu quả. Nguyên liệu da trong không gian là da chất lượng cao, với nhiều màu sắc và kiểu dáng khác nhau.
 
-Ông bắt đầu làm giày với kỹ năng cơ bản. Với kiến thức của thế kỷ 21, ông biết cách thiết kế giày đẹp và thoải mái.
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng mới. Ông đi vào khu vực làm giày, nơi có máy làm giày và nguyên liệu da. Khu vực làm giày rộng rãi, đầy đủ ánh sáng, với máy làm giày đặt ngay ngắn và nguyên liệu da xếp gọn gàng.
 
-Sau vài giờ, ông đã làm xong 2 đôi giày. Ông kiểm tra chất lượng, thấy rất tốt.
+Ông bắt đầu làm giày với kỹ năng cơ bản. Với kiến thức của thế kỷ 21, ông biết cách thiết kế giày đẹp và thoải mái. Ông chọn da màu đen, cắt may thành giày nam với thiết kế hiện đại, khác hẳn với giày thời bao cấp thường đơn giản và kém thoải mái.
+
+Sau vài giờ, ông đã làm xong 2 đôi giày. Ông kiểm tra chất lượng, thấy rất tốt. Các đường may đều đều, da chất lượng cao, thiết kế đẹp và thoải mái. Đây là giày chất lượng cao, khác hẳn với giày thời bao cấp thường kém chất lượng.
 
 Hệ thống thông báo:
 
@@ -16,47 +18,47 @@ Hệ thống thông báo:
 
 "Điểm kinh nghiệm hiện tại: 1595."
 
-Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất giày dép để bán.
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất giày dép để bán. Ông tin rằng giày tự sản xuất sẽ bán được giá cao hơn giày nhập khẩu, vì chất lượng tốt hơn.
 
-Ông quyết định thuê thêm người giỏi làm giày trong làng. Ông tìm đến ông Thành, một người thợ giày có kinh nghiệm.
+Ông quyết định thuê thêm người giỏi làm giày trong làng. Ông tìm đến ông Thành, một người thợ giày có kinh nghiệm. Ông Thành là người có kinh nghiệm làm giày nhiều năm, từng làm việc cho các xưởng giày lớn trước đây.
 
-"Ông Thành, cháu muốn thuê ông giúp việc làm giày," Trần Văn Hùng nói.
+"Ông Thành, cháu muốn thuê ông giúp việc làm giày," Trần Văn Hùng nói, giọng nói bình tĩnh. "Cháu có xưởng làm giày, cần người giỏi như ông giúp việc."
 
-Ông Thành ngạc nhiên. "Thuê cháu? Cháu làm ăn gì mà cần người làm giày?"
+Ông Thành ngạc nhiên, đôi mắt mở to. "Thuê cháu? Cháu làm ăn gì mà cần người làm giày? Giờ này ai cũng khó khăn, cháu lấy đâu ra tiền thuê người?"
 
-"Cháu có xưởng làm giày," Trần Văn Hùng nói dối khéo léo. "Cháu cần người giỏi như ông giúp việc."
+"Cháu có xưởng làm giày tự sản xuất giày," Trần Văn Hùng nói dối khéo léo, giọng nói chân thành. "Cháu có nguồn hàng tốt, cần người giỏi như ông giúp việc. Cháu sẽ trả lương cao."
 
-Ông Thành suy nghĩ một chút. "Được, nhưng cháu trả lương thế nào?"
+Ông Thành suy nghĩ một chút, ánh mắt vẫn còn nghi ngờ. "Được, nhưng cháu trả lương thế nào? Cháu cần biết rõ trước khi làm việc."
 
-"6 đồng một ngày," Trần Văn Hùng nói. "Ông làm bao nhiêu cháu trả bấy nhiêu."
+"6 đồng một ngày," Trần Văn Hùng nói, giọng nói kiên định. "Ông làm bao nhiêu cháu trả bấy nhiêu. Nếu ông làm nhiều, cháu sẽ trả nhiều hơn."
 
-Ông Thành sững sờ. "Nhiều quá! Cháu chắc chứ?"
+Ông Thành sững sờ, đôi mắt mở to. "Nhiều quá! Cháu chắc chứ? Giờ này 6 đồng một ngày là lương rất cao rồi."
 
-"Cháu chắc," Trần Văn Hùng nói. "Cháu có khả năng chi trả."
+"Cháu chắc," Trần Văn Hùng nói, giọng nói kiên định. "Cháu có khả năng chi trả. Cháu muốn ông làm việc chăm chỉ, cháu sẽ trả lương xứng đáng."
 
-Ông Thành gật đầu. "Được, tôi sẽ giúp cháu."
+Ông Thành gật đầu, ánh mắt hài lòng. "Được, tôi sẽ giúp cháu. Tôi sẽ làm việc chăm chỉ."
 
-Trần Văn Hùng cũng thuê thêm hai người nữa: ông Hòa và ông Hùng, cả hai đều là thợ giày có kinh nghiệm.
+Trần Văn Hùng cũng thuê thêm hai người nữa: ông Hòa và ông Hùng, cả hai đều là thợ giày có kinh nghiệm. Ông Hòa là người trẻ, có tay nghề nhanh nhẹn. Ông Hùng là người có kinh nghiệm, từng làm việc cho các xưởng giày lớn trước đây.
 
-Ông đưa họ đến khu vực làm giày trong xưởng, đưa cho họ nguyên liệu da và máy làm giày, bắt đầu làm việc.
+Ông đưa họ đến khu vực làm giày trong xưởng, đưa cho họ nguyên liệu da và máy làm giày, bắt đầu làm việc. Ông tổ chức khu vực làm giày hiệu quả, phân công công việc cho mỗi người.
 
-Với sự giúp đỡ của ba người, năng suất sản xuất giày tăng lên rất nhanh. Trong một tuần, họ đã làm được 30 đôi giày.
+Với sự giúp đỡ của ba người, năng suất sản xuất giày tăng lên rất nhanh. Trong một tuần, họ đã làm được 30 đôi giày. Mỗi người làm việc chăm chỉ, sản xuất khoảng 10 đôi giày mỗi tuần.
 
-Trần Văn Hùng bán giày cho các đối tác của mình. Vì giày chất lượng tốt và thiết kế đẹp, giá bán cao hơn giày nhập khẩu.
+Trần Văn Hùng bán giày cho các đối tác của mình: ông Ba ở huyện Quốc Oai, ông Tâm ở huyện Chương Mỹ, và ông Hùng ở Hà Nội. Mỗi đối tác đều hài lòng với chất lượng giày. Giày tự sản xuất chất lượng cao, thiết kế đẹp, nên bán được giá cao.
 
-Ông bán mỗi đôi giày với giá 25 đồng, tổng cộng kiếm được 750 đồng.
+Ông bán mỗi đôi giày với giá 25 đồng, tổng cộng kiếm được 750 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả tháng.
 
 Ông đưa cho bà 200 đồng.
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon."
 
-Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ làm ăn tốt như vậy."
 
-Lan cũng chạy ra. "Anh, em muốn học làm giày."
+Lan cũng chạy ra, ánh mắt ngạc nhiên nhìn anh. "Anh, em muốn học làm giày. Em muốn giúp anh làm ăn."
 
-"Được," Trần Văn Hùng mỉm cười. "Anh sẽ dạy em."
+"Được," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Anh sẽ dạy em. Em sẽ giỏi như ông Thành."
 
-Lan mỉm cười. "Cảm ơn anh."
+Lan mỉm cười, đôi mắt sáng lên. "Cảm ơn anh. Em sẽ học chăm chỉ."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -69,16 +71,16 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 - Phần thưởng: 200 điểm kinh nghiệm, kỹ năng thiết kế cấp 1
 - Thời gian: 60 ngày
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 300 đôi giày để hoàn thành nhiệm vụ.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 300 đôi giày để hoàn thành nhiệm vụ. Ông quyết định mở rộng khu vực làm giày và thuê thêm người.
 
-Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
 
-"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
 
-"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất giày và bán cho các đối tác."
+"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất giày và bán cho các đối tác. Cháu muốn mở rộng khu vực làm giày, thuê thêm người."
 
-Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất giày. Ông quyết định mở rộng khu vực làm giày và thuê thêm người.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất giày. Ông quyết định mở rộng khu vực làm giày và thuê thêm người. Với kiến thức của thế kỷ 21, ông biết cách quản lý xưởng làm giày hiệu quả. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.

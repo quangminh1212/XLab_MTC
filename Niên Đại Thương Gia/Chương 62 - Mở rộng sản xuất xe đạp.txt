@@ -2,25 +2,31 @@
 Chương 62: Mở rộng sản xuất xe đạp
 ============================================================
 
-Trần Văn Hùng quyết định mở rộng khu vực sản xuất xe đạp. Ông thuê thêm 4 người nữa: ông Quân, ông Thành, ông Long và ông Huy. Cả bốn đều là thợ cơ khí có kinh nghiệm.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông quyết định mở rộng khu vực sản xuất xe đạp. Với nhu cầu cao, ông cần tăng năng suất sản xuất để hoàn thành nhiệm vụ. Với kiến thức của thế kỷ 21 về quản lý sản xuất, ông biết cách mở rộng hiệu quả.
 
-Ông cũng mua thêm 5 máy lắp ráp từ không gian, đưa vào khu vực sản xuất cơ khí. Khu vực sản xuất giờ có 7 người và 8 máy lắp ráp, năng suất sản xuất tăng lên rất nhanh.
+Ông mặc bộ quần áo đẹp nhất, lấy từ không gian ra một số tiền lớn, rồi đi đến làng để tuyển thêm thợ cơ khí. Ông thuê thêm 4 người nữa: ông Quân, ông Thành, ông Long và ông Huy. Cả bốn đều là thợ cơ khí có kinh nghiệm, với đôi tay khéo léo và kỹ năng lâu năm.
 
-Trong một tuần, họ đã lắp ráp được 40 chiếc xe đạp. Trần Văn Hùng bán xe đạp cho các cửa hàng của mình, kiếm được 4000 đồng.
+Ông trả lương 8 đồng một ngày cho mỗi người, mức lương rất cao trong thời bao cấp. Ông Quân, ông Thành, ông Long và ông Huy vui vẻ đồng ý làm việc, vì đây là mức lương rất cao.
 
-Ông đưa cho bà 1200 đồng.
+Ông cũng mua thêm 5 máy lắp ráp từ không gian, đưa vào khu vực sản xuất cơ khí. Khu vực sản xuất giờ có 7 người và 8 máy lắp ráp, năng suất sản xuất tăng lên rất nhanh. Ông thiết kế quy trình sản xuất hiệu quả, với mỗi người phụ trách một công đoạn khác nhau.
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+Ông hướng dẫn Lan cách lắp ráp xe đạp. Lan học nhanh, với sự hướng dẫn của anh, em đã lắp ráp được 8 chiếc xe đạp trong tuần. Lan làm việc chăm chỉ, với đôi tay khéo léo, em lắp ráp xe đạp nhanh chóng và chất lượng.
 
-Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+Trong một tuần, họ đã lắp ráp được 40 chiếc xe đạp. Trần Văn Hùng bán xe đạp cho các cửa hàng của mình, kiếm được 4000 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả tháng.
 
-Lan cũng chạy ra. "Anh, em đã lắp ráp được 8 chiếc xe đạp rồi."
+Ông về nhà, đưa cho bà 1200 đồng.
 
-"Tốt lắm," Trần Văn Hùng mỉm cười. "Em giỏi quá."
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Cháu đã sản xuất và bán 40 chiếc xe đạp. Cháu sẽ tiếp tục sản xuất."
 
-Lan mỉm cười. "Em muốn giúp anh nhiều hơn."
+Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ sản xuất nhiều xe đạp như vậy."
 
-"Được," Trần Văn Hùng nói. "Em sẽ giúp anh khi em giỏi hơn."
+Lan cũng chạy ra, ánh mắt hào hứng nhìn anh. "Anh, em đã lắp ráp được 8 chiếc xe đạp rồi. Em giỏi quá."
+
+"Tốt lắm," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em giỏi quá. Anh tự hào về em."
+
+Lan mỉm cười, đôi mắt sáng lên. "Em muốn giúp anh nhiều hơn. Em sẽ làm việc chăm chỉ."
+
+"Được," Trần Văn Hùng nói, giọng nói dịu dàng. "Em sẽ giúp anh khi em giỏi hơn. Anh sẽ dạy em nhiều kỹ năng."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -30,16 +36,16 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
 "Tiến độ nhiệm vụ: 65/200 chiếc xe đạp."
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán thêm 135 chiếc xe đạp nữa để hoàn thành nhiệm vụ.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán thêm 135 chiếc xe đạp nữa để hoàn thành nhiệm vụ. Ông quyết định tiếp tục mở rộng sản xuất.
 
-Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
 
-"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
 
-"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất xe đạp và bán cho các cửa hàng."
+"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất xe đạp và bán cho các cửa hàng. Cháu muốn hoàn thành nhiệm vụ sản xuất 200 chiếc xe đạp trong vòng 90 ngày."
 
-Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất xe đạp. Ông quyết định tăng năng suất để hoàn thành nhiệm vụ nhanh hơn.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất xe đạp. Ông quyết định tăng năng suất để hoàn thành nhiệm vụ nhanh hơn. Với kiến thức của thế kỷ 21, ông biết cách quản lý sản xuất hiệu quả. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.

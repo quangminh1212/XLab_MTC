@@ -2,27 +2,39 @@
 Chương 30: Mua đất xây cửa hàng
 ============================================================
 
-Trần Văn Hùng quyết định mua đất để xây cửa hàng. Ông muốn có một cửa hàng chính thức để bán hàng hóa, thay vì bán lẻ ở chợ.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông kiểm tra không gian, suy nghĩ về kế hoạch mua đất để xây cửa hàng. Ông muốn có một cửa hàng chính thức để bán hàng hóa, thay vì bán lẻ ở chợ. Với kiến thức của thế kỷ 21, ông biết cách chọn vị trí tốt và xây cửa hàng hiệu quả.
 
-Ông đi đến huyện Quốc Oai, tìm một vị trí tốt gần khu chợ. Ông thấy một mảnh đất rộng 200m², giá bán là 5000 đồng.
+Ông mặc bộ quần áo đẹp nhất, lấy từ không gian ra một số tiền, rồi đi đến huyện Quốc Oai. Ông quan sát tình hình, tìm một vị trí tốt gần khu chợ. Ông thấy một mảnh đất rộng 200m², nằm ở vị trí đắc địa - gần khu chợ, đông đúc người đi lại, thuận tiện cho việc kinh doanh.
 
-Ông quyết định mua mảnh đất này. Với số tiền ông có, 5000 đồng không phải là vấn đề.
+Ông hỏi chủ đất về giá bán. Chủ đất là một người trung niên, có vẻ cần tiền gấp.
+
+"Mảnh đất này giá bán là 5000 đồng," chủ đất nói. "Nếu cậu mua ngay, tôi sẽ giảm giá còn 4500 đồng."
+
+Trần Văn Hùng suy nghĩ một chút. Với số tiền ông có, 4500 đồng không phải là vấn đề. Ông đã kiếm được rất nhiều tiền từ việc buôn bán quốc tế, đủ để mua mảnh đất này.
+
+"Được, tôi mua," Trần Văn Hùng nói, giọng nói kiên định. "Tôi sẽ thanh toán ngay."
+
+Hai người ký kết hợp đồng mua bán. Trần Văn Hùng đếm tiền, đưa cho chủ đất 4500 đồng. Chủ đất vui vẻ, đưa cho ông giấy tờ đất đai.
+
+Trần Văn Hùng về nhà với giấy tờ đất đai trong tay. Ông đã mua được mảnh đất tốt, có thể xây cửa hàng để kinh doanh.
 
 Khi về đến nhà, ông nói với bà và Lan về kế hoạch của mình.
 
-"Bà, cháu muốn mua đất để xây cửa hàng," Trần Văn Hùng nói.
+"Bà, cháu đã mua đất để xây cửa hàng," Trần Văn Hùng nói, giọng nói dịu dàng. "Mảnh đất rộng 200m², nằm ở vị trí tốt gần khu chợ. Cháu sẽ xây một cửa hàng hai tầng, với tầng một bán hàng hóa và tầng hai làm kho."
 
-Bà Hà ngạc nhiên. "Mua đất? Cháu nói thật à?"
+Bà Hà ngạc nhiên, đôi mắt mở to. "Mua đất? Cháu nói thật à? Cháu đã mua đất rồi à?"
 
-"Thật," Trần Văn Hùng nói. "Cháu muốn có cửa hàng chính thức để bán hàng hóa."
+"Thật," Trần Văn Hùng nói, giọng nói chân thành. "Cháu đã mua đất với giá 4500 đồng. Cháu muốn có cửa hàng chính thức để bán hàng hóa, thay vì bán lẻ ở chợ. Cháu sẽ xây cửa hàng đẹp đẽ, đầy đủ tiện nghi."
 
-Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải cẩn thận."
+Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải cẩn thận. Xây cửa hàng tốn nhiều tiền, cháu phải tính toán kỹ."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu đã tính toán kỹ. Cháu có đủ tiền để xây cửa hàng. Cháu sẽ không làm bà lo lắng nữa."
 
-Lan cũng vui vẻ. "Anh, em muốn giúp anh quản lý cửa hàng."
+Lan cũng vui vẻ, ánh mắt sáng lên. "Anh, em muốn giúp anh quản lý cửa hàng. Em muốn học cách kinh doanh."
 
-"Được," Trần Văn Hùng mỉm cười. "Em sẽ học cách quản lý."
+"Được," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em sẽ học cách quản lý. Anh sẽ dạy em nhiều kỹ năng. Em sẽ giỏi như anh."
+
+Lan mỉm cười, đôi mắt sáng lên. "Em cảm thấy như đang mơ. Chưa từng nghĩ em sẽ có cửa hàng."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -35,16 +47,16 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 - Phần thưởng: 200 điểm kinh nghiệm, kỹ năng quản lý cửa hàng cấp 1
 - Thời gian: 60 ngày
 
-Trần Văn Hùng gật đầu. Ông cần xây cửa hàng và bắt đầu kinh doanh để hoàn thành nhiệm vụ.
+Trần Văn Hùng gật đầu. Ông cần xây cửa hàng và bắt đầu kinh doanh để hoàn thành nhiệm vụ. Ông quyết định bắt đầu xây cửa hàng vào ngày mai.
 
-Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
 
-"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
 
-"Cháu có," Trần Văn Hùng nói. "Cháu sẽ bắt đầu xây cửa hàng vào ngày mai."
+"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ bắt đầu xây cửa hàng vào ngày mai. Cháu sẽ thuê thợ xây dựng, xây một cửa hàng hai tầng đẹp đẽ."
 
-Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch xây cửa hàng. Ông quyết định xây một cửa hàng hai tầng, với tầng một bán hàng hóa và tầng hai làm kho.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch xây cửa hàng. Ông quyết định xây một cửa hàng hai tầng, với tầng một bán hàng hóa và tầng hai làm kho. Với kiến thức của thế kỷ 21, ông biết cách thiết kế cửa hàng đẹp và hiệu quả. Ông sẽ sử dụng nguyên liệu từ không gian để xây cửa hàng nhanh chóng và tiết kiệm chi phí. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.

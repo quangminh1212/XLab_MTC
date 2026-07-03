@@ -2,13 +2,15 @@
 Chương 14: Bắt đầu sản xuất
 ============================================================
 
-Trần Văn Hùng quyết định bắt đầu sản xuất quần áo. Ông kiểm tra không gian, thấy có máy may, vải vóc, và các nguyên liệu khác.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông kiểm tra không gian, suy nghĩ về kế hoạch sản xuất quần áo. Ông muốn bắt đầu sản xuất hàng hóa để giảm chi phí và tăng lợi nhuận. Với kiến thức của thế kỷ 21, ông biết cách thiết kế và sản xuất quần áo đẹp và thời trang.
 
-Ông tập trung vào không gian, và ý thức của ông được đưa vào đó. Ông đi vào căn nhà gỗ hai tầng, vào phòng may, nơi có máy may và vải vóc.
+Ông kiểm tra không gian, thấy có máy may, vải vóc, và các nguyên liệu khác. Máy may trong không gian là máy may hiện đại, khác hẳn với máy may thời bao cấp thường cũ kỹ và kém hiệu quả. Vải vóc trong không gian là vải chất lượng cao, với nhiều màu sắc và kiểu dáng khác nhau.
 
-Ông bắt đầu may quần áo với kỹ năng may mặc cơ bản. Với kiến thức của thế kỷ 21, ông biết cách thiết kế quần áo đẹp và thời trang.
+Ông tập trung vào không gian, và ý thức của ông được đưa vào đó. Ông đi vào căn nhà gỗ hai tầng, vào phòng may, nơi có máy may và vải vóc. Phòng may rộng rãi, đầy đủ ánh sáng, với máy may đặt ngay ngắn và vải vóc xếp gọn gàng.
 
-Sau vài giờ, ông đã may xong 5 bộ quần áo. Ông kiểm tra chất lượng, thấy rất tốt.
+Ông bắt đầu may quần áo với kỹ năng may mặc cơ bản. Với kiến thức của thế kỷ 21, ông biết cách thiết kế quần áo đẹp và thời trang. Ông chọn vải vóc màu xanh dương, cắt may thành áo sơ mi với thiết kế hiện đại, khác hẳn với áo sơ mi thời bao cấp thường đơn giản và màu sắc tối.
+
+Sau vài giờ, ông đã may xong 5 bộ quần áo. Ông kiểm tra chất lượng, thấy rất tốt. Các đường may đều đều, vải vóc chất lượng cao, thiết kế đẹp và thời trang. Đây là quần áo chất lượng cao, khác hẳn với quần áo thời bao cấp thường kém chất lượng.
 
 Hệ thống thông báo:
 
@@ -16,37 +18,35 @@ Hệ thống thông báo:
 
 "Điểm kinh nghiệm hiện tại: 1095."
 
-Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất quần áo để bán.
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất quần áo để bán. Ông tin rằng quần áo tự sản xuất sẽ bán được giá cao hơn quần áo nhập khẩu, vì chất lượng tốt hơn.
 
-Trong tuần tiếp theo, ông dành thời gian trong không gian để sản xuất quần áo. Ông may được 50 bộ quần áo, với các thiết kế khác nhau: áo sơ mi, quần tây, váy, và áo khoác.
+Trong tuần tiếp theo, ông dành thời gian trong không gian để sản xuất quần áo. Ông may được 50 bộ quần áo, với các thiết kế khác nhau: áo sơ mi, quần tây, váy, và áo khoác. Mỗi bộ quần áo đều được thiết kế đẹp và thời trang, với chất lượng cao.
 
-Ông quyết định bán quần áo tự sản xuất này. Vì chất lượng tốt hơn quần áo nhập khẩu, ông có thể bán giá cao hơn.
+Ông quyết định bán quần áo tự sản xuất này. Vì chất lượng tốt hơn quần áo nhập khẩu, ông có thể bán giá cao hơn. Ông lấy 20 bộ quần áo, cất vào túi, rồi đi đến huyện Quốc Oai bán. Ông đi nhanh, bước chân vững chắc, không muốn để ai chú ý.
 
-Ông lấy 20 bộ quần áo, đi đến huyện Quốc Oai bán.
+Khi đến chợ, ông bày quần áo ra. Quần áo với thiết kế đẹp và chất lượng tốt nhanh chóng thu hút sự chú ý của người dân. Trong thời bao cấp, quần áo thường đơn giản, màu sắc tối, nhưng quần áo của Trần Văn Hùng lại đa dạng màu sắc, thiết kế đẹp, chất lượng cao.
 
-Khi đến chợ, ông bày quần áo ra. Quần áo với thiết kế đẹp và chất lượng tốt nhanh chóng thu hút sự chú ý.
+"Quần áo đẹp quá!" một người phụ nữ nói, ánh mắt ngạc nhiên. "Em chưa từng thấy quần áo đẹp như vậy. Bán thế nào?"
 
-"Quần áo đẹp quá!" một người phụ nữ nói. "Bán thế nào?"
+"20 đồng một bộ," Trần Văn Hùng nói, giọng nói bình tĩnh. "Hàng tự may, chất lượng tốt. Giá hợp lý."
 
-"20 đồng một bộ," Trần Văn Hùng nói. "Hàng tự may, chất lượng tốt."
+Người phụ nữ ngạc nhiên, đôi mắt mở to. "Đắt quá! Nhưng đẹp thật... Em mua một bộ xem sao."
 
-Người phụ nữ ngạc nhiên. "Đắt quá! Nhưng đẹp thật..."
-
-Cô mua một bộ, và tin lan nhanh. Trong vòng một giờ, ông đã bán hết 20 bộ quần áo, tổng cộng kiếm được 400 đồng.
+Cô mua một bộ, và tin lan nhanh. Trong vòng một giờ, ông đã bán hết 20 bộ quần áo, tổng cộng kiếm được 400 đồng. Người dân xếp hàng dài, ai cũng muốn mua quần áo cho gia đình. Quần áo tự sản xuất chất lượng cao, thiết kế đẹp, nên người dân tranh nhau mua.
 
 Ông về nhà với số tiền lớn, đưa cho bà 150 đồng.
 
-"Bà, đây là tiền cháu kiếm được hôm nay," Trần Văn Hùng nói.
+"Bà, đây là tiền cháu kiếm được hôm nay," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon."
 
-Bà Hà ngạc nhiên. "Cháu tự may quần áo à? Cháu giỏi quá!"
+Bà Hà ngạc nhiên, đôi mắt rưng rưng nước mắt. "Cháu tự may quần áo à? Cháu giỏi quá! Cháu học may từ đâu thế?"
 
-"Cháu học may từ nhỏ," Trần Văn Hùng nói dối. "Cháu muốn làm ăn tốt hơn."
+"Cháu học may từ nhỏ," Trần Văn Hùng nói dối khéo léo, giọng nói chân thành. "Cháu muốn làm ăn tốt hơn, nên cháu tự may quần áo để bán."
 
-Lan cũng chạy ra. "Anh, em muốn một bộ quần áo đẹp như vậy."
+Lan cũng chạy ra, ánh mắt ngạc nhiên nhìn anh. "Anh, em muốn một bộ quần áo đẹp như vậy. Em chưa từng có quần áo đẹp như vậy."
 
-"Được," Trần Văn Hùng mỉm cười. "Lần sau anh sẽ may cho em."
+"Được," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Lần sau anh sẽ may cho em. Anh sẽ may cho em bộ quần áo đẹp nhất."
 
-Lan mỉm cười. "Cảm ơn anh."
+Lan mỉm cười, đôi mắt sáng lên. "Cảm ơn anh. Em cảm thấy như đang mơ."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -59,16 +59,16 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 - Phần thưởng: 300 điểm kinh nghiệm, kỹ năng sản xuất cấp 1, mở rộng nhà xưởng trong không gian
 - Thời gian: 60 ngày
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 500 bộ quần áo để hoàn thành nhiệm vụ.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 500 bộ quần áo để hoàn thành nhiệm vụ. Ông quyết định thuê thêm người giúp việc để tăng năng suất sản xuất. Với kiến thức của thế kỷ 21, ông biết cách quản lý xưởng may hiệu quả.
 
-Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
 
-"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
 
-"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất quần áo và bán cho các đối tác của cháu."
+"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất quần áo và bán cho các đối tác của cháu. Cháu muốn mở rộng xưởng may, thuê thêm người giúp việc."
 
-Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất. Ông quyết định thuê thêm người giúp việc để tăng năng suất sản xuất.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất. Ông quyết định thuê thêm người giúp việc để tăng năng suất sản xuất. Ông sẽ tìm những người giỏi may mặc trong làng, trả lương cao để họ làm việc chăm chỉ. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.

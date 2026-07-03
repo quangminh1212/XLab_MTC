@@ -2,13 +2,15 @@
 Chương 23: Sản xuất túi xách
 ============================================================
 
-Trần Văn Hùng quyết định bắt đầu sản xuất túi xách. Ông kiểm tra không gian, thấy có nguyên liệu da, máy làm túi, và các công cụ khác.
+Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông kiểm tra không gian, suy nghĩ về kế hoạch sản xuất túi xách. Ông muốn đa dạng hóa sản phẩm để tăng lợi nhuận. Với kiến thức của thế kỷ 21, ông biết cách thiết kế và sản xuất túi xách đẹp và bền.
 
-Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực làm túi, nơi có máy làm túi và nguyên liệu da.
+Ông kiểm tra không gian, thấy có nguyên liệu da, máy làm túi, và các công cụ khác. Máy làm túi trong không gian là máy làm túi hiện đại, khác hẳn với máy làm túi thời bao cấp thường thủ công và kém hiệu quả. Nguyên liệu da trong không gian là da chất lượng cao, với nhiều màu sắc và kiểu dáng khác nhau.
 
-Ông bắt đầu làm túi với kỹ năng cơ bản. Với kiến thức của thế kỷ 21, ông biết cách thiết kế túi đẹp và bền.
+Ông tập trung vào không gian, và ý thức của ông được đưa vào nhà xưởng. Ông đi vào khu vực làm túi, nơi có máy làm túi và nguyên liệu da. Khu vực làm túi rộng rãi, đầy đủ ánh sáng, với máy làm túi đặt ngay ngắn và nguyên liệu da xếp gọn gàng.
 
-Sau vài giờ, ông đã làm xong 2 chiếc túi. Ông kiểm tra chất lượng, thấy rất tốt.
+Ông bắt đầu làm túi với kỹ năng cơ bản. Với kiến thức của thế kỷ 21, ông biết cách thiết kế túi đẹp và bền. Ông chọn da màu nâu, cắt may thành túi xách nữ với thiết kế hiện đại, khác hẳn với túi thời bao cấp thường đơn giản và kém bền.
+
+Sau vài giờ, ông đã làm xong 2 chiếc túi. Ông kiểm tra chất lượng, thấy rất tốt. Các đường may đều đều, da chất lượng cao, thiết kế đẹp và bền. Đây là túi chất lượng cao, khác hẳn với túi thời bao cấp thường kém chất lượng.
 
 Hệ thống thông báo:
 
@@ -16,47 +18,47 @@ Hệ thống thông báo:
 
 "Điểm kinh nghiệm hiện tại: 1725."
 
-Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất túi xách để bán.
+Trần Văn Hùng mừng rỡ. Ông sẽ tiếp tục sản xuất túi xách để bán. Ông tin rằng túi tự sản xuất sẽ bán được giá cao hơn túi nhập khẩu, vì chất lượng tốt hơn.
 
-Ông quyết định thuê thêm người giỏi làm túi trong làng. Ông tìm đến cô Yến, một người phụ nữ giỏi làm túi.
+Ông quyết định thuê thêm người giỏi làm túi trong làng. Ông tìm đến cô Yến, một người phụ nữ giỏi làm túi. Cô Yến là người có kinh nghiệm làm túi nhiều năm, từng làm việc cho các xưởng túi lớn trước đây.
 
-"Cô Yến, cháu muốn thuê cô giúp việc làm túi," Trần Văn Hùng nói.
+"Cô Yến, cháu muốn thuê cô giúp việc làm túi," Trần Văn Hùng nói, giọng nói bình tĩnh. "Cháu có xưởng làm túi, cần người giỏi như cô giúp việc."
 
-Cô Yến ngạc nhiên. "Thuê cháu? Cháu làm ăn gì mà cần người làm túi?"
+Cô Yến ngạc nhiên, đôi mắt mở to. "Thuê cháu? Cháu làm ăn gì mà cần người làm túi? Giờ này ai cũng khó khăn, cháu lấy đâu ra tiền thuê người?"
 
-"Cháu có xưởng làm túi," Trần Văn Hùng nói dối khéo léo. "Cháu cần người giỏi như cô giúp việc."
+"Cháu có xưởng làm túi tự sản xuất túi," Trần Văn Hùng nói dối khéo léo, giọng nói chân thành. "Cháu có nguồn hàng tốt, cần người giỏi như cô giúp việc. Cháu sẽ trả lương cao."
 
-Cô Yến suy nghĩ một chút. "Được, nhưng cháu trả lương thế nào?"
+Cô Yến suy nghĩ một chút, ánh mắt vẫn còn nghi ngờ. "Được, nhưng cháu trả lương thế nào? Cháu cần biết rõ trước khi làm việc."
 
-"5 đồng một ngày," Trần Văn Hùng nói. "Cô làm bao nhiêu cháu trả bấy nhiêu."
+"5 đồng một ngày," Trần Văn Hùng nói, giọng nói kiên định. "Cô làm bao nhiêu cháu trả bấy nhiêu. Nếu cô làm nhiều, cháu sẽ trả nhiều hơn."
 
-Cô Yến sững sờ. "Nhiều quá! Cháu chắc chứ?"
+Cô Yến sững sờ, đôi mắt mở to. "Nhiều quá! Cháu chắc chứ? Giờ này 5 đồng một ngày là lương rất cao rồi."
 
-"Cháu chắc," Trần Văn Hùng nói. "Cháu có khả năng chi trả."
+"Cháu chắc," Trần Văn Hùng nói, giọng nói kiên định. "Cháu có khả năng chi trả. Cháu muốn cô làm việc chăm chỉ, cháu sẽ trả lương xứng đáng."
 
-Cô Yến gật đầu. "Được, tôi sẽ giúp cháu."
+Cô Yến gật đầu, ánh mắt hài lòng. "Được, tôi sẽ giúp cháu. Tôi sẽ làm việc chăm chỉ."
 
-Trần Văn Hùng cũng thuê thêm hai người nữa: cô Hương và cô Thảo, cả hai đều giỏi làm túi.
+Trần Văn Hùng cũng thuê thêm hai người nữa: cô Hương và cô Thảo, cả hai đều giỏi làm túi. Cô Hương là người trẻ, có tay nghề nhanh nhẹn. Cô Thảo là người có kinh nghiệm, từng làm việc cho các xưởng túi lớn trước đây.
 
-Ông đưa họ đến khu vực làm túi trong xưởng, đưa cho họ nguyên liệu da và máy làm túi, bắt đầu làm việc.
+Ông đưa họ đến khu vực làm túi trong xưởng, đưa cho họ nguyên liệu da và máy làm túi, bắt đầu làm việc. Ông tổ chức khu vực làm túi hiệu quả, phân công công việc cho mỗi người.
 
-Với sự giúp đỡ của ba người, năng suất sản xuất túi tăng lên rất nhanh. Trong một tuần, họ đã làm được 25 chiếc túi.
+Với sự giúp đỡ của ba người, năng suất sản xuất túi tăng lên rất nhanh. Trong một tuần, họ đã làm được 25 chiếc túi. Mỗi người làm việc chăm chỉ, sản xuất khoảng 8-9 chiếc túi mỗi tuần.
 
-Trần Văn Hùng bán túi cho các đối tác của mình. Vì túi chất lượng tốt và thiết kế đẹp, giá bán cao hơn túi nhập khẩu.
+Trần Văn Hùng bán túi cho các đối tác của mình: ông Ba ở huyện Quốc Oai, ông Tâm ở huyện Chương Mỹ, và ông Hùng ở Hà Nội. Mỗi đối tác đều hài lòng với chất lượng túi. Túi tự sản xuất chất lượng cao, thiết kế đẹp, nên bán được giá cao.
 
-Ông bán mỗi chiếc túi với giá 30 đồng, tổng cộng kiếm được 750 đồng.
+Ông bán mỗi chiếc túi với giá 30 đồng, tổng cộng kiếm được 750 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả tháng.
 
 Ông đưa cho bà 200 đồng.
 
-"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói.
+"Bà, đây là tiền cháu kiếm được trong tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon."
 
-Bà Hà mỉm cười. "Cháu làm ăn tốt quá. Bà tự hào về cháu."
+Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ làm ăn tốt như vậy."
 
-Lan cũng chạy ra. "Anh, em muốn học làm túi."
+Lan cũng chạy ra, ánh mắt ngạc nhiên nhìn anh. "Anh, em muốn học làm túi. Em muốn giúp anh làm ăn."
 
-"Được," Trần Văn Hùng mỉm cười. "Anh sẽ dạy em."
+"Được," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Anh sẽ dạy em. Em sẽ giỏi như cô Yến."
 
-Lan mỉm cười. "Cảm ơn anh."
+Lan mỉm cười, đôi mắt sáng lên. "Cảm ơn anh. Em sẽ học chăm chỉ."
 
 Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 
@@ -69,16 +71,16 @@ Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
 - Phần thưởng: 200 điểm kinh nghiệm, kỹ năng thiết kế thời trang cấp 1
 - Thời gian: 60 ngày
 
-Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 200 chiếc túi để hoàn thành nhiệm vụ.
+Trần Văn Hùng gật đầu. Ông cần sản xuất và bán 200 chiếc túi để hoàn thành nhiệm vụ. Ông quyết định mở rộng khu vực làm túi và thuê thêm người.
 
-Buổi tối, gia đình ăn cơm. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên.
+Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây.
 
-"Hùng à," Bà Hà nói. "Cháu có kế hoạch gì tiếp theo không?"
+"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?"
 
-"Cháu có," Trần Văn Hùng nói. "Cháu sẽ tiếp tục sản xuất túi và bán cho các đối tác."
+"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất túi và bán cho các đối tác. Cháu muốn mở rộng khu vực làm túi, thuê thêm người."
 
-Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất."
+Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức."
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
+"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất túi. Ông quyết định mở rộng khu vực làm túi và thuê thêm người.
+Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch sản xuất túi. Ông quyết định mở rộng khu vực làm túi và thuê thêm người. Với kiến thức của thế kỷ 21, ông biết cách quản lý xưởng làm túi hiệu quả. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.
