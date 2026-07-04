@@ -4,7 +4,7 @@ Chương 19: Hoàn thành nhiệm vụ sản xuất
 
 Ngày thứ ba mươi. Một tháng kể từ khi Hùng tỉnh dậy. Và hôm nay là ngày khai trương Cửa Hàng Thương Gia.
 
-Sáng sớm, Hùng dậy lúc bốn giờ — không phải vì alarm, mà vì hồi hộp. Lý Minh từng launch sản phẩm — ông biết cảm giác trước ngày ra mắt: hồi hộp, lo lắng, nhưng cũng phấn khích. Hôm nay, ông launch cửa hàng. Không phải app hay software, mà cửa hàng vật lý — nhưng cảm giác giống nhau.
+Sáng sớm, Hùng dậy lúc bốn giờ — không phải vì chuông báo thức, mà vì hồi hộp. Lý Minh từng ra mắt sản phẩm — ông biết cảm giác trước ngày ra mắt: hồi hộp, lo lắng, nhưng cũng phấn khích. Hôm nay, ông ra mắt cửa hàng. Không phải ứng dụng hay phần mềm, mà cửa hàng vật lý — nhưng cảm giác giống nhau.
 
 Bà Xuân đến sớm — cô nấu cơm sáng cho cả nhà, rồi dọn dẹp cửa hàng lần cuối. Lan đến cửa hàng từ sáu giờ — cô bày hàng, kiểm tra kệ, lau gương, xếp lại quần áo cho đều. Cô mặc áo blouse hồng (hàng của cửa hàng), đứng sau quầy, sẵn sàng.
 
@@ -14,7 +14,7 @@ Hùng đến cửa hàng lúc bảy giờ. Ông mặc áo sơ mi trắng (hàng 
 
 Anh Khanh đến lúc tám giờ — cùng ba đồng nghiệp. Họ nhìn cửa hàng, mắt sáng — hàng xịn, bày đẹp, giá hợp lý. "Cậu Hùng, cửa hàng đẹp lắm. Tôi sẽ giới thiệu cho toàn huyện."
 
-Hùng mời khách — anh Khanh và đồng nghiệp, ông Tâm và bạn bè, người dân qua đường. Ông giảm giá ngày khai trương: tất cả hàng giảm 10%, khách đầu tiên tặng kèm bánh xà phòng miễn phí. Trong thời bao cấp, giảm giá và tặng quà là marketing hiệu quả — người dân truyền miệng, đông đến xem.
+Hùng mời khách — anh Khanh và đồng nghiệp, ông Tâm và bạn bè, người dân qua đường. Ông giảm giá ngày khai trương: tất cả hàng giảm 10%, khách đầu tiên tặng kèm bánh xà phòng miễn phí. Trong thời bao cấp, giảm giá và tặng quà là tiếp thị hiệu quả — người dân truyền miệng, đông đến xem.
 
 Người dân đến — lúc đầu ít, rồi đông dần. Họ nhìn biển hiệu, nhìn hàng, mắt sáng. Quần áo may sẵn — áo sơ mi trắng, quần dài đen, vải mềm, đường may thẳng. Vải cotton trắng — mềm, đều, không lỗi. Thuốc men — vitamin, thuốc bổ, thuốc cảm. Đồ dùng sinh hoạt — xà phòng, kem đánh răng, dầu gội. Thực phẩm — trứng tươi, mì gói.
 
@@ -121,9 +121,9 @@ Hùng vào không gian — 1.700m², rộng hơn, đẹp hơn. Suối chảy dà
 
 Phần 1 cần: 8 cửa hàng, 4 nhà hàng, 7 xưởng, 15 mảnh đất. Hiện tại: 1 cửa hàng, 0 nhà hàng, 1 xưởng (may), 0 mảnh đất. Còn xa — nhưng ông đã đặt viên gạch đầu tiên. Cửa hàng Thương Gia — viên gạch đầu tiên của đế chế.
 
-Hùng thoát không gian, nằm xuống giường. Ngoài sân, gió lạnh, crickets kêu. Bà Hà ngủ ngon — giấc ngủ của người khỏe, ấm, yên. Lan ngủ — cô mệt sau ngày khai trương, ngủ say, mỉm cười.
+Hùng thoát không gian, nằm xuống giường. Ngoài sân, gió lạnh, dế kêu. Bà Hà ngủ ngon — giấc ngủ của người khỏe, ấm, yên. Lan ngủ — cô mệt sau ngày khai trương, ngủ say, mỉm cười.
 
-Hùng nhắm mắt. Một tháng. Một tháng thay đổi cả cuộc đời. Từ Lý Minh kỹ sư phần mềm thành Trần Văn Hùng thương gia. Từ căn hộ Quận 7 thành cửa hàng huyện Quốc Oai. Từ code thành hàng hóa. Từ cô đơn thành gia đình.
+Hùng nhắm mắt. Một tháng. Một tháng thay đổi cả cuộc đời. Từ Lý Minh kỹ sư phần mềm thành Trần Văn Hùng thương gia. Từ căn hộ Quận 7 thành cửa hàng huyện Quốc Oai. Từ mã nguồn thành hàng hóa. Từ cô đơn thành gia đình.
 
 Còn hai tháng nữa để hoàn thành Phần 1. 8 cửa hàng, 4 nhà hàng, 7 xưởng, 15 mảnh đất. Lộ trình dài — nhưng ông đã bước bước đầu. Và mỗi bước đều chắc.
 

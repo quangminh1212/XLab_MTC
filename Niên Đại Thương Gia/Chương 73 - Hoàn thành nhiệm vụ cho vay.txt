@@ -47,15 +47,15 @@ Hùng đi gặp anh Khanh — bàn giấy phép bảo hiểm.
 
 "Anh Khanh, cháu muốn mở bảo hiểm — bảo hiểm Thương Gia. Giấy phép khó không?"
 
-Khanh suy nghĩ. "Bảo hiểm — giấy phép khó hơn ngân hàng. Vốn điều lệ cao hơn — tối thiểu 1 tỷ đồng. Và cần chuyên gia bảo hiểm — người hiểu actuarial, hiểu rủi ro, hiểu sản phẩm. Cháu có không?"
+Khanh suy nghĩ. "Bảo hiểm — giấy phép khó hơn ngân hàng. Vốn điều lệ cao hơn — tối thiểu 1 tỷ đồng. Và cần chuyên gia bảo hiểm — người hiểu tính toán bảo hiểm, hiểu rủi ro, hiểu sản phẩm. Cháu có không?"
 
 Hùng tính — vốn 1 tỷ: Thương Gia có. Chuyên gia: ông cần tuyển. "Cháu có vốn — 1 tỷ. Chuyên gia — cháu sẽ tuyển. Ở nước ngoài — Thái Lan, Singapore — có chuyên gia bảo hiểm. Cháu sẽ thuê."
 
-Khanh gật đầu. "Được. Em sẽ giúp hồ sơ — nhưng cháu cần chuyên gia thật sự. Bảo hiểm — không phải ngân hàng, rủi ro khác. Actuarial — tính phí bảo hiểm, dự đoán rủi ro. Không có actuarial, bảo hiểm phá sản."
+Khanh gật đầu. "Được. Em sẽ giúp hồ sơ — nhưng cháu cần chuyên gia thật sự. Bảo hiểm — không phải ngân hàng, rủi ro khác. Tính toán bảo hiểm — tính phí bảo hiểm, dự đoán rủi ro. Không có tính toán bảo hiểm, bảo hiểm phá sản."
 
-Hùng gật đầu — anh hiểu. Bảo hiểm = actuarial = toán học. Ông cần chuyên gia — và ông sẽ tìm. Qua Tanaka — ông hỏi chuyên gia bảo hiểm Nhật Bản. Tanaka giới thiệu — ông Yamamoto, actuarial Nhật, bốn mươi tuổi, từng làm Dai-ichi Life. Ông Yamamoto sẵn sàng đến Việt Nam — lương 2.000 đồng/tháng (cao, nhưng xứng đáng).
+Hùng gật đầu — anh hiểu. Bảo hiểm = tính toán bảo hiểm = toán học. Ông cần chuyên gia — và ông sẽ tìm. Qua Tanaka — ông hỏi chuyên gia bảo hiểm Nhật Bản. Tanaka giới thiệu — ông Yamamoto, chuyên gia tính toán bảo hiểm Nhật, bốn mươi tuổi, từng làm Dai-ichi Life. Ông Yamamoto sẵn sàng đến Việt Nam — lương 2.000 đồng/tháng (cao, nhưng xứng đáng).
 
-Hùng thuê ông Yamamoto — chuyên gia bảo hiểm đầu tiên của Thương Gia. Ông sẽ thiết kế sản phẩm bảo hiểm — nhân thọ, nông nghiệp, y tế. Phí bảo hiểm tính bằng actuarial — chính xác, an toàn, bền vững.
+Hùng thuê ông Yamamoto — chuyên gia bảo hiểm đầu tiên của Thương Gia. Ông sẽ thiết kế sản phẩm bảo hiểm — nhân thọ, nông nghiệp, y tế. Phí bảo hiểm tính bằng tính toán bảo hiểm — chính xác, an toàn, bền vững.
 
 ---
 
@@ -75,9 +75,9 @@ Hùng nắm tay bà, mỉm cười. "Con học từ bà — giúp người. Bà 
 
 Bà Hà lắc đầu, cười. "Bà không dạy — bà chỉ yêu. Yêu thương là đủ."
 
-Lan về — cô đi kiểm tra chi nhánh ngân hàng Hà Nội. "Anh ơi, chi nhánh Hà Nội — 500 triệu huy động, 300 triệu cho vay. Khách đông — người dân Hà Nội tin Thương Gia. Em thấy — người ta gửi tiền, vay tiền, rồi mua hàng ở cửa hàng. Cross-sell — ngân hàng + bán lẻ. Khách gửi tiền, mua quần áo. Khách vay tiền, mua xe đạp. Một chỗ — mọi thứ."
+Lan về — cô đi kiểm tra chi nhánh ngân hàng Hà Nội. "Anh ơi, chi nhánh Hà Nội — 500 triệu huy động, 300 triệu cho vay. Khách đông — người dân Hà Nội tin Thương Gia. Em thấy — người ta gửi tiền, vay tiền, rồi mua hàng ở cửa hàng. Bán chéo — ngân hàng + bán lẻ. Khách gửi tiền, mua quần áo. Khách vay tiền, mua xe đạp. Một chỗ — mọi thứ."
 
-Hùng cười. "Cross-sell — em lại cross-sell. Em bán mọi thứ — quần áo, giày, mì, xe đạp, vé xe, gửi tiền, vay tiền, bảo hiểm. Thương Gia — bán mọi thứ, làm mọi thứ."
+Hùng cười. "Bán chéo — em lại bán chéo. Em bán mọi thứ — quần áo, giày, mì, xe đạp, vé xe, gửi tiền, vay tiền, bảo hiểm. Thương Gia — bán mọi thứ, làm mọi thứ."
 
 Lan cười — nụ cười tự hào. Cô hai mươi ba tuổi, quản lý chuỗi 66 cửa hàng + ngân hàng + bảo hiểm. Cô đang trở thành người quản lý đa ngành — và cô giỏi.
 

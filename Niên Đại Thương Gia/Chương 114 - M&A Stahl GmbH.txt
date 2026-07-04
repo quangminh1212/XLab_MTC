@@ -35,9 +35,9 @@ Hùng gật đầu. "Yes — I keep all workers. 200 workers — I keep, I train
 
 ---
 
-Hùng mua Stahl GmbH — 15 tỷ VND. Ông giữ 200 công nhân, giữ thương hiệu (Stahl — thương hiệu phụ), đầu tư R&D (1 tỷ — nghiên cứu alloy steel mới). Sau M&A — sản lượng tăng: thép đặc biệt 10.000 tấn/tháng, cho BMW, Mercedes, Volkswagen. Doanh thu: 200 tỷ/tháng. Lãi: 40 tỷ/tháng.
+Hùng mua Stahl GmbH — 15 tỷ VND. Ông giữ 200 công nhân, giữ thương hiệu (Stahl — thương hiệu phụ), đầu tư nghiên cứu và phát triển (1 tỷ — nghiên cứu thép hợp kim mới). Sau M&A — sản lượng tăng: thép đặc biệt 10.000 tấn/tháng, cho BMW, Mercedes, Volkswagen. Doanh thu: 200 tỷ/tháng. Lãi: 40 tỷ/tháng.
 
-Hùng tích hợp — Stahl GmbH vào hệ sinh thái Thương Gia. Phế liệu — từ nhà máy Đức (Thương Gia). Phân phối — qua ông Müller, thị trường châu Âu. Cross-sell — thép Stahl + thép Thương Gia + xi măng Thương Gia. Hệ sinh thái — mở rộng châu Âu.
+Hùng tích hợp — Stahl GmbH vào hệ sinh thái Thương Gia. Phế liệu — từ nhà máy Đức (Thương Gia). Phân phối — qua ông Müller, thị trường châu Âu. Bán chéo — thép Stahl + thép Thương Gia + xi măng Thương Gia. Hệ sinh thái — mở rộng châu Âu.
 
 「Nhiệm vụ hoàn thành: M&A Stahl GmbH
 - Mua công ty ✓, tích hợp ✓
@@ -77,7 +77,7 @@ Hùng gật đầu. "Gần — nhưng chưa. Còn châu Phi, tổng kết. 1-2 n
 
 Lan về — cô đi Đức, giúp M&A. "Anh ơi, Stahl GmbH — tích hợp. 200 công nhân Đức — giữ, đào tạo. Họ — họ giỏi, chuyên nghiệp, kỷ luật. Em — em học từ họ — kỷ luật Đức. Thương Gia — học kỷ luật Đức, áp dụng Việt Nam."
 
-Hùng gật đầu. "Đúng. Học — luôn học. Kỷ luật Đức — áp dụng Thương Gia. Kỹ thuật Nhật — áp dụng Thương Gia. Marketing USA — áp dụng Thương Gia. Thương Gia — học mọi nước, mạnh hơn."
+Hùng gật đầu. "Đúng. Học — luôn học. Kỷ luật Đức — áp dụng Thương Gia. Kỹ thuật Nhật — áp dụng Thương Gia. Tiếp thị Mỹ — áp dụng Thương Gia. Thương Gia — học mọi nước, mạnh hơn."
 
 Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — no, ngon. Năm người ăn — bà Hà, Lan, Hùng, Hạnh, Bảo. Gia đình.
 

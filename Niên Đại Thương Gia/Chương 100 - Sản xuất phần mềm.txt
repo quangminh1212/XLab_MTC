@@ -8,7 +8,7 @@ Phần mềm — ngành thứ mười tám. Hùng mang kiến thức thế kỷ 
 
 Hùng ngồi trong văn phòng, họp Đức. "Đức, cháu muốn thành lập công ty phần mềm — viết phần mềm quản lý, kế toán, bán hàng. Cho Thương Gia và bán ngoài. Vốn 200 triệu."
 
-Đức gật đầu. "Phần mềm — em hiểu cơ bản. Cần lập trình viên — người viết code. Em cần 10 lập trình viên, tốt nghiệp cntt. Lương 400 đồng/tháng. Máy tính — 20 máy (NEC, qua Tanaka). Văn phòng — tòa nhà Thương Gia, tầng 3."
+Đức gật đầu. "Phần mềm — em hiểu cơ bản. Cần lập trình viên — người viết mã nguồn. Em cần 10 lập trình viên, tốt nghiệp cntt. Lương 400 đồng/tháng. Máy tính — 20 máy (NEC, qua Tanaka). Văn phòng — tòa nhà Thương Gia, tầng 3."
 
 Hùng gật đầu. "Được. 10 lập trình viên, 20 máy, văn phòng tầng 3. Vốn 200 triệu. Anh sẽ tuyển — lập trình viên, tốt nghiệp bách khoa, cntt. Và anh — anh sẽ thiết kế phần mềm. Anh biết — anh có kiến thức tương lai."
 
@@ -21,17 +21,17 @@ Hùng biết — phần mềm quản lý thế kỷ 21: ERP (Enterprise Resource
 
 ---
 
-Hùng tuyển lập trình viên — 10 người, tốt nghiệp bách khoa cntt. Ông tuyển anh Long — lập trình viên, hai mươi lăm tuổi, tốt nghiệp bách khoa, giỏi code, đam mê máy tính. Anh Long — thế hệ mới, lớn lên sau Đổi Mới, hiểu máy tính, hiểu internet.
+Hùng tuyển lập trình viên — 10 người, tốt nghiệp bách khoa cntt. Ông tuyển anh Long — lập trình viên, hai mươi lăm tuổi, tốt nghiệp bách khoa, giỏi viết mã, đam mê máy tính. Anh Long — thế hệ mới, lớn lên sau Đổi Mới, hiểu máy tính, hiểu internet.
 
-"Anh Long, công ty phần mềm Thương Gia — em phụ trách kỹ thuật. Anh sẽ thiết kế phần mềm — em code. 3 phần mềm: quản lý doanh nghiệp (ERP), kế toán, bán hàng. Anh — anh thiết kế, em code. Được không?"
+"Anh Long, công ty phần mềm Thương Gia — em phụ trách kỹ thuật. Anh sẽ thiết kế phần mềm — em viết mã. 3 phần mềm: quản lý doanh nghiệp (ERP), kế toán, bán hàng. Anh — anh thiết kế, em viết mã. Được không?"
 
-Long mắt sáng — anh đam mê code. "Anh Hùng, em — em code được. Em giỏi C, Pascal, BASIC. Em sẽ code — phần mềm Thương Gia. Nhưng em cần — thiết kế. Anh thiết kế, em code."
+Long mắt sáng — anh đam mê viết mã. "Anh Hùng, em — em viết mã được. Em giỏi C, Pascal, BASIC. Em sẽ viết mã — phần mềm Thương Gia. Nhưng em cần — thiết kế. Anh thiết kế, em viết mã."
 
-Hùng mỉm cười. "Anh sẽ thiết kế — anh biết phần mềm quản lý. ERP — quản lý toàn doanh nghiệp: mua hàng, sản xuất, bán hàng, kho, nhân sự, tài chính. Kế toán — sổ cái, báo cáo, thuế. Bán hàng — POS, hóa đơn, khách hàng. Anh — anh thiết kế, em code."
+Hùng mỉm cười. "Anh sẽ thiết kế — anh biết phần mềm quản lý. ERP — quản lý toàn doanh nghiệp: mua hàng, sản xuất, bán hàng, kho, nhân sự, tài chính. Kế toán — sổ cái, báo cáo, thuế. Bán hàng — POS, hóa đơn, khách hàng. Anh — anh thiết kế, em viết mã."
 
 ---
 
-Hùng thiết kế phần mềm — ông mang kiến thức thế kỷ 21. Ông vẽ flowchart, viết spec, thiết kế UI. Đơn giản — phù hợp Việt Nam, dễ dùng, giá rẻ.
+Hùng thiết kế phần mềm — ông mang kiến thức thế kỷ 21. Ông vẽ lưu đồ, viết đặc tả, thiết kế giao diện. Đơn giản — phù hợp Việt Nam, dễ dùng, giá rẻ.
 
 ERP Thương Gia — quản lý toàn doanh nghiệp: mua hàng (đơn hàng, nhà cung cấp), sản xuất (kế hoạch, tiến độ), bán hàng (đơn hàng, khách hàng), kho (nhập, xuất, tồn), nhân sự (lương, chấm công), tài chính (thu, chi, báo cáo). Tích hợp — một hệ thống, quản lý tất cả.
 
@@ -39,11 +39,11 @@ Kế toán Thương Gia — sổ cái, báo cáo tài chính, thuế, hóa đơn
 
 Bán hàng Thương Gia — POS (Point of Sale), hóa đơn, khách hàng, thẻ thành viên. Tích hợp — với ERP, kế toán. Mua hàng — POS ghi, ERP cập nhật kho, kế toán ghi sổ. Một hệ thống — xuyên suốt.
 
-Long code — 3 tháng, phần mềm đầu tiên (kế toán) hoàn thành. Hùng test — chạy thử, kiểm tra. Phần mềm chạy — đúng, nhanh, dễ dùng. Hùng gật đầu hài lòng.
+Long viết mã — 3 tháng, phần mềm đầu tiên (kế toán) hoàn thành. Hùng kiểm thử — chạy thử, kiểm tra. Phần mềm chạy — đúng, nhanh, dễ dùng. Hùng gật đầu hài lòng.
 
 "Long, phần mềm kế toán — tốt. Em tiếp — ERP, bán hàng. 3 tháng nữa, hoàn thành cả 3."
 
-Long gật đầu — anh code, say mê. Anh hai mươi lăm tuổi, và anh đang viết phần mềm đầu tiên của Việt Nam — phần mềm Thương Gia.
+Long gật đầu — anh viết mã, say mê. Anh hai mươi lăm tuổi, và anh đang viết phần mềm đầu tiên của Việt Nam — phần mềm Thương Gia.
 
 ---
 
@@ -65,7 +65,7 @@ Hùng mỉm cười. Phần mềm — hiệu quả. Doanh nghiệp tiết kiệm
 - Phần thưởng: +400 EXP, Kỹ năng Phần mềm lv1
 - Tổng EXP: 24.050」
 
-「Kỹ năng Phần mềm cấp 1: Thiết kế phần mềm, quản lý dự án phần mềm, code cơ bản, hiểu ERP/CRM/SCM, đánh giá chất lượng phần mềm.」
+「Kỹ năng Phần mềm cấp 1: Thiết kế phần mềm, quản lý dự án phần mềm, lập trình cơ bản, hiểu ERP/CRM/SCM, đánh giá chất lượng phần mềm.」
 
 Phần mềm lv1. Thương Gia — đế chế phần mềm. 3 phần mềm, 166 khách, 2 triệu lãi/tháng. Hùng mỉm cười — ông tiên phong phần mềm Việt Nam. Từ bán hàng đến phần mềm — hành trình 18 năm. Và phần mềm — tương lai, hiệu quả, hiện đại.
 

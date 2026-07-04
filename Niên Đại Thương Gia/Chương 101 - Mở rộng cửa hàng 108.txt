@@ -39,7 +39,7 @@ Lan bế bà Lò — nhẹ nhàng, hiền. Cô — cô giống anh, yêu ngườ
 
 ---
 
-6 tháng sau — 108 cửa hàng hoàn thành. Phủ 54 tỉnh — mỗi tỉnh có ít nhất 1 cửa hàng Thương Gia. Doanh thu: 400 triệu/tháng (108 × 3.7 triệu average). Lãi: 120 triệu/tháng.
+6 tháng sau — 108 cửa hàng hoàn thành. Phủ 54 tỉnh — mỗi tỉnh có ít nhất 1 cửa hàng Thương Gia. Doanh thu: 400 triệu/tháng (108 × 3.7 triệu trung bình). Lãi: 120 triệu/tháng.
 
 「Nhiệm vụ hoàn thành: 108 cửa hàng toàn quốc
 - 108 cửa hàng ✓, phủ 54 tỉnh ✓
@@ -47,7 +47,7 @@ Lan bế bà Lò — nhẹ nhàng, hiền. Cô — cô giống anh, yêu ngườ
 - Phần thưởng: +300 EXP, Kỹ năng Bán lẻ lv3
 - Tổng EXP: 24.500」
 
-「Kỹ năng Bán lẻ cấp 3: Quản lý chuỗi cửa hàng toàn quốc, tối ưu hóa đa dịch vụ, cross-sell chuyên nghiệp, quản lý POS, đánh giá hiệu quả bán lẻ toàn hệ thống.」
+「Kỹ năng Bán lẻ cấp 3: Quản lý chuỗi cửa hàng toàn quốc, tối ưu hóa đa dịch vụ, bán chéo chuyên nghiệp, quản lý bán hàng, đánh giá hiệu quả bán lẻ toàn hệ thống.」
 
 Bán lẻ lv3. Thương Gia — đế chế bán lẻ. 108 cửa hàng, 54 tỉnh, 400 triệu/tháng. Hùng mỉm cười — từ 1 cửa hàng (1983) đến 108 (2002). 19 năm — phủ toàn quốc. Mỗi tỉnh — một cửa hàng, một trung tâm đa dịch vụ, một điểm chạm Thương Gia.
 
@@ -69,7 +69,7 @@ Hạnh — cô bế Bảo, mỉm cười. "Anh ơi, 108 cửa hàng — em tự 
 
 Hùng nhìn Hạnh, nhìn Bảo, nhìn bà — gia đình. Đế chế và gia đình — cả hai. Cân bằng — ông đang học. Và ông — ông hạnh phúc. Hạnh phúc thật — không chỉ đế chế, mà gia đình.
 
-Lan về — cô mở 42 cửa hàng, mệt nhưng vui. "Anh ơi, 108 cửa hàng — xong! Em — em mệt, nhưng vui. Em — em phủ khắp Việt Nam. Mỗi tỉnh — một cửa hàng, một điểm chạm. Thương Gia —无处不在."
+Lan về — cô mở 42 cửa hàng, mệt nhưng vui. "Anh ơi, 108 cửa hàng — xong! Em — em mệt, nhưng vui. Em — em phủ khắp Việt Nam. Mỗi tỉnh — một cửa hàng, một điểm chạm. Thương Gia — ở khắp nơi."
 
 Hùng cười. "Vô hình nhi tại" — anh nói tiếng Hán. "Không ở đâu mà không có — Thương Gia ở khắp nơi."
 

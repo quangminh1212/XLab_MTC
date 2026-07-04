@@ -7,15 +7,15 @@ Tháng 9 năm 1985. Hùng bắt đầu xây thương hiệu — "Thương Gia" k
 Trong thời bao cấp, khái niệm "thương hiệu" gần như không tồn tại — hàng hóa là hàng nhà nước, không có nhãn hiệu riêng. Nhưng Hùng hiểu — từ kiến thức thế kỷ 21 — rằng thương hiệu là tài sản vô hình, quý hơn vàng. Thương hiệu tạo niềm tin, tạo trung thành, tạo giá trị.
 
 Hùng bắt đầu:
-1. Bao bì thống nhất — tất cả sản phẩm Thương Gia dùng bao bì统一的: màu đỏ - trắng, logo "TG" (chữ T và G lồng nhau), chữ "Thương Gia — Chất Lượng Việt Nam". Bao bì giấy cho mì, túi vải cho quần áo, hộp gỗ cho giày.
+1. Bao bì thống nhất — tất cả sản phẩm Thương Gia dùng bao bì thống nhất: màu đỏ - trắng, biểu tượng "TG" (chữ T và G lồng nhau), chữ "Thương Gia — Chất Lượng Việt Nam". Bao bì giấy cho mì, túi vải cho quần áo, hộp gỗ cho giày.
 2. Nhãn mác — mỗi sản phẩm có nhãn: tên sản phẩm, xưởng sản xuất, ngày sản xuất, giá bán. Minh quản lý chất lượng, đảm bảo mỗi sản phẩm đạt chuẩn.
 3. Quảng cáo — trong thời bao cấp không có quảng cáo truyền hình, nhưng có truyền miệng. Hùng tạo truyền miệng: hàng chất lượng, giá rẻ, bao bì đẹp — người dân nói cho nhau. Và anh Khanh giới thiệu Thương Gia cho cán bộ huyện, cán bộ tỉnh.
 4. Đảm bảo chất lượng — nếu hàng lỗi, đổi trả miễn phí. Chính sách đổi trả đầu tiên ở Việt Nam — người dân tin tưởng, mua nhiều hơn.
 5. Khách hàng thân thiết — người mua thường xuyên được giảm giá 5%. Thẻ thành viên đầu tiên ở Việt Nam — tấm thẻ giấy, đóng dấu Thương Gia.
 
 「Nhiệm vụ mới: Xây dựng thương hiệu Thương Gia trong 30 ngày
-- Mục tiêu: 100% sản phẩm có bao bì统一, nhãn mác, chính sách đổi trả, thẻ thành viên
-- Phần thưởng: 200 EXP, Kỹ năng Marketing lv1
+- Mục tiêu: 100% sản phẩm có bao bì thống nhất, nhãn mác, chính sách đổi trả, thẻ thành viên
+- Phần thưởng: 200 EXP, Kỹ năng Tiếp thị lv1
 - Thời hạn: 30 ngày」
 
 Lan phụ trách xây thương hiệu — cô có mắt thẩm mỹ, hiểu khách hàng. Cô thiết kế bao bì (với sự hướng dẫn của Hùng), in nhãn, phát thẻ thành viên. Cô đi từng cửa hàng, hướng dẫn nhân viên về thương hiệu.
@@ -24,14 +24,14 @@ Lan phụ trách xây thương hiệu — cô có mắt thẩm mỹ, hiểu khá
 
 Nhân viên gật đầu — họ hiểu. Không chỉ bán hàng, mà xây dựng niềm tin. Mỗi sản phẩm, mỗi khách hàng, mỗi lần mua — đều là xây thương hiệu.
 
-Sau 30 ngày, tất cả sản phẩm Thương Gia có bao bì统一, nhãn mác, chính sách đổi trả, thẻ thành viên. Khách hàng phản hồi tích cực — họ thích bao bì đẹp, thích đổi trả, thích thẻ thành viên. Doanh thu tăng 15% — vì khách mua lại nhiều hơn.
+Sau 30 ngày, tất cả sản phẩm Thương Gia có bao bì thống nhất, nhãn mác, chính sách đổi trả, thẻ thành viên. Khách hàng phản hồi tích cực — họ thích bao bì đẹp, thích đổi trả, thích thẻ thành viên. Doanh thu tăng 15% — vì khách mua lại nhiều hơn.
 
 「Nhiệm vụ hoàn thành: Xây dựng thương hiệu Thương Gia
-- Phần thưởng: +200 EXP, Kỹ năng Marketing lv1
+- Phần thưởng: +200 EXP, Kỹ năng Tiếp thị lv1
 - Tổng EXP: 5.650
 - Kỹ năng: 11」
 
-「Kỹ năng Marketing cấp 1: Hiểu thị trường mục tiêu cơ bản, tạo thông điệp quảng cáo cơ bản, đo lường hiệu quả marketing cơ bản.」
+「Kỹ năng Tiếp thị cấp 1: Hiểu thị trường mục tiêu cơ bản, tạo thông điệp quảng cáo cơ bản, đo lường hiệu quả tiếp thị cơ bản.」
 
 Mười một kỹ năng. 5.650 EXP. Thương hiệu Thương Gia — không chỉ tên, mà niềm tin. Người dân Việt Nam biết Thương Gia — hàng chất lượng, giá rẻ, bao bì đẹp, đổi trả dễ. Thương hiệu đầu tiên của Việt Nam.
 

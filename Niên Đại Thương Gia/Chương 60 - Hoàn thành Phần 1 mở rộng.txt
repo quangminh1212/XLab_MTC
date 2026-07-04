@@ -18,7 +18,7 @@ Tổng kết Thương Gia 1990:
 - Công ty xây dựng ✓
 - 37 mảnh đất ✓
 - 6 đối tác quốc tế (Lào, Campuchia, Thái Lan, Trung Quốc, Nhật Bản, Hàn Quốc) ✓
-- Joint venture Tanaka-Thương Gia ✓
+- Liên doanh Tanaka-Thương Gia ✓
 - Quỹ từ thiện Thương Gia ✓
 - 800 nhân sự ✓
 - Doanh thu: 10.000.000 đồng/tháng (120.000.000 đồng/năm) ✓
@@ -32,8 +32,8 @@ Tổng kết Thương Gia 1990:
 - 63 cửa hàng ✓, 30 nhà hàng ✓, 45 xưởng ✓, 37 mảnh đất ✓
 - 10 phòng khám ✓, 50 xe tải ✓, 100 hộ vay ✓, 8 trường học ✓
 - Công ty xây dựng ✓, pin mặt trời ✓, từ thiện ✓
-- 6 đối tác quốc tế ✓, joint venture Nhật ✓
-- EXP 11.950 ✓, Space 7.000m² ✓, 18 kỹ năng ✓
+- 6 đối tác quốc tế ✓, liên doanh Nhật ✓
+- EXP 11.950 ✓, Không gian 7.000m² ✓, 18 kỹ năng ✓
 - Phần thưởng hoàn thành: +1.000 EXP, Kỹ năng Quản trị đế chế lv2, Không gian +1.000m²
 - Tổng EXP: 12.950
 - Không gian: 8.000m²」

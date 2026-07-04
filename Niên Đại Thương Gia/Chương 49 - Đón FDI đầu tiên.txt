@@ -14,13 +14,13 @@ Tháng 6 năm 1988. Hùng đón FDI đầu tiên — ông Tanaka, thương nhân
 
 "I want to invest in Thương Gia. Not just import — I want to invest. Joint venture. Tanaka Trading provides capital, technology, market access to Japan. Thương Gia provides manufacturing, local market, brand. 50-50 joint venture."
 
-Hùng suy nghĩ. FDI — vốn đầu tư nước ngoài. Trong thời sau Đổi Mới, Việt Nam cần vốn nước ngoài để phát triển. Ông Tanaka đề xuất joint venture — 50-50, cùng đầu tư, cùng chia lời.
+Hùng suy nghĩ. FDI — vốn đầu tư nước ngoài. Trong thời sau Đổi Mới, Việt Nam cần vốn nước ngoài để phát triển. Ông Tanaka đề xuất liên doanh — 50-50, cùng đầu tư, cùng chia lời.
 
 Kỹ năng thương mại lv4 và chiến lược lv2 đánh giá:
 - Vốn Tanaka: ~100.000 USD (200 triệu đồng Việt Nam) — lớn, đủ mở rộng quy mô
 - Công nghệ Tanaka: máy móc Nhật Bản, tiên tiến hơn Việt Nam nhiều
 - Thị trường Nhật: 120 triệu dân, nhu cầu lớn, giá cao
-- Rủi ro: Tanaka có thể chiếm controlling stake, nhưng 50-50 là công bằng
+- Rủi ro: Tanaka có thể chiếm quyền kiểm soát, nhưng 50-50 là công bằng
 
 "Mr. Tanaka, I accept. 50-50 joint venture. But I have conditions:
 1. Thương Gia brand stays — joint venture uses Thương Gia brand
@@ -32,16 +32,16 @@ Tanaka thinks, then nods. "Acceptable. You are a tough negotiator, Mr. Hung. But
 
 「Giao dịch FDI thành công! +500 EXP. Tổng EXP: 9.900」
 
-Hùng và Tanaka ký hợp đồng joint venture — "Tanaka-Thương Gia Trading Co., Ltd." Vốn: 200 triệu đồng (100 triệu Tanaka + 100 triệu Thương Gia). Hùng làm CEO, Tanaka làm Chủ tịch HĐQT.
+Hùng và Tanaka ký hợp đồng liên doanh — "Tanaka-Thương Gia Trading Co., Ltd." Vốn: 200 triệu đồng (100 triệu Tanaka + 100 triệu Thương Gia). Hùng làm giám đốc điều hành, Tanaka làm Chủ tịch HĐQT.
 
-Joint venture mở rộng:
+Liên doanh mở rộng:
 - Xưởng mì ăn liền mới — máy Nhật Bản, sản lượng 10 triệu gói/tháng
 - Xưởng may mới — máy Nhật, chất lượng xuất khẩu
 - Xuất khẩu sang Nhật — mì Thương Gia, khăn lụa, túi da
 
-Doanh thu joint venture tháng đầu: 500.000 đồng. Lãi: 200.000 đồng. Thương Gia đang vươn ra quốc tế — không chỉ xuất khẩu, mà hợp tác sản xuất với nước ngoài.
+Doanh thu liên doanh tháng đầu: 500.000 đồng. Lãi: 200.000 đồng. Thương Gia đang vươn ra quốc tế — không chỉ xuất khẩu, mà hợp tác sản xuất với nước ngoài.
 
-「Kỹ năng Ngoại thương lv2 → lv3: Đàm phán quốc tế nâng cao, hiểu luật FDI, quản lý joint venture cơ bản. +100 EXP. Tổng EXP: 10.000」
+「Kỹ năng Ngoại thương lv2 → lv3: Đàm phán quốc tế nâng cao, hiểu luật FDI, quản lý liên doanh cơ bản. +100 EXP. Tổng EXP: 10.000」
 
 10.000 EXP! Hùng mỉm cười — ông đã đạt mốc 10.000. Hệ thống thông báo:
 

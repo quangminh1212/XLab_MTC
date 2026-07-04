@@ -2,7 +2,7 @@
 Chương 5: Mở rộng kinh doanh
 ============================================================
 
-Bốn giờ sáng. Trời tối như hũ nút. Hùng mở mắt, tỉnh giấc ngay lập tức — thói quen của Lý Minh, khi có deadline thì không cần alarm.
+Bốn giờ sáng. Trời tối như hũ nút. Hùng mở mắt, tỉnh giấc ngay lập tức — thói quen của Lý Minh, khi có hạn chót thì không cần chuông báo thức.
 
 Hôm nay là ngày thứ tư của nhiệm vụ, và ông sẽ hoàn thành nó. 10 EXP nữa — chỉ cần một hai giao dịch nữa. Nhưng ông không chỉ muốn hoàn thành nhiệm vụ, ông muốn vượt chỉ tiêu. Ông muốn gia đình đủ ăn không chỉ một tháng, mà ba tháng, sáu tháng, một năm.
 
@@ -44,7 +44,7 @@ Khách đến nhanh. Anh Khanh đã giới thiệu — ba đồng nghiệp của
 
 「Nhiệm vụ hoàn thành: Cải thiện cuộc sống gia đình trong 7 ngày
 - Kết quả: Gia đình có đủ ăn trong 1 tháng ✓
-- EXP nhận được: +100 (bonus hoàn thành)
+- EXP nhận được: +100 (thưởng hoàn thành)
 - Tổng EXP: 120
 - Phần thưởng: Không gian mở rộng +200m² (1.200m² tổng)
 - Kỹ năng Thương mại cấp 1 → cấp 2 (tự động nâng cấp khi đạt 100 EXP)」
@@ -93,7 +93,7 @@ Tối ấy, Hùng nấu bữa tối đặc biệt — thịt bò xào hành tỏ
 
 Bà Hà ăn miếng thịt bò, nhắm mắt, rồi nói: "Bà nhớ ngày xưa, bố cậu cũng hay nấu thịt bò xào. Ông ấy nấu ngon lắm — hành tỏi nhiều, thịt chín tới, không dai. Bà ăn mà nhớ."
 
-Hùng nghe, im lặng. Bà nhắc cha — người cha ông chưa từng gặp. Trong ký ức của Hùng, cha nấu ăn ngon, hay ôm con, hay hát khi say. Nhưng cha bị带走, và gia đình tan vỡ.
+Hùng nghe, im lặng. Bà nhắc cha — người cha ông chưa từng gặp. Trong ký ức của Hùng, cha nấu ăn ngon, hay ôm con, hay hát khi say. Nhưng cha bị đưa đi, và gia đình tan vỡ.
 
 "Con sẽ nấu ngon như cha." Hùng nói, giọng nhẹ nhưng chắc.
 
@@ -115,7 +115,7 @@ Ngoài ra, ông cần bắt đầu sản xuất — không thể mãi bán hàng
 
 Nhưng mọi thứ đều cần vốn, cần mặt bằng, cần nhân công. Hùng có tiền (518 đồng ngoài + 10.000 đồng trong không gian), nhưng mặt bằng và nhân công là vấn đề. Trong thời bao cấp, thuê mặt bằng cần giấy phép, thuê nhân công cần lý lịch tốt.
 
-Hùng quyết định: ngày mai sẽ hỏi anh Khanh về giấy phép bán hàng. Nếu có thể mở cửa hàng nhỏ ở huyện, ông sẽ bắt đầu. Nếu không, ông sẽ tìm cách khác — bán rong thêm一段时间, tích lũy tiền, rồi mua đất xây cửa hàng.
+Hùng quyết định: ngày mai sẽ hỏi anh Khanh về giấy phép bán hàng. Nếu có thể mở cửa hàng nhỏ ở huyện, ông sẽ bắt đầu. Nếu không, ông sẽ tìm cách khác — bán rong thêm một thời gian, tích lũy tiền, rồi mua đất xây cửa hàng.
 
 Hùng thoát không gian, nằm xuống giường. Ngoài sân, trăng sáng, gió lạnh. Trong nhà, bà Hà đang đọc kinh — bà đọc nhỏ, lí nhí, nhưng đều. Lan đã ngủ, cuộn tròn trên chõng tre, tay ôm chiếc gối mới (Hùng lấy từ không gian, nói là hàng khách trả lại).
 

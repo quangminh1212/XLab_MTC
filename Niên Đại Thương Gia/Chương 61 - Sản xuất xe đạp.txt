@@ -20,7 +20,7 @@ Mục tiêu:
 - Dịch vụ phủ 30 tỉnh
 - Ngành mới: xe đạp, máy cày, máy gặt, vận tải, tài chính, giáo dục, y tế, xây dựng, năng lượng
 - EXP: 19.500
-- Space: 6.200m²"
+- Không gian: 6.200m²"
 
 Hùng gấp hồ sơ, hít sâu. Phần 2 — lớn hơn, phức tạp hơn, khó hơn. Nhưng ông sẵn sàng — ông có đội ngũ, có vốn, có kinh nghiệm, và có hệ thống.
 
@@ -124,9 +124,9 @@ Lan gật đầu, rồi hỏi: "Anh, xe đạp — khi nào xong?"
 
 "2 tháng xây xưởng, 1 tháng lắp máy, 1 tháng sản xuất thử. Tổng 4 tháng — tháng 5 năm 1991, xe đạp Thương Gia ra mắt."
 
-Lan mắt sáng. "Em sẽ chuẩn bị kệ trưng bày — kệ xe đạp, đặt ở 63 cửa hàng. Cross-sell — khách vào mua quần áo, thấy xe đạp, mua thêm."
+Lan mắt sáng. "Em sẽ chuẩn bị kệ trưng bày — kệ xe đạp, đặt ở 63 cửa hàng. Bán chéo — khách vào mua quần áo, thấy xe đạp, mua thêm."
 
-Hùng cười. "Cross-sell — em học nhanh."
+Hùng cười. "Bán chéo — em học nhanh."
 
 "Em học từ anh." Lan cười — nụ cười tự hào.
 
@@ -138,7 +138,7 @@ Hùng nhìn hệ thống:
 
 「Tiến độ tổng quan:
 - EXP: 12.950
-- Kỹ năng: 18 (Thương mại lv4, Ngôn ngữ lv1, Y tế lv1, Sản xuất lv2, Quản lý lv1, Sản xuất giày lv1, Sản xuất túi lv1, Ngoại thương lv3, Sản xuất thực phẩm lv2, Chiến lược lv2, Marketing lv1, Lãnh đạo lv2, Ngoại giao kinh tế lv1, Quản trị đế chế lv2, Logistics lv1, Tài chính lv1, Giáo dục lv1, Xây dựng lv1)
+- Kỹ năng: 18 (Thương mại lv4, Ngôn ngữ lv1, Y tế lv1, Sản xuất lv2, Quản lý lv1, Sản xuất giày lv1, Sản xuất túi lv1, Ngoại thương lv3, Sản xuất thực phẩm lv2, Chiến lược lv2, Tiếp thị lv1, Lãnh đạo lv2, Ngoại giao kinh tế lv1, Quản trị đế chế lv2, Vận tải lv1, Tài chính lv1, Giáo dục lv1, Xây dựng lv1)
 - Không gian: 8.000m²
 - Nhiệm vụ Phần 2: Sản xuất xe đạp 1.000 xe/tháng (30 ngày)」
 

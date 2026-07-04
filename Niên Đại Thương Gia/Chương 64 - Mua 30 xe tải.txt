@@ -4,7 +4,7 @@ Chương 64: Mua 30 xe tải — Vận tải toàn quốc
 
 Tháng 7 năm 1991. Hùng mở rộng vận tải — mua thêm 30 xe tải, tổng 60, và 10 xe khách.
 
-Hùng nhỏ — Hoàng Văn Hùng, hai mươi tám tuổi, kỹ sư cơ khí, quản lý vận tải Thương Gia — đứng trước bãi xe mới. 30 xe tải Zil-130, cũ nhưng còn tốt, mua từ quân đội thanh lý. Xe xanh quân đội, sơn phủ lại — sơn xanh lá, logo TG trắng trên cửa. Đẹp — xe Thương Gia, không còn xe quân đội.
+Hùng nhỏ — Hoàng Văn Hùng, hai mươi tám tuổi, kỹ sư cơ khí, quản lý vận tải Thương Gia — đứng trước bãi xe mới. 30 xe tải Zil-130, cũ nhưng còn tốt, mua từ quân đội thanh lý. Xe xanh quân đội, sơn phủ lại — sơn xanh lá, biểu tượng TG trắng trên cửa. Đẹp — xe Thương Gia, không còn xe quân đội.
 
 Hùng nhỏ kiểm tra từng xe — mở nắp capo, xem động cơ, lắng nghe tiếng máy. Kỹ sư cơ khí — ông hiểu xe, nghe tiếng máy là biết xe tốt xấu.
 
@@ -24,7 +24,7 @@ Hùng nhỏ gật đầu. "Em sẽ mua — 10 xe khách, 30 chỗ, giá 5.000 đ
 
 ---
 
-Hùng đến bãi xe — nhìn 60 xe tải xếp hàng, xanh lá, logo TG trắng. Đội xe Thương Gia — lớn nhất Việt Nam tư nhân. Không nhà nước nào có đội xe lớn thế — và không tư nhân nào dám đầu tư lớn thế.
+Hùng đến bãi xe — nhìn 60 xe tải xếp hàng, xanh lá, biểu tượng TG trắng. Đội xe Thương Gia — lớn nhất Việt Nam tư nhân. Không nhà nước nào có đội xe lớn thế — và không tư nhân nào dám đầu tư lớn thế.
 
 Hùng nhỏ đứng cạnh, tự hào. "Anh Hùng, 60 xe tải — đội xe lớn nhất Việt Nam. Em quản lý — 60 tài xế, 10 phụ xe, 5 thợ sửa. Tổng 75 người. Em đề xuất mở trung tâm vận tải — ở Hà Đông, mặt bằng 2.000m², gồm bãi xe, xưởng sửa, văn phòng."
 
@@ -59,12 +59,12 @@ Hùng nhỏ gật đầu. "Vâng. Em sẽ đào tạo — mỗi tài xế học 
 Hùng mỉm cười. Hùng nhỏ giỏi — ông không chỉ quản lý xe, mà quản lý an toàn. An toàn = uy tín = thương hiệu. Thương Gia không chỉ nhanh — Thương Gia an toàn.
 
 「Nhiệm vụ hoàn thành: Vận tải 60 xe + 10 xe khách
-- Phần thưởng: +200 EXP, Kỹ năng Logistics lv2
+- Phần thưởng: +200 EXP, Kỹ năng Vận tải lv2
 - Tổng EXP: 13.630」
 
-「Kỹ năng Logistics cấp 2: Quản lý vận tải nâng cao, tối ưu tuyến đường toàn quốc, giảm 25% chi phí vận chuyển, quản lý kho bãi nâng cao, quản lý xe khách.」
+「Kỹ năng Vận tải cấp 2: Quản lý vận tải nâng cao, tối ưu tuyến đường toàn quốc, giảm 25% chi phí vận chuyển, quản lý kho bãi nâng cao, quản lý xe khách.」
 
-Logistics lv2. Thương Gia đang trở thành tập đoàn vận tải — không chỉ sản xuất, mà vận chuyển. Chuỗi cung ứng hoàn chỉnh — từ nguyên liệu đến sản xuất đến vận chuyển đến bán lẻ. Mỗi mắt xích do Thương Gia kiểm soát — hiệu quả, rẻ, nhanh, an toàn.
+Vận tải lv2. Thương Gia đang trở thành tập đoàn vận tải — không chỉ sản xuất, mà vận chuyển. Chuỗi cung ứng hoàn chỉnh — từ nguyên liệu đến sản xuất đến vận chuyển đến bán lẻ. Mỗi mắt xích do Thương Gia kiểm soát — hiệu quả, rẻ, nhanh, an toàn.
 
 ---
 
@@ -92,9 +92,9 @@ Lan gật đầu, rồi hỏi: "Anh, xe khách — khi nào chạy tuyến?"
 
 "Tháng 8. Hùng nhỏ đang mua xe, tuyển tài xế. Tuyến đầu: Hà Nội-Sài Gòn, 3 ngày đường, giá 50 đồng. Rẻ hơn xe nhà nước — người dân sẽ chọn Thương Gia."
 
-"Em sẽ quảng cáo — poster ở 63 cửa hàng, báo, đài. 'Xe khách Thương Gia — Rẻ, An Toàn, Đẹp.' Em sẽ bán vé qua cửa hàng — cross-sell."
+'Em sẽ quảng cáo — áp phích ở 63 cửa hàng, báo, đài. 'Xe khách Thương Gia — Rẻ, An Toàn, Đẹp.' Em sẽ bán vé qua cửa hàng — bán chéo.'
 
-Hùng cười. "Cross-sell — em lại cross-sell. Em bán mọi thứ ở cửa hàng — quần áo, giày, mì, xe đạp, vé xe khách. Thương Gia — cửa hàng bán mọi thứ."
+Hùng cười. "Bán chéo — em lại bán chéo. Em bán mọi thứ ở cửa hàng — quần áo, giày, mì, xe đạp, vé xe khách. Thương Gia — cửa hàng bán mọi thứ."
 
 Lan cười — nụ cười tự hào. Cô hai mươi hai tuổi, quản lý chuỗi 66 cửa hàng, và cô bán mọi thứ — từ quần áo đến vé xe. Cô đang trở thành người quản lý giỏi nhất Việt Nam.
 

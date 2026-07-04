@@ -4,17 +4,17 @@ Chương 81: Mở rộng năng lượng — Nhà máy điện
 
 Tháng 6 năm 1995. Hùng mở rộng năng lượng — xây nhà máy điện mặt trời Thương Gia đầu tiên.
 
-Pin mặt trời — Hùng đã lắp cho 55 cửa hàng và bán 100 hệ thống cho khách. Nhưng ông muốn lớn hơn — nhà máy điện mặt trời, phát điện cho grid, bán điện cho nhà nước. Đây là bước nhảy — từ pin nhỏ đến nhà máy điện.
+Pin mặt trời — Hùng đã lắp cho 55 cửa hàng và bán 100 hệ thống cho khách. Nhưng ông muốn lớn hơn — nhà máy điện mặt trời, phát điện cho lưới điện, bán điện cho nhà nước. Đây là bước nhảy — từ pin nhỏ đến nhà máy điện.
 
 Hùng ngồi trong văn phòng, họp Minh — quản lý kỹ thuật năng lượng.
 
 "Minh, cháu muốn xây nhà máy điện mặt trời — 1MW, ở Bình Thuận. Bình Thuận — nắng nhiều, đất rẻ, phù hợp. 5.000 tấm pin, phát 1MW, bán điện cho EVN. Vốn: 500.000 đồng (pin, inverter, khung, đất, xây dựng)."
 
-Minh suy nghĩ — anh hiểu pin mặt trời, nhưng nhà máy điện là cấp khác. "Anh Hùng, 1MW — lớn. 5.000 tấm pin, nhập khẩu Nhật (qua Tanaka). Inverter — chuyển DC sang AC, nhập Nhật. Khung thép — sản xuất tại chỗ. Đất — 10.000m², ở Bình Thuận. Xây dựng — công ty Thương Gia. Vốn 500.000 đồng — đủ. Nhưng em cần kỹ sư điện — người hiểu grid, hiểu inverter, hiểu kết nối EVN."
+Minh suy nghĩ — anh hiểu pin mặt trời, nhưng nhà máy điện là cấp khác. "Anh Hùng, 1MW — lớn. 5.000 tấm pin, nhập khẩu Nhật (qua Tanaka). Inverter — chuyển DC sang AC, nhập Nhật. Khung thép — sản xuất tại chỗ. Đất — 10.000m², ở Bình Thuận. Xây dựng — công ty Thương Gia. Vốn 500.000 đồng — đủ. Nhưng em cần kỹ sư điện — người hiểu lưới điện, hiểu inverter, hiểu kết nối EVN."
 
 Hùng gật đầu. "Cháu sẽ tuyển — kỹ sư điện, từng làm EVN. Lương 300 đồng/tháng. Và cháu sẽ đàm phán với EVN — bán điện, giá bao nhiêu. Anh Khanh giúp — quan hệ nhà nước."
 
-Minh gật đầu. "Em sẽ thiết kế — nhà máy 1MW. 5.000 tấm pin, 50 inverter, khung thép, trạm biến áp. Kết nối grid EVN — bán điện. Sản lượng: 1MW × 5 giờ/ngày × 365 ngày = 1.825 MWh/năm. Giá bán: 500 đồng/MWh (đàm phán với EVN). Doanh thu: 912.500 đồng/năm. Lãi: 400.000 đồng/năm (sau chi phí)."
+Minh gật đầu. "Em sẽ thiết kế — nhà máy 1MW. 5.000 tấm pin, 50 inverter, khung thép, trạm biến áp. Kết nối lưới điện EVN — bán điện. Sản lượng: 1MW × 5 giờ/ngày × 365 ngày = 1.825 MWh/năm. Giá bán: 500 đồng/MWh (đàm phán với EVN). Doanh thu: 912.500 đồng/năm. Lãi: 400.000 đồng/năm (sau chi phí)."
 
 「Nhiệm vụ mới: Xây nhà máy điện mặt trời 1MW
 - Mục tiêu: Hoàn thành trong 12 tháng, phát điện 1.825 MWh/năm, bán cho EVN
@@ -23,13 +23,13 @@ Minh gật đầu. "Em sẽ thiết kế — nhà máy 1MW. 5.000 tấm pin, 50 
 
 ---
 
-Hùng đi Bình Thuận — tìm đất cho nhà máy điện. Bình Thuận — tỉnh nam trung bộ, nắng nhiều, đất cát, ít dân. Phù hợp — nắng = điện, đất rẻ =成本低.
+Hùng đi Bình Thuận — tìm đất cho nhà máy điện. Bình Thuận — tỉnh nam trung bộ, nắng nhiều, đất cát, ít dân. Phù hợp — nắng = điện, đất rẻ = chi phí thấp.
 
 Hùng đến huyện Hàm Tân — vùng cát, nắng chói chang. Ông gặp ông Lâm — chủ đất 15.000m², mặt đường, giá 30.000 đồng. Đất cát — không trồng trọt được, nhưng đặt pin mặt trời thì tuyệt vời. Hùng mua — 30.000 đồng cho 15.000m², rẻ.
 
 Hùng đứng trên đất cát, nhìn trời — nắng chói, nóng, nhưng đó là tài nguyên. Nắng = điện = tiền. Ở thế kỷ 21, năng lượng tái tạo là tương lai — và Hùng đang xây tương lai ở năm 1995.
 
-Minh đến — mang bản vẽ. "Anh Hùng, em thiết kế xong — nhà máy 1MW. 5.000 tấm pin, xếp thành 50 hàng, mỗi hàng 100 tấm. Inverter — 50 cái, mỗi cái 20kW. Khung thép — sản xuất tại xưởng Thương Gia, cao 2m, nghiêng 15 độ (hứng nắng tối đa). Trạm biến áp — nâng từ低压 lên trung áp, kết nối grid EVN."
+Minh đến — mang bản vẽ. "Anh Hùng, em thiết kế xong — nhà máy 1MW. 5.000 tấm pin, xếp thành 50 hàng, mỗi hàng 100 tấm. Inverter — 50 cái, mỗi cái 20kW. Khung thép — sản xuất tại xưởng Thương Gia, cao 2m, nghiêng 15 độ (hứng nắng tối đa). Trạm biến áp — nâng từ điện áp thấp lên trung áp, kết nối lưới điện EVN."
 
 Hùng xem bản vẽ — chi tiết, chuyên nghiệp. Minh giỏi — anh học nhanh, hiểu điện, thiết kế chính xác. Hùng gật đầu hài lòng.
 

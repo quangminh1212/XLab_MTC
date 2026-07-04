@@ -30,12 +30,12 @@ Hùng gật đầu. Đế chế đa ngành — mỗi ngành có cơ sở riêng.
 「Nhiệm vụ hoàn thành: Vận tải 100 xe + 20 xe khách
 - 100 xe tải ✓, 20 xe khách ✓, 6 tuyến ✓
 - Lãi 480.000 đồng/tháng ✓
-- Phần thưởng: +200 EXP, Kỹ năng Logistics lv2 (nâng cấp)
+- Phần thưởng: +200 EXP, Kỹ năng Vận tải lv2 (nâng cấp)
 - Tổng EXP: 14.960」
 
 ---
 
-Chiều, Hùng đi kiểm tra xe khách — tuyến Hà Nội-Sài Gòn. Ông lên xe — xe khách Thương Gia, 30 chỗ, sơn xanh lá, logo TG trắng. Bên trong — ghế nệm, quạt trần (pin mặt trời), rèm cửa. Đơn giản — nhưng sạch, thoải mái. Rẻ hơn xe nhà nước 30% — và đẹp hơn.
+Chiều, Hùng đi kiểm tra xe khách — tuyến Hà Nội-Sài Gòn. Ông lên xe — xe khách Thương Gia, 30 chỗ, sơn xanh lá, biểu tượng TG trắng. Bên trong — ghế nệm, quạt trần (pin mặt trời), rèm cửa. Đơn giản — nhưng sạch, thoải mái. Rẻ hơn xe nhà nước 30% — và đẹp hơn.
 
 Xe xuất phát — 6 giờ sáng, bến xe Thương Gia Hà Đông. 30 khách — đa số người dân, vài thương nhân, vài sinh viên. Hùng ngồi ghế đầu — ông muốn trải nghiệm xe khách của mình.
 
@@ -61,9 +61,9 @@ Tối ấy, Hùng ở Sài Gòn — căn hộ Thương Gia, Quận 1. Ông gọi
 
 "Lan, xe khách tuyến Hà Nội-Sài Gòn — tốt. Khách hài lòng — rẻ, sạch, an toàn. Em mở rộng — thêm tuyến: Hà Nội-Hải Phòng, Sài Gòn-Cần Thơ, Sài Gòn-Đà Nẵng. 6 tuyến tổng."
 
-"Em nghe. Em sẽ bán vé qua cửa hàng — cross-sell. Khách vào mua quần áo, mua thêm vé xe. Tiện — một chỗ mua mọi thứ."
+"Em nghe. Em sẽ bán vé qua cửa hàng — bán chéo. Khách vào mua quần áo, mua thêm vé xe. Tiện — một chỗ mua mọi thứ."
 
-Hùng cười. "Cross-sell — em lại cross-sell. Em bán quần áo, giày, mì, xe đạp, vé xe khách, gửi tiền ngân hàng. Thương Gia — bán mọi thứ."
+Hùng cười. "Bán chéo — em lại bán chéo. Em bán quần áo, giày, mì, xe đạp, vé xe khách, gửi tiền ngân hàng. Thương Gia — bán mọi thứ."
 
 Lan cười — nụ cười tự hào. Cô hai mươi hai tuổi, quản lý chuỗi 66 cửa hàng + ngân hàng + vé xe. Cô đang trở thành người quản lý đa ngành — và cô giỏi.
 

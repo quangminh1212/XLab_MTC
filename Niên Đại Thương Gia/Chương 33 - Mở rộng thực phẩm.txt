@@ -23,7 +23,7 @@ Thực phẩm — ngành xuất khẩu tốt. Vì thực phẩm nhẹ, dễ vậ
 
 Lan quản lý chuỗi cửa hàng, và cô đề xuất: "Anh ơi, mình nên bán mì Thương Gia ở cửa hàng — đặt kệ riêng, trưng bày đẹp. Mì là hàng hút — người vào mua quần áo sẽ mua thêm mì."
 
-Hùng gật đầu. "Đúng — cross-sell. Bán chéo. Khách vào mua một thứ, mua thêm thứ khác. Em tự quyết."
+Hùng gật đầu. "Đúng — bán chéo. Khách vào mua một thứ, mua thêm thứ khác. Em tự quyết."
 
 Lan triển khai — kệ mì Thương Gia ở tất cả tám cửa hàng. Mì bán nhanh — khách vào mua quần áo, thấy mì, mua thêm. Doanh thu mỗi cửa hàng tăng 20%.
 

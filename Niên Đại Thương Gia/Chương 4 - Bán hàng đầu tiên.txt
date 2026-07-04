@@ -4,7 +4,7 @@ Chương 4: Bán hàng đầu tiên
 
 Sáng ngày thứ ba, Hùng tỉnh dậy trước lúc gà gáy.
 
-Không phải vì alarm — mà vì đầu ông đang chạy kế hoạch. Lý Minh từng có thói quen nằm suy nghĩ về architecture, về thuật toán, về cách refactor code trước khi ngủ và sau khi thức. Giờ đây, ông nằm suy nghĩ về hàng hóa, giá cả, và chiến lược bán hàng. Bản chất không khác — đều là tối ưu hóa tài nguyên trong môi trường có ràng buộc.
+Không phải vì chuông báo thức — mà vì đầu ông đang chạy kế hoạch. Lý Minh từng có thói quen nằm suy nghĩ về kiến trúc hệ thống, về thuật toán, về cách tối ưu mã nguồn trước khi ngủ và sau khi thức. Giờ đây, ông nằm suy nghĩ về hàng hóa, giá cả, và chiến lược bán hàng. Bản chất không khác — đều là tối ưu hóa tài nguyên trong môi trường có ràng buộc.
 
 Hôm nay ông sẽ bán hàng ở huyện thành lần thứ hai. Nhưng khác hôm qua — hôm nay ông sẽ không chỉ bán quần áo. Ông sẽ mang theo thêm một ít thực phẩm cao cấp: trứng tươi và mì gói. Đây là hai mặt hàng mà Cung Tiêu Xã không có, chợ huyện hiếm, và người dân cần — đặc biệt là gia đình có trẻ con hoặc người ốm.
 
@@ -121,7 +121,7 @@ Về đến nhà, bà Hà đang ngồi ở hiên, tay quay sợi. Bà quay sợi
 
 Hùng ngồi cạnh bà, nhìn bà quay sợi. Tay bà run nhẹ, nhưng đều, quen. Sợi chỉ mỏng manh nhưng chắc, se từ bông — bông trồng trong vườn, hái, tách hạt, đánh tơi, rồi se sợi. Cả một quy trình thủ công, mất hàng tuần, để có sợi chỉ dệt vải may một chiếc áo.
 
-Ở thế kỷ 21, một chiếc áo mua trên Shopee giá 50.000 đồng, giao trong hai ngày. Ở đây, một chiếc áo mất hàng tuần công sức. Hùng nhận ra giá trị thực của劳 động — và ông biết rằng quần áo may công nghiệp trong kho không gian của ông, trong thời này, là phép màu.
+Ở thế kỷ 21, một chiếc áo mua trên Shopee giá 50.000 đồng, giao trong hai ngày. Ở đây, một chiếc áo mất hàng tuần công sức. Hùng nhận ra giá trị thực của lao động — và ông biết rằng quần áo may công nghiệp trong kho không gian của ông, trong thời này, là phép màu.
 
 "Bà ơi." Hùng nói. "Ngày mai con đi huyện, bán thêm hàng. Con tính mua một chiếc xe đạp, đi cho nhanh."
 
@@ -167,7 +167,7 @@ Hùng ngồi trong căn nhà gỗ, nhìn dòng suối chảy, suy nghĩ. Ngày m
 
 Năm bước kế hoạch dài hạn vẫn nguyên — nhưng bước 1 (bán hàng kiếm tiền) đang đi đúng hướng. 335 đồng trong ba ngày, trong thời bao cấp, là số tiền mà nhiều người mơ cả đời.
 
-Hùng thoát không gian, nằm xuống giường. Ngoài sân, gió thổi, crickets kêu, trăng sáng. Trong bếp, tiếng bà Hà rửa bát — bà vẫn rửa bát tối, dù Hùng đã rửa. Bà không quen để cháu rửa bát — bà rửa lại, cho sạch theo tiêu chuẩn của bà.
+Hùng thoát không gian, nằm xuống giường. Ngoài sân, gió thổi, dế kêu, trăng sáng. Trong bếp, tiếng bà Hà rửa bát — bà vẫn rửa bát tối, dù Hùng đã rửa. Bà không quen để cháu rửa bát — bà rửa lại, cho sạch theo tiêu chuẩn của bà.
 
 Hùng nhắm mắt. Ngày mai sẽ là ngày thứ tư. Hoàn thành nhiệm vụ. Và bắt đầu bước tiếp theo.
 

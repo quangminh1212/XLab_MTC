@@ -21,7 +21,7 @@ Hùng gật đầu. "Được. 23.5 tỷ — 37 nhà máy mặt trời + 5 nhà 
 
 Hùng xây — 37 nhà máy điện mặt trời + 5 nhà máy điện gió. 37 nhà máy mặt trời — 6 tỉnh, mỗi nhà máy 0.5-1MW, 3.000-5.000 tấm pin (monocrystalline 250W, hiệu quả 22%). 5 nhà máy điện gió — Ninh Thuận (3), Bình Thuận (2), mỗi nhà máy 2MW, 5 turbine gió. Tổng: 50MW (37MW mặt trời + 13MW gió).
 
-Vốn mặt trời: 18.5 tỷ (pin 10 tỷ + inverter 3 tỷ + khung 2 tỷ + xây 2 tỷ + pin lưu trữ 1.5 tỷ). Vốn điện gió: 5 tỷ (turbine 3.5 tỷ + xây 1 tỷ + kết nối grid 0.5 tỷ). Tổng: 23.5 tỷ.
+Vốn mặt trời: 18.5 tỷ (pin 10 tỷ + inverter 3 tỷ + khung 2 tỷ + xây 2 tỷ + pin lưu trữ 1.5 tỷ). Vốn điện gió: 5 tỷ (turbine 3.5 tỷ + xây 1 tỷ + kết nối lưới điện 0.5 tỷ). Tổng: 23.5 tỷ.
 
 ---
 
@@ -37,7 +37,7 @@ Năng lượng xanh Thương Gia — 50MW, đủ điện cho 100.000 gia đình.
 - Phần thưởng: +500 EXP, Kỹ năng Năng lượng lv4
 - Tổng EXP: 46.440」
 
-「Kỹ năng Năng lượng cấp 4: Quản lý hệ thống năng lượng tái tạo quy mô quốc gia (50MW), thiết kế nhà máy điện mặt trời + điện gió, quản lý grid EVN bậc thầy, phát triển năng lượng tái tạo toàn quốc, quản lý pin lưu trữ quy mô lớn, đánh giá tiềm năng năng lượng toàn quốc.」
+「Kỹ năng Năng lượng cấp 4: Quản lý hệ thống năng lượng tái tạo quy mô quốc gia (50MW), thiết kế nhà máy điện mặt trời + điện gió, quản lý lưới điện EVN bậc thầy, phát triển năng lượng tái tạo toàn quốc, quản lý pin lưu trữ quy mô lớn, đánh giá tiềm năng năng lượng toàn quốc.」
 
 Năng lượng lv4. Thương Gia — đế chế năng lượng xanh lớn nhất Việt Nam tư nhân. 50MW, 100.000 gia đình, 500.000 người có điện sạch. Hùng mỉm cười — ông không chỉ tỷ phú, mà nhà năng lượng xanh. Từ 1MW (1995) đến 50MW (2016) — hành trình 33 năm. Và năng lượng xanh — sạch, tái tạo, bảo vệ Trái Đất, bảo vệ tương lai.
 

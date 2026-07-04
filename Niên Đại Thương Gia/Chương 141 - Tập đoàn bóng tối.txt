@@ -4,22 +4,22 @@ Chương 141: Tập đoàn bóng tối — Xung đột cuối
 
 Tháng 6 năm 2020. Hùng đối mặt xung đột cuối — "tập đoàn bóng tối" Shadow Corp, âm mưu thâu tóm Thương Gia.
 
-Shadow Corp — tập đoàn quốc tế, không rõ nguồn gốc, đứng sau nhiều cuộc thâu tóm敌 đối ở châu Á. Họ — nhắm Thương Gia, vì Thương Gia lớn, giàu, nhưng — Hùng nắm 51%, controlling. Shadow Corp — muốn mua 49% cổ phiếu ngoài, lật lọng, chiếm Thương Gia.
+Shadow Corp — tập đoàn quốc tế, không rõ nguồn gốc, đứng sau nhiều cuộc thâu tóm thù địch ở châu Á. Họ — nhắm Thương Gia, vì Thương Gia lớn, giàu, nhưng — Hùng nắm 51%, quyền kiểm soát. Shadow Corp — muốn mua 49% cổ phiếu ngoài, lật lọng, chiếm Thương Gia.
 
 Hùng ngồi trong văn phòng, họp khẩn — Lan, Hồng, Đức, Minh.
 
-"Đức, Shadow Corp — mua cổ phiếu TG trên thị trường. Hiện họ mua 15% — gần 49% ngoài. Nếu họ mua 25% — họ có 40% tổng, gần controlling. Anh giữ 51% — nhưng nếu họ gây rối cổ đông, gây áp lực — nguy hiểm."
+"Đức, Shadow Corp — mua cổ phiếu TG trên thị trường. Hiện họ mua 15% — gần 49% ngoài. Nếu họ mua 25% — họ có 40% tổng, gần quyền kiểm soát. Anh giữ 51% — nhưng nếu họ gây rối cổ đông, gây áp lực — nguy hiểm."
 
 Đức — bốn lăm tuổi, quản lý chiến lược 16 năm — lo. "Anh, Shadow Corp — nguy hiểm. Họ — mua ẩn danh, qua nhiều công ty con. Em — em theo dõi, phát hiện: họ mua qua 10 công ty ma, mỗi công ty 1.5-2%. Tổng: 15%. Mục tiêu — 25%, gây áp lực HĐQT, ép anh bán 51%."
 
 Hồng — giám đốc tài chính — nói: "Anh, cổ phiếu TG — giá 40.000 đồng (tăng 300% từ IPO). Shadow Corp — mua giá cao, hút cổ đông bán. Nếu họ đạt 25% — họ gây rối: yêu cầu thay HĐQT, yêu cầu bán tài sản, yêu cầu chia cổ tức lớn. Anh — anh cần — phòng thủ."
 
-Hùng suy nghĩ. Ông — mang kiến thức thế kỷ 21. Ông biết — phòng thủ thâu tóm: poison pill (phát hành cổ phiếu mới, pha loãng), white knight (tìm đối tác thân thiện mua cổ phiếu), buyback (mua lại cổ phiếu). Hùng — chọn cả ba.
+Hùng suy nghĩ. Ông — mang kiến thức thế kỷ 21. Ông biết — phòng thủ thâu tóm: thuốc đắng (phát hành cổ phiếu mới, pha loãng), hiệp sĩ trắng (tìm đối tác thân thiện mua cổ phiếu), mua lại (mua lại cổ phiếu). Hùng — chọn cả ba.
 
-"Phòng thủ — ba bước. Một, phát hành 20 triệu cổ phiếu mới — cho đội ngũ Thương Gia (Lan, Hồng, Đức, Minh, Hạnh, Bảo). Pha loãng — Shadow Corp giảm từ 15% xuống 12%. Hai, buyback — mua lại 10 triệu cổ phiếu trên thị trường, giảm cổ phiếu ngoài. Ba, white knight — ông Tanaka (Nhật) mua 5 triệu cổ phiếu, đối tác thân thiện."
+"Phòng thủ — ba bước. Một, phát hành 20 triệu cổ phiếu mới — cho đội ngũ Thương Gia (Lan, Hồng, Đức, Minh, Hạnh, Bảo). Pha loãng — Shadow Corp giảm từ 15% xuống 12%. Hai, mua lại — mua lại 10 triệu cổ phiếu trên thị trường, giảm cổ phiếu ngoài. Ba, hiệp sĩ trắng — ông Tanaka (Nhật) mua 5 triệu cổ phiếu, đối tác thân thiện."
 
 「Nhiệm vụ mới: Đối mặt Shadow Corp
-- Mục tiêu: Bảo vệ Thương Gia, giữ controlling, đánh bại Shadow Corp
+- Mục tiêu: Bảo vệ Thương Gia, giữ quyền kiểm soát, đánh bại Shadow Corp
 - Phần thưởng: 800 EXP, Kỹ năng Chiến lược lv5
 - Thời hạn: 6 tháng」
 
@@ -27,13 +27,13 @@ Hùng suy nghĩ. Ông — mang kiến thức thế kỷ 21. Ông biết — phò
 
 Hùng thực hiện — ba bước phòng thủ.
 
-Một — phát hành 20 triệu cổ phiếu mới, cho đội ngũ: Lan (5 triệu), Hồng (3 triệu), Đức (3 triệu), Minh (2 triệu), Hạnh (3 triệu), Bảo (2 triệu), ông Khang (1 triệu), ông Nguyễn (1 triệu). Tổng: 20 triệu. Hùng — 51% giảm xuống 42% (do pha loãng). Nhưng — đội ngũ tổng: 42% (Hùng) + 20% (đội ngũ) = 62%. Controlling — vững chắc.
+Một — phát hành 20 triệu cổ phiếu mới, cho đội ngũ: Lan (5 triệu), Hồng (3 triệu), Đức (3 triệu), Minh (2 triệu), Hạnh (3 triệu), Bảo (2 triệu), ông Khang (1 triệu), ông Nguyễn (1 triệu). Tổng: 20 triệu. Hùng — 51% giảm xuống 42% (do pha loãng). Nhưng — đội ngũ tổng: 42% (Hùng) + 20% (đội ngũ) = 62%. Quyền kiểm soát — vững chắc.
 
 Hùng — nói với đội ngũ: "Tôi phát hành cổ phiếu — cho đội ngũ. Không phải thưởng — mà tin tưởng. Các bạn — 20% Thương Gia. Các bạn — đồng sở hữu, đồng quyết định. Thương Gia — của chúng ta, không phải của tôi, mà của tất cả."
 
 Lan — nhận 5 triệu cổ phiếu, nước mắt. "Anh, em — em 5%? Em — em đồng sở hữu? 36 năm — anh tin em, cho em 5%. Em — em — em không biết nói gì. Cảm ơn — cảm ơn anh. Em — em sẽ bảo vệ Thương Gia, bằng mọi giá."
 
-Hai — buyback 10 triệu cổ phiếu trên thị trường. Hùng mua — giá 40.000 đồng, tổng 400 tỷ. Cổ phiếu ngoài giảm — Shadow Corp giảm từ 12% xuống 10%.
+Hai — mua lại 10 triệu cổ phiếu trên thị trường. Hùng mua — giá 40.000 đồng, tổng 400 tỷ. Cổ phiếu ngoài giảm — Shadow Corp giảm từ 12% xuống 10%.
 
 Ba — ông Tanaka mua 5 triệu cổ phiếu, giá 40.000 đồng, tổng 200 tỷ. Ông Tanaka — đối tác thân thiện 30 năm, tin Hùng, ủng hộ.
 
@@ -41,7 +41,7 @@ Ba — ông Tanaka mua 5 triệu cổ phiếu, giá 40.000 đồng, tổng 200 t
 
 ---
 
-Shadow Corp — tức giận. Họ — mua thêm, nhưng pha loãng + buyback + white knight — giảm tỷ lệ. Họ — 10%, không đủ gây rối. Hùng + đội ngũ + Tanaka — 67%, vững chắc.
+Shadow Corp — tức giận. Họ — mua thêm, nhưng pha loãng + mua lại + hiệp sĩ trắng — giảm tỷ lệ. Họ — 10%, không đủ gây rối. Hùng + đội ngũ + Tanaka — 67%, vững chắc.
 
 Shadow Corp — thay chiến lược. Họ — gây áp lực khác: tin tức tiêu cực, kiện tụng, điều tra thuế. Họ — thuê báo chí viết tin tiêu cực: "Thương Gia — độc quyền, bóc lột." "Trần Văn Hùng — tỷ phú bóc lột người nghèo." Tin — lan tỡa, ảnh hưởng thương hiệu.
 
@@ -56,11 +56,11 @@ Shadow Corp — điều tra thuế: báo chính quyền điều tra Thương Gia
 「Giao dịch thành công (đánh bại Shadow Corp): +400 EXP. Tổng EXP: 51.040」
 
 「Nhiệm vụ hoàn thành: Đối mặt Shadow Corp
-- Bảo vệ Thương Gia ✓, giữ controlling ✓ (67%), đánh bại Shadow Corp ✓
+- Bảo vệ Thương Gia ✓, giữ quyền kiểm soát ✓ (67%), đánh bại Shadow Corp ✓
 - Phần thưởng: +800 EXP, Kỹ năng Chiến lược lv5
 - Tổng EXP: 51.840」
 
-「Kỹ năng Chiến lược cấp 5: Phòng thủ thầu tóm bậc thầy (poison pill, buyback, white knight), quản lý khủng hoảng truyền thông, chiến lược pháp lý, minh bạch tài chính, đánh bại đối thủ quốc tế, chiến lược toàn cầu bậc thầy.」
+「Kỹ năng Chiến lược cấp 5: Phòng thủ thầu tóm bậc thầy (thuốc đắng, mua lại, hiệp sĩ trắng), quản lý khủng hoảng truyền thông, chiến lược pháp lý, minh bạch tài chính, đánh bại đối thủ quốc tế, chiến lược toàn cầu bậc thầy.」
 
 Chiến lược lv5. Hùng — đánh bại Shadow Corp, bảo vệ Thương Gia. Ông mỉm cười — ông không chỉ tỷ phú, mà chiến lược gia. Từ bán rong đến đánh bại tập đoàn bóng tối — hành trình 37 năm. Và Thương Gia — an toàn, vững chắc, mãi mãi.
 
