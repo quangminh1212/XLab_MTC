@@ -138,3 +138,65 @@ Consistency Checklist (AI phải in ra mỗi lần)
  Hệ thống đúng format & đúng lúc
  Kết chương có teaser
  Self-score ≥ 9.0/10
+
+---
+
+## 12. Dịch thuật & Loại từ tiếng Anh lẫn trong narrative
+
+### Nguyên tắc
+- Trong narrative Việt Nam: thay tất cả từ tiếng Anh bằng tương đương tiếng Việt.
+- Trong dialogue tiếng Anh (nhân vật nước ngoài nói, trích dẫn Forbes/Bloomberg/CNBC): giữ nguyên, không sửa.
+- Từ vay mượn (loanword) được giữ nguyên: IPO, R&D, M&A, subcontract, AI, EXP, MW, MWh, USD, SGD, AUD, VND.
+
+### Bảng thay thế đã chuẩn hóa
+| Tiếng Anh | Tiếng Việt |
+|---|---|
+| marketing | tiếp thị |
+| Marketing (viết hoa) | Tiếp thị |
+| agency | công ty quảng cáo |
+| bonus | thưởng |
+| Milestone | Cột mốc |
+| joint venture | liên doanh |
+| average | trung bình |
+| actuarial | chuyên gia tính toán bảo hiểm |
+| cross-sell | bán chéo |
+| Logistics | Vận tải |
+| logo | biểu tượng |
+| slogan | khẩu hiệu |
+| combo | gói kết hợp |
+| bundle | bán gói |
+| poster | áp phích |
+| city bike | kiểu thành phố |
+| OEM | gia công |
+| TVC | quảng cáo truyền hình |
+| alloy steel | thép hợp kim |
+| Southeast Asia | Đông Nam Á |
+| globally | toàn cầu |
+| pitch | trình bày |
+| CEO | giám đốc điều hành |
+| Chairman | Chủ tịch |
+| Pre-order | đặt trước |
+
+### Lưu ý
+- Kiểm tra cả dạng viết hoa (Slogan → Khẩu hiệu, Marketing → Tiếp thị).
+- Từ "CEO" trong trích dẫn Forbes tiếng Anh: giữ nguyên.
+- Từ "Chairman" trong trích dẫn Forbes tiếng Anh: giữ nguyên.
+
+---
+
+## 13. Kiểm tra số liệu & logic khi proofread
+
+### Các lỗi phổ biến đã phát hiện
+1. **Sai đơn vị giá điện**: đồng/MWh phải là 1.000 đồng/MWh hoặc VND/kWh — không được dùng "500 đồng/MWh" (quá thấp).
+2. **Sai bậc đơn vị doanh thu/lãi**: triệu đồng vs tỷ đồng — phải quy đổi đúng (VD: 800.000 đồng/MWh × 36.500 MWh = 29.2 tỷ, không phải 29.2 triệu).
+3. **Sai tổng công suất MW**: phải cộng đúng từng nhà máy (VD: 3×3 + 2×2 + 2×2 = 17MW mới + 3MW cũ = 20MW).
+4. **Sai số năm hành trình**: phải trừ đúng năm (VD: 2011 − 1995 = 16 năm, không phải 28).
+5. **Sai số tấm pin**: công suất tổng ÷ công suất mỗi tấm (VD: 20MW ÷ 200W = 100.000 tấm, không phải 50.000).
+6. **Sai tổng vốn**: số nhà máy × vốn mỗi nhà máy phải khớp (VD: 7 × 1.5 tỷ = 10.5 tỷ, không phải 10 tỷ).
+
+### Quy trình kiểm tra số liệu
+1. Đọc mọi con số trong chương.
+2. Tính lại từng phép toán (nhân, chia, cộng, trừ).
+3. So sánh với mục tiêu nhiệm vụ (VD: "bán điện 15 tỷ/năm" — doanh thu thực tế phải ≥ 15 tỷ, không phải 15 triệu).
+4. Kiểm tra đơn vị nhất quán (đồng vs 1.000 đồng, triệu vs tỷ).
+5. Kiểm tra timeline: năm bắt đầu → năm hiện tại = số năm đúng.
