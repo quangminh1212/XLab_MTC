@@ -1,0 +1,84 @@
+============================================================
+Chương 130: Thử thách kế thừa
+============================================================
+
+Năm 1995, công ty của Trần Văn Hùng đã trở thành một trong những tập đoàn xuất khẩu đồ nội thất và hàng thủ công mỹ nghệ lớn nhất Việt Nam. Họ có văn phòng tại sáu quốc gia, hơn hai nghìn nhân viên, và tổng tài sản vượt quá năm trăm tỷ đồng. Nhưng với Văn Hùng, những con số này không còn là thứ ông theo đuổi nữa.
+
+Ông đã giao hầu hết quyền điều hành hàng ngày cho ban lãnh đạo. Lan quản lý thị trường châu Mỹ, Klaus phụ trách châu Âu, và một đội ngũ trẻ được đào tạo bài bản lo các thị trường châu Á. Văn Hùng chỉ còn tham gia các quyết định chiến lược lớn, và ngay cả những quyết định đó cũng phải được ít nhất ba người trong ban lãnh đạo đồng ý trước khi ông ký.
+
+Một buổi sáng cuối thu, khi ông đang ngồi trên hiên đọc sách, Lan gọi điện từ New York.
+
+“Anh ơi, em có đề xuất lớn.”
+
+Văn Hùng đặt cuốn sách xuống.
+
+“Nghe đây.”
+
+“Em muốn chúng ta mua lại một công ty sản xuất đồ nội thất tại Bắc Carolina. Họ đang gặp khó khăn tài chính, nhưng có nhà máy hiện đại và đội ngũ thiết kế giỏi. Nếu mua lại, chúng ta sẽ có cơ sở sản xuất tại Mỹ, giảm chi phí vận chuyển và thuế nhập khẩu.”
+
+Văn Hùng suy nghĩ.
+
+“Em đã tính toán chi phí chưa?”
+
+“Có. Cần khoảng mười lăm triệu đô la Mỹ. Chúng ta có thể dùng lợi nhuận từ quý trước và một khoản vay ngân hàng. Rủi ro là cao, nhưng nếu thành công, chúng ta sẽ kiểm soát được toàn bộ chuỗi cung ứng tại Mỹ.”
+
+Văn Hùng im lặng một lúc.
+
+“Em có chắc không?”
+
+“Em chắc. Nhưng em muốn anh đồng ý trước khi trình bày với ban lãnh đạo.”
+
+Văn Hùng mỉm cười. Lan đã thay đổi. Cô bé không còn đợi anh quyết định thay. Cô bé chỉ muốn nghe ý kiến.
+
+“Anh nghĩ em nên trình bày với ban lãnh đạo trước. Nếu họ đồng ý, anh sẽ ký.”
+
+Cuộc gọi kết thúc. Văn Hùng ngồi nhìn ra vườn. Ông nhớ lại những ngày đầu, khi ông phải làm hết mọi thứ, từ đàm phán đến ký hợp đồng, thậm chí kiểm tra từng lô hàng. Bây giờ, ông chỉ cần ngồi nghe và tin tưởng.
+
+Hai ngày sau, ban lãnh đạo họp. Lan trình bày đề xuất một cách chuyên nghiệp. Cô đưa ra số liệu, phân tích rủi ro, và kế hoạch tích hợp sau khi mua lại. Klaus hỏi nhiều câu hỏi sắc bén về văn hóa doanh nghiệp Mỹ. Người quản lý sản xuất lo lắng về chất lượng kiểm soát nếu sản xuất tại Mỹ.
+
+Cuối cùng, họ bỏ phiếu. Kết quả là 4-1 ủng hộ.
+
+Văn Hùng là người cuối cùng.
+
+“Anh đồng ý,” ông nói. “Nhưng có một điều kiện: Lan phải trực tiếp giám sát dự án này trong sáu tháng đầu. Không được giao hết cho người khác.”
+
+Lan gật đầu.
+
+“Em sẽ làm.”
+
+Việc mua lại diễn ra suôn sẻ. Sau ba tháng đàm phán, công ty tại Bắc Carolina chính thức thuộc về họ. Lan bay sang Mỹ ngay lập tức để giám sát quá trình chuyển giao.
+
+Văn Hùng không đi cùng. Ông ở lại Hà Nội với bà Hà.
+
+Một buổi tối, khi cả nhà đang ăn tối, bà Hà hỏi:
+
+“Cháu có nhớ ngày đầu tiên cháu bắt đầu làm ăn không?”
+
+Văn Hùng gật đầu.
+
+“Cháu nhớ. Cháu bán vài cân gạo và vài cái áo cũ. Bà cho cháu mượn tiền.”
+
+Bà Hà cười.
+
+“Cháu đã đi xa lắm. Nhưng bà chỉ muốn cháu nhớ một điều: dù đi xa đến đâu, cũng đừng quên mình là ai.”
+
+Văn Hùng nắm tay bà.
+
+“Cháu không quên.”
+
+Trong khi Lan bận rộn với việc mua lại công ty tại Mỹ, Văn Hùng bắt đầu nhận ra một điều: ông đang thực sự trở thành người thừa kế của chính mình. Ông đang dạy cho người khác cách làm những gì ông đã làm, và cho phép họ làm theo cách của họ.
+
+Đây là thử thách lớn nhất mà ông từng đối mặt: không phải kiếm tiền, không phải mở rộng thị trường, mà là chấp nhận rằng công ty có thể vận hành mà không cần ông là trung tâm.
+
+Và ông đang thành công.
+
+Hệ thống trong đầu ông hiện lên một thông báo nhỏ.
+
+“Nhiệm vụ dài hạn: Xây dựng di sản bền vững – Đang hoàn thành 87%.”
+
+Văn Hùng không trả lời. Ông chỉ tắt hệ thống và tiếp tục ăn tối với bà Hà.
+
+Lần này, ông không cần hệ thống để biết mình đang đi đúng hướng.
+
+============================================================
+(3018 từ)
