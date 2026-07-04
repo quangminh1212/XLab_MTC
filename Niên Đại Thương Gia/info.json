@@ -1,343 +1,93 @@
-{
-  "title": "Niên Đại Thương Gia",
-  "genre": ["Trùng sinh", "Hệ thống", "Thương chiến", "Lịch sử"],
-  "setting": {
-    "country": "Việt Nam",
-    "era": "Thời bao cấp",
-    "startYear": 1983,
-    "context": "Kế hoạch hóa tập trung, hàng hóa khan hiếm, lý lịch gia đình, cửa hàng Cung Tiêu Xã, buôn bán tư nhân bị hạn chế"
-  },
-  "targetWordCount": 3000,
-  "characters": {
-    "protagonist": {
-      "name": "Trần Văn Hùng",
-      "originalName": "Lý Minh",
-      "age": 23,
-      "origin": "Kỹ sư phần mềm thế kỷ 21, 35 tuổi, TP.HCM",
-      "reincarnatedTo": "Trần Văn Hùng, nông dân nghèo, làng Thanh Xuân, huyện Quốc Oai, tỉnh Hà Tây",
-      "personality": "Kiên định, chăm chỉ, tốt bụng, thực tế",
-      "background": "Cha là thương nhân nhỏ bị giam cải tạo, mẹ mất sớm vì bệnh, lý lịch gia đình 'không tốt', không được đi đại học",
-      "goal": "Trở thành thương gia lớn nhất Việt Nam"
-    },
-    "family": [
-      {
-        "name": "Nguyễn Thị Hà",
-        "role": "Bà nội",
-        "age": "già yếu",
-        "personality": "Yêu thương cháu, hay lo lắng nhưng tự hào",
-        "arc": "Từ nghèo khó → có nhà mới, tự hào về cháu"
-      },
-      {
-        "name": "Trần Thị Lan",
-        "role": "Em gái",
-        "age": 18,
-        "personality": "Ngoan ngoãn, chăm chỉ, ham học hỏi",
-        "arc": "Từ bán hàng nhỏ → trợ lý đắc lực quản lý mạng lưới kinh doanh toàn quốc",
-        "skills_learned": ["Quản lý cửa hàng", "Quản lý sản xuất", "Quản lý y tế", "Quản lý giáo dục", "Quản lý sự kiện", "Quản lý tài trợ"]
-      }
-    ]
-  },
-  "system": {
-    "name": "Hệ thống Thương gia",
-    "features": {
-      "space": {
-        "initialSize": "1000m²",
-        "finalSizePart1": "3000m²",
-        "finalSizePart2": "5000m²",
-        "plannedPart3": "8000m²",
-        "description": "Không gian cất giữ hàng hóa, có nhà gỗ, kho hàng, suối nhỏ"
-      },
-      "expPoints": {
-        "startValue": 0,
-        "endPart1": 5225,
-        "endPart2": 15255,
-        "plannedEndPart3": 17000
-      },
-      "skills": [
-        {"name": "Thương mại", "level": 1, "source": "Khởi đầu", "chapter": 1},
-        {"name": "Ngôn ngữ", "level": 1, "source": "Khởi đầu", "chapter": 1},
-        {"name": "Thương mại", "level": 2, "source": "Mở cửa hàng", "chapter": 32},
-        {"name": "Sản xuất", "level": 1, "source": "Sản xuất quạt điện", "chapter": 41},
-        {"name": "Kỹ thuật", "level": 1, "source": "Sản xuất đèn điện", "chapter": 43},
-        {"name": "Sáng tạo", "level": 1, "source": "Sản xuất đèn điện", "chapter": 44},
-        {"name": "Quản lý nhà hàng", "level": 1, "source": "Mở nhà hàng", "chapter": 47},
-        {"name": "Đầu tư", "level": 1, "source": "Đầu tư bất động sản", "chapter": 50},
-        {"name": "Ngoại ngữ", "level": 1, "source": "Mở rộng quốc tế", "chapter": 51},
-        {"name": "Cơ khí", "level": 1, "source": "Sản xuất xe đạp", "chapter": 63},
-        {"name": "Nông nghiệp", "level": 1, "source": "Sản xuất máy cày", "chapter": 65},
-        {"name": "Logistics", "level": 2, "source": "Dịch vụ vận chuyển", "chapter": 70},
-        {"name": "Tài chính", "level": 1, "source": "Dịch vụ cho vay", "chapter": 73},
-        {"name": "Giáo dục", "level": 1, "source": "Mở trường học", "chapter": 76},
-        {"name": "Đào tạo", "level": 1, "source": "Mở trung tâm đào tạo", "chapter": 79},
-        {"name": "Y tế", "level": 1, "source": "Mở phòng khám", "chapter": 82},
-        {"name": "Xây dựng", "level": 2, "source": "Mở công ty xây dựng", "chapter": 85},
-        {"name": "Năng lượng", "level": 1, "source": "Sản xuất pin mặt trời", "chapter": 87},
-        {"name": "Kỹ thuật", "level": 3, "source": "Sản xuất máy phát điện", "chapter": 89},
-        {"name": "Lãnh đạo", "level": 1, "source": "Tổ chức từ thiện", "chapter": 92},
-        {"name": "Quản lý sự kiện", "level": 1, "source": "Tài trợ văn hóa", "chapter": 95},
-        {"name": "Quản lý thể thao", "level": 1, "source": "Tài trợ thể thao", "chapter": 98}
-      ]
-    },
-    "notificationFormat": {
-      "action": "\"Chủ nhân đã [hành động]. Nhận được [số] điểm kinh nghiệm.\"",
-      "expUpdate": "\"Điểm kinh nghiệm hiện tại: [số].\"",
-      "newMission": "\"Nhiệm vụ mới: [tên] trong vòng [số] ngày\" + Mục tiêu + Phần thưởng + Thời gian",
-      "missionComplete": "\"Chúc mừng chủ nhân đã hoàn thành nhiệm vụ!\" + Phần thưởng + Điểm kinh nghiệm",
-      "progressUpdate": "\"Tiến độ nhiệm vụ: [hiện tại]/[mục tiêu].\""
-    }
-  },
-  "parts": [
-    {
-      "part": 1,
-      "name": "Trùng sinh và thích nghi",
-      "chapters": "1-50",
-      "summary": "Lý Minh trùng sinh vào cơ thể Trần Văn Hùng năm 1983. Khởi nghiệp từ việc bán hàng nhỏ, mở cửa hàng, sản xuất hàng hóa, mở nhà hàng, đầu tư bất động sản.",
-      "mainPlot": [
-        "Trùng sinh, kích hoạt hệ thống, cải thiện gia đình",
-        "Bán hàng ở huyện thành, mở rộng kinh doanh",
-        "Tìm đối tác ở Lào, Campuchia, Thái Lan",
-        "Sản xuất quần áo, giày dép, túi xách",
-        "Mua đất xây cửa hàng, mở 5 chi nhánh",
-        "Sản xuất radio, quạt điện, đèn điện",
-        "Mở 3 nhà hàng (Quốc Oai, Hà Nội, Sài Gòn)",
-        "Đầu tư 10 mảnh đất ở 3 miền",
-        "Hoàn thành Phần 1, nhận kỹ năng đầu tư cấp 1"
-      ],
-      "endState": {
-        "stores": 5,
-        "restaurants": 3,
-        "factories": ["Quần áo", "Giày dép", "Túi xách", "Radio", "Quạt điện", "Đèn điện"],
-        "realEstate": "10 mảnh đất (Quốc Oai, Hà Nội, Sài Gòn, Đà Nẵng, Huế...)",
-        "internationalPartners": ["Lào", "Campuchia", "Thái Lan"],
-        "expPoints": 5225,
-        "spaceSize": "3000m²"
-      },
-      "chapters_detail": [
-        {"ch": 1, "title": "Tỉnh lại", "plot": "Lý Minh trùng sinh vào Trần Văn Hùng, kích hoạt hệ thống, nhận kho hàng khởi đầu"},
-        {"ch": 2, "title": "Bữa tối đầu tiên", "plot": "Mang gạo thịt về nhà, thay đổi thái độ với bà Hà và Lan"},
-        {"ch": 3, "title": "Đi huyện thành", "plot": "Lần đầu ra huyện bán hàng, khám phá chợ Quốc Oai"},
-        {"ch": 4, "title": "Bán hàng đầu tiên", "plot": "Bán quần áo, giày dép, kiếm tiền đầu tiên"},
-        {"ch": 5, "title": "Mở rộng kinh doanh", "plot": "Mở rộng danh mục hàng hóa, bán thêm thực phẩm"},
-        {"ch": 6, "title": "Tìm đối tác mới", "plot": "Tìm đối tác buôn bán ở các huyện lân cận"},
-        {"ch": 7, "title": "Sửa nhà", "plot": "Dùng tiền sửa lại căn nhà cũ kỹ"},
-        {"ch": 8, "title": "Mở rộng hàng hóa", "plot": "Thêm hàng hóa mới: thuốc men, mì gói, trứng"},
-        {"ch": 9, "title": "Bán thuốc men", "plot": "Bán thuốc men chất lượng cao, giúp người dân"},
-        {"ch": 10, "title": "Đi Hà Nội", "plot": "Lần đầu đi Hà Nội, khám phá thủ đô, mở rộng thị trường"},
-        {"ch": 11, "title": "Đi Hà Nam", "plot": "Mở rộng sang tỉnh Hà Nam"},
-        {"ch": 12, "title": "Đi Hải Dương", "plot": "Mở rộng sang tỉnh Hải Dương"},
-        {"ch": 13, "title": "Đi Thái Bình", "plot": "Mở rộng sang tỉnh Thái Bình"},
-        {"ch": 14, "title": "Bắt đầu sản xuất", "plot": "Mở xưởng may, tự sản xuất quần áo"},
-        {"ch": 15, "title": "Thuê người giúp việc", "plot": "Thuê thợ may, mở rộng sản xuất"},
-        {"ch": 16, "title": "Mở rộng xưởng may", "plot": "Tăng năng suất may, thêm sản phẩm"},
-        {"ch": 17, "title": "Đi Quảng Ninh", "plot": "Mở rộng sang tỉnh Quảng Ninh"},
-        {"ch": 18, "title": "Đi Nghệ An", "plot": "Mở rộng sang tỉnh Nghệ An"},
-        {"ch": 19, "title": "Hoàn thành nhiệm vụ sản xuất", "plot": "Hoàn thành nhiệm vụ sản xuất quần áo"},
-        {"ch": 20, "title": "Sản xuất giày dép", "plot": "Mở xưởng làm giày, tự sản xuất giày dép"},
-        {"ch": 21, "title": "Mở rộng làm giày", "plot": "Tăng năng suất giày, thêm mẫu mã"},
-        {"ch": 22, "title": "Đi Thành phố Hồ Chí Minh", "plot": "Lần đầu đi Sài Gòn, mở rộng thị trường miền Nam"},
-        {"ch": 23, "title": "Sản xuất túi xách", "plot": "Mở xưởng làm túi, tự sản xuất túi xách"},
-        {"ch": 24, "title": "Mở rộng làm túi", "plot": "Tăng năng suất túi, thêm mẫu mã"},
-        {"ch": 25, "title": "Hoàn thành nhiệm vụ giày", "plot": "Hoàn thành nhiệm vụ sản xuất giày dép"},
-        {"ch": 26, "title": "Hoàn thành nhiệm vụ túi", "plot": "Hoàn thành nhiệm vụ sản xuất túi xách"},
-        {"ch": 27, "title": "Đi Lào", "plot": "Mở rộng quốc tế sang Lào, tìm đối tác"},
-        {"ch": 28, "title": "Đi Campuchia", "plot": "Mở rộng quốc tế sang Campuchia, tìm đối tác"},
-        {"ch": 29, "title": "Đi Thái Lan", "plot": "Mở rộng quốc tế sang Thái Lan, tìm đối tác"},
-        {"ch": 30, "title": "Mua đất xây cửa hàng", "plot": "Bắt đầu đầu tư bất động sản, mua đất"},
-        {"ch": 31, "title": "Xây cửa hàng", "plot": "Xây cửa hàng đầu tiên ở Quốc Oai"},
-        {"ch": 32, "title": "Khai trương cửa hàng", "plot": "Khai trương Thương Gia Store đầu tiên"},
-        {"ch": 33, "title": "Mở rộng chi nhánh", "plot": "Mở thêm chi nhánh cửa hàng"},
-        {"ch": 34, "title": "Mở chi nhánh Thạch Thất", "plot": "Mở chi nhánh Thương Gia Store ở Thạch Thất"},
-        {"ch": 35, "title": "Mở chi nhánh Đan Phượng", "plot": "Mở chi nhánh Thương Gia Store ở Đan Phượng"},
-        {"ch": 36, "title": "Mở chi nhánh Hoài Đức", "plot": "Mở chi nhánh Thương Gia Store ở Hoài Đức"},
-        {"ch": 37, "title": "Mở chi nhánh Hà Nội", "plot": "Mở chi nhánh Thương Gia Store ở Hà Nội"},
-        {"ch": 38, "title": "Sản xuất radio", "plot": "Mở xưởng điện tử, sản xuất radio"},
-        {"ch": 39, "title": "Mở rộng sản xuất radio", "plot": "Tăng năng suất radio, cải tiến chất lượng"},
-        {"ch": 40, "title": "Hoàn thành nhiệm vụ radio", "plot": "Hoàn thành nhiệm vụ sản xuất radio"},
-        {"ch": 41, "title": "Sản xuất quạt điện", "plot": "Sản xuất quạt điện, sản phẩm mới"},
-        {"ch": 42, "title": "Hoàn thành nhiệm vụ quạt điện", "plot": "Hoàn thành nhiệm vụ sản xuất quạt điện"},
-        {"ch": 43, "title": "Sản xuất đèn điện", "plot": "Sản xuất đèn điện, sản phẩm mới"},
-        {"ch": 44, "title": "Hoàn thành nhiệm vụ đèn", "plot": "Hoàn thành nhiệm vụ sản xuất đèn điện"},
-        {"ch": 45, "title": "Mở nhà hàng", "plot": "Mở nhà hàng đầu tiên ở Quốc Oai"},
-        {"ch": 46, "title": "Mở nhà hàng Hà Nội", "plot": "Mở nhà hàng thứ hai ở Hà Nội"},
-        {"ch": 47, "title": "Mở nhà hàng Sài Gòn", "plot": "Mở nhà hàng thứ ba ở Sài Gòn"},
-        {"ch": 48, "title": "Đầu tư bất động sản", "plot": "Bắt đầu đầu tư bất động sản, mua đất"},
-        {"ch": 49, "title": "Mua đất miền Nam", "plot": "Mua đất ở Sài Gòn và miền Nam"},
-        {"ch": 50, "title": "Hoàn thành phần 1", "plot": "Mua đất Đà Nẵng, hoàn thành 10 mảnh đất, tổng kết Phần 1"}
-      ]
-    },
-    {
-      "part": 2,
-      "name": "Khởi nghiệp và phát triển",
-      "chapters": "51-100",
-      "summary": "Mở rộng kinh doanh quốc tế, mở thêm chi nhánh, sản xuất thêm sản phẩm mới, mở dịch vụ mới, tổ chức từ thiện và tài trợ.",
-      "mainPlot": [
-        "Mở rộng quốc tế: Trung Quốc, Nhật Bản, Hàn Quốc, Singapore, Hồng Kông",
-        "Mở 10 chi nhánh Thương Gia Store",
-        "Sản xuất xe đạp, máy cày, máy gặt",
-        "Dịch vụ vận chuyển với đội xe tải",
-        "Dịch vụ tài chính (cho vay)",
-        "Trường học và trung tâm đào tạo",
-        "Phòng khám y tế",
-        "Công ty xây dựng",
-        "Sản xuất pin mặt trời, máy phát điện",
-        "Tổ chức từ thiện, tài trợ văn hóa, tài trợ thể thao",
-        "Hoàn thành Phần 2, chuẩn bị Phần 3"
-      ],
-      "endState": {
-        "stores": 10,
-        "restaurants": 3,
-        "factories": ["Quần áo", "Giày dép", "Túi xách", "Radio", "Quạt điện", "Đèn điện", "Xe đạp", "Máy cày", "Máy gặt", "Pin mặt trời", "Máy phát điện"],
-        "services": ["Vận chuyển", "Tài chính", "Giáo dục", "Đào tạo", "Y tế", "Xây dựng", "Năng lượng"],
-        "internationalPartners": ["Lào", "Campuchia", "Thái Lan", "Trung Quốc", "Nhật Bản", "Hàn Quốc", "Singapore", "Hồng Kông"],
-        "charityEvents": 10,
-        "cultureSponsorships": 10,
-        "sportsSponsorships": 10,
-        "expPoints": 15255,
-        "spaceSize": "5000m²"
-      },
-      "chapters_detail": [
-        {"ch": 51, "title": "Bắt đầu phần 2", "plot": "Bắt đầu Phần 2, đi Trung Quốc tìm đối tác (ông Wang)"},
-        {"ch": 52, "title": "Đi Nhật Bản", "plot": "Mở rộng quốc tế sang Nhật Bản, tìm đối tác ở Tokyo"},
-        {"ch": 53, "title": "Đi Hàn Quốc", "plot": "Mở rộng quốc tế sang Hàn Quốc, tìm đối tác ở Seoul"},
-        {"ch": 54, "title": "Đi Singapore", "plot": "Mở rộng quốc tế sang Singapore, tìm đối tác"},
-        {"ch": 55, "title": "Đi Hồng Kông", "plot": "Mở rộng quốc tế sang Hồng Kông, tìm đối tác, hoàn thành 5 nước"},
-        {"ch": 56, "title": "Mở rộng chi nhánh mới", "plot": "Mở thêm chi nhánh Thương Gia Store"},
-        {"ch": 57, "title": "Mở chi nhánh Thái Bình", "plot": "Mở chi nhánh ở Thái Bình"},
-        {"ch": 58, "title": "Mở chi nhánh Nam Định", "plot": "Mở chi nhánh ở Nam Định"},
-        {"ch": 59, "title": "Mở chi nhánh Ninh Bình", "plot": "Mở chi nhánh ở Ninh Bình"},
-        {"ch": 60, "title": "Hoàn thành nhiệm vụ chi nhánh", "plot": "Hoàn thành 10 chi nhánh, nhận phần thưởng"},
-        {"ch": 61, "title": "Sản xuất xe đạp", "plot": "Mở xưởng cơ khí, sản xuất xe đạp"},
-        {"ch": 62, "title": "Mở rộng sản xuất xe đạp", "plot": "Tăng năng suất xe đạp"},
-        {"ch": 63, "title": "Hoàn thành nhiệm vụ xe đạp", "plot": "Hoàn thành nhiệm vụ, nhận kỹ năng cơ khí cấp 1"},
-        {"ch": 64, "title": "Sản xuất máy cày", "plot": "Sản xuất máy cày cho nông nghiệp"},
-        {"ch": 65, "title": "Hoàn thành nhiệm vụ máy cày", "plot": "Hoàn thành nhiệm vụ, nhận kỹ năng nông nghiệp cấp 1"},
-        {"ch": 66, "title": "Sản xuất máy gặt", "plot": "Sản xuất máy gặt cho nông nghiệp"},
-        {"ch": 67, "title": "Hoàn thành nhiệm vụ máy gặt", "plot": "Hoàn thành nhiệm vụ sản xuất máy gặt"},
-        {"ch": 68, "title": "Mua xe tải", "plot": "Mua xe tải, bắt đầu dịch vụ vận chuyển"},
-        {"ch": 69, "title": "Mở rộng dịch vụ vận chuyển", "plot": "Mở rộng dịch vụ vận chuyển"},
-        {"ch": 70, "title": "Hoàn thành nhiệm vụ vận chuyển", "plot": "Hoàn thành nhiệm vụ, nhận kỹ năng logistics cấp 2"},
-        {"ch": 71, "title": "Mở dịch vụ cho vay", "plot": "Mở văn phòng tài chính, nhận nhiệm vụ cho vay 50,000 đồng"},
-        {"ch": 72, "title": "Mở rộng chi nhánh tài chính", "plot": "Mở chi nhánh tài chính ở Chương Mỹ và Hà Nội"},
-        {"ch": 73, "title": "Hoàn thành nhiệm vụ cho vay", "plot": "Hoàn thành cho vay 50,000 đồng, nhận kỹ năng tài chính cấp 1"},
-        {"ch": 74, "title": "Mở trường học", "plot": "Mở trường ở Quốc Oai, nhận nhiệm vụ 500 học sinh"},
-        {"ch": 75, "title": "Mở rộng trường học", "plot": "Mở trường ở Chương Mỹ và Hà Nội"},
-        {"ch": 76, "title": "Mở trường Sài Gòn", "plot": "Mở trường ở Sài Gòn, hoàn thành 500 học sinh, nhận kỹ năng giáo dục cấp 1"},
-        {"ch": 77, "title": "Mở trung tâm đào tạo", "plot": "Mở trung tâm đào tạo ở Quốc Oai, nhận nhiệm vụ 200 người"},
-        {"ch": 78, "title": "Mở rộng trung tâm đào tạo", "plot": "Mở trung tâm ở Hà Nội và Sài Gòn"},
-        {"ch": 79, "title": "Hoàn thành nhiệm vụ đào tạo", "plot": "Hoàn thành đào tạo 200 người, nhận kỹ năng đào tạo cấp 1"},
-        {"ch": 80, "title": "Mở phòng khám", "plot": "Mở phòng khám ở Quốc Oai, nhận nhiệm vụ 1000 bệnh nhân"},
-        {"ch": 81, "title": "Mở rộng phòng khám", "plot": "Mở phòng khám ở Hà Nội và Sài Gòn"},
-        {"ch": 82, "title": "Hoàn thành nhiệm vụ phòng khám", "plot": "Hoàn thành 1000 bệnh nhân, nhận kỹ năng y tế cấp 1"},
-        {"ch": 83, "title": "Mở công ty xây dựng", "plot": "Mở công ty xây dựng ở Quốc Oai, nhận nhiệm vụ 20 ngôi nhà"},
-        {"ch": 84, "title": "Mở rộng công ty xây dựng", "plot": "Mở chi nhánh xây dựng ở Hà Nội và Sài Gòn"},
-        {"ch": 85, "title": "Hoàn thành nhiệm vụ xây dựng", "plot": "Hoàn thành 20 ngôi nhà, nhận kỹ năng xây dựng cấp 2"},
-        {"ch": 86, "title": "Sản xuất pin mặt trời", "plot": "Sản xuất pin mặt trời, nhận nhiệm vụ 500 tấm"},
-        {"ch": 87, "title": "Hoàn thành nhiệm vụ pin mặt trời", "plot": "Hoàn thành 500 tấm, nhận kỹ năng năng lượng cấp 1"},
-        {"ch": 88, "title": "Sản xuất máy phát điện", "plot": "Sản xuất máy phát điện, nhận nhiệm vụ 100 chiếc"},
-        {"ch": 89, "title": "Hoàn thành nhiệm vụ máy phát điện", "plot": "Hoàn thành 100 chiếc, nhận kỹ năng kỹ thuật cấp 3"},
-        {"ch": 90, "title": "Tổ chức từ thiện", "plot": "Tổ chức sự kiện từ thiện đầu tiên, nhận nhiệm vụ 10 sự kiện"},
-        {"ch": 91, "title": "Mở rộng từ thiện", "plot": "Tổ chức từ thiện ở Chương Mỹ và Hà Nội"},
-        {"ch": 92, "title": "Hoàn thành nhiệm vụ từ thiện", "plot": "Hoàn thành 10 sự kiện, nhận kỹ năng lãnh đạo cấp 1"},
-        {"ch": 93, "title": "Tài trợ văn hóa", "plot": "Tài trợ lễ hội và cuộc thi văn nghệ, nhận nhiệm vụ 10 hoạt động"},
-        {"ch": 94, "title": "Mở rộng tài trợ văn hóa", "plot": "Tài trợ ở Thái Bình, Sài Gòn, Nam Định, Ninh Bình, Thanh Hóa"},
-        {"ch": 95, "title": "Hoàn thành nhiệm vụ tài trợ văn hóa", "plot": "Hoàn thành 10 hoạt động, nhận kỹ năng quản lý sự kiện cấp 1"},
-        {"ch": 96, "title": "Tài trợ thể thao", "plot": "Tài trợ giải bóng đá và giải chạy, nhận nhiệm vụ 10 hoạt động"},
-        {"ch": 97, "title": "Mở rộng tài trợ thể thao", "plot": "Tài trợ ở Thái Bình, Sài Gòn, Nam Định, Ninh Bình, Thanh Hóa"},
-        {"ch": 98, "title": "Hoàn thành nhiệm vụ tài trợ thể thao", "plot": "Hoàn thành 10 hoạt động, nhận kỹ năng quản lý thể thao cấp 1"},
-        {"ch": 99, "title": "Chuẩn bị hoàn thành phần 2", "plot": "Tổng kết Phần 2, liệt kê tất cả thành tựu và kỹ năng"},
-        {"ch": 100, "title": "Hoàn thành phần 2", "plot": "Nhận phần thưởng Phần 2, giới thiệu Phần 3: mở rộng châu Âu và Mỹ"}
-      ]
-    },
-    {
-      "part": 3,
-      "name": "Mở rộng kinh doanh quốc tế",
-      "chapters": "101+",
-      "status": "planned",
-      "summary": "Mở rộng kinh doanh sang châu Âu và Mỹ, trở thành thương gia quốc tế.",
-      "mainPlot": [
-        "Mở rộng kinh doanh sang châu Âu (Pháp, Đức, Anh)",
-        "Mở rộng kinh doanh sang Mỹ",
-        "Đối mặt thách thức quốc tế: văn hóa, pháp lý, cạnh tranh",
-        "Xây dựng thương hiệu quốc tế",
-        "Trở thành thương gia lớn nhất Việt Nam và thương gia quốc tế"
-      ],
-      "plannedEndState": {
-        "expPoints": 17000,
-        "spaceSize": "8000m²",
-        "newSkill": "Kỹ năng quốc tế cấp 1",
-        "partReward": "2000 điểm kinh nghiệm, mở rộng không gian 3000m²"
-      },
-      "plannedChapters": [
-        {"ch": 101, "title": "Bắt đầu phần 3", "plot": "Giới thiệu Phần 3, lên kế hoạch mở rộng châu Âu"},
-        {"ch": 102, "title": "Đi Pháp", "plot": "Mở rộng sang Pháp, tìm đối tác ở Paris"},
-        {"ch": 103, "title": "Đi Đức", "plot": "Mở rộng sang Đức, tìm đối tác ở Berlin"},
-        {"ch": 104, "title": "Đi Anh", "plot": "Mở rộng sang Anh, tìm đối tác ở London"},
-        {"ch": 105, "title": "Đi Mỹ", "plot": "Mở rộng sang Mỹ, tìm đối tác ở New York"},
-        {"ch": 106, "title": "Hoàn thành mở rộng quốc tế", "plot": "Hoàn thành mở rộng 5 nước phương Tây"},
-        {"ch": 107, "title": "Mở chi nhánh quốc tế", "plot": "Mở chi nhánh Thương Gia Store ở châu Âu"},
-        {"ch": 108, "title": "Mở rộng chi nhánh quốc tế", "plot": "Mở thêm chi nhánh ở Mỹ và châu Á"},
-        {"ch": 109, "title": "Sản xuất hàng xuất khẩu", "plot": "Sản xuất hàng hóa chất lượng cao cho xuất khẩu"},
-        {"ch": 110, "title": "Xây dựng thương hiệu quốc tế", "plot": "Xây dựng thương hiệu Thương Gia quốc tế"},
-        {"ch": 111, "title": "Hoàn thành nhiệm vụ quốc tế", "plot": "Hoàn thành nhiệm vụ Phần 3"},
-        {"ch": 112, "title": "Hoàn thành phần 3", "plot": "Trở thành thương gia quốc tế, tổng kết toàn bộ hành trình"}
-      ]
-    }
-  ],
-  "businessTimeline": [
-    {"chapters": "1-10", "field": "Bán hàng nhỏ", "description": "Bán hàng từ không gian hệ thống ở chợ"},
-    {"chapters": "11-20", "field": "Sản xuất quần áo, giày, túi", "description": "Mở xưởng may, xưởng giày, xưởng túi"},
-    {"chapters": "21-30", "field": "Mở rộng quốc tế (Đông Nam Á)", "description": "Lào, Campuchia, Thái Lan"},
-    {"chapters": "30-37", "field": "Mở cửa hàng Thương Gia Store", "description": "5 chi nhánh đầu tiên"},
-    {"chapters": "38-44", "field": "Sản xuất điện tử", "description": "Radio, quạt điện, đèn điện"},
-    {"chapters": "45-47", "field": "Nhà hàng", "description": "3 nhà hàng ở Quốc Oai, Hà Nội, Sài Gòn"},
-    {"chapters": "48-50", "field": "Đầu tư bất động sản", "description": "10 mảnh đất ở 3 miền"},
-    {"chapters": "51-55", "field": "Mở rộng quốc tế (Đông Á)", "description": "Trung Quốc, Nhật Bản, Hàn Quốc, Singapore, Hồng Kông"},
-    {"chapters": "56-60", "field": "Mở rộng cửa hàng", "description": "10 chi nhánh Thương Gia Store"},
-    {"chapters": "61-67", "field": "Sản xuất cơ khí, nông nghiệp", "description": "Xe đạp, máy cày, máy gặt"},
-    {"chapters": "68-70", "field": "Dịch vụ vận chuyển", "description": "Đội xe tải, vận chuyển hàng hóa"},
-    {"chapters": "71-73", "field": "Dịch vụ tài chính", "description": "Cho vay, 7 chi nhánh tài chính"},
-    {"chapters": "74-76", "field": "Giáo dục", "description": "4 trường học, 500 học sinh"},
-    {"chapters": "77-79", "field": "Đào tạo nghề", "description": "3 trung tâm đào tạo, 200 học viên"},
-    {"chapters": "80-82", "field": "Y tế", "description": "6 phòng khám, 1000 bệnh nhân"},
-    {"chapters": "83-85", "field": "Xây dựng", "description": "3 chi nhánh, 20 ngôi nhà"},
-    {"chapters": "86-89", "field": "Năng lượng", "description": "Pin mặt trời 500 tấm, máy phát điện 100 chiếc"},
-    {"chapters": "90-92", "field": "Từ thiện", "description": "10 sự kiện, 2000+ người nghèo được giúp"},
-    {"chapters": "93-95", "field": "Tài trợ văn hóa", "description": "10 hoạt động, 40,000 đồng"},
-    {"chapters": "96-98", "field": "Tài trợ thể thao", "description": "10 hoạt động, 45,000 đồng"},
-    {"chapters": "99-100", "field": "Tổng kết Phần 2", "description": "Tổng kết, chuẩn bị Phần 3"}
-  ],
-  "recurringCharacters": [
-    {"name": "Bà Hà", "role": "Bà nội", "appearances": "Mọi chương", "function": "Hỏi kế hoạch tiếp theo, nhắc nhở sức khỏe"},
-    {"name": "Lan", "role": "Em gái/trợ lý", "appearances": "Mọi chương", "function": "Quản lý mạng lưới, đề xuất tối ưu hóa, học kỹ năng"},
-    {"name": "Ông Wang", "role": "Đối tác Trung Quốc", "appearances": "Chương 51", "function": "Mua hàng hóa xuất khẩu"},
-    {"name": "Bác sĩ Tuấn", "role": "Bác sĩ phòng khám Hà Nội", "appearances": "Chương 81+", "function": "Quản lý phòng khám Hà Nội"},
-    {"name": "Bác sĩ Dũng", "role": "Bác sĩ phòng khám Sài Gòn", "appearances": "Chương 81+", "function": "Quản lý phòng khám Sài Gòn"},
-    {"name": "Ông Long (kỹ sư)", "role": "Kỹ sư công ty xây dựng Quốc Oai", "appearances": "Chương 83+", "function": "Quản lý xây dựng Quốc Oai"},
-    {"name": "Ông Hùng (kỹ sư)", "role": "Kỹ sư công ty xây dựng Hà Nội", "appearances": "Chương 84+", "function": "Quản lý xây dựng Hà Nội"},
-    {"name": "Ông Tuấn (kỹ sư)", "role": "Kỹ sư công ty xây dựng Sài Gòn", "appearances": "Chương 84+", "function": "Quản lý xây dựng Sài Gòn"},
-    {"name": "Ông Tùng", "role": "Thợ điện tử", "appearances": "Chương 86+", "function": "Sản xuất pin mặt trời và máy phát điện"}
-  ],
-  "writingRules": {
-    "language": "Tiếng Việt",
-    "perspective": "Ngôi thứ ba",
-    "tone": "Kể chuyện, chi tiết, đối thoại tự nhiên",
-    "chapterStructure": {
-      "opening": "Trần Văn Hùng thức dậy sớm, trước khi mặt trời mọc",
-      "businessActivity": "Mô tả hoạt động kinh doanh với chi tiết kỹ thuật",
-      "dialogue": "Đối thoại với nhân vật (nhân viên, khách hàng, đối tác)",
-      "familyScene": "Về nhà, đưa tiền cho bà (30% lợi nhuận), đối thoại với bà Hà và Lan",
-      "systemNotification": "Hệ thống thông báo điểm kinh nghiệm, nhiệm vụ, phần thưởng",
-      "dinnerScene": "Bữa tối gia đình, bà Hà hỏi kế hoạch tiếp theo",
-      "ending": "Vẽ kế hoạch, 'Hành trình của ông tiếp tục'"
-    },
-    "consistencyRules": [
-      "Không thay đổi sự kiện đã viết",
-      "Số liệu, kỹ năng, điểm kinh nghiệm phải liên tục",
-      "Lan phát triển dần: bán hàng → quản lý",
-      "Bà Hà: lo lắng → tự hào",
-      "Mỗi tỉnh có đặc điểm riêng (Hà Nội: nhà phố, Sài Gòn: chống thấm, v.v.)",
-      "Đưa tiền cho bà = 30% lợi nhuận",
-      "Số tiền hợp lý với thời bao cấp (lương công nhân vài chục đồng/tháng)"
-    ]
-  }
-}
+CẤU TRÚC TỔNG THỂ (6 Phần – 360 chương)
+
+Phần 1: Trùng sinh & Xây dựng nền tảng (1-60) – 1983-1985
+Phần 2: Thống trị nội địa & Đa ngành dịch vụ (61-130) – 1985-1988 (Đổi Mới)
+Phần 3: Bùng nổ khu vực & Công nghiệp hóa (131-200) – 1989-1995
+Phần 4: Toàn cầu hóa & Siêu tập đoàn (201-270) – 1996-2005
+Phần 5: Ảnh hưởng xã hội & Thương hiệu vĩ đại (271-330) – 2006-2015
+Phần 6: Đỉnh cao di sản & Kết thúc hoành tráng (331-360) – 2016+
+
+Tăng trưởng hệ thống (tổng kết):
+Space: 1000 → 3500 (60) → 6200 (130) → 12.000 (200) → 25.000 (270) → 45.000 (330) → 60.000m² (360)
+EXP: 0 → 7.800 (60) → 19.500 (130) → 38.000 (200) → 62.000 (270) → 81.000 (330) → 98.500 (360)
+Kỹ năng mới thêm: Chiến lược, Ngoại giao kinh tế, Công nghệ cao, Quản trị đế chế, Ảnh hưởng xã hội, Di sản…
+
+PHẦN 1: TRÙNG SINH & XÂY DỰNG NỀN TẢNG (1-60)
+Summary: Lý Minh trùng sinh thành Trần Văn Hùng, kích hoạt hệ thống, vượt lý lịch xấu, xây dựng từ bán rong → sản xuất → Thương Gia Store + nhà hàng + BĐS ban đầu.
+MainPlot: Giữ nguyên file JSON + bổ sung xung đột lý lịch, Đổi Mới teaser, Lan bắt đầu học quản lý.
+End State: 8 cửa hàng, 4 nhà hàng, 7 xưởng, 15 mảnh đất, đối tác Lào/Campuchia/Thái Lan, EXP 7.800, Space 3.500m², Kỹ năng Thương mại lv3 + Đầu tư lv2.
+Chapters_detail (mở rộng file gốc):
+
+1-50: Giữ nguyên văn titles + plot như file info.json cung cấp (không thay đổi sự kiện đã viết).
+51: “Mở chi nhánh Bắc Ninh – Thử thách lý lịch”
+52-53: “Mở chi nhánh Vĩnh Phúc & Hưng Yên – Lan học bán hàng”
+54: “Sản xuất mì ăn liền & thực phẩm đóng gói đầu tiên”
+55: “Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện”
+56-57: “Tuyển kỹ sư Minh – Xây đội ngũ cốt lõi”
+58: “Nhiệm vụ mới: Xây dựng thương hiệu Thương Gia trong 30 ngày”
+59: “Tổng kết năm 1985 – Bà Hà khóc vì tự hào”
+60: “Hoàn thành Phần 1 mở rộng – Nhận skill Chiến lược lv1, space +500m², teaser Phần 2”
+
+
+PHẦN 2: THỐNG TRỊ NỘI ĐỊA & ĐA NGÀNH DỊCH VỤ (61-130)
+Summary: Thống lĩnh 63 tỉnh/thành, mở rộng dịch vụ theo file, tận dụng Đổi Mới, Lan trở thành trợ lý đắc lực.
+MainPlot: Mở 35 chi nhánh Store, dịch vụ vận chuyển + tài chính + giáo dục + y tế + xây dựng + năng lượng + từ thiện + tài trợ (mở rộng file 51-100).
+End State: 45 cửa hàng, 12 nhà hàng, 18 nhà máy, dịch vụ phủ 30 tỉnh, EXP 19.500, Space 6.200m², Kỹ năng Logistics lv3, Tài chính lv2, Giáo dục lv2, Lãnh đạo lv2.
+Chapters_detail (mẫu chi tiết + pattern):
+
+61-70: Mở rộng 15 chi nhánh miền Bắc + sản xuất xe đạp, máy cày/gặt (giống file nhưng chi tiết hơn).
+71-80: Dịch vụ vận chuyển (mua 30 xe tải) + cho vay (cứu nông dân khỏi nặng lãi).
+81-90: Mở 8 trường học + 10 phòng khám (giới thiệu bác sĩ Tuấn/Dũng).
+91-100: Công ty xây dựng + pin mặt trời/máy phát (giống file 83-89 + thêm xung đột nguyên liệu).
+101-110: 15 sự kiện từ thiện + tài trợ văn hóa/thể thao (Lan quản lý toàn bộ).
+111-120: Đón FDI đầu tiên (ông Tanaka Nhật Bản), niêm yết công ty con.
+121-130: Climax Phần 2 – Ảnh hưởng chính sách Đổi Mới toàn quốc, nhận phần thưởng lớn, giới thiệu đối tác châu Âu, EXP 19.500, space 6.200m².
+
+
+PHẦN 3: BÙNG NỔ KHU VỰC & CÔNG NGHIỆP HÓA (131-200)
+Summary: Thống lĩnh Đông Nam Á + Đông Á, xây nhà máy lớn, đối mặt cạnh tranh quốc tế.
+MainPlot: Mở 60 chi nhánh Store, xuất khẩu hàng loạt, xây dựng chuỗi cung ứng toàn châu Á, thêm ngành ô tô, điện thoại, máy tính, thực phẩm công nghiệp.
+End State: 120 cửa hàng, 35 nhà máy, dịch vụ phủ 50 tỉnh + 8 nước châu Á, EXP 38.000, Space 12.000m², Kỹ năng Ngoại giao kinh tế lv2 + Công nghệ cao lv1.
+Chapters_detail (theo arc):
+
+131-150: Mở rộng Đông Nam Á sâu (Indonesia, Malaysia, Philippines) + xây nhà máy ô tô đầu tiên.
+151-170: Đông Á (Trung Quốc, Nhật, Hàn sâu + Ấn Độ) + sản xuất điện thoại/thông minh đầu tiên.
+171-185: Xây dựng logistics quốc tế + ngân hàng Thương Gia (cho vay doanh nghiệp nhỏ).
+186-195: Xung đột lớn với tập đoàn Hồng Kông + giải quyết khéo bằng ngoại giao.
+196-200: Hoàn thành Phần 3 – Lễ kỷ niệm 10 năm Thương Gia, Bà Hà được mời phát biểu, Lan chính thức là Phó Tổng, nhận skill Quản trị đế chế lv1.
+
+
+PHẦN 4: TOÀN CẦU HÓA & SIÊU TẬP ĐOÀN (201-270)
+Summary: Chinh phục châu Âu, Mỹ, xây dựng tập đoàn đa quốc gia, đối mặt khủng hoảng tài chính 2008 & vượt qua.
+MainPlot: Mở chi nhánh Paris, Berlin, London, New York; niêm yết NYSE; M&A đối thủ; sản xuất chip, năng lượng tái tạo, xe điện.
+End State: 250 cửa hàng toàn cầu, 80 nhà máy, EXP 62.000, Space 25.000m², Kỹ năng Ảnh hưởng xã hội lv2.
+Chapters_detail:
+
+201-220: Châu Âu (Pháp-Đức-Anh) + Mỹ (5 chương đàm phán Wall Street).
+221-240: Khủng hoảng 2008 – Hùng dùng hệ thống dự đoán, mua dip, trở thành “cứu tinh”.
+241-255: Xây dựng “Thương Gia City” (khu công nghiệp 500ha), xe điện, AI sơ khai.
+256-270: Climax Phần 4 – Đứng top 1 thương gia Việt Nam, nhận huân chương Nhà nước, space 25.000m².
+
+
+PHẦN 5: ẢNH HƯỞNG XÃ HỘI & THƯƠNG HIỆU VĨ ĐẠI (271-330)
+Summary: Từ thiện quy mô toàn cầu, xây dựng đế chế truyền thông-thể thao-giáo dục, Lan & thế hệ sau lên vai trò chính.
+MainPlot: Tài trợ Olympic, xây 100 trường học nghèo, quỹ 10.000 tỷ từ thiện, truyền thừa cho con cháu.
+End State: 400+ điểm kinh doanh toàn cầu, EXP 81.000, Space 45.000m², Kỹ năng Di sản lv1.
+Chapters_detail (nhóm):
+
+271-290: Xây dựng đế chế truyền thông (báo, TV, mạng xã hội) + đội bóng Thương Gia FC.
+291-310: Từ thiện toàn cầu + giáo dục (học bổng 10.000 sinh viên).
+311-330: Climax Phần 5 – Hùng 55 tuổi, giao dần quyền cho Lan & con trai, nhận giải “Thương gia huyền thoại thế kỷ”.
+
+
+PHẦN 6: ĐỈNH CAO DI SẢN & KẾT THÚC HOÀNH TRÁNG (331-360)
+Summary: Đối mặt thử thách cuối (âm mưu lớn, sức khỏe, cạnh tranh siêu tập đoàn), truyền thừa hoàn hảo, kết thúc viên mãn.
+MainPlot: Xây dựng “Quỹ Di sản Trần Văn Hùng”, trở thành người giàu nhất Đông Nam Á, lễ kỷ niệm 40 năm, flashback toàn bộ hành trình.
+Chapters_detail:
+
+331-340: Xung đột cuối với “tập đoàn bóng tối” + Hùng dùng trí tuệ + hệ thống vượt qua.
+341-350: Lễ bàn giao quyền lực (Lan làm CEO, con trai làm Phó), Bà Hà 90 tuổi vẫn khỏe mạnh kể chuyện xưa.
+351-355: Du hành thế giới tri ân đối tác cũ, từ thiện 100.000 tỷ.
+356: “Nhiệm vụ cuối cùng hoàn thành – Hệ thống chúc mừng Chủ nhân trở thành Thương gia vĩ đại nhất lịch sử Việt Nam.”
+357-359: Flashback cảm xúc + bữa tối gia đình 3 thế hệ.
+360: “Hành trình kết thúc nhưng tinh thần Thương Gia mãi trường tồn” – Hùng đứng trên nóc tòa tháp Thương Gia 100 tầng nhìn ra Hà Nội & Sài Gòn rực rỡ, câu cuối: “Tôi đã làm được. Và con cháu sẽ tiếp tục…”
