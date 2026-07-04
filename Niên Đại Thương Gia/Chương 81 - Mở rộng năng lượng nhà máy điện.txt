@@ -1,0 +1,70 @@
+============================================================
+Chương 81: Mở rộng năng lượng — Nhà máy điện
+============================================================
+
+Tháng 6 năm 1995. Hùng mở rộng năng lượng — xây nhà máy điện mặt trời Thương Gia đầu tiên.
+
+Pin mặt trời — Hùng đã lắp cho 55 cửa hàng và bán 100 hệ thống cho khách. Nhưng ông muốn lớn hơn — nhà máy điện mặt trời, phát điện cho grid, bán điện cho nhà nước. Đây là bước nhảy — từ pin nhỏ đến nhà máy điện.
+
+Hùng ngồi trong văn phòng, họp Minh — quản lý kỹ thuật năng lượng.
+
+"Minh, cháu muốn xây nhà máy điện mặt trời — 1MW, ở Bình Thuận. Bình Thuận — nắng nhiều, đất rẻ, phù hợp. 5.000 tấm pin, phát 1MW, bán điện cho EVN. Vốn: 500.000 đồng (pin, inverter, khung, đất, xây dựng)."
+
+Minh suy nghĩ — anh hiểu pin mặt trời, nhưng nhà máy điện là cấp khác. "Anh Hùng, 1MW — lớn. 5.000 tấm pin, nhập khẩu Nhật (qua Tanaka). Inverter — chuyển DC sang AC, nhập Nhật. Khung thép — sản xuất tại chỗ. Đất — 10.000m², ở Bình Thuận. Xây dựng — công ty Thương Gia. Vốn 500.000 đồng — đủ. Nhưng em cần kỹ sư điện — người hiểu grid, hiểu inverter, hiểu kết nối EVN."
+
+Hùng gật đầu. "Cháu sẽ tuyển — kỹ sư điện, từng làm EVN. Lương 300 đồng/tháng. Và cháu sẽ đàm phán với EVN — bán điện, giá bao nhiêu. Anh Khanh giúp — quan hệ nhà nước."
+
+Minh gật đầu. "Em sẽ thiết kế — nhà máy 1MW. 5.000 tấm pin, 50 inverter, khung thép, trạm biến áp. Kết nối grid EVN — bán điện. Sản lượng: 1MW × 5 giờ/ngày × 365 ngày = 1.825 MWh/năm. Giá bán: 500 đồng/MWh (đàm phán với EVN). Doanh thu: 912.500 đồng/năm. Lãi: 400.000 đồng/năm (sau chi phí)."
+
+「Nhiệm vụ mới: Xây nhà máy điện mặt trời 1MW
+- Mục tiêu: Hoàn thành trong 12 tháng, phát điện 1.825 MWh/năm, bán cho EVN
+- Phần thưởng: 300 EXP, Kỹ năng Năng lượng lv2
+- Thời hạn: 12 tháng」
+
+---
+
+Hùng đi Bình Thuận — tìm đất cho nhà máy điện. Bình Thuận — tỉnh nam trung bộ, nắng nhiều, đất cát, ít dân. Phù hợp — nắng = điện, đất rẻ =成本低.
+
+Hùng đến huyện Hàm Tân — vùng cát, nắng chói chang. Ông gặp ông Lâm — chủ đất 15.000m², mặt đường, giá 30.000 đồng. Đất cát — không trồng trọt được, nhưng đặt pin mặt trời thì tuyệt vời. Hùng mua — 30.000 đồng cho 15.000m², rẻ.
+
+Hùng đứng trên đất cát, nhìn trời — nắng chói, nóng, nhưng đó là tài nguyên. Nắng = điện = tiền. Ở thế kỷ 21, năng lượng tái tạo là tương lai — và Hùng đang xây tương lai ở năm 1995.
+
+Minh đến — mang bản vẽ. "Anh Hùng, em thiết kế xong — nhà máy 1MW. 5.000 tấm pin, xếp thành 50 hàng, mỗi hàng 100 tấm. Inverter — 50 cái, mỗi cái 20kW. Khung thép — sản xuất tại xưởng Thương Gia, cao 2m, nghiêng 15 độ (hứng nắng tối đa). Trạm biến áp — nâng từ低压 lên trung áp, kết nối grid EVN."
+
+Hùng xem bản vẽ — chi tiết, chuyên nghiệp. Minh giỏi — anh học nhanh, hiểu điện, thiết kế chính xác. Hùng gật đầu hài lòng.
+
+"Được. Xây — công ty xây dựng Thương Gia, 6 tháng. Pin — nhập Nhật, 3 tháng giao. Inverter — nhập Nhật, 2 tháng. Khung — sản xuất tại chỗ, 2 tháng. Lắp đặt — 2 tháng. Tổng 8 tháng — xong tháng 2 năm 1996."
+
+Minh gật đầu. "Em sẽ giám sát — mọi mắt xích. Pin, inverter, khung, lắp đặt, kết nối. Em đảm bảo — nhà máy hoạt động, phát điện, bán cho EVN."
+
+---
+
+Tối ấy, Hùng ở Bình Thuận — ngủ trong nhà dân (ông Lâm cho ngủ). Nhà đất, mái lá, giường gỗ — đơn giản, nhưng sạch. Ngoài cửa sổ, trời sao — sao dày, sáng, đẹp. Ở Bình Thuận, không đèn neon — chỉ sao và trăng.
+
+Hùng nằm, nhìn sao, suy nghĩ. Năng lượng — ngành thứ mười bốn. Thương Gia không chỉ bán hàng, sản xuất, vận tải, tài chính, y tế, giáo dục, xây dựng — còn năng lượng. Đế chế đa ngành — 14 ngành, mỗi ngành sinh lời, mỗi ngành giúp người.
+
+Ông nhớ kiến thức thế kỷ 21 — năng lượng tái tạo sẽ là ngành tỷ đô. Điện mặt trời, điện gió, điện nước — tương lai của nhân loại. Hùng đang xây tương lai — ở năm 1995, trước mọi người 20 năm. Ông là người đầu tiên — và ông sẽ là người lớn nhất.
+
+Hùng mỉm cười, nhắm mắt. Ngoài cửa sổ, sao sáng, gió biển mát. Nhà máy điện — sắp xây. Pin mặt trời — sắp lắp. Điện — sắp phát. Thương Gia — từ bán hàng đến năng lượng. Từ thương gia đến năng lượng gia.
+
+---
+
+Tháng 8 năm 1995. Hùng đàm phán với EVN — bán điện mặt trời.
+
+Hùng đến Hà Nội — trụ sở EVN, đường Hai Bà Trưng. Ông gặp ông Hoàng — giám đốc kế hoạch EVN, năm mươi tuổi, nghiêm túc, mặc vest xám.
+
+"Anh Hùng, điện mặt trời? Công nghệ mới — Việt Nam chưa có. Anh muốn bán điện cho EVN?" Ông Hoàng hỏi, giọng hoài nghi.
+
+Hùng bình tĩnh. "Đúng — điện mặt trời, công nghệ mới. Nhưng thế giới đang phát triển — Nhật, Đức, Mỹ đã có nhà máy điện mặt trời. Việt Nam — nắng nhiều, tiềm năng lớn. Thương Gia — xây nhà máy 1MW ở Bình Thuận, phát điện, bán cho EVN. Giá: 500 đồng/MWh."
+
+Ông Hoàng suy nghĩ — 500 đồng/MWh, đắt hơn điện thủy điện (200 đồng/MWh), nhưng rẻ hơn điện diesel (800 đồng/MWh). Điện mặt trời — sạch, tái tạo, không ô nhiễm. Ông Hoàng gật đầu.
+
+"Được. EVN mua — 500 đồng/MWh, hợp đồng 20 năm. Nhưng anh phải — đảm bảo chất lượng, ổn định, an toàn. Điện mặt trời — mới, EVN giám sát chặt."
+
+Hùng gật đầu. "Đảm bảo — chất lượng, ổn định, an toàn. Thương Gia — uy tín 12 năm, không bao giờ thất hứa."
+
+Ông Hoàng nắm tay Hùng — hợp đồng ký. EVN mua điện mặt trời Thương Gia — 500 đồng/MWh, 20 năm. Hùng mỉm cười — hợp đồng 20 năm = doanh thu ổn định 20 năm. 912.500 đồng/năm × 20 = 18.250.000 đồng. Lớn — rất lớn.
+
+「Giao dịch thành công (hợp đồng EVN 20 năm): +100 EXP. Tổng EXP: 17.640」
+
+Hành trình tiếp tục.

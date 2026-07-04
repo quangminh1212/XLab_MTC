@@ -1,0 +1,92 @@
+============================================================
+Chương 86: Mở rộng bảo hiểm
+============================================================
+
+Tháng 1 năm 1997. Hùng mở công ty bảo hiểm Thương Gia — bảo hiểm nhân thọ, nông nghiệp, y tế.
+
+Hùng ngồi trong văn phòng, họp ông Yamamoto — actuarial Nhật, quản lý bảo hiểm. Ông Yamamoto bốn mươi hai tuổi, người Nhật, vợ Việt Nam, làm Dai-ichi Life 15 năm. Ông đến Việt Nam — vì Thương Gia trả lương cao (2.000 đồng/tháng), vì cơ hội (Việt Nam chưa có bảo hiểm tư nhân), vì đam mê (ông yêu actuarial).
+
+"Anh Hùng, bảo hiểm Thương Gia — em thiết kế 3 sản phẩm:
+1. Bảo hiểm nhân thọ — đóng 50 đồng/tháng, nếu tử vong, trả 5.000 đồng. Dành cho người dân 20-60 tuổi. Actuarial: tỷ lệ tử vong 0.5%/năm, phí cần 25 đồng/tháng — lãi 25 đồng/tháng/khách.
+2. Bảo hiểm nông nghiệp — đóng 30 đồng/tháng, nếu mất mùa, trả 2.000 đồng. Dành cho nông dân. Actuarial: tỷ lệ mất mùa 10%/năm, phí cần 20 đồng/tháng — lãi 10 đồng/tháng/khách.
+3. Bảo hiểm y tế — đóng 40 đồng/tháng, nếu ốm đau, trả 3.000 đồng chi phí y tế. Dành cho mọi người. Actuarial: tỷ lệ ốm đau 15%/năm, phí cần 30 đồng/tháng — lãi 10 đồng/tháng/khách."
+
+Hùng xem — actuarial chính xác, phí hợp lý, lãi ổn định. Ông Yamamoto giỏi — 15 năm kinh nghiệm, tính toán chính xác.
+
+"Được. 3 sản phẩm. Mục tiêu: 10.000 khách/năm, doanh thu 15.000.000 đồng/tháng (10.000 × 40 đồng average), lãi 5.000.000 đồng/tháng."
+
+Ông Yamamoto gật đầu. "Em sẽ quản lý — actuarial, rủi ro, chi trả. Và em cần — nhân viên bán bảo hiểm. 50 người, bán qua cửa hàng Thương Gia (cross-sell) + bán trực tiếp. Lương 150 đồng/tháng + hoa hồng 10% phí."
+
+Hùng gật đầu. "Được. 50 nhân viên bán. Cross-sell — khách vào cửa hàng mua quần áo, mua thêm bảo hiểm. Thương Gia — bán mọi thứ, kể cả bảo hiểm."
+
+「Nhiệm vụ mới: Mở công ty bảo hiểm
+- Mục tiêu: 10.000 khách, 15 triệu doanh thu/tháng, 5 triệu lãi/tháng
+- Phần thưởng: 300 EXP, Kỹ năng Tài chính lv4
+- Thời hạn: 12 tháng」
+
+---
+
+Hùng đăng ký bảo hiểm — nộp hồ sơ tại Bộ Tài chính. Thủ tục phức tạp — giấy phép, vốn điều lệ (1 tỷ đồng), hồ sơ actuarial, kế hoạch kinh doanh. Anh Khanh giúp — quan hệ nhà nước.
+
+"Anh Khanh, bảo hiểm — giấy phép khó. Cháu cần giúp."
+
+Khanh gật đầu. "Bảo hiểm — khó hơn ngân hàng. Vốn 1 tỷ — cháu có. Actuarial — cháu có Yamamoto. Nhưng Bộ Tài chính — giám sát chặt. Cháu phải minh bạch, đủ vốn, đủ dự phòng. Không sai một đồng."
+
+"Cháu biết. Cháu làm sạch — Yamamoto quản lý, Hồng kiểm tra. Mọi đồng đều có giấy tờ, đều rõ ràng. Thương Gia — minh bạch, an toàn, uy tín. Cháu hứa."
+
+Khanh gật đầu — anh tin Hùng. Hùng luôn sạch — từ bán rong đến tập đoàn, không một lần gian lận. Khanh giúp — đẩy nhanh thủ tục.
+
+3 tháng sau — giấy phép cấp. "Công ty Bảo hiểm Thương Gia, Giấy phép số GP-001/BH, Ngày 15/3/1997, Chủ tịch HĐQT: Trần Văn Hùng, Giám đốc: Yamamoto Taro." Hùng cầm giấy phép, mỉm cười — bảo hiểm, ngành thứ mười lăm.
+
+---
+
+Bảo hiểm Thương Gia khai trương — bán qua 66 cửa hàng + 10 chi nhánh ngân hàng. Cross-sell — khách vào cửa hàng, nhân viên giới thiệu bảo hiểm. Khách vào ngân hàng, nhân viên giới thiệu bảo hiểm. Một chỗ — mọi thứ.
+
+Ngày khai trương — 500 khách mua bảo hiểm. Đa số nhân thọ — người dân lo gia đình, nếu mình chết, gia đình có tiền. Một số nông nghiệp — nông dân lo mất mùa, có bảo hiểm đỡ khổ. Một số y tế — người dân lo ốm đau, có bảo hiểm đỡ tốn.
+
+Một khách — ông Năm, nông dân Thanh Hóa, mua bảo hiểm nông nghiệp. "Anh Hùng, tôi mua bảo hiểm — 30 đồng/tháng. Nếu mất mùa, tôi được 2.000 đồng. Tôi yên tâm — không sợ mất mùa nữa. Trước đây, mất mùa là chết — không ăn, không tiền. Bây giờ — có bảo hiểm, tôi yên tâm."
+
+Hùng mỉm cười. Bảo hiểm — an tâm. Nông dân yên tâm — không sợ mất mùa. Người dân yên tâm — không sợ ốm đau, không sợ tử vong. Thương Gia — mang an tâm, mang bình yên.
+
+「Giao dịch thành công (bảo hiểm khai trương): +80 EXP. Tổng EXP: 19.410」
+
+---
+
+6 tháng sau — bảo hiểm Thương Gia đạt 12.000 khách, vượt mục tiêu 10.000. Doanh thu: 18.000.000 đồng/tháng (12.000 × 40 đồng average). Lãi: 6.000.000 đồng/tháng. Tốt — vượt mục tiêu.
+
+「Nhiệm vụ hoàn thành: Công ty bảo hiểm
+- 12.000 khách ✓ (vượt mục tiêu 10.000)
+- 18 triệu doanh thu/tháng ✓ (vượt mục tiêu 15 triệu)
+- 6 triệu lãi/tháng ✓ (vượt mục tiêu 5 triệu)
+- Phần thưởng: +300 EXP, Kỹ năng Tài chính lv4
+- Tổng EXP: 19.710」
+
+「Kỹ năng Tài chính cấp 4: Quản lý tập đoàn tài chính, ngân hàng + bảo hiểm, đánh giá rủi ro chuyên sâu, thiết kế sản phẩm tài chính chuyên nghiệp, quản lý actuarial, quản lý đầu tư tài chính.」
+
+Tài chính lv4. Thương Gia — đế chế tài chính. Ngân hàng + bảo hiểm, 50 triệu + 6 triệu = 56 triệu lãi/tháng. Hùng mỉm cười — tiền sinh tiền, mạnh, ổn định.
+
+---
+
+Tối ấy, Hùng về nhà. Bà Hà ngồi ở hiên, bế mèo Mít. Bà bảy mươi tuổi — nhưng khỏe, hồng hào. Bà nhìn cháu, mỉm cười.
+
+"Cậu Hùng, bảo hiểm là gì? Người ta đóng tiền, nếu rủi ro, con trả tiền?"
+
+"Dạ, đúng, bà. Người ta đóng tiền nhỏ — 30-50 đồng/tháng. Nếu rủi ro — mất mùa, ốm đau, tử vong — con trả tiền lớn — 2.000-5.000 đồng. Con giúp người — khi rủi ro xảy ra, họ không một mình."
+
+Bà Hà gật đầu, rồi nói: "Tốt. Nông dân mất mùa — khổ lắm. Có bảo hiểm, họ đỡ khổ. Người ốm — tốn lắm. Có bảo hiểm, họ đỡ tốn. Cậu giúp người — lại giúp. Bà tự hào."
+
+Hùng nắm tay bà, mỉm cười. "Con học từ bà — giúp người. Bà dạy con."
+
+Bà Hà lắc đầu, cười. "Bà không dạy — bà chỉ yêu. Yêu thương là đủ."
+
+Lan về — cô bán bảo hiểm qua cửa hàng. "Anh ơi, bảo hiểm bán tốt! Cross-sell — khách vào mua quần áo, mua thêm bảo hiểm. 12.000 khách trong 6 tháng — vượt mục tiêu. Em thấy — người dân cần bảo hiểm, họ lo rủi ro, họ muốn an tâm. Thương Gia — mang an tâm."
+
+Hùng gật đầu. "Đúng. Bảo hiểm — không chỉ kinh doanh, mà an tâm. Mỗi khách — một gia đình an tâm. 12.000 khách — 12.000 gia đình an tâm. Đó là giá trị — giá trị lớn hơn 6 triệu lãi/tháng."
+
+Lan im lặng, suy nghĩ. Cô hai mươi bốn tuổi, quản lý đa ngành — cửa hàng, ngân hàng, trường, bệnh viện, bảo hiểm. Cô hiểu — Thương Gia không chỉ kinh doanh, mà giúp người, cứu người, mang an tâm. Cô tự hào — tự hào vì anh, vì Thương Gia.
+
+Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — no, ngon, ấm. Ba người ăn — bà Hà, Lan, Hùng. Gia đình.
+
+Sau bữa tối, Hùng vào không gian — 8.000m². Ông ngồi bên suối, suy nghĩ. Bảo hiểm — ngành thứ mười lăm. 12.000 khách, 6 triệu lãi/tháng. Thương Gia — đế chế tài chính + bảo hiểm. Hùng mỉm cười — ông đang tiến. Nhanh, mạnh, xa. Phần 2 gần hoàn thành — chỉ còn máy cày, máy gặt.
+
+Hành trình tiếp tục.

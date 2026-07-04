@@ -1,0 +1,100 @@
+============================================================
+Chương 100: Sản xuất phần mềm
+============================================================
+
+Tháng 6 năm 2001. Hùng thành lập công ty phần mềm Thương Gia — viết phần mềm quản lý, kế toán, bán hàng.
+
+Phần mềm — ngành thứ mười tám. Hùng mang kiến thức thế kỷ 21 — ông biết phần mềm sẽ là ngành tỷ đô. Phần mềm quản lý doanh nghiệp (ERP), kế toán, bán hàng — mọi doanh nghiệp cần. Việt Nam 2001 — phần mềm còn sơ khai, doanh nghiệp quản lý bằng sổ sách. Hùng thấy cơ hội — phần mềm Thương Gia, quản lý hiện đại, giá rẻ.
+
+Hùng ngồi trong văn phòng, họp Đức. "Đức, cháu muốn thành lập công ty phần mềm — viết phần mềm quản lý, kế toán, bán hàng. Cho Thương Gia và bán ngoài. Vốn 200 triệu."
+
+Đức gật đầu. "Phần mềm — em hiểu cơ bản. Cần lập trình viên — người viết code. Em cần 10 lập trình viên, tốt nghiệp cntt. Lương 400 đồng/tháng. Máy tính — 20 máy (NEC, qua Tanaka). Văn phòng — tòa nhà Thương Gia, tầng 3."
+
+Hùng gật đầu. "Được. 10 lập trình viên, 20 máy, văn phòng tầng 3. Vốn 200 triệu. Anh sẽ tuyển — lập trình viên, tốt nghiệp bách khoa, cntt. Và anh — anh sẽ thiết kế phần mềm. Anh biết — anh có kiến thức tương lai."
+
+Hùng biết — phần mềm quản lý thế kỷ 21: ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), SCM (Supply Chain Management). Ông sẽ thiết kế — đơn giản, phù hợp Việt Nam, giá rẻ.
+
+「Nhiệm vụ mới: Thành lập công ty phần mềm
+- Mục tiêu: 3 phần mềm (quản lý, kế toán, bán hàng), 100 khách trong 12 tháng
+- Phần thưởng: 400 EXP, Kỹ năng Phần mềm lv1
+- Thời hạn: 12 tháng」
+
+---
+
+Hùng tuyển lập trình viên — 10 người, tốt nghiệp bách khoa cntt. Ông tuyển anh Long — lập trình viên, hai mươi lăm tuổi, tốt nghiệp bách khoa, giỏi code, đam mê máy tính. Anh Long — thế hệ mới, lớn lên sau Đổi Mới, hiểu máy tính, hiểu internet.
+
+"Anh Long, công ty phần mềm Thương Gia — em phụ trách kỹ thuật. Anh sẽ thiết kế phần mềm — em code. 3 phần mềm: quản lý doanh nghiệp (ERP), kế toán, bán hàng. Anh — anh thiết kế, em code. Được không?"
+
+Long mắt sáng — anh đam mê code. "Anh Hùng, em — em code được. Em giỏi C, Pascal, BASIC. Em sẽ code — phần mềm Thương Gia. Nhưng em cần — thiết kế. Anh thiết kế, em code."
+
+Hùng mỉm cười. "Anh sẽ thiết kế — anh biết phần mềm quản lý. ERP — quản lý toàn doanh nghiệp: mua hàng, sản xuất, bán hàng, kho, nhân sự, tài chính. Kế toán — sổ cái, báo cáo, thuế. Bán hàng — POS, hóa đơn, khách hàng. Anh — anh thiết kế, em code."
+
+---
+
+Hùng thiết kế phần mềm — ông mang kiến thức thế kỷ 21. Ông vẽ flowchart, viết spec, thiết kế UI. Đơn giản — phù hợp Việt Nam, dễ dùng, giá rẻ.
+
+ERP Thương Gia — quản lý toàn doanh nghiệp: mua hàng (đơn hàng, nhà cung cấp), sản xuất (kế hoạch, tiến độ), bán hàng (đơn hàng, khách hàng), kho (nhập, xuất, tồn), nhân sự (lương, chấm công), tài chính (thu, chi, báo cáo). Tích hợp — một hệ thống, quản lý tất cả.
+
+Kế toán Thương Gia — sổ cái, báo cáo tài chính, thuế, hóa đơn. Tự động — nhập liệu, tính toán, báo cáo. Nhanh — nhanh hơn sổ sách gấp mười.
+
+Bán hàng Thương Gia — POS (Point of Sale), hóa đơn, khách hàng, thẻ thành viên. Tích hợp — với ERP, kế toán. Mua hàng — POS ghi, ERP cập nhật kho, kế toán ghi sổ. Một hệ thống — xuyên suốt.
+
+Long code — 3 tháng, phần mềm đầu tiên (kế toán) hoàn thành. Hùng test — chạy thử, kiểm tra. Phần mềm chạy — đúng, nhanh, dễ dùng. Hùng gật đầu hài lòng.
+
+"Long, phần mềm kế toán — tốt. Em tiếp — ERP, bán hàng. 3 tháng nữa, hoàn thành cả 3."
+
+Long gật đầu — anh code, say mê. Anh hai mươi lăm tuổi, và anh đang viết phần mềm đầu tiên của Việt Nam — phần mềm Thương Gia.
+
+---
+
+Phần mềm Thương Gia ra mắt — tháng 12 năm 2001. 3 phần mềm: ERP, kế toán, bán hàng. Giá: ERP 5.000 đồng/doanh nghiệp, kế toán 2.000 đồng, bán hàng 1.500 đồng. Rẻ — rẻ hơn phần mềm nước ngoài 80%.
+
+Hùng dùng nội bộ — Thương Gia. 66 cửa hàng dùng POS bán hàng, 10 chi nhánh ngân hàng dùng kế toán, 18 nhà máy dùng ERP. Thương Gia — khách đầu tiên, lớn nhất. Phần mềm chạy — cửa hàng bán hàng nhanh (POS), ngân hàng kế toán nhanh (tự động), nhà máy quản lý nhanh (ERP). Hiệu quả — gấp ba sổ sách.
+
+Bán ngoài — 100 doanh nghiệp mua trong 6 tháng. Đa số doanh nghiệp vừa — cần quản lý, cần kế toán, cần bán hàng. Phần mềm Thương Gia — rẻ, dễ dùng, phù hợp Việt Nam. Họ mua — và họ thích.
+
+Một khách — bà Phượng, chủ xưởng may nhỏ — mua phần mềm kế toán. "Anh Hùng, phần mềm kế toán — tuyệt! Trước đây, em ghi sổ — mất 3 ngày/tháng. Bây giờ — phần mềm, 3 giờ/tháng. Nhanh — nhanh gấp mười. Em — em tiết kiệm thời gian, tập trung sản xuất."
+
+Hùng mỉm cười. Phần mềm — hiệu quả. Doanh nghiệp tiết kiệm thời gian, tập trung sản xuất. Thương Gia — mang hiệu quả, mang hiện đại, mang phát triển.
+
+「Giao dịch thành công (phần mềm ra mắt): +100 EXP. Tổng EXP: 23.650」
+
+「Nhiệm vụ hoàn thành: Công ty phần mềm 3 sản phẩm
+- 3 phần mềm ✓ (ERP, kế toán, bán hàng)
+- 100 khách ✓ (66 nội bộ + 100 ngoài = 166, vượt mục tiêu)
+- Phần thưởng: +400 EXP, Kỹ năng Phần mềm lv1
+- Tổng EXP: 24.050」
+
+「Kỹ năng Phần mềm cấp 1: Thiết kế phần mềm, quản lý dự án phần mềm, code cơ bản, hiểu ERP/CRM/SCM, đánh giá chất lượng phần mềm.」
+
+Phần mềm lv1. Thương Gia — đế chế phần mềm. 3 phần mềm, 166 khách, 2 triệu lãi/tháng. Hùng mỉm cười — ông tiên phong phần mềm Việt Nam. Từ bán hàng đến phần mềm — hành trình 18 năm. Và phần mềm — tương lai, hiệu quả, hiện đại.
+
+---
+
+Tối ấy, Hùng về nhà. Bà Hà ngồi ở phòng khách, bế bé Bảo — bé hai tuổi, biết nói, biết chạy. Bà nhìn cháu nội, mỉm cười.
+
+"Cậu Hùng, phần mềm — là gì?"
+
+Hùng cười — bà lại hỏi. "Bà, phần mềm — như sách hướng dẫn, nhưng trong máy tính. Máy tính — chạy theo phần mềm. Phần mềm kế toán — máy tính kế toán cho mình. Phần mềm bán hàng — máy tính bán hàng cho mình. Phần mềm — giúp máy tính làm việc cho người."
+
+Bà Hà gật đầu — bà hiểu đại khái. "Máy tính — làm việc cho người. Tiện — tiện lắm. Cháu bà — làm máy tính làm việc. Thông minh."
+
+Hùng mỉm cười. "Bà, con — con mang hiệu quả. Phần mềm — giúp doanh nghiệp quản lý nhanh, kế toán nhanh, bán hàng nhanh. Nhanh — thì phát triển. Con — con giúp doanh nghiệp phát triển."
+
+Bà Hà tự hào — luôn tự hào. "Cháu bà — luôn tiên phong. Từ bán rong đến... máy tính làm việc. Bà — bà không hiểu hết, nhưng bà tự hào."
+
+Hạnh — cô bế Bảo, ngồi cạnh. "Anh ơi, phần mềm — em dùng, kế toán cửa hàng. Nhanh lắm — em nhập liệu, phần mềm tính, báo cáo ra. Em — em tiết kiệm 2 ngày/tháng. Em — em thích phần mềm!"
+
+Hùng cười. "Em thích — anh cũng thích. Phần mềm — tương lai. Mọi doanh nghiệp sẽ dùng — không còn sổ sách. Thương Gia — tiên phong, dẫn đầu."
+
+Bảo — bé hai tuổi, bập bẹ: "Bố... bố. Phần mềm... phần mềm." Bé nhại — lại nhại. Cả nhà cười — Bảo nhại "phần mềm", bé hai tuổi, nhại từ thế kỷ 21.
+
+Lan về — cô dùng phần mềm POS ở 66 cửa hàng. "Anh ơi, POS — tuyệt! Bán hàng nhanh — quét mã, tính tiền, in hóa đơn. Khách — khách thích, nhanh, không chờ. Em — em tăng doanh thu 10% — vì bán nhanh, khách đông."
+
+Hùng gật đầu. "Đúng. POS — tăng hiệu quả, tăng doanh thu. Phần mềm — không chỉ quản lý, mà tăng doanh thu. Thương Gia — dùng nội bộ, tăng hiệu quả. Bán ngoài — tăng doanh thu. Win-win."
+
+Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — no, ngon. Năm người ăn — bà Hà, Lan, Hùng, Hạnh, Bảo. Gia đình.
+
+Sau bữa tối, Hùng vào không gian — 9.500m². Ông ngồi bên suối, suy nghĩ. Phần mềm — 3 sản phẩm, 166 khách, 2 triệu lãi/tháng. Ngành mới — và sẽ lớn. Hùng biết — phần mềm sẽ thay đổi mọi thứ, như internet. Thương Gia — tiên phong, dẫn đầu. Và ông — ông mang kiến thức thế kỷ 21, xây phần mềm Việt Nam. Từ bán rong đến phần mềm — hành trình 18 năm. Và đây mới là bắt đầu.
+
+Hành trình tiếp tục.

@@ -1,0 +1,100 @@
+============================================================
+Chương 73: Hoàn thành nhiệm vụ cho vay
+============================================================
+
+Tháng 8 năm 1993. Ngân hàng Thương Gia đạt mục tiêu — 10 chi nhánh, 5 tỷ huy động, 4 tỷ cho vay, 50 triệu lãi/tháng.
+
+Hùng ngồi trong văn phòng — tòa nhà Thương Gia Hà Đông, tầng 4. Hồng trình bày báo cáo tổng kết.
+
+"Anh Hùng, ngân hàng Thương Gia tháng 8 năm 1993:
+- 10 chi nhánh: Hà Nội, Sài Gòn, Đà Nẵng, Cần Thơ, Hải Phòng, Huế, Nha Trang, Buôn Ma Thuột, Quy Nhơn, Vinh
+- 63 điểm giao dịch tại cửa hàng Thương Gia
+- Huy động: 5.200.000.000 đồng (5.2 tỷ) — vượt mục tiêu 5 tỷ
+- Cho vay doanh nghiệp: 2.800.000.000 đồng (2.8 tỷ)
+- Cho vay nông dân: 800.000.000 đồng (800 triệu)
+- Cho vay tiêu dùng: 400.000.000 đồng (400 triệu)
+- Tổng cho vay: 4.000.000.000 đồng (4 tỷ) — đạt mục tiêu
+- Lãi thuần: 80.000.000 đồng/tháng (80 triệu)
+- Chi phí: 30.000.000 đồng (lương 200 nhân viên, mặt bằng, hệ thống)
+- Lãi ròng: 50.000.000 đồng/tháng (50 triệu) — đạt mục tiêu
+- Nợ xấu: 3.5% — trong tầm kiểm soát (< 5%)"
+
+50 triệu đồng lãi/tháng — 600 triệu/năm. Ngân hàng Thương Gia đang trở thành trụ cột tài chính — sinh lời mạnh, ổn định. Hùng gật đầu hài lòng.
+
+"Hồng, em làm xuất sắc — 5.2 tỷ huy động, 4 tỷ cho vay, 50 triệu lãi. Nợ xấu 3.5% — thấp. Em quản lý rủi ro giỏi."
+
+Hồng mỉm cười — cô ba mươi chín tuổi, giám đốc ngân hàng 10 chi nhánh, 200 nhân viên. Cô tự hào — nhưng không tự mãn. Cô biết — ngân hàng là rủi ro cao, một sai lầm = mất tất cả.
+
+"Anh Hùng, em đề xuất — mở thêm sản phẩm: bảo hiểm. Bảo hiểm nhân thọ, bảo hiểm nông nghiệp, bảo hiểm y tế. Ngân hàng + bảo hiểm — tài chính toàn diện."
+
+Hùng suy nghĩ — bảo hiểm. Trong năm 1993, bảo hiểm Việt Nam còn sơ khai — Bảo Việt nhà nước, ít sản phẩm, phủ ít. Hùng thấy cơ hội — bảo hiểm Thương Gia, sản phẩm đa dạng, phủ rộng.
+
+"Được. Em thiết kế — bảo hiểm Thương Gia. Nhưng em cần giấy phép — bảo hiểm cần cấp phép nhà nước. Em lo hồ sơ, anh lo quan hệ."
+
+「Nhiệm vụ hoàn thành: Ngân hàng 10 chi nhánh
+- 5.2 tỷ huy động ✓, 4 tỷ cho vay ✓, 50 triệu lãi/tháng ✓
+- Nợ xấu 3.5% ✓
+- Phần thưởng: +400 EXP, Kỹ năng Tài chính lv3
+- Tổng EXP: 15.790」
+
+「Kỹ năng Tài chính cấp 3: Quản lý ngân hàng nâng cao, đánh giá rủi ro tín dụng nâng cao, quản lý huy động vốn nâng cao, thiết kế sản phẩm tài chính, quản lý bảo hiểm cơ bản.」
+
+Tài chính lv3. Thương Gia đang trở thành tập đoàn tài chính — ngân hàng + cho vay + bảo hiểm. Tiền sinh tiền — đa dạng, mạnh, ổn định.
+
+---
+
+Hùng đi gặp anh Khanh — bàn giấy phép bảo hiểm.
+
+"Anh Khanh, cháu muốn mở bảo hiểm — bảo hiểm Thương Gia. Giấy phép khó không?"
+
+Khanh suy nghĩ. "Bảo hiểm — giấy phép khó hơn ngân hàng. Vốn điều lệ cao hơn — tối thiểu 1 tỷ đồng. Và cần chuyên gia bảo hiểm — người hiểu actuarial, hiểu rủi ro, hiểu sản phẩm. Cháu có không?"
+
+Hùng tính — vốn 1 tỷ: Thương Gia có. Chuyên gia: ông cần tuyển. "Cháu có vốn — 1 tỷ. Chuyên gia — cháu sẽ tuyển. Ở nước ngoài — Thái Lan, Singapore — có chuyên gia bảo hiểm. Cháu sẽ thuê."
+
+Khanh gật đầu. "Được. Em sẽ giúp hồ sơ — nhưng cháu cần chuyên gia thật sự. Bảo hiểm — không phải ngân hàng, rủi ro khác. Actuarial — tính phí bảo hiểm, dự đoán rủi ro. Không có actuarial, bảo hiểm phá sản."
+
+Hùng gật đầu — anh hiểu. Bảo hiểm = actuarial = toán học. Ông cần chuyên gia — và ông sẽ tìm. Qua Tanaka — ông hỏi chuyên gia bảo hiểm Nhật Bản. Tanaka giới thiệu — ông Yamamoto, actuarial Nhật, bốn mươi tuổi, từng làm Dai-ichi Life. Ông Yamamoto sẵn sàng đến Việt Nam — lương 2.000 đồng/tháng (cao, nhưng xứng đáng).
+
+Hùng thuê ông Yamamoto — chuyên gia bảo hiểm đầu tiên của Thương Gia. Ông sẽ thiết kế sản phẩm bảo hiểm — nhân thọ, nông nghiệp, y tế. Phí bảo hiểm tính bằng actuarial — chính xác, an toàn, bền vững.
+
+---
+
+Tối ấy, Hùng về nhà. Bà Hà ngồi ở phòng khách, xem TV. Bà sáu mươi chín tuổi — khỏe mạnh, hồng hào. Bà nhìn cháu, mỉm cười.
+
+"Cậu Hùng, hôm nay con làm gì?"
+
+"Con mở rộng ngân hàng, bà. 10 chi nhánh, 5 tỷ đồng huy động, 50 triệu lãi/tháng. Và con bắt đầu mở bảo hiểm — bảo hiểm Thương Gia."
+
+Bà Hà không hiểu bảo hiểm — nhưng bà hiểu: cháu bà lớn hơn nữa. "Bảo hiểm là gì?"
+
+"Dạ, bảo hiểm — người ta đóng tiền nhỏ, nếu rủi ro xảy ra, mình trả tiền lớn. Ví dụ: nông dân đóng 10 đồng/tháng, nếu mất mùa, mình trả 500 đồng. Giúp người — khi rủi ro xảy ra."
+
+Bà Hà gật đầu, rồi nói: "Tốt. Nông dân mất mùa — khổ lắm. Có bảo hiểm, họ đỡ khổ. Cậu làm tốt — giúp người."
+
+Hùng nắm tay bà, mỉm cười. "Con học từ bà — giúp người. Bà dạy con."
+
+Bà Hà lắc đầu, cười. "Bà không dạy — bà chỉ yêu. Yêu thương là đủ."
+
+Lan về — cô đi kiểm tra chi nhánh ngân hàng Hà Nội. "Anh ơi, chi nhánh Hà Nội — 500 triệu huy động, 300 triệu cho vay. Khách đông — người dân Hà Nội tin Thương Gia. Em thấy — người ta gửi tiền, vay tiền, rồi mua hàng ở cửa hàng. Cross-sell — ngân hàng + bán lẻ. Khách gửi tiền, mua quần áo. Khách vay tiền, mua xe đạp. Một chỗ — mọi thứ."
+
+Hùng cười. "Cross-sell — em lại cross-sell. Em bán mọi thứ — quần áo, giày, mì, xe đạp, vé xe, gửi tiền, vay tiền, bảo hiểm. Thương Gia — bán mọi thứ, làm mọi thứ."
+
+Lan cười — nụ cười tự hào. Cô hai mươi ba tuổi, quản lý chuỗi 66 cửa hàng + ngân hàng + bảo hiểm. Cô đang trở thành người quản lý đa ngành — và cô giỏi.
+
+Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — no, ngon, ấm. Ba người ăn — bà Hà, Lan, Hùng. Gia đình.
+
+Sau bữa tối, Hùng vào không gian — 8.000m². Ông ngồi bên suối, nghe nước chảy. Hệ thống:
+
+「Tiến độ Phần 2:
+- Hoàn thành: xe đạp, vận tải, ngân hàng (10 chi nhánh), giáo dục, đào tạo, y tế, cho vay nông dân (8/12)
+- Đang làm: máy cày (sản xuất), máy gặt (sản xuất thử), bảo hiểm (thiết kế)
+- Còn lại: xây dựng mở rộng, năng lượng mở rộng, từ thiện mở rộng
+- EXP: 15.790 / 19.500 (81%)」
+
+15.790 EXP — còn 3.710. Hùng tính — máy cày +300, máy gặt +300, bảo hiểm +300, xây dựng +200, năng lượng +250, từ thiện +300, hoàn thành Phần 2 +1.000. Tổng: 2.650. Còn 1.060 — từ giao dịch. Đủ.
+
+Hùng thoát không gian, nằm xuống giường. Ngoài cửa sổ, đêm Hà Đông — trăng sáng, sao lấp lánh. Bà Hà ngủ ngon. Lan ngủ — cô mệt, ngủ say.
+
+Hùng nhắm mắt. Ngân hàng — 50 triệu lãi/tháng. Bảo hiểm — sắp mở. Tài chính — đế chế trong đế chế. Thương Gia — từ bán hàng đến tài chính. Từ thương gia đến tài chính gia.
+
+Hành trình tiếp tục.

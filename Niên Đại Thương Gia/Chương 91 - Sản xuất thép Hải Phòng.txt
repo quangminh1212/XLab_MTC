@@ -1,0 +1,90 @@
+============================================================
+Chương 91: Sản xuất thép — Nhà máy Hải Phòng
+============================================================
+
+Tháng 4 năm 1998. Hùng xây nhà máy thép Thương Gia — Hải Phòng, 50.000 tấn/tháng, vốn 5 tỷ đồng.
+
+Hùng ngồi trong văn phòng, họp Minh và ông Hải — hai người phụ trách kỹ thuật. Ông Hải — giám đốc cơ khí (xe đạp, máy cày, máy gặt) — sẽ kiêm quản lý nhà máy thép. Minh — quản lý kỹ thuật tổng thể — sẽ giám sát.
+
+"Anh Hùng," Minh nói, "thép — ngành nặng. Em không rành luyện kim. Em cần chuyên gia — kỹ sư luyện kim, người hiểu lò cao, lò điện, cán thép."
+
+Hùng gật đầu. "Anh biết. Anh sẽ tuyển — kỹ sư luyện kim, từng làm nhà máy thép Thái Nguyên. Lương 500 đồng/tháng. Và anh sẽ nhập công nghệ — lò điện hồ quang (EAF), từ Nhật (qua Tanaka). Công nghệ hiện đại, sản xuất thép từ phế liệu — không cần quặng."
+
+Ông Hải hỏi: "Phế liệu? Thép từ phế liệu — chất lượng có tốt không?"
+
+"Có — công nghệ EAF hiện đại. Phế liệu (xe cũ, máy cũ, sắt vụn) — nấu chảy trong lò điện, thêm hợp kim, cán thành thép. Chất lượng — đạt chuẩn ASTM, dùng xây dựng, máy móc. Nhật, Hàn — dùng EAF, thép chất lượng cao."
+
+Minh ghi chép, rồi nói: "Em sẽ nghiên cứu — EAF, phế liệu, cán thép. Em sẽ thuê chuyên gia — kỹ sư luyện kim. Và em sẽ xây nhà máy — Hải Phòng, gần cảng, nhập phế liệu dễ."
+
+「Nhiệm vụ mới: Xây nhà máy thép 50.000 tấn/tháng
+- Mục tiêu: Hoàn thành trong 12 tháng, sản xuất 50.000 tấn/tháng, doanh thu 5 tỷ/tháng
+- Phần thưởng: 500 EXP, Kỹ năng Sản xuất thép lv1
+- Thời hạn: 12 tháng」
+
+---
+
+Hùng đi Hải Phòng — tìm đất cho nhà máy thép. Hải Phòng — cảng lớn, gần quặng (Thái Nguyên), gần thị trường (Hà Nội, Quảng Ninh). Phù hợp — cảng = nhập phế liệu, thị trường = bán thép.
+
+Hùng hỏi anh Khanh — Khanh bây giờ là cán bộ cấp cao, quan hệ rộng. "Anh Khanh, cháu cần đất ở Hải Phòng — 50.000m², gần cảng. Có ai bán không?"
+
+Khanh giới thiệu — khu công nghiệp Hải Phòng, 50.000m², giá 500.000 đồng (10 đồng/m²). Đắt — nhưng vị trí đắc địa, gần cảng, gần đường. Hùng mua — 500.000 đồng cho 50.000m². Tổng đất Thương Gia: 37 mảnh + 50.000m² Hải Phòng = ~65.000m².
+
+Hùng xây nhà máy — công ty xây dựng Thương Gia, ông Ba chỉ đạo. Nhà máy thép — 30.000m² (khu sản xuất: 15.000m², khu kho: 10.000m², khu văn phòng: 2.000m², khu ăn nghỉ: 3.000m²). Khung thép, tường gạch, mái tôn — nhưng lớn hơn xưởng thường gấp mười. Xây 8 tháng.
+
+Máy móc — nhập Nhật (qua Tanaka): lò điện hồ quang (EAF) 50 tấn/mẻ, máy cán thép, máy cắt thép, cẩu trục. Tổng máy móc: 3 tỷ đồng. Vốn xây dựng: 1.5 tỷ. Tổng vốn: 5 tỷ (đất 500 triệu + xây 1.5 tỷ + máy 3 tỷ).
+
+Hùng tuyển công nhân — 300 người, lương 150 đồng/tháng. Kỹ sư luyện kim — 10 người, lương 500 đồng/tháng. Tổng quỹ lương: 95.000 đồng/tháng (300 × 150 + 10 × 500).
+
+---
+
+Hùng tuyển kỹ sư luyện kim — ông Phúc, năm mươi tuổi, từng làm nhà máy thép Thái Nguyên 25 năm. Ông hiểu lò cao, lò điện, cán thép — kinh nghiệm sâu. Ông thất nghiệp — nhà máy thép nhà nước cắt giảm.
+
+Hùng phỏng vấn ông Phúc. "Ông Phúc, cháu cần người sản xuất thép — lò điện hồ quang (EAF), từ phế liệu. Ông làm được không?"
+
+Ông Phúc nhìn Hùng — ông ba mươi bốn tuổi, trẻ, nhưng mắt sáng, quyết đoán. Ông đánh giá: người này không bình thường.
+
+"EAF? Tôi nghe — công nghệ mới, Nhật, Hàn dùng. Tôi chưa làm EAF — tôi làm lò cao (quặng). Nhưng tôi hiểu thép — 25 năm kinh nghiệm, tôi hiểu hợp kim, nhiệt độ, cán. EAF — tôi sẽ học, nhanh. Tôi già — nhưng tôi còn học được."
+
+Hùng mỉm cười. "Ông Phúc, cháu cần người hiểu thép — và ông hiểu. EAF — cháu sẽ gửi ông sang Nhật, học 1 tháng. Tanaka đào tạo — ông học, về, sản xuất. Được không?"
+
+Ông Phúc mắt sáng — sang Nhật học! Ông năm mươi tuổi, chưa bao giờ đi nước ngoài. Nhưng ông sẽ đi — học EAF, về, sản xuất thép Thương Gia.
+
+"Được! Tôi đi — tôi học. Tôi sẽ sản xuất thép Thương Gia — thép tốt nhất Việt Nam. Tôi hứa."
+
+Hùng nắm tay ông Phúc. "Ông đi — học, về, sản xuất. Thương Gia — thép Việt Nam, cho xây dựng, cho máy móc, cho đất nước."
+
+---
+
+Ông Phúc đi Nhật — 1 tháng, học EAF tại nhà máy Tanaka. Ông học — lò điện, phế liệu, hợp kim, nhiệt độ, cán. Ông ghi chép — từng chi tiết, từng thông số. Ông về Việt Nam — mang kiến thức, mang nhiệt huyết.
+
+"Anh Hùng, tôi học xong! EAF — nấu phế liệu ở 1.600°C, thêm hợp kim (carbon, mangan, silic), cán thành thép. Thép Thương Gia — đạt chuẩn ASTM A36 (thép xây dựng), chất lượng tốt. Sản xuất: 50 tấn/mẻ, 4 mẻ/ngày = 200 tấn/ngày, 6.000 tấn/tháng. Để đạt 50.000 tấn/tháng — cần 8 lò, chạy 24/7."
+
+Hùng tính — 8 lò × 200 tấn/ngày × 30 ngày = 48.000 tấn/tháng. Gần 50.000 — đủ. "Được. 8 lò — anh mua thêm. Chạy 24/7 — 3 ca, mỗi ca 8 giờ. 300 công nhân — 100/ca. Sản xuất 48.000 tấn/tháng."
+
+Giá vốn: phế liệu 3.000 đồng/tấn + điện 500 đồng/tấn + nhân công 200 đồng/tấn + hợp kim 300 đồng/tấn = 4.000 đồng/tấn. Bán: 100.000 đồng/tấn (thép xây dựng). Lãi: 96.000 đồng/tấn × 48.000 = 4.608.000.000 đồng/tháng (4.6 tỷ).
+
+4.6 tỷ đồng lãi/tháng — chỉ từ thép! Hùng sững sờ — ngay cả với kiến thức thế kỷ 21, ông không ngờ thép lợi nhuận cao thế. Công nghiệp nặng — vốn lớn, nhưng lợi nhuận lớn hơn.
+
+「Giao dịch thành công (nhà máy thép hoạt động): +200 EXP. Tổng EXP: 21.670」
+
+---
+
+Tối ấy, Hùng về nhà. Bà Hà ngồi ở hiên, bế mèo Mít. Bà bảy mươi tuổi — khỏe, hồng hào. Bà nhìn cháu, mỉm cười.
+
+"Cậu Hùng, thép — xong rồi?"
+
+"Dạ, bà. Nhà máy thép — 48.000 tấn/tháng. Lãi 4.6 tỷ/tháng. Thép Thương Gia — thép xây dựng, cho nhà, cho cầu, cho xưởng. Con — con công nghiệp nặng."
+
+Bà Hà không hiểu "4.6 tỷ" — nhưng bà hiểu: cháu bà lớn. Rất lớn. "Thép — sắt phải không? Cháu bà làm sắt?"
+
+"Dạ, sắt — thép. Thép xây nhà, xây cầu, xây xưởng. Không có thép — không xây được gì. Con — con làm thép, giúp xây dựng Việt Nam."
+
+Bà Hà gật đầu, tự hào. "Tốt. Cháu bà — từ bán rong đến làm sắt. Bà... bà không tin. Nhưng bà tự hào."
+
+Hùng nắm tay bà, mỉm cười. "Bà, con vẫn là cháu bà. Không thay. Và bà — bà nhớ lời hứa? Con tìm vợ — Lan giới thiệu cô Hạnh, cô Mai, cô Lan. Con sẽ gặp — tuần sau."
+
+Bà Hà mắt sáng — bà nhớ! Cháu nhắc lại — cháu thật sự muốn. Bà cười — nụ cười hạnh phúc nhất.
+
+"Cậu gặp — gặp, chọn, cưới. Bà chờ cháu nội. Bà chờ."
+
+Hành trình tiếp tục.

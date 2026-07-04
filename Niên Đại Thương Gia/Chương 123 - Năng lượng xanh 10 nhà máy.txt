@@ -1,0 +1,76 @@
+============================================================
+Chương 123: Năng lượng xanh — 10 nhà máy điện mặt trời
+============================================================
+
+Tháng 8 năm 2011. Hùng mở rộng năng lượng xanh — 10 nhà máy điện mặt trời, 20MW tổng.
+
+Hùng ngồi trong văn phòng, họp Minh — quản lý kỹ thuật năng lượng.
+
+"Minh, Phần 5 — năng lượng xanh 10 nhà máy, 20MW. Hiện 3 nhà máy, 3MW. Cần thêm 7 nhà máy, 17MW. Mỗi nhà máy — 2-3MW, ở Bình Thuận, Ninh Thuận, Khánh Hòa (nắng nhiều). Vốn: 10 tỷ (7 nhà máy × 1.5 tỷ)."
+
+Minh — bốn mươi tuổi, quản lý năng lượng 10 năm — gật đầu. "Anh, 10 nhà máy, 20MW. Lớn — gấp ba. Em — em sẽ xây. 7 nhà máy mới — Bình Thuận (3), Ninh Thuận (2), Khánh Hòa (2). Mỗi nhà máy 2-3MW, 10.000-15.000 tấm pin. Pin — nhập Nhật (Tanaka), công nghệ mới, hiệu quả 18%. Vốn mỗi nhà máy: 1.5 tỷ. Tổng: 10.5 tỷ."
+
+Hùng gật đầu. "Được. 10.5 tỷ — 7 nhà máy. Và em — em thêm: lưu trữ điện. Pin lưu trữ (battery) — nhập Nhật, lưu điện ban ngày, dùng ban đêm. Năng lượng xanh — liên tục 24/7, không gián đoạn."
+
+「Nhiệm vụ mới: Năng lượng xanh 10 nhà máy, 20MW
+- Mục tiêu: 10 nhà máy, 20MW, bán điện EVN 15 tỷ/năm
+- Phần thưởng: 500 EXP, Kỹ năng Năng lượng lv3
+- Thời hạn: 12 tháng」
+
+---
+
+Hùng xây — 7 nhà máy điện mặt trời. Bình Thuận — 3 nhà máy (3MW mỗi nhà), Ninh Thuận — 2 nhà máy (2.5MW mỗi nhà), Khánh Hòa — 2 nhà máy (2.5MW mỗi nhà). Tổng: 20MW.
+
+Mỗi nhà máy — 10.000-15.000 tấm pin (polycrystalline 200W, hiệu quả 18%), 100 inverter, khung thép, trạm biến áp, pin lưu trữ (battery, 5MWh). Kết nối grid EVN — bán điện, hợp đồng 20 năm.
+
+Vốn mỗi nhà máy: 1.5 tỷ (pin 800 triệu + inverter 200 triệu + khung 100 triệu + xây 200 triệu + pin lưu trữ 200 triệu). Tổng: 10.5 tỷ.
+
+---
+
+12 tháng sau — 10 nhà máy điện mặt trời hoạt động. Tổng: 20MW, sản lượng 36.500 MWh/năm (20MW × 5 giờ × 365 ngày). Bán EVN: 500 đồng/MWh × 36.500 = 18.250.000 đồng/năm (18.25 triệu). Nhưng — giá điện 2011 tăng, EVN mua 800 đồng/MWh. Doanh thu: 800 × 36.500 = 29.200.000 đồng/năm (29.2 triệu). Lãi: 20 triệu/năm (sau chi phí).
+
+Hùng tính — 20MW, 29.2 triệu/năm doanh thu, 20 triệu lãi/năm. Không nhiều so với thép (90 tỷ/tháng), nhưng đây là năng lượng xanh — sạch, tái tạo, không ô nhiễm. Và — Hùng biết, trong tương lai, năng lượng xanh sẽ là ngành tỷ đô. Ông đang xây nền tảng — sớm, trước mọi người.
+
+Năng lượng xanh Thương Gia — 20MW, đủ điện cho 40.000 gia đình. 40.000 gia đình — có điện sạch, tái tạo, không ô nhiễm. Thương Gia — mang điện xanh, mang sạch, mang tương lai.
+
+「Giao dịch thành công (10 nhà máy điện): +200 EXP. Tổng EXP: 38.730」
+
+「Nhiệm vụ hoàn thành: Năng lượng xanh 10 nhà máy
+- 10 nhà máy ✓, 20MW ✓
+- Bán điện EVN 29.2 triệu/năm ✓ (vượt mục tiêu 15 triệu)
+- Phần thưởng: +500 EXP, Kỹ năng Năng lượng lv3
+- Tổng EXP: 39.230」
+
+「Kỹ năng Năng lượng cấp 3: Quản lý hệ thống điện mặt trời toàn quốc, thiết kế nhà máy điện nâng cao, quản lý grid EVN, tối ưu sản lượng điện, phát triển năng lượng tái tạo bậc thầy, quản lý pin lưu trữ.」
+
+Năng lượng lv3. Thương Gia — đế chế năng lượng xanh. 10 nhà máy, 20MW, 40.000 gia đình có điện sạch. Hùng mỉm cười — ông không chỉ tỷ phú, mà nhà năng lượng xanh. Từ 1 nhà máy 1MW (1995) đến 10 nhà máy 20MW (2011) — hành trình 28 năm. Và năng lượng xanh — tương lai, sạch, tái tạo.
+
+---
+
+Tối ấy, Hùng về nhà. Bà Hà nằm giường — bà yếu, nhưng tỉnh. Bà bảy mươi chín tuổi. Hùng ngồi cạnh, nắm tay.
+
+"Bà, con — con mở 10 nhà máy điện mặt trời. 20MW — điện sạch, tái tạo, không ô nhiễm. 40.000 gia đình — có điện xanh. Con — con giúp Trái Đất xanh, giúp thế hệ tương lai. Bà — bà tự hào không?"
+
+Bà Hà nghe, mỉm cười yếu. "Điện xanh... điện từ nắng. Sạch — không ô nhiễm. Cháu bà — giúp Trái Đất. Bà — bà không hiểu lắm, nhưng bà hiểu: cháu bà giúp thế giới, giúp tương lai. Bà — bà tự hào. Cháu bà — vĩ đại. Vĩ đại hơn giàu."
+
+Hùng nước mắt — bà hiểu. Vĩ đại — không phải giàu, mà giúp thế giới, giúp tương lai. Năng lượng xanh — sạch, tái tạo, không ô nhiễm. Đó — đó là vĩ đại. Vĩ đại hơn 1.000 tỷ.
+
+"Bà, con — con vĩ đại vì bà. Bà — bà dạy con: yêu thương là đủ. Con — con làm. Năng lượng xanh — con xây, vì bà dạy, vì Trái Đất, vì tương lai. Bà — gốc rễ. Mọi thứ — từ bà."
+
+Bà Hà cười yếu. "Bà — bà không làm gì. Bà chỉ yêu. Yêu thương — đủ. Luôn đủ."
+
+Bảo — bé mười tuổi, nói: "Bố ơi, điện xanh — điện từ nắng. Sạch — không ô nhiễm. Bố — bố giúp Trái Đất. Con — con tự hào bố. Và con — con sẽ học năng lượng, sẽ giúp Trái Đất, như bố."
+
+Hùng nhìn Bảo — con ông, mười tuổi, muốn học năng lượng, muốn giúp Trái Đất. Ông — hạnh phúc. Bảo — di sản. Không phải tiền — mà đạo lý, mà ý nghĩa, mà giúp thế giới.
+
+Hạnh — cô mỉm cười. "Anh ơi, năng lượng xanh — vĩ đại. Em — em tự hào. Anh — anh giúp Trái Đất, giúp tương lai. Đó — đó là ý nghĩa. Ý nghĩa lớn hơn đế chế."
+
+Lan về — cô đi kiểm tra nhà máy điện. "Anh ơi, 10 nhà máy — đẹp lắm! 50.000 tấm pin, xếp hàng, đen bóng, lấp lánh. Nắng chiếu — pin hấp thụ, điện chạy. 20MW — 40.000 gia đình có điện. Em — em thấy: trẻ em đọc sách dưới đèn, mẹ nấu cơm bằng bếp điện, ông xem TV. Điện — thay đổi cuộc sống. Và điện xanh — sạch, không ô nhiễm. Em — em tự hào. 28 năm — từ bán rong đến năng lượng xanh. Hành trình — không tưởng."
+
+Hùng mỉm cười. "28 năm — và còn dài. Còn môi trường — 1 triệu cây, 10 con sông. Còn thương hiệu vĩ đại. Phần 5 — tiếp tục. Thương Gia — thay đổi thế giới."
+
+Bữa tối — bà Xuân nấu: cháo gà (bà Hà), gà luộc, thịt bò xào, canh măng, nem rán, dưa muối, chè. Bảy món — no, ngon. Năm người ăn — bà Hà (cháo), Lan, Hùng, Hạnh, Bảo. Gia đình.
+
+Sau bữa tối, Hùng vào không gian — 15.000m². Ông ngồi bên suối, suy nghĩ. 10 nhà máy điện, 20MW, 40.000 gia đình. Thương Gia — đế chế năng lượng xanh, giúp Trái Đất. Hùng mỉm cười — ông đang thay đổi thế giới. Không phải vì tiền — mà vì năng lượng xanh, vì sạch, vì tương lai. Và bà — bà ở đây, luôn ở đây. Bà — gốc rễ, bà — mọi thứ.
+
+Hành trình tiếp tục.

@@ -1,0 +1,72 @@
+============================================================
+Chương 82: Hoàn thành nhiệm vụ năng lượng
+============================================================
+
+Tháng 2 năm 1996. Nhà máy điện mặt trời Thương Gia Bình Thuận hoàn thành — 1MW, phát điện, bán cho EVN.
+
+Hùng đứng giữa nhà máy — 15.000m² đất cát, 5.000 tấm pin mặt trời xếp hàng, đen bóng, lấp lánh dưới nắng. Pin — nhập Nhật (Tanaka), tấm polycrystalline 200W, hiệu quả 15%. Inverter — Nhật, chuyển DC sang AC. Khung thép — sản xuất Thương Gia, cao 2m, nghiêng 15 độ. Trạm biến áp — nâng低压 lên trung áp, kết nối grid EVN.
+
+Nhà máy — đẹp. 5.000 tấm pin, hàng đều tăm tắp, đen bóng, như đội quân xếp hàng. Nắng chiếu — pin hấp thụ, chuyển thành điện. Điện chạy qua inverter, qua trạm biến áp, lên grid EVN. 1MW — đủ điện cho 2.000 gia đình. Thương Gia — cung cấp điện sạch, tái tạo, cho 2.000 gia đình.
+
+Minh đứng cạnh, mồ hôi ướt lưng, nhưng mắt sáng. "Anh Hùng, nhà máy hoạt động! 1MW, phát điện ổn định. Sản lượng: 5 giờ nắng/ngày × 1MW = 5MWh/ngày. Tháng: 150MWh. Năm: 1.825MWh. Bán EVN: 500 đồng/MWh × 1.825 = 912.500 đồng/năm. Chi phí: 200.000 đồng/năm (bảo trì, lương). Lãi: 712.500 đồng/năm."
+
+712.500 đồng lãi/năm — từ nhà máy điện. Không nhiều so với ngân hàng (50 triệu/tháng), nhưng đây là ngành mới — và sẽ lớn. Hùng biết — ở thế kỷ 21, điện mặt trời sẽ là ngành tỷ đô. Ông đang xây nền tảng — sớm, trước mọi người.
+
+「Nhiệm vụ hoàn thành: Nhà máy điện mặt trời 1MW
+- 1MW ✓, phát điện 1.825 MWh/năm ✓, bán EVN ✓
+- Phần thưởng: +300 EXP, Kỹ năng Năng lượng lv2
+- Tổng EXP: 17.940」
+
+「Kỹ năng Năng lượng cấp 2: Quản lý nhà máy điện, đánh giá hiệu quả năng lượng nâng cao, tối ưu sản lượng điện, quản lý grid, phát triển năng lượng tái tạo.」
+
+Năng lượng lv2. Thương Gia — đế chế năng lượng. Từ pin nhỏ đến nhà máy 1MW. Hùng mỉm cười — ông đang xây tương lai, sớm 20 năm. Và khi thế giới quay sang năng lượng tái tạo, Thương Gia sẽ dẫn đầu.
+
+---
+
+Báo chí đến — báo Nhân Dân, đài truyền hình. Lần thứ tư Thương Gia lên báo — xe đạp, ngân hàng, bệnh viện, điện mặt trời. Phóng viên phỏng vấn Hùng, đứng giữa 5.000 tấm pin.
+
+"Anh Hùng, nhà máy điện mặt trời Thương Gia — nhà máy điện mặt trời đầu tiên Việt Nam. 1MW, 5.000 tấm pin, bán điện cho EVN. Anh nghĩ gì?"
+
+Hùng nhìn ống kính, nắng chói, mỉm cười. "Điện mặt trời — năng lượng tương lai. Sạch, tái tạo, không ô nhiễm. Việt Nam — nắng nhiều, tiềm năng lớn. Thương Gia — xây nhà máy đầu tiên, hy vọng nhiều nhà máy tiếp theo. Năng lượng tái tạo — cho thế hệ tương lai, cho Trái Đất xanh."
+
+Phóng viên ghi chép — bài báo sẽ ra, tin sẽ lan tỏa. Thương Gia — tiên phong năng lượng tái tạo. Người dân biết — và tin. Thương Gia — không chỉ kinh doanh, mà tiên phong, mà dẫn đầu.
+
+---
+
+Tối ấy, Hùng về nhà — biệt thự Hà Đông. Bà Hà ngồi ở phòng khách, xem TV. Trên TV, bản tin — "Nhà máy điện mặt trời Thương Gia — nhà máy đầu tiên Việt Nam. 1MW, Bình Thuận, bán điện EVN. Chủ tịch Trần Văn Hùng: 'Năng lượng tương lai, cho thế hệ tương lai.'"
+
+Bà Hà nhìn TV, nhìn cháu trên màn hình, nước mắt chảy. "Cậu Hùng... điện mặt trời. Cháu bà làm điện từ nắng. Bà... bà không hiểu lắm — nhưng bà thấy đẹp. 5.000 tấm pin, đen bóng, lấp lánh. Đẹp lắm."
+
+Hùng ngồi cạnh bà, mỉm cười. "Bà, điện từ nắng — sạch, tái tạo, không ô nhiễm. Con làm — cho thế hệ tương lai, cho Trái Đất xanh. Con học — từ kiến thức tương lai, mang về hiện tại."
+
+Bà Hà không hiểu "kiến thức tương lai" — nhưng bà hiểu: cháu bà làm điều tốt, điều mới, điều đẹp. Bà tự hào — luôn tự hào.
+
+"Cậu à, bà sống bảy mươi năm — chưa thấy ai làm điện từ nắng. Cháu bà — người đầu tiên. Bà... bà không biết nói gì."
+
+"Thì không cần nói, bà. Bà chỉ cần ngồi đây, xem TV, và tự hào. Đó là đủ."
+
+Bà Hà cười — nụ cười qua nước mắt. Bà nắm tay cháu, xem TV, tự hào. Tự hào vì cháu bà — tiên phong, dẫn đầu, làm điều chưa ai làm.
+
+Lan về — cô đi Bình Thuận, kiểm tra nhà máy. "Anh ơi, nhà máy đẹp lắm! 5.000 tấm pin, xếp hàng, đen bóng. Nắng chiếu — pin hấp thụ, điện chạy. Em thấy — điện lên grid EVN, đèn sáng ở Bình Thuận. Người dân vui — có điện, lần đầu tiên. Em thấy — trẻ em đọc sách dưới đèn, mẹ nấu cơm bằng bếp điện, ông xem TV. Điện — thay đổi cuộc sống."
+
+Hùng gật đầu. "Đúng. Điện — thay đổi cuộc sống. Không điện — tối, lạc hậu. Có điện — sáng, phát triển. Thương Gia — mang điện, mang sáng, mang phát triển."
+
+Lan im lặng, suy nghĩ. Cô hai mươi bốn tuổi, quản lý đa ngành — cửa hàng, ngân hàng, trường, bệnh viện, năng lượng. Cô hiểu — Thương Gia không chỉ kinh doanh, mà thay đổi cuộc sống. Điện — thay đổi Bình Thuận, thay đổi 2.000 gia đình. Đó là giá trị — giá trị lớn hơn 712.500 đồng lãi/năm.
+
+Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — no, ngon, ấm. Ba người ăn — bà Hà, Lan, Hùng. Gia đình.
+
+Sau bữa tối, Hùng vào không gian — 8.000m². Ông ngồi bên suối, nghe nước chảy. Hệ thống:
+
+「Tiến độ Phần 2:
+- Hoàn thành: xe đạp, vận tải, ngân hàng, giáo dục, đào tạo, y tế, cho vay, xây dựng, năng lượng (10/12)
+- Đang làm: máy cày (sản xuất), máy gặt (sản xuất), bảo hiểm (thiết kế)
+- Còn lại: từ thiện mở rộng, hoàn thành Phần 2
+- EXP: 17.940 / 19.500 (92%)」
+
+17.940 EXP — còn 1.560. Hùng tính — máy cày +300, máy gặt +300, bảo hiểm +300, từ thiện +300, hoàn thành Phần 2 +1.000. Tổng: 2.200. Vượt 640 — dư. Khả thi — dễ dàng.
+
+Hùng thoát không gian, nằm xuống giường. Ngoài cửa sổ, đêm Hà Đông — trăng sáng, sao lấp lánh. Bà Hà ngủ ngon. Lan ngủ — cô mệt, ngủ say.
+
+Hùng nhắm mắt. Năng lượng — điện từ nắng. 5.000 tấm pin, 1MW, 2.000 gia đình có điện. Thương Gia — tiên phong năng lượng tái tạo. Từ bán hàng đến điện mặt trời — hành trình không ngờ. Nhưng đúng — vì năng lượng là tương lai, là phát triển, làcivilization.
+
+Hành trình tiếp tục.

@@ -1,0 +1,69 @@
+============================================================
+Chương 79: Hoàn thành nhiệm vụ phòng khám
+============================================================
+
+Tháng 12 năm 1994. Bệnh viện Thương Gia khai trương — 100 giường, 5 khoa, 20 bác sĩ, 40 y tá, Hà Đông.
+
+Hùng đứng trước bệnh viện — tòa nhà 6 tầng, sơn trắng, cửa xanh, biển hiệu: "Bệnh viện Thương Gia — Cứu Người, Chữa Bệnh, Hy Vọng." Bệnh viện lớn — lớn hơn phòng khám gấp mười. Sảnh chờ rộng, quầy tiếp đón, phòng khám 5 khoa, phòng mổ 2 phòng, lab xét nghiệm, X-ray, ultrasound, 100 giường nội trú.
+
+Báo chí đến — báo Nhân Dân, đài truyền hình. Lần thứ ba Thương Gia lên báo — xe đạp, ngân hàng, bệnh viện. Phóng viên phỏng vấn Hùng.
+
+"Anh Hùng, bệnh viện Thương Gia — bệnh viện tư nhân đầu tiên ở Hà Đông. 100 giường, 5 khoa, máy móc hiện đại. Anh nghĩ gì?"
+
+Hùng nhìn ống kính, mỉm cười. "Bệnh viện Thương Gia — không chỉ chữa bệnh, mà cứu người. 100 giường — 100 người chữa cùng lúc. 5 khoa — nội, ngoại, sản, nhi, cấp cứu. Máy móc Nhật Bản — X-ray, ultrasound, phòng mổ. Bác sĩ giỏi — lương 500 đồng/tháng, gấp năm bệnh viện nhà nước. Thương Gia — y tế chất lượng, cho mọi người, không phân biệt giàu nghèo."
+
+Phóng viên ghi chép — bài báo sẽ ra, tin sẽ lan tỏa. Thương Gia — không chỉ bán hàng, mà cứu người. Người dân biết — và tin.
+
+Ngày khai trương — 500 lượt khám, 50 nội trú. Bệnh nhân đến — đa số người nghèo, không có bệnh viện nhà nước (đông, xa, chậm). Bệnh viện Thương Gia — gần, nhanh, chất lượng. Hùng tài trợ — người nghèo khám miễn phí, nội trú giảm 50%.
+
+Một bệnh nhân — ông Sáu, sáu mươi lăm tuổi, viêm phổi nặng — nhập viện cấp cứu. Bác sĩ phẫu thuật — bác sĩ Hùng (khác Trần Văn Hùng — bác sĩ Hùng tám, phẫu thuật 20 năm) — khám, chẩn đoán, điều trị: kháng sinh tĩnh mạch, oxy, nghỉ. Ông Sáu nội trú 7 ngày — rồi khỏe, ra viện.
+
+"Anh Hùng," ông Sáu nói, nước mắt chảy, "tôi viêm phổi — tưởng chết. Bệnh viện nhà nước — không có giường, phải chờ. Bệnh viện Thương Gia — nhận ngay, bác sĩ giỏi, thuốc đủ. Tôi sống — nhờ Thương Gia. Cảm ơn. Cảm ơn."
+
+Hùng nhìn ông Sáu, nước mắt lưng tròng. Ông Sáu — sáu mươi lăm tuổi, viêm phổi, tưởng chết, sống nhờ Thương Gia. Đây là lý do — không phải tiền, không phải đế chế. Mà vì ông Sáu — sống, nhờ bệnh viện Thương Gia.
+
+「Giao dịch thành công (bệnh viện khai trương): +100 EXP. Tổng EXP: 16.940」
+
+「Nhiệm vụ hoàn thành: 50 phòng khám + bệnh viện
+- 100.000 lượt khám/tháng ✓ (vượt mục tiêu)
+- 100 giường ✓, 20.000 trẻ tiêm phòng ✓
+- Phần thưởng: +350 EXP, Kỹ năng Y tế lv3
+- Tổng EXP: 17.290」
+
+「Kỹ năng Y tế cấp 3: Quản lý hệ thống y tế toàn quốc, quản lý bệnh viện, đánh giá chất lượng y tế quốc tế, đào tạo bác sĩ y tá nâng cao, y tế phòng ngừa nâng cao.」
+
+Y tế lv3. Thương Gia — đế chế y tế. 50 phòng khám + 1 bệnh viện, 100.000 lượt khám/tháng, 20.000 trẻ tiêm phòng. Hùng mỉm cười — ông không chỉ thương gia, mà y tế gia. Từ bán hàng đến cứu mạng — hành trình không ngờ. Nhưng đúng — vì y tế là sinh mạng, là hy vọng, là nhân văn.
+
+---
+
+Tối ấy, Hùng về nhà. Bà Hà ngồi ở phòng khách, xem TV. Trên TV, bản tin — "Bệnh viện Thương Gia khai trương — bệnh viện tư nhân đầu tiên ở Hà Đông. 100 giường, 5 khoa, máy móc Nhật Bản. Chủ tịch Trần Văn Hùng: 'Cứu người, chữa bệnh, hy vọng.'"
+
+Bà Hà nhìn TV, nhìn cháu, nước mắt chảy. "Cậu Hùng... bệnh viện. Cháu bà mở bệnh viện. Cứu người."
+
+Hùng ngồi cạnh bà, nắm tay. "Bà, con cứu người — vì bà dạy con. Bà dạy con yêu thương, hy sinh, giúp người. Con chỉ làm theo bà."
+
+Bà Hà lắc đầu, cười qua nước mắt. "Bà không dạy — bà chỉ yêu. Yêu thương là đủ."
+
+Lan về — cô đi khai trương bệnh viện. "Anh ơi, bệnh viện đẹp lắm! 6 tầng, 100 giường, máy móc Nhật. Bệnh nhân đông — 500 lượt khám ngày đầu. Người ta nói: 'Bệnh viện Thương Gia — gần, nhanh, tốt. Không như bệnh viện nhà nước — đông, xa, chậm.' Em thấy — người dân tin Thương Gia, vì Thương Gia cứu người thật."
+
+Hùng gật đầu. "Đúng. Y tế — cứu người thật. Không phải quảng cáo, không phải hình thức. Cứu người — cứu thật, chữa thật, thuốc thật. Đó là nguyên tắc Thương Gia — không bao giờ sai."
+
+Lan im lặng, suy nghĩ. Cô hai mươi ba tuổi, quản lý chuỗi cửa hàng + ngân hàng + trường + bệnh viện. Cô đang trở thành người quản lý đa ngành — và cô hiểu: Thương Gia không chỉ kinh doanh, mà cứu người. Cô tự hào — tự hào vì anh, vì Thương Gia, vì điều họ làm.
+
+Bữa tối — bà Xuân nấu: gà luộc, thịt heo kho, canh chua, cá chiên, nem rán, dưa muối, cơm trắng, chè. Tám món — thịnh soạn. Ba người ăn — bà Hà, Lan, Hùng. Ấm, vui, no.
+
+Sau bữa tối, Hùng vào không gian — 8.000m². Ông ngồi bên suối, nghe nước chảy. Hệ thống:
+
+「Tiến độ Phần 2:
+- Hoàn thành: xe đạp, vận tải, ngân hàng, giáo dục, đào tạo, y tế, cho vay nông dân (8/12)
+- Đang làm: máy cày (sản xuất), máy gặt (sản xuất), bảo hiểm (thiết kế)
+- Còn lại: xây dựng mở rộng, năng lượng mở rộng, từ thiện mở rộng
+- EXP: 17.290 / 19.500 (89%)」
+
+17.290 EXP — còn 2.210. Hùng tính — máy cày +300, máy gặt +300, bảo hiểm +300, xây dựng +200, năng lượng +250, từ thiện +300, hoàn thành Phần 2 +1.000. Tổng: 2.650. Vượt 440 — dư. Khả thi — dễ dàng.
+
+Hùng thoát không gian, nằm xuống giường. Ngoài cửa sổ, đêm Hà Đông — trăng sáng, sao lấp lánh. Bà Hà ngủ ngon. Lan ngủ — cô mệt, ngủ say.
+
+Hùng nhắm mắt. Bệnh viện — cứu người. 100 giường, 5 khoa, bác sĩ giỏi, máy móc Nhật. Thương Gia — từ bán hàng đến cứu mạng. Từ thương gia đến y tế gia. Đế chế đang lớn — và mỗi ngành đều cứu người, giúp người, thay đổi cuộc đời.
+
+Hành trình tiếp tục.

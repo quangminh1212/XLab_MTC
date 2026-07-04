@@ -1,0 +1,83 @@
+============================================================
+Chương 103: Mở rộng nhà máy — 30 nhà máy
+============================================================
+
+Tháng 12 năm 2002. Hùng mở rộng nhà máy — từ 18 lên 30 nhà máy Thương Gia.
+
+Hùng ngồi trong văn phòng, họp Minh — quản lý kỹ thuật tổng thể. Bên cạnh, ông Hải — quản lý cơ khí, ông Khoa — quản lý điện tử, ông Phúc — quản lý thép, ông Thành — quản lý xi măng.
+
+"Minh, Phần 3 — mục tiêu 30 nhà máy. Hiện 18 — cần thêm 12. Ngành mới: thép (xong), xi măng (xong), điện tử (xong), viễn thông (xong), phần mềm (xong). Cần thêm: lọc nước, gạch ngói, nhựa, bao bì, hóa phẩm, dệt nhuộm, thủy tinh, sơn, dây điện, ống nhựa, phân bón."
+
+Minh gật đầu. "12 nhà máy mới — đa ngành. Em sẽ quản lý tổng thể, mỗi nhà máy có giám đốc riêng. Vốn mỗi nhà máy: 200-500 triệu. Tổng vốn: ~4 tỷ. 12 nhà máy — 12 tháng."
+
+Hùng gật đầu. "Được. 12 nhà máy — 12 tháng. Mỗi nhà máy — một ngành, một thị trường. Thương Gia — đế chế công nghiệp đa ngành."
+
+「Nhiệm vụ mới: Mở 30 nhà máy
+- Mục tiêu: 30 nhà máy, doanh thu 10 tỷ/tháng
+- Phần thưởng: 500 EXP, Kỹ năng Sản xuất lv4
+- Thời hạn: 12 tháng」
+
+---
+
+Hùng xây 12 nhà máy — mỗi nhà máy một ngành:
+
+1. Lọc nước — Hà Nội, lọc nước sạch, bán cho khu dân cư. Vốn 300 triệu. 10.000 m³/tháng.
+2. Gạch ngói — Bắc Ninh, nung gạch ngói, cho xây dựng. Vốn 200 triệu. 1 triệu viên/tháng.
+3. Nhựa — Hải Phòng, ép nhựa, vỏ TV, vỏ điện thoại, thùng, chai. Vốn 300 triệu. 50 tấn/tháng.
+4. Bao bì — Hà Đông, in bao bì, túi, hộp, nhãn. Vốn 150 triệu. 1 triệu túi/tháng.
+5. Hóa phẩm — Đà Nẵng, sản xuất xà phòng, dầu gội, nước tẩy rửa. Vốn 250 triệu. 100 tấn/tháng.
+6. Dệt nhuộm — Nam Định, dệt vải, nhuộm màu, cho may công nghiệp. Vốn 400 triệu. 200.000m vải/tháng.
+7. Thủy tinh — Quảng Ninh, sản xuất thủy tinh, chai, lọ, cửa sổ. Vốn 350 triệu. 50 tấn/tháng.
+8. Sơn — Hải Phòng, sản xuất sơn, cho xây dựng, cho công nghiệp. Vốn 200 triệu. 100 tấn/tháng.
+9. Dây điện — Hà Nội, sản xuất dây điện, cho xây dựng, cho điện tử. Vốn 200 triệu. 500.000m/tháng.
+10. Ống nhựa — Bình Dương, sản xuất ống nhựa, cấp thoát nước. Vốn 200 triệu. 100 tấn/tháng.
+11. Phân bón — Ninh Bình, sản xuất phân bón NPK, cho nông nghiệp. Vốn 500 triệu. 5.000 tấn/tháng.
+12. Bê tông — Hà Nội, trạm trộn bê tông, cho xây dựng. Vốn 300 triệu. 10.000 m³/tháng.
+
+12 nhà máy — 12 ngành, 12 thị trường. Mỗi nhà máy — một mắt xích trong hệ sinh thái Thương Gia. Bao bì — cho hàng Thương Gia. Nhựa — cho vỏ TV, điện thoại. Dệt — cho may công nghiệp. Dây điện — cho điện tử, xây dựng. Phân bón — cho nông dân. Bê tông — cho xây dựng. Tất cả nối — hệ sinh thái khép kín.
+
+---
+
+12 tháng sau — 30 nhà máy hoạt động. Tổng doanh thu sản xuất: 12 tỷ/tháng (thép 5 tỷ + xi măng 6 tỷ + cơ khí 1 tỷ + điện tử 2 triệu + 12 nhà máy mới 1 tỷ). Lãi: 4 tỷ/tháng.
+
+「Giao dịch thành công (12 nhà máy mới): +200 EXP. Tổng EXP: 24.980」
+
+「Nhiệm vụ hoàn thành: 30 nhà máy
+- 30 nhà máy ✓
+- Doanh thu 12 tỷ/tháng ✓ (vượt mục tiêu 10 tỷ)
+- Phần thưởng: +500 EXP, Kỹ năng Sản xuất lv4
+- Tổng EXP: 25.480」
+
+「Kỹ năng Sản xuất cấp 4: Quản lý hệ thống nhà máy đa ngành, tối ưu hóa sản xuất toàn hệ thống, quản lý chuỗi cung ứng khép kín, đánh giá chất lượng quốc tế, quản lý 3.000 công nhân.」
+
+Sản xuất lv4. Thương Gia — đế chế công nghiệp. 30 nhà máy, 30 ngành, 12 tỷ/tháng. Hùng mỉm cười — từ 1 xưởng may (1983) đến 30 nhà máy (2002). 19 năm — công nghiệp đa ngành. Hệ sinh thái khép kín — từ nguyên liệu đến sản phẩm, tất cả do Thương Gia.
+
+---
+
+Tối ấy, Hùng về nhà. Bà Hà ngồi ở hiên, bế bé Bảo — bé ba tuổi rưỡi, biết nói nhiều, biết chạy nhảy. Bà nhìn cháu nội, mỉm cười.
+
+"Cậu Hùng, 30 nhà máy — 30 ngành?"
+
+"Dạ, bà. 30 nhà máy — thép, xi măng, điện tử, cơ khí, lọc nước, gạch, nhựa, bao bì, hóa phẩm, dệt, thủy tinh, sơn, dây điện, ống nhựa, phân bón, bê tông. 30 ngành — con — con công nghiệp hóa Việt Nam."
+
+Bà Hà lắc đầu — bà không đếm hết được. "30 ngành... cháu bà — 30 ngành. Bà... bà không tin. Nhưng bà tự hào."
+
+Hùng nắm tay bà, mỉm cười. "Bà, con — con vẫn là cháu bà. 30 ngành — nhưng con vẫn đi xe đạp, vẫn ăn cơm bà Xuân nấu, vẫn ngủ cạnh bà. Không thay."
+
+Bà Hà cười — nụ cười hiền. "Bà biết. Bà luôn biết."
+
+Hạnh — cô bế Bảo, mỉm cười. "Anh ơi, 30 nhà máy — hệ sinh thái khép kín. Bao bì — cho hàng Thương Gia. Nhựa — cho vỏ TV. Dệt — cho may. Dây điện — cho điện tử. Tất cả nối — tất cả Thương Gia. Anh — anh xây hệ sinh thái, không chỉ công ty."
+
+Hùng gật đầu. "Đúng. Hệ sinh thái — tự cung tự cấp, khép kín. Nguyên liệu — Thương Gia sản xuất. Sản phẩm — Thương Gia sản xuất. Bao bì — Thương Gia sản xuất. Vận chuyển — Thương Gia vận chuyển. Bán — Thương Gia bán. Khép kín — hiệu quả, rẻ, kiểm soát."
+
+Lan về — cô đi kiểm tra nhà máy. "Anh ơi, 30 nhà máy — lớn lắm! Em — em đi 5 nhà hàng, 10 cửa hàng, 3 nhà máy — một ngày. Em — em mệt, nhưng vui. Thương Gia — lớn, rất lớn. Em — em không ngờ, 8 năm trước, em quản lý 1 cửa hàng. Bây giờ — 108 cửa hàng, 42 nhà hàng, 30 nhà máy. Em — em lớn cùng Thương Gia."
+
+Hùng mỉm cười. "Em — em lớn cùng Thương Gia. Em hai mươi tám tuổi, quản lý đế chế. Em — em giỏi. Và sau này — em sẽ quản lý nhiều hơn. Phần 4 — toàn cầu. Em — em sẽ đi thế giới."
+
+Lan mắt sáng — cô sẽ đi thế giới. Cô hai mươi tám tuổi, và cô có cả tương lai. Cô sẽ học, sẽ lớn, sẽ mạnh — cùng anh, cùng Thương Gia.
+
+Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — no, ngon. Năm người ăn — bà Hà, Lan, Hùng, Hạnh, Bảo. Gia đình.
+
+Sau bữa tối, Hùng vào không gian — 9.500m². Ông ngồi bên suối, suy nghĩ. 30 nhà máy — hệ sinh thái khép kín. 19 năm — từ 1 xưởng đến 30 nhà máy. Thương Gia — đế chế công nghiệp. Hùng mỉm cười — ông đang tiến. Phần 3 gần hoàn thành — 108 cửa hàng ✓, 42 nhà hàng ✓, 30 nhà máy ✓. Còn xuất khẩu 10 tỷ/tháng. Tiếp tục.
+
+Hành trình tiếp tục.

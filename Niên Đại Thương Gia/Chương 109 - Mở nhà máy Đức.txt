@@ -1,0 +1,69 @@
+============================================================
+Chương 109: Mở nhà máy Đức
+============================================================
+
+Tháng 10 năm 2005. Hùng mở nhà máy thứ ba ở nước ngoài — Đức, sản xuất thép và xi măng cho thị trường châu Âu.
+
+Hùng bay vào Frankfurt — từ Hà Nội, 12 giờ. Ông mang theo Minh và ông Phúc — Minh phụ trách tổng thể, ông Phúc phụ trách kỹ thuật thép. Frankfurt — thành phố lớn, sạch, hiện đại. Đức — công nghiệp nặng, kỹ thuật cao, chất lượng.
+
+Hùng gặp ông Müller — đối tác Đức 2 năm. Ông Müller — năm mươi bảy tuổi, chủ tịch Müller Import GmbH. Ông xuất khẩu thép Thương Gia 2 năm — 5.000 tấn/tháng. Bây giờ — Hùng muốn sản xuất tại Đức.
+
+"Mr. Hung, you want to open steel factory in Germany? Produce locally?" Ông Müller hỏi.
+
+Hùng gật đầu. "Mr. Müller, Germany — EU market, 400 million people, high quality, high price. We produce steel locally — avoid import tax, EU standard, local market. We use German scrap steel (phế liệu) — EAF technology, local materials."
+
+Ông Müller suy nghĩ. "Germany — expensive labor, strict regulations, high quality. But — high price, high margin. EU market — 400 million people. Good. I will help — land, license, workers. But you need — German engineer, German standard."
+
+Hùng gật đầu. "Yes — we hire German engineer, German standard. Mr. Phúc — our steel expert, 25 years experience. He will learn German standard, adapt. And we hire 10 German engineers — local expertise."
+
+「Nhiệm vụ mới: Mở nhà máy Đức
+- Mục tiêu: 20.000 tấn thép/tháng, doanh thu 4 tỷ/tháng
+- Phần thưởng: 500 EXP, Kỹ năng Quốc tế hóa lv3
+- Thời hạn: 12 tháng」
+
+---
+
+Hùng mua đất — Frankfurt ngoại ô, 30.000m², giá 2 tỷ VND (đất Đức đắt — 70.000 VND/m²). Hùng xây nhà máy — công ty xây dựng Thương Gia (cử 50 công nhân sang Đức) + công ty xây dựng Đức (subcontract), 8 tháng. Nhà máy 20.000m² — khu sản xuất 10.000m², kho 6.000m², văn phòng 2.000m², ăn nghỉ 2.000m².
+
+Máy móc — nhập Đức (EAF lò điện, máy cán) + nhập Nhật (qua Tanaka). Tổng máy móc: 3 tỷ VND. Vốn xây dựng: 2 tỷ. Tổng vốn: 7 tỷ (đất 2 + xây 2 + máy 3). Lớn — nhưng Đức là thị trường cao cấp, lợi nhuận cao.
+
+Hùng tuyển công nhân — 100 người Đức, lương 1.000 đồng/tháng (cao — lương Đức đắt). Kỹ sư — 10 người Đức, lương 2.000 đồng/tháng. Quản lý — 5 người Việt, 5 người Đức. Tổng 120 người. Quỹ lương: 130.000 đồng/tháng — cao, nhưng sản lượng cao, lãi cao.
+
+---
+
+Tháng 6 năm 2006 — nhà máy Đức hoạt động. Sản xuất: 20.000 tấn thép/tháng. Thép Thương Gia Đức — EAF, phế liệu Đức, đạt chuẩn CE, chất lượng cao. Giá vốn: 80 đồng/tấn (phế liệu Đức + nhân công đắt + điện đắt). Bán: 200 đồng/tấn (giá châu Âu, cao). Lãi: 120 đồng/tấn × 20.000 = 2.400.000 đồng/tháng (2.4 triệu).
+
+Hùng tính lại — 20.000 tấn × 200 đồng/tấn = 4.000.000 đồng/tháng doanh thu. Giá vốn 80 × 20.000 = 1.600.000. Lãi: 2.400.000 đồng/tháng. Nhưng quy đổi EUR — 200 đồng/tấn = ~0.8 EUR/kg... không, 200 đồng = 200.000 VND/tấn = ~10 EUR/tấn. Thép châu Âu giá ~300-400 EUR/tấn. Hùng bán rẻ — 200 EUR/tấn (4 triệu VND/tấn). Doanh thu: 20.000 × 4 triệu = 80 tỷ/tháng! Lãi: 20.000 × 2 triệu = 40 tỷ/tháng!
+
+Hùng sững sờ — 40 tỷ lãi/tháng từ nhà máy Đức! Thị trường châu Âu — giá cao, lợi nhuận khổng lồ. Đức — đắt nhưng bù lại giá bán cao gấp mười Việt Nam.
+
+「Giao dịch thành công (nhà máy Đức): +200 EXP. Tổng EXP: 28.930」
+
+「Nhiệm vụ hoàn thành: Nhà máy Đức
+- 20.000 tấn thép/tháng ✓
+- Doanh thu 80 tỷ/tháng ✓ (vượt mục tiêu 4 tỷ, gấp 20)
+- Lãi 40 tỷ/tháng
+- Phần thưởng: +500 EXP, Kỹ năng Quốc tế hóa lv3
+- Tổng EXP: 29.430」
+
+「Kỹ năng Quốc tế hóa cấp 3: Mở nhà máy ở châu Âu, quản lý lao động châu Âu, hiểu luật đầu tư EU, quản lý đa văn hóa chuyên nghiệp, đánh giá thị trường châu Âu chuyên gia.」
+
+Quốc tế hóa lv3. Thương Gia — 3 nhà máy nước ngoài (Thái Lan, Indonesia, Đức). Hùng mỉm cười — ông đang tiến. Toàn cầu hóa — đang chạy mạnh. Từ Việt Nam đến Thái Lan, Indonesia, Đức — 3 nước, 2 châu lục. Và sẽ đến USA.
+
+---
+
+Tối ấy, Hùng ở Frankfurt — khách sạn Thương Gia. Ông gọi Hạnh — điện thoại đường dài.
+
+"Hạnh, nhà máy Đức — xong. 20.000 tấn thép/tháng, 80 tỷ doanh thu, 40 tỷ lãi. Lớn — lớn nhất. Thị trường châu Âu — giá cao, lợi nhuận khổng lồ."
+
+Hạnh — ở Hà Đông, bế Bảo. "Anh ơi, 40 tỷ lãi/tháng? Lớn — lớn lắm. Anh — anh giàu hơn nữa. Nhưng anh — anh nhớ về. Bảo — Bảo nhớ anh. Bà — bà nhớ anh. Em — em nhớ anh. Về — về sớm."
+
+Hùng cười. "Em — em nhớ anh. Anh — anh nhớ em, nhớ Bảo, nhớ bà. Anh về — cuối tuần. 3 ngày nữa."
+
+"Em chờ. Bảo chờ. Bà chờ. Về — ăn cơm cùng nhà."
+
+Hùng cúp máy, nằm xuống giường. Ngoài cửa sổ, đêm Frankfurt — đèn vàng, xe hơi, yên tĩnh. Khác Hà Đông, khác Bangkok, khác Jakarta. Đức — trật tự, sạch, yên. Hùng nhắm mắt, suy nghĩ.
+
+Nhà máy Đức — 40 tỷ lãi/tháng. Lớn — rất lớn. Tổng lãi Thương Gia: 20 tỷ (Phần 3) + 3.7 triệu (Thái Lan) + 100 triệu (Indonesia) + 40 tỷ (Đức) = ~60 tỷ/tháng. Tổng tài sản: 200 tỷ + tích lũy = ~300 tỷ. Tiến — tiến mạnh. Mục tiêu 1.000 tỷ — khả thi, nếu tiếp tục.
+
+Hùng mỉm cười. Toàn cầu hóa — đang chạy. 3 nhà máy nước ngoài, 2 châu lục. Và sẽ đến USA — châu Mỹ. Thương Gia — mọi châu lục. Hành trình tiếp tục.

@@ -1,0 +1,104 @@
+============================================================
+Chương 99: Mở rộng viễn thông — Internet Thương Gia
+============================================================
+
+Tháng 1 năm 2001. Hùng mở rộng viễn thông — Internet Thương Gia, ISP đầu tiên của tư nhân Việt Nam.
+
+Internet — Hùng mang kiến thức thế kỷ 21. Ông biết — internet sẽ thay đổi thế giới. Kết nối toàn cầu, thông tin vô hạn, giao tiếp không biên giới. Năm 2001 — Việt Nam vừa kết nối internet (1997, VNN), nhưng ISP nhà nước chậm, đắt, ít người dùng. Hùng thấy cơ hội — ISP Thương Gia, giá rẻ, tốc độ nhanh, phổ biến.
+
+Hùng ngồi trong văn phòng, họp Đức — quản lý chiến lược.
+
+"Đức, cháu muốn mở ISP — Internet Thương Gia. Cung cấp đường truyền internet, cho doanh nghiệp và gia đình. Giá rẻ, tốc độ nhanh. Vốn 1 tỷ."
+
+Đức — bốn mươi tuổi, cử nhân kinh tế — suy nghĩ. "ISP — em hiểu cơ bản. Mua băng thông từ VNN (nhà nước), bán lại cho khách. Cần server, router, modem, đường truyền. Vốn 1 tỷ — đủ. Nhưng em cần kỹ sư mạng — người hiểu internet, TCP/IP, router."
+
+Hùng gật đầu. "Anh sẽ tuyển — kỹ sư mạng, tốt nghiệp bách khoa. Lương 400 đồng/tháng. Và anh sẽ hợp tác VNN — mua băng thông, giá sỉ. Anh Khanh giúp — quan hệ nhà nước."
+
+「Nhiệm vụ mới: Mở ISP Internet Thương Gia
+- Mục tiêu: 10.000 khách trong 12 tháng, doanh thu 5 triệu/tháng
+- Phần thưởng: 400 EXP, Kỹ năng Viễn thông lv1
+- Thời hạn: 12 tháng」
+
+---
+
+Hùng gặp anh Khanh — bàn hợp tác VNN.
+
+"Anh Khanh, cháu muốn mở ISP — mua băng thông VNN, bán lại. Giấy phép khó không?"
+
+Khanh suy nghĩ. "ISP — giấy phép khó. Viễn thông — nhà nước giám sát chặt. Nhưng cháu — cháu có uy tín, có vốn, có kỹ thuật. Em sẽ giúp — đẩy nhanh giấy phép. Nhưng cháu phải — tuân thủ luật, kiểm soát nội dung, không vi phạm."
+
+"Cháu biết. Cháu tuân thủ — kiểm soát nội dung, không vi phạm. Thương Gia — minh bạch, an toàn, uy tín. Cháu hứa."
+
+3 tháng sau — giấy phép ISP cấp. "Công ty Viễn thông Thương Gia, Giấy phép số GP-001/ISP, Ngày 15/3/2001, Chủ tịch HĐQT: Trần Văn Hùng, Giám đốc: Nguyễn Đức." Hùng cầm giấy phép, mỉm cười — viễn thông, ngành thứ mười bảy.
+
+---
+
+Hùng xây trung tâm viễn thông — Hà Đông, tòa nhà Thương Gia, tầng 3. 500m² — server room, router, modem, phòng kỹ thuật. Máy móc — nhập Nhật (qua Tanaka): server NEC, router Cisco, modem. Tổng máy móc: 800 triệu. Vốn xây dựng: 200 triệu. Tổng vốn: 1 tỷ.
+
+Hùng tuyển kỹ sư mạng — 10 người, lương 400 đồng/tháng. Ông tuyển anh Phong — kỹ sư mạng, ba mươi tuổi, tốt nghiệp bách khoa, tự học internet (internet Việt Nam mới, ít người hiểu, nhưng Phong giỏi tự học).
+
+"Anh Phong, ISP Thương Gia — em phụ trách. Mua băng thông VNN, bán lại cho khách. Dial-up — 56kbps, giá 50 đồng/giờ. ADSL — 256kbps, giá 500 đồng/tháng (cho doanh nghiệp). Em lo — server, router, modem, hỗ trợ khách."
+
+Phong mắt sáng — anh đam mê internet. Anh hiểu — internet là tương lai, và Thương Gia — tiên phong.
+
+"Anh Hùng, em sẽ làm. Dial-up — 56kbps, đủ cho email, web cơ bản. ADSL — 256kbps, đủ cho doanh nghiệp. Em sẽ thiết kế — gói cước: dial-up 50 đồng/giờ (cá nhân), ADSL 500 đồng/tháng (doanh nghiệp), ADSL 1.000 đồng/tháng (tốc độ cao)."
+
+---
+
+Internet Thương Gia khai trương — tháng 6 năm 2001. Khách — đa số doanh nghiệp, một số cá nhân (giới trẻ, trí thức). Dial-up — 56kbps, chậm nhưng đủ email, web. ADSL — 256kbps, nhanh, cho doanh nghiệp.
+
+Ngày khai trương — 500 khách đăng ký. Đa số doanh nghiệp — cần internet liên lạc quốc tế, email, web. Một số cá nhân — tò mò, muốn thử internet.
+
+Một khách — ông Tâm, chủ xưởng mộc — đăng ký ADSL. "Anh Hùng, internet — em nghe nói, kết nối thế giới. Em mua — cho xưởng, liên lạc khách nước ngoài. Em — em muốn xuất khẩu bàn ghế, cần internet tìm khách."
+
+Hùng mỉm cười. Internet — kết nối toàn cầu. Ông Tâm — xưởng mộc, muốn xuất khẩu, cần internet tìm khách. Thương Gia — mang internet, mang kết nối, mang cơ hội xuất khẩu.
+
+"Ông Tâm, internet — kết nối thế giới. Ông dùng — tìm khách, liên lạc, xuất khẩu. Thương Gia — giúp ông. Và nếu ông cần — Thương Gia xuất khẩu giúp, 10 đối tác quốc tế."
+
+Ông Tâm mắt sáng. "Thật? Thương Gia — giúp em xuất khẩu? Em... em cảm ơn. Em — em sẽ dùng internet, tìm khách, và Thương Gia giúp. Cảm ơn anh."
+
+「Giao dịch thành công (ISP khai trương): +80 EXP. Tổng EXP: 23.150」
+
+---
+
+6 tháng sau — Internet Thương Gia đạt 12.000 khách, vượt mục tiêu 10.000. Doanh thu: 6 triệu/tháng (12.000 × 500 đồng average). Lãi: 3 triệu/tháng. Tốt — vượt mục tiêu.
+
+「Nhiệm vụ hoàn thành: ISP 10.000 khách
+- 12.000 khách ✓ (vượt mục tiêu 10.000)
+- Doanh thu 6 triệu/tháng ✓ (vượt mục tiêu 5 triệu)
+- Phần thưởng: +400 EXP, Kỹ năng Viễn thông lv1
+- Tổng EXP: 23.550」
+
+「Kỹ năng Viễn thông cấp 1: Quản lý ISP, hiểu mạng internet, TCP/IP, router, server, thiết kế gói cước, hỗ trợ khách hàng.」
+
+Viễn thông lv1. Thương Gia — đế chế viễn thông. 12.000 khách, 3 triệu lãi/tháng. Hùng mỉm cười — ông tiên phong internet Việt Nam. Từ bán hàng đến internet — hành trình 18 năm. Và internet — tương lai, kết nối toàn cầu.
+
+---
+
+Tối ấy, Hùng về nhà. Bà Hà ngồi ở phòng khách, bế bé Bảo — bé một tuổi rưỡi, biết đi, biết nói bập bẹ. Bà nhìn cháu nội, mỉm cười.
+
+"Cậu Hùng, internet — là gì?"
+
+Hùng cười — bà hỏi. "Bà, internet — như điện thoại, nhưng nối máy tính. Người ta dùng máy tính, nối internet, gửi thư (email), xem tin (web), nói chuyện (chat). Internet — kết nối thế giới, bà ạ."
+
+Bà Hà không hiểu hết — nhưng bà hiểu: cháu bà lại làm điều mới. "Kết nối thế giới? Cháu bà — kết nối thế giới?"
+
+"Dạ, kết nối thế giới. Người Việt — nối máy tính, xem tin thế giới, gửi thư thế giới. Con — con mang thế giới đến Việt Nam."
+
+Bà Hà gật đầu, tự hào. "Cháu bà — luôn tiên phong. Từ bán rong đến... kết nối thế giới. Bà — bà không hiểu hết, nhưng bà tự hào."
+
+Hạnh — cô ngồi cạnh, bế Bảo. "Anh ơi, internet — em nghe nói, nhưng chưa dùng. Em... em muốn học."
+
+Hùng mỉm cười. "Em — em sẽ học. Anh sẽ dạy. Internet — không khó. Em dùng máy tính, nối internet, gửi email, xem web. Em — em sẽ thích."
+
+Bảo — bé một tuổi rưỡi, bập bẹ: "Bố... bố. Internet... internet." Bé nhại — nghe bố nói, bé nhại. Cả nhà cười — Bảo nhại "internet", bé một tuổi rưỡi, nhại từ thế kỷ 21.
+
+Lan về — cô đi kiểm tra ISP. "Anh ơi, ISP — tốt lắm! 12.000 khách, 3 triệu lãi. Em — em dùng internet, gửi email cho đối tác Singapore, Malaysia. Nhanh — nhanh hơn thư tay gấp mười. Em — em thích internet!"
+
+Hùng cười. "Em thích — anh cũng thích. Internet — tương lai. Và Thương Gia — tiên phong. Sau này — internet sẽ lớn, rất lớn. Mọi người sẽ dùng — mọi nhà, mọi doanh nghiệp. Thương Gia — sẽ dẫn đầu."
+
+Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — no, ngon. Năm người ăn — bà Hà, Lan, Hùng, Hạnh, Bảo. Gia đình.
+
+Sau bữa tối, Hùng vào không gian — 9.500m². Ông ngồi bên suối, suy nghĩ. Viễn thông — ISP, 12.000 khách, 3 triệu lãi/tháng. Ngành mới — và sẽ lớn. Hùng biết — internet sẽ thay đổi mọi thứ. Thương Gia — tiên phong, dẫn đầu. Và ông — ông mang kiến thức thế kỷ 21, xây internet Việt Nam. Từ bán rong đến internet — hành trình 18 năm. Và đây mới là bắt đầu.
+
+Hành trình tiếp tục.

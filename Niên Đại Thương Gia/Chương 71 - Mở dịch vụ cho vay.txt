@@ -1,0 +1,111 @@
+============================================================
+Chương 71: Mở dịch vụ cho vay mở rộng
+============================================================
+
+Tháng 2 năm 1993. Ngân hàng Thương Gia mở rộng — 10 chi nhánh chính, huy động 2 tỷ đồng, cho vay 1.8 tỷ đồng.
+
+Hùng ngồi trong văn phòng ngân hàng — tòa nhà 5 tầng Hà Đông, tầng 4. Trên bàn, báo cáo tài chính — Hồng trình bày.
+
+"Anh Hùng, ngân hàng Thương Gia 1992:
+- Huy động: 2.000.000.000 đồng (2 tỷ) — vượt mục tiêu 1 tỷ
+- Cho vay doanh nghiệp: 1.200.000.000 đồng (1.2 tỷ)
+- Cho vay nông dân: 400.000.000 đồng (400 triệu)
+- Cho vay tiêu dùng: 200.000.000 đồng (200 triệu)
+- Tổng cho vay: 1.800.000.000 đồng (1.8 tỷ)
+- Lãi thuần: 36.000.000 đồng/tháng (36 triệu)
+- Chi phí: 15.000.000 đồng (lương, mặt bằng, hệ thống)
+- Lãi ròng: 21.000.000 đồng/tháng (21 triệu)
+- Nợ xấu: 4.2% — trong tầm kiểm soát (< 5%)"
+
+21 triệu đồng lãi/tháng — chỉ từ ngân hàng. Hùng gật đầu — ngân hàng là ngành lợi nhuận cao nhất. Tiền sinh tiền — không cần sản xuất, không cần vận chuyển, chỉ cần quản lý rủi ro.
+
+"Hồng, em làm tốt — nợ xấu 4.2%, dưới 5%. Em kiểm tra rủi ro kỹ — không cho vay mù quáng. Tốt."
+
+Hồng mỉm cười — cô ba mươi chín tuổi, kế toán trở thành giám đốc ngân hàng. Cô tự hào — nhưng cũng cẩn thận. Cô biết — ngân hàng là rủi ro cao, một sai lầm = mất tất cả.
+
+"Anh Hùng, em đề xuất mở 10 chi nhánh chính — không chỉ giao dịch tại cửa hàng. Chi nhánh riêng — mặt bằng riêng, nhân viên ngân hàng chuyên nghiệp. Ở Hà Nội, Sài Gòn, Đà Nẵng, Cần Thơ, Hải Phòng, Huế, Nha Trang, Buôn Ma Thuột, Quy Nhơn, Vinh."
+
+Hùng suy nghĩ. Chi nhánh riêng — tốn tiền mặt bằng, nhưng chuyên nghiệp hơn. Cửa hàng kiêm ngân hàng — tiện, nhưng không chuyên nghiệp. Hùng cần cả hai — cửa hàng cho nông thôn, chi nhánh cho thành phố.
+
+"Được. 10 chi nhánh — ở thành phố lớn. Vốn mỗi chi nhánh: 20.000 đồng (mặt bằng, máy móc, két sắt). Tổng: 200.000 đồng. Nhân viên: 50 người (5/chi nhánh), lương 150 đồng/tháng. Tổng quỹ lương: 7.500 đồng/tháng."
+
+Hồng ghi chép, rồi nói: "Em sẽ mở — 10 chi nhánh, 6 tháng. Mỗi tháng 2 chi nhánh. Em sẽ đào tạo nhân viên ngân hàng — giao dịch, thẩm định, rủi ro. 2 tuần đào tạo, bắt đầu ngay."
+
+「Nhiệm vụ mới: Mở 10 chi nhánh ngân hàng
+- Mục tiêu: 5 tỷ đồng huy động, 4 tỷ đồng cho vay, 50 triệu lãi/tháng
+- Phần thưởng: 400 EXP, Kỹ năng Tài chính lv3
+- Thời hạn: 12 tháng」
+
+---
+
+Hùng đi Hà Nội — tìm mặt bằng chi nhánh ngân hàng. Ông muốn vị trí đẹp — mặt đường, trung tâm, dễ thấy. Anh Khanh — bây giờ là cán bộ cấp cao tỉnh — giới thiệu mặt bằng ở Đống Đa, đường Thái Hà — 100m², giá 30.000 đồng/tháng thuê.
+
+Hùng thuê — 30.000 đồng/tháng, hợp đồng 3 năm. Sửa thành chi nhánh ngân hàng — quầy giao dịch, phòng thẩm định, két sắt, máy móc. Vốn sửa: 15.000 đồng. Tổng vốn chi nhánh Hà Nội: 45.000 đồng (thuê + sửa).
+
+Chi nhánh ngân hàng Thương Gia Hà Nội — khai trương tháng 3. Khách đến đông — người dân Hà Nội gửi tiền, vay tiền. Huy động ngày đầu: 100.000.000 đồng (100 triệu). Cho vay ngày đầu: 50.000.000 đồng (50 triệu).
+
+「Giao dịch thành công: +80 EXP. Tổng EXP: 15.040」
+
+---
+
+Hùng cũng mở rộng cho vay nông dân — chương trình "Nông Nghiệp Thương Gia." Chương trình cho 1.000 nông dân vay vốn — mỗi nông dân 500.000 đồng, lãi 1.5%/tháng. Tổng cho vay: 500.000.000 đồng (500 triệu). Mục tiêu: giúp nông dân mua máy cày, máy gặt Thương Gia — cơ giới hóa nông nghiệp.
+
+Hùng đến Thanh Hóa — gặp ông Năm, nông dân vay vốn năm 1989. Ông Năm nay sáu mươi hai tuổi — nhưng khỏe mạnh, nhờ máy cày Thương Gia.
+
+"Anh Hùng, máy cày Thương Gia — tôi cày 10 sào trong 2 ngày, thay vì 20 ngày bằng trâu. Tôi trồng lúa 3 vụ/năm — thay vì 2 vụ. Thu nhập tăng gấp rưỡi. Và tôi vay thêm — mua máy gặt Thương Gia. Gặt lúa nhanh — đỡ mệt, đỡ tốn thời gian."
+
+Hùng mỉm cười. "Ông Năm, cháu vui — máy cày giúp ông. Và máy gặt — sẽ giúp ông gặt lúa nhanh. Nông nghiệp cơ giới hóa — đó là mục tiêu Thương Gia."
+
+Ông Năm nắm tay Hùng. "Cảm ơn anh. Thương Gia — giúp nông dân. Không chỉ bán máy, mà cho vay — giúp tôi mua được máy. Cảm ơn."
+
+Hùng nhìn ông Năm — ông sáu mươi hai tuổi, mặt rám nắng, tay chai sạn — nhưng mắt sáng, nụ cười rộng. Ông giàu hơn — nhờ máy cày, nhờ vay vốn. Thương Gia thay đổi cuộc đời ông — và 1.000 nông dân khác.
+
+「Nhiệm vụ hoàn thành: Cho vay 1.000 nông dân
+- 1.000 nông dân vay ✓, 500 triệu đồng ✓
+- Nợ xấu 3.8% ✓ (dưới 5%)
+- Phần thưởng: +200 EXP, Kỹ năng Tài chính lv2 (nâng cấp)
+- Tổng EXP: 15.240」
+
+---
+
+Tối ấy, Hùng về nhà. Bà Hà ngồi ở hiên, bế mèo Mít. Bà sáu mươi chín tuổi — nhưng khỏe, hồng hào. Bà nhìn cháu, mỉm cười.
+
+"Cậu Hùng, hôm nay con đi đâu?"
+
+"Con đi Thanh Hóa, bà. Gặp ông Năm — nông dân vay tiền Thương Gia. Ông ấy mua máy cày, máy gặt — cày nhanh, gặt nhanh, trồng lúa 3 vụ. Thu nhập tăng. Ông ấy giàu hơn — nhờ Thương Gia."
+
+Bà Hà gật đầu, rồi nói: "Tốt. Nông dân khổ lắm — cày bằng trâu, còng lưng, nắng nóng. Có máy cày, họ đỡ khổ. Cậu giúp người — bà tự hào."
+
+Hùng nắm tay bà, mỉm cười. "Con học từ bà — giúp người. Bà dạy con."
+
+Bà Hà lắc đầu, cười. "Bà không dạy — bà chỉ yêu. Yêu thương là đủ."
+
+Lan về — cô đi khai trương chi nhánh ngân hàng Hà Nội. "Anh ơi, chi nhánh Hà Nội — 100 triệu huy động ngày đầu! Người dân Hà Nội gửi tiền đông — họ tin Thương Gia. Em thấy — người ta xếp hàng chờ gửi tiền."
+
+Hùng gật đầu. "Tốt. Mở rộng — 9 chi nhánh nữa. Mỗi tháng 2 chi nhánh. Mục tiêu: 10 chi nhánh cuối 1993."
+
+Lan gật đầu, rồi hỏi: "Anh, ngân hàng — rủi ro không? Nếu người ta gửi nhiều, vay ít — mình lỗ?"
+
+Hùng suy nghĩ — Lan hỏi đúng. Ngân hàng — rủi ro là mismatch: huy động nhiều, cho vay ít = lỗ (vì trả lãi huy động nhưng không thu lãi cho vay). Hùng giải thích:
+
+"Đúng — rủi ro là huy động nhiều, cho vay ít. Nhưng mình — mình cho vay nhiều: doanh nghiệp, nông dân, tiêu dùng. Cầu vay luôn cao — vì kinh tế đang phát triển, người ta cần vốn. Mình cân bằng — huy động bao nhiêu, cho vay bấy nhiêu. Hồng quản lý — em ấy đảm bảo cân bằng."
+
+Lan gật đầu — cô hiểu. Ngân hàng = cân bằng huy động và cho vay. Hồng quản lý — cô giỏi, cô cẩn thận.
+
+Bữa tối — bà Xuân nấu: gà luộc, thịt heo kho, canh chua, cá chiên, nem rán, dưa muối, cơm trắng, chè. Tám món — thịnh soạn. Ba người ăn — bà Hà, Lan, Hùng. Ấm, vui, no.
+
+Sau bữa tối, Hùng vào không gian — 8.000m². Ông ngồi bên suối, nghe nước chảy. Hệ thống:
+
+「Tiến độ Phần 2:
+- Hoàn thành: xe đạp, vận tải, ngân hàng (cơ bản), giáo dục, đào tạo, y tế, cho vay nông dân (7/12)
+- Đang làm: máy cày (sản xuất), máy gặt (xây xưởng), chi nhánh ngân hàng
+- Còn lại: xây dựng mở rộng, năng lượng mở rộng, từ thiện mở rộng
+- EXP: 15.240 / 19.500 (78%)」
+
+15.240 EXP — còn 4.260. Hùng tính — máy cày +300, máy gặt +300, chi nhánh ngân hàng +400, xây dựng +200, năng lượng +250, từ thiện +300, hoàn thành Phần 2 +1.000. Tổng: 2.750. Còn 1.510 — từ giao dịch. Đủ.
+
+Hùng thoát không gian, nằm xuống giường. Ngoài cửa sổ, đêm Hà Đông — trăng sáng, sao lấp lánh. Bà Hà ngủ ngon. Lan ngủ — cô mệt, ngủ say.
+
+Hùng nhắm mắt. Ngân hàng — tiền sinh tiền. Nông dân — máy cày thay trâu. Thương Gia — thay đổi nông thôn, thay đổi tài chính, thay đổi Việt Nam.
+
+Hành trình tiếp tục.

@@ -1,0 +1,75 @@
+============================================================
+Chương 72: Mở rộng chi nhánh tài chính
+============================================================
+
+Tháng 5 năm 1993. Hùng mở rộng chi nhánh ngân hàng — 5 chi nhánh mới trong 3 tháng.
+
+Chi nhánh 2 — Sài Gòn, Quận 1, đường Nguyễn Huệ. 120m², thuê 50.000 đồng/tháng. Khai trương: 200 triệu huy động, 100 triệu cho vay.
+
+Chi nhánh 3 — Đà Nẵng, đường Bạch Đằng. 80m², thuê 25.000 đồng/tháng. Khai trương: 80 triệu huy động, 40 triệu cho vay.
+
+Chi nhánh 4 — Cần Thơ, đường Hòa Bình. 70m², thuê 20.000 đồng/tháng. Khai trương: 60 triệu huy động, 30 triệu cho vay.
+
+Chi nhánh 5 — Hải Phòng, đường Lê Lợi. 80m², thuê 25.000 đồng/tháng. Khai trương: 90 triệu huy động, 50 triệu cho vay.
+
+Chi nhánh 6 — Huế, đường Hùng Vương. 70m², thuê 20.000 đồng/tháng. Khai trương: 50 triệu huy động, 25 triệu cho vay.
+
+Hồng báo cáo: "Anh Hùng, 6 chi nhánh (Hà Nội + 5 mới) — tổng huy động: 580 triệu, tổng cho vay: 295 triệu. Cộng 63 điểm giao dịch tại cửa hàng — tổng huy động toàn hệ thống: 3 tỷ đồng, tổng cho vay: 2.5 tỷ đồng. Lãi ròng: 30 triệu/tháng."
+
+30 triệu đồng lãi/tháng — từ ngân hàng. Hùng gật đầu — ngân hàng đang trở thành trụ cột tài chính. Tiền sinh tiền — nhanh, mạnh, ổn định.
+
+「Giao dịch thành công (5 chi nhánh mới): +150 EXP. Tổng EXP: 15.390」
+
+---
+
+Hùng ngồi trong chi nhánh Sài Gòn — quầy giao dịch, khách xếp hàng. Ông quan sát — nhân viên ngân hàng Thương Gia, đồng phục xanh trắng, chuyên nghiệp. Quầy kính, két sắt, máy tính (hàng Nhật qua Tanaka). Khách gửi tiền, rút tiền, vay tiền — tất cả tại Thương Gia.
+
+Một khách — ông Tâm, năm mươi tuổi, chủ xưởng mộc nhỏ — đến vay vốn.
+
+"Anh Hùng, tôi cần vay 500.000 đồng — mua máy cưa mới, mở rộng xưởng. Tôi sản xuất bàn ghế — bán cho Thương Gia, cho cửa hàng. Thu nhập 50.000 đồng/tháng. Tôi trả được — 10.000 đồng/tháng trong 50 tháng."
+
+Hồng thẩm định — ông Tâm có xưởng, có doanh thu, có lịch sử tốt. Cô duyệt — cho vay 500.000 đồng, lãi 2%/tháng, trả 50 tháng. Ông Tâm vui — ông có vốn, mở rộng xưởng, tăng sản xuất.
+
+Hùng nhìn ông Tâm — ông vay tiền, mua máy, mở rộng. Thương Gia cho vay — và ông trả, mở rộng, tạo việc làm. Tiền sinh tiền — không chỉ cho Thương Gia, mà cho khách. Win-win.
+
+"Anh Hùng," ông Tâm nắm tay Hùng, "cảm ơn anh. Ngân hàng Thương Gia — cho vay dễ, lãi thấp. Ngân hàng nhà nước — không cho vay, vì tôi tư nhân. Ngân hàng Thương Gia — cho tôi vay, vì tôi làm ăn thật. Cảm ơn."
+
+Hùng mỉm cười. "Không có gì, ông. Thương Gia — giúp người làm ăn thật. Ông vay, ông mở rộng, ông trả — đó là win-win. Thương Gia win, ông win. Cùng phát triển."
+
+---
+
+Chiều, Hùng họp Hồng — phòng họp chi nhánh Sài Gòn.
+
+"Hồng, ngân hàng đang tốt — 30 triệu lãi/tháng. Nhưng em cần mở rộng — 4 chi nhánh nữa cuối 1993. Tổng 10 chi nhánh. Mục tiêu: 5 tỷ huy động, 4 tỷ cho vay, 50 triệu lãi/tháng."
+
+Hồng gật đầu. "Em sẽ mở — 4 chi nhánh: Nha Trang, Buôn Ma Thuột, Quy Nhơn, Vinh. Mỗi tháng 1 chi nhánh. Em sẽ đào tạo nhân viên — 5 người/chi nhánh, 2 tuần đào tạo."
+
+"Được. Và em cần thêm — sản phẩm mới. Tiền gửi tiết kiệm kỳ hạn 6 tháng, 12 tháng — lãi cao hơn. Chứng chỉ tiền gửi — doanh nghiệp gửi tiền, lấy chứng chỉ, cầm cố vay. Em thiết kế — sản phẩm tài chính đa dạng."
+
+Hồng mắt sáng — cô hiểu. Sản phẩm đa dạng = thu hút khách đa dạng. Tiền gửi tiết kiệm = người dân gửi lâu, lãi cao. Chứng chỉ tiền gửi = doanh nghiệp gửi, cầm cố, vay. Mỗi sản phẩm một khách — và mỗi khách một nguồn thu.
+
+"Em sẽ thiết kế — tiết kiệm 6 tháng (lãi 1.2%/tháng), tiết kiệm 12 tháng (lãi 1.5%/tháng), chứng chỉ tiền gửi (lãi 1.8%/tháng, cầm cố vay 80%). Em trình anh duyệt — tuần sau."
+
+"Tốt. Em thiết kế — anh duyệt. Cùng nhau — ngân hàng Thương Gia lớn nhất Việt Nam."
+
+Hồng gật đầu — cô sẽ làm. Cô ba mươi chín tuổi, giám đốc ngân hàng — và cô đang trở thành ngân hàng gia. Từ kế toán hợp tác xã đến giám đốc ngân hàng — cuộc đời cô thay đổi nhờ Thương Gia.
+
+---
+
+Tối ấy, Hùng ở Sài Gòn — căn hộ Thương Gia. Ông gọi bà Hà — điện thoại đường dài.
+
+"Bà, con ở Sài Gòn. Ngân hàng mở rộng — 6 chi nhánh rồi. Con mở thêm 4 nữa cuối năm."
+
+Bà Hà nói — giọng lo xa: "Cậu Hùng, ngân hàng — cẩn thận nhé. Tiền là của người ta, không phải của con. Nếu mất..."
+
+"Bà, con cẩn thận. Hồng quản lý — em ấy giỏi, cẩn thận. Nợ xấu 4% — thấp. Con không mất tiền người ta. Con hứa."
+
+Bà Hà yên tâm — bà tin cháu. Cháu luôn cẩn thận, luôn giữ lời. "Tốt. Bà tin cậu."
+
+Hùng cúp máy, nằm xuống giường. Ngoài cửa sổ, đêm Sài Gòn — đèn neon, xe máy, tiếng ồn. Sôi động — nhưng Hùng bình tĩnh. Ông suy nghĩ.
+
+Ngân hàng — đế chế trong đế chế. Tiền sinh tiền — nhanh, mạnh, ổn định. Nhưng rủi ro cao — một sai lầm = mất tất cả. Hùng biết — và ông cẩn thận. Hồng cẩn thận. Đội ngũ cẩn thận. Thương Gia — minh bạch, an toàn, uy tín. Đó là nguyên tắc — không bao giờ sai.
+
+Hùng nhắm mắt. Ngày mai — ông gặp ông Somchai (Thái Lan) và bà Sothea (Campuchia), bàn mở rộng xuất khẩu. Ngày mai nữa — ông về Hà Đông, kiểm tra máy cày. Mỗi ngày một việc — và đế chế lớn lên.
+
+Hành trình tiếp tục.

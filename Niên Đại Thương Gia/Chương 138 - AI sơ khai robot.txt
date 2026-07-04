@@ -1,0 +1,72 @@
+============================================================
+Chương 138: AI sơ khai — Robot Thương Gia
+============================================================
+
+Tháng 9 năm 2018. Hùng phát triển AI và robot Thương Gia — AI sơ khai, robot công nghiệp đầu tiên.
+
+AI — tương lai. Hùng mang kiến thức thế kỷ 21. Ông biết — AI sẽ thay đổi mọi thứ: sản xuất, y tế, giáo dục, giao thông. Robot — tự động hóa, hiệu quả, giảm nhân công. Thương Gia — tiên phong AI + robot Việt Nam.
+
+Hùng ngồi trong văn phòng, họp Minh — quản lý kỹ thuật, và ông Yamamoto.
+
+"Minh, AI + robot Thương Gia. AI — phần mềm: nhận dạng hình ảnh, xử lý ngôn ngữ tự nhiên, dự đoán dữ liệu. Robot — công nghiệp: robot lắp ráp, robot vận chuyển, robot kiểm tra. Vốn: 10 tỷ (R&D 5 tỷ + dây chuyền robot 5 tỷ)."
+
+Minh gật đầu. "Anh, AI + robot — em lo. AI — em + 30 kỹ sư CNTT, phát triển: nhận dạng hình ảnh (kiểm tra chất lượng), NLP (chatbot chăm sóc khách hàng), dự đoán (dự báo doanh thu, tồn kho). Robot — nhập Nhật (Yamamoto): robot lắp ráp (10 cái), robot vận chuyển AGV (20 cái), robot kiểm tra (5 cái). Vốn: 10 tỷ — R&D 5 tỷ + robot 5 tỷ."
+
+Ông Yamamoto gật đầu. "Hung-san, AI + robot — tương lai. Tanaka — cung cấp robot công nghiệp, công nghệ Nhật. Chất lượng — tốt, chính xác 99.9%. Tôi — tôi giúp. Thương Gia — tiên phong AI + robot Việt Nam."
+
+「Nhiệm vụ mới: AI + Robot Thương Gia
+- Mục tiêu: AI vận hành (nhận dạng, NLP, dự đoán) + 35 robot công nghiệp
+- Phần thưởng: 500 EXP, Kỹ năng Công nghệ cao lv4
+- Thời hạn: 12 tháng」
+
+---
+
+Hùng xây — phòng R&D AI, 15.000m², Thương Gia City. 30 kỹ sư CNTT — tuyển từ đại học Thương Gia (khoa CNTT) + nước ngoài. Phát triển AI:
+
+1. AI nhận dạng hình ảnh — kiểm tra chất lượng sản phẩm (thép, mì, quần áo, xe điện). Độ chính xác: 99.5% — cao hơn con người (95%). Áp dụng — 30 nhà máy Việt Nam, giảm 50% nhân công kiểm tra.
+
+2. AI xử lý ngôn ngữ tự nhiên (NLP) — chatbot chăm sóc khách hàng. Khách — gọi, chat, AI trả lời, giải quyết 80% vấn đề. Áp dụng — 108 cửa hàng, 42 nhà hàng, giảm 60% nhân công trực tổng đài.
+
+3. AI dự đoán — dự báo doanh thu, tồn kho, nhu cầu thị trường. Độ chính xác: 90% — cao hơn con người (70%). Áp dụng — toàn Thương Gia, tối ưu tồn kho, giảm 30% hàng tồn.
+
+Robot — nhập Nhật (Tanaka):
+- 10 robot lắp ráp — lắp ráp xe điện, thép, điện tử. Tốc độ: gấp 3 con người. Áp dụng — nhà máy xe điện, nhà máy thép.
+- 20 robot vận chuyển AGV — vận chuyển hàng trong kho, nhà máy. Tự động, không người. Áp dụng — 30 nhà máy Việt Nam + Thương Gia City.
+- 5 robot kiểm tra — kiểm tra chất lượng, đo lường chính xác 99.9%. Áp dụng — nhà máy xe điện, thép, mì.
+
+12 tháng sau — AI + robot hoạt động. AI vận hành: nhận dạng (99.5%), NLP (chatbot), dự đoán (90%). 35 robot công nghiệp: lắp ráp, vận chuyển, kiểm tra. Thương Gia — tự động hóa 30%, giảm 20% nhân công, tăng 25% năng suất.
+
+「Giao dịch thành công (AI + robot): +200 EXP. Tổng EXP: 48.940」
+
+「Nhiệm vụ hoàn thành: AI + Robot
+- AI vận hành ✓ (nhận dạng, NLP, dự đoán)
+- 35 robot công nghiệp ✓
+- Tự động hóa 30%, giảm 20% nhân công, tăng 25% năng suất
+- Phần thưởng: +500 EXP, Kỹ năng Công nghệ cao lv4
+- Tổng EXP: 49.440」
+
+「Kỹ năng Công nghệ cao cấp 4: Phát triển AI (nhận dạng, NLP, dự đoán), quản lý robot công nghiệp, tự động hóa nhà máy bậc thầy, R&D công nghệ cao bậc thầy, tiên phong AI Việt Nam, quản lý đội ngũ kỹ sư CNTT.」
+
+Công nghệ cao lv4. Thương Gia — tiên phong AI + robot Việt Nam. AI vận hành, 35 robot, tự động hóa 30%. Hùng mỉm cười — ông không chỉ tỷ phú, mà tiên phong AI. Từ bán rong đến AI + robot — hành trình 36 năm. Và AI — tương lai, tự động hóa, hiệu quả.
+
+---
+
+Tối ấy, Hùng về nhà. Bảo — bé mười bảy tuổi, học lớp 12, nói: "Bố, AI + robot — tiên phong! AI nhận dạng 99.5%, chatbot, dự đoán 90%. Robot lắp ráp, vận chuyển, kiểm tra. Bố — bố tiên phong AI Việt Nam. Con — con tự hào. Con — con sẽ học AI, robot, ở đại học Thương Gia."
+
+Hùng nhìn Bảo — con ông, muốn học AI. Ông — hạnh phúc. Bảo — thế hệ AI, hiểu tương lai.
+
+"Bảo, con — con học AI, robot. Khoa CNTT — con học nhận dạng, NLP, dự đoán, robot. Rồi — con về Thương Gia City, phát triển AI. Bố — bố dạy. Con — con tiếp. AI — tương lai, của con."
+
+Bảo gật đầu. "Con — con hứa. Học AI, robot, phát triển. Con — con tiếp bố. AI — tương lai, của con."
+
+Hạnh — cô mỉm cười. "Anh ơi, AI + robot — tiên phong. Em — em tự hào. Anh — anh tiên phong AI Việt Nam. Đó — di sản công nghệ, vĩnh viễn."
+
+Lan về — cô đi kiểm tra AI + robot. "Anh ơi, AI — thông minh! Chatbot — trả lời nhanh, chính xác. Robot — lắp ráp nhanh, chính xác. Tự động hóa — 30%, giảm nhân công, tăng năng suất. Em — em tự hào. 36 năm — từ bán rong đến AI. Hành trình — không tưởng."
+
+Hùng mỉm cười. "36 năm — và còn 2 năm. AI ✓, xe điện ✓, Thương Gia City ✓. Còn — xung đột cuối, chuyển giao, kết thúc. Phần 6 — gần hoàn thành. Thương Gia — di sản vĩ đại, mãi mãi."
+
+Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, dưa muối, chè. Sáu món. Bốn người ăn — Lan, Hùng, Hạnh, Bảo. Bát cơm bà.
+
+"Con mời bà ăn cơm. Bà — con làm AI + robot, tiên phong Việt Nam, cho bà. Bà — ăn, sống — trong tim."
+
+Yêu thương — đủ. Luôn đủ. Hành trình tiếp tục.

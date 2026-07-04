@@ -1,0 +1,86 @@
+============================================================
+Chương 78: Mở phòng khám — Tiếp tục mở rộng
+============================================================
+
+Tháng 9 năm 1994. Hùng mở rộng y tế — từ 30 phòng khám lên 50 phòng khám Thương Gia, phủ 50 tỉnh.
+
+Tuấn — bác sĩ, quản lý y tế — ngồi trong văn phòng, báo cáo Hùng.
+
+"Anh Hùng, 30 phòng khám hiện tại hoạt động tốt — 50.000 lượt khám/tháng, 15.000 trẻ tiêm phòng. Nhưng nhu cầu còn lớn — 20 tỉnh chưa có phòng khám Thương Gia. Người dân ở tỉnh nghèo vẫn thiếu y tế. Em đề xuất mở thêm 20 phòng khám — ở 20 tỉnh còn lại."
+
+Hùng xem danh sách — 20 tỉnh, đa số vùng sâu vùng xa. Ông gật đầu.
+
+"Được. 20 phòng khám mới. Vốn mỗi phòng khám: 15.000 đồng. Tổng: 300.000 đồng. Bác sĩ: 20 người, y tá: 40 người. Lương bác sĩ 200 đồng/tháng, y tá 80 đồng/tháng. Tổng quỹ lương: 7.200 đồng/tháng."
+
+Tuấn ghi chép, rồi nói: "Anh Hùng, em muốn thêm — phòng khám Thương Gia mở bệnh viện. Bệnh viện Thương Gia — 100 giường, phẫu thuật, cấp cứu, nội trú. Ở Hà Đông — cạnh tòa nhà Thương Gia. Vốn: 500.000 đồng. Em muốn — Thương Gia không chỉ khám, mà chữa bệnh nặng."
+
+Hùng suy nghĩ — bệnh viện. Trong năm 1994, bệnh viện tư nhân hiếm — đa số bệnh viện nhà nước, đông, thiếu, chậm. Bệnh viện Thương Gia — tư nhân, chất lượng, nhanh. Hùng thấy cơ hội — và trách nhiệm.
+
+"Được. Bệnh viện Thương Gia — 100 giường, Hà Đông. Vốn: 500.000 đồng (xây bệnh viện, máy móc X-ray, ultrasound, phòng mổ, phòng cấp cứu). Em lo — tuyển bác sĩ, y tá, thiết kế khoa. Mục tiêu: mở tháng 6 năm 1995."
+
+Tuấn mắt sáng — ông mơ ước điều này. Bệnh viện Thương Gia — không chỉ khám, mà chữa bệnh nặng. Cứu người — cứu thật sự, cứu triệt để.
+
+「Nhiệm vụ mới: 50 phòng khám + bệnh viện Thương Gia
+- Mục tiêu: 100.000 lượt khám/tháng, 100 giường bệnh viện, 20.000 trẻ tiêm phòng
+- Phần thưởng: 350 EXP, Kỹ năng Y tế lv3
+- Thời hạn: 12 tháng」
+
+---
+
+Hùng đi kiểm tra phòng khám — phòng khám Thương Gia Hà Đông, cạnh tòa nhà. Phòng khám 100m² — phòng khám, phòng tiêm, phòng thuốc, phòng X-ray nhỏ. Bác sĩ — tuấn, y tá — hai cô. Khách đông — người dân xếp hàng chờ khám.
+
+Hùng vào phòng khám — quan sát. Bác sĩ Tuấn khám — một bà cụ, bảy mươi tuổi, ho khan. Tuấn nghe phổi, xem họng, kê thuốc — thuốc ho, thuốc kháng sinh, vitamin. Bà cụ nhận thuốc — miễn phí (Thương Gia tài trợ người nghèo).
+
+"Bác sĩ ơi, cảm ơn." Bà cụ nói, giọng run. "Tôi ho hai tuần — không có thuốc, không có tiền khám. Phòng khám Thương Gia — khám miễn phí, thuốc miễn phí. Cảm ơn. Cảm ơn."
+
+Tuấn mỉm cười, nắm tay bà. "Không có gì, bà. Thương Gia — giúp người nghèo. Bà uống thuốc, nghỉ, sẽ khỏe. Tuần sau, bà đến khám lại — kiểm tra."
+
+Bà cụ gật đầu, nước mắt chảy. Bà ra về — tay cầm thuốc, lòng ấm. Thương Gia — cứu bà, cứu hàng ngàn người nghèo khác.
+
+Hùng nhìn bà cụ ra về, nước mắt lưng tròng. Đây là lý do — không phải tiền, không phải đế chế. Mà vì bà cụ — bảy mươi tuổi, ho hai tuần, không có thuốc. Thương Gia — cho bà thuốc, cho bà khỏe, cho bà hy vọng.
+
+「Giao dịch thành công (20 phòng khám mới): +150 EXP. Tổng EXP: 16.840」
+
+---
+
+Chiều, Hùng họp Tuấn — phòng họp, tòa nhà Thương Gia.
+
+"Tuấn, bệnh viện Thương Gia — em thiết kế. 100 giường, 5 khoa: nội, ngoại, sản, nhi, cấp cứu. Bác sĩ: 20 người (4/khoa), y tá: 40 người. Máy móc: X-ray, ultrasound, phòng mổ, lab xét nghiệm. Vốn: 500.000 đồng. Em lo — tuyển bác sĩ, mua máy móc, thiết kế khoa."
+
+Tuấn gật đầu. "Em sẽ làm. Nhưng em cần bác sĩ giỏi — bác sĩ phẫu thuật, bác sĩ sản, bác sĩ nhi. Bác sĩ giỏi — ít, làm bệnh viện nhà nước, lương thấp. Em đề xuất — lương 500 đồng/tháng, gấp năm bệnh viện nhà nước. Sẽ có bác sĩ giỏi đến."
+
+"Được. Lương 500 đồng/tháng — bác sĩ giỏi. Anh sẽ trả — vì bác sĩ giỏi = cứu người. Đầu tư bác sĩ = đầu tư sinh mạng."
+
+Tuấn mắt sáng — anh hiểu. Bác sĩ giỏi = cứu người. Thương Gia — đầu tư bác sĩ, đầu tư sinh mạng. Không phải chi phí — mà đầu tư, đầu tư quý nhất.
+
+"Anh Hùng, em sẽ tuyển — bác sĩ phẫu thuật, bác sĩ sản, bác sĩ nhi. Em sẽ tìm — qua bệnh viện, qua trường y, qua quan hệ. Em sẽ tuyển 20 bác sĩ giỏi nhất — cho bệnh viện Thương Gia."
+
+"Tốt. Em tuyển — anh lo vốn. Cùng nhau — bệnh viện Thương Gia, cứu người."
+
+---
+
+Tối ấy, Hùng về nhà. Bà Hà ngồi ở hiên, bế mèo Mít. Bà bảy mươi tuổi — nhưng khỏe, hồng hào. Bà nhìn cháu, mỉm cười.
+
+"Cậu Hùng, hôm nay con làm gì?"
+
+"Con mở rộng phòng khám, bà. 50 phòng khám — phủ 50 tỉnh. Và con mở bệnh viện — bệnh viện Thương Gia, 100 giường, phẫu thuật, cấp cứu. Con cứu người — không chỉ khám, mà chữa bệnh nặng."
+
+Bà Hà im lặng, nước mắt lưng tròng. Bà hiểu — bệnh nặng, không có bệnh viện, là chết. Bà từng thấy — người làng ốm nặng, không có bệnh viện, mất. Bà biết — bệnh viện là cứu mạng.
+
+"Cậu làm tốt, Hùng ạ. Cậu cứu người. Bà... bà tự hào."
+
+Hùng nắm tay bà, mỉm cười. "Con học từ bà — cứu người. Bà dạy con."
+
+Bà Hà lắc đầu, cười qua nước mắt. "Bà không dạy — bà chỉ yêu. Yêu thương là đủ."
+
+Lan về — cô đi kiểm tra phòng khám miền Nam. "Anh ơi, phòng khám miền Nam — 30 phòng khám, 60.000 lượt khám/tháng. Người dân đến đông — không chỉ khám, mà tiêm phòng, khám định kỳ. Em thấy — trẻ em khỏe hơn, người dân khỏe hơn. Thương Gia — cứu người, thật sự."
+
+Hùng gật đầu. "Đúng. Y tế — không phải ngành kiếm tiền, mà ngành cứu mạng. Mỗi lượt khám — một người khỏe. Mỗi trẻ tiêm phòng — một trẻ không bệnh. Mỗi bệnh viện — hàng ngàn người chữa. Đó là giá trị — giá trị lớn hơn tiền."
+
+Lan im lặng, suy nghĩ. Cô hai mươi ba tuổi, quản lý chuỗi cửa hàng + ngân hàng + trường + phòng khám. Cô đang trở thành người quản lý đa ngành — và cô hiểu: kinh doanh không chỉ tiền, mà cứu người.
+
+Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — no, ngon, ấm. Ba người ăn — bà Hà, Lan, Hùng. Gia đình.
+
+Sau bữa tối, Hùng vào không gian — 8.000m². Ông ngồi bên suối, suy nghĩ. Y tế — 50 phòng khám, 100.000 lượt khám/tháng, 20.000 trẻ tiêm phòng. Và bệnh viện — sắp mở, 100 giường, cứu người nặng. Thương Gia — đế chế y tế, đế chế cứu mạng. Từ bán hàng đến cứu người — hành trình không ngờ. Nhưng đúng — vì y tế là sinh mạng, là hy vọng, là nhân văn.
+
+Hành trình tiếp tục.
