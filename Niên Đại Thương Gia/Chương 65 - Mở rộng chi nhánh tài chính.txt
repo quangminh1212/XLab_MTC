@@ -1,0 +1,119 @@
+============================================================
+Chương 65: Mở rộng cho vay — Ngân hàng Thương Gia
+============================================================
+
+Tháng 12 năm 1991. Hùng thành lập Ngân hàng TMCP Thương Gia — ngân hàng tư nhân đầu tiên của Thương Gia.
+
+Hùng ngồi trong văn phòng — tòa nhà 5 tầng Hà Đông, tầng 4, phòng chủ tịch. Trên bàn, chồng hồ sơ dày — giấy phép ngân hàng, vốn điều lệ, danh sách cổ đông, kế hoạch kinh doanh. Ông nhìn giấy phép — "Giấy phép thành lập Ngân hàng TMCP Thương Gia, Số GP-001/NHNN, Ngày 10/12/1991, Chủ tịch HĐQT: Trần Văn Hùng, Giám đốc: Trần Thị Hồng."
+
+Ngân hàng — ngành thứ mười một. Thương Gia không chỉ bán hàng, sản xuất, vận tải — còn quản lý tiền. Tiền của người dân, tiền của doanh nghiệp. Thương Gia đang trở thành tập đoàn tài chính — đế chế trong đế chế.
+
+Hùng gọi Hồng — cô đang ở phòng giám đốc, tầng 2.
+
+"Hồng, anh cần họp — kế hoạch ngân hàng. 2 giờ chiều, phòng họp."
+
+"Em nghe. Em sẽ chuẩn_idx — báo cáo tài chính, kế hoạch cho vay, kế hoạch huy động."
+
+---
+
+2 giờ chiều, phòng họp — tòa nhà Thương Gia, tầng 5. Hùng, Hồng, Đức (chiến lược), và Tanaka (đối tác Nhật, tham gia qua điện thoại — đường dài Hà Nội-Tokyo).
+
+Hùng mở họp: "Ngân hàng Thương Gia — vốn điều lệ 500 triệu đồng. Cổ đông: Thương Gia 60% (300 triệu), Tanaka Trading 20% (100 triệu), cổ đông khác 20% (100 triệu). Mình — Thương Gia — nắm controlling. Anh làm Chủ tịch HĐQT, Hồng làm Giám đốc."
+
+Hồng trình bày: "Kế hoạch ngân hàng 1992:
+1. Huy động tiền gửi — lãi suất 1%/tháng (cao hơn ngân hàng nhà nước 0.5%). Mục tiêu: 1 tỷ đồng tiền gửi trong 6 tháng.
+2. Cho vay doanh nghiệp nhỏ — lãi 2%/tháng (thấp hơn ngân hàng nhà nước 1%). Mục tiêu: 800 triệu đồng cho vay.
+3. Cho vay nông dân — lãi 1.5%/tháng (thấp hơn tư nhân 8.5%). Mục tiêu: 200 triệu đồng cho vay.
+4. Cho vay tiêu dùng — lãi 2.5%/tháng. Mục tiêu: 100 triệu đồng.
+5. Tổng cho vay: 1.1 tỷ đồng. Lãi thuần: 22 triệu đồng/tháng. Chi phí: 10 triệu (lương, mặt bằng, hệ thống). Lãi ròng: 12 triệu đồng/tháng."
+
+12 triệu đồng lãi/tháng — chỉ từ ngân hàng. Hùng gật đầu — ngân hàng là ngành lợi nhuận cao nhất. Tiền sinh tiền — không cần sản xuất, không cần vận chuyển, chỉ cần quản lý rủi ro.
+
+Đức hỏi: "Rủi ro — nợ xấu. Nếu người vay không trả?"
+
+Hồng trả lời: "Em đánh giá rủi ro — mỗi khoản vay, em kiểm tra khả năng trả nợ. Doanh nghiệp: xem doanh thu, tài sản, lịch sử. Nông dân: xem ruộng, lao động, gia đình. Em chỉ cho vay người có khả năng trả — không cho vay mù quáng. Dự kiến nợ xấu: 5% — trong tầm kiểm soát."
+
+Tanaka nói qua điện thoại — tiếng Nhật, Hùng dịch: "Mr. Tanaka nói: ngân hàng Thương Gia có lợi thế — thương hiệu uy tín, mạng lưới 63 cửa hàng, 800 nhân sự. Mỗi cửa hàng là một điểm giao dịch — người dân gửi tiền, vay tiền tại cửa hàng Thương Gia. Mạng lưới = lợi thế cạnh tranh."
+
+Hùng mắt sáng — đúng! Cửa hàng Thương Gia = điểm giao dịch ngân hàng. 63 cửa hàng = 63 chi nhánh ngân hàng. Không cần mở chi nhánh riêng — dùng cửa hàng hiện có. Tiết kiệm chi phí, tận dụng mạng lưới.
+
+"Hồng, em mở giao dịch ngân hàng tại 63 cửa hàng Thương Gia. Mỗi cửa hàng có một quầy giao dịch — nhân viên cửa hàng kiêm nhân viên ngân hàng. Người dân gửi tiền, vay tiền tại cửa hàng — tiện, nhanh, gần."
+
+Hồng gật đầu, mắt sáng. "Tuyệt vời — 63 chi nhánh không tốn tiền mặt bằng. Em sẽ đào tạo nhân viên cửa hàng — giao dịch ngân hàng cơ bản: gửi tiền, rút tiền, vay tiền. 2 tuần đào tạo, bắt đầu tháng 1 năm 1992."
+
+「Nhiệm vụ mới: Thành lập ngân hàng Thương Gia
+- Mục tiêu: 1 tỷ đồng huy động, 1.1 tỷ đồng cho vay, 12 triệu lãi/tháng
+- Phần thưởng: 400 EXP, Kỹ năng Tài chính lv2
+- Thời hạn: 6 tháng」
+
+---
+
+Hùng đi đăng ký ngân hàng — nộp hồ sơ tại Ngân hàng Nhà nước. Thủ tục phức tạp — giấy phép, vốn điều lệ, hồ sơ cổ đông, kế hoạch kinh doanh. Nhưng Hùng có anh Khanh — bây giờ là cán bộ cấp tỉnh, quan hệ rộng. Khanh giúp đẩy nhanh thủ tục.
+
+"Anh Hùng, giấy phép ngân hàng — em sẽ giúp. Nhưng em nói thật — ngân hàng tư nhân đầu tiên, nhiều người giám sát. Anh phải làm sạch, minh bạch, không sai một đồng."
+
+"Anh biết. Anh làm sạch — Hồng quản lý, em kiểm tra. Mọi đồng tiền đều có giấy tờ, đều rõ ràng. Thương Gia không gian lận — Thương Gia minh bạch."
+
+Khanh gật đầu — anh tin Hùng. Hùng luôn sạch — từ bán rong đến tập đoàn, không một lần gian lận. Đó là lý do Khanh giúp — anh tin.
+
+---
+
+Tháng 1 năm 1992. Ngân hàng Thương Gia khai trương — 63 điểm giao dịch tại 63 cửa hàng Thương Gia.
+
+Ngày khai trương — Hùng đứng trước tòa nhà Thương Gia Hà Đông, cắt băng đỏ. Báo chí đến — báo Nhân Dân, báo Lao Động, đài truyền hình. Lần thứ hai Thương Gia lên báo — lần đầu xe đạp, lần này ngân hàng.
+
+"Anh Hùng, ngân hàng Thương Gia — ngân hàng tư nhân đầu tiên ở Hà Đông. Anh nghĩ gì?" Phóng viên hỏi.
+
+Hùng nhìn ống kính, mỉm cười. "Ngân hàng Thương Gia — cho người dân gửi tiền lãi cao, vay tiền lãi thấp. Không cắt cổ, không gian lận. Minh bạch, an toàn, uy tín. Thương Gia — ngân hàng của người dân."
+
+Ngày khai trương — người dân đến đông. Họ gửi tiền — vì lãi cao (1%/tháng, cao hơn ngân hàng nhà nước 0.5%). Họ vay tiền — vì lãi thấp (1.5-2.5%, thấp hơn tư nhân 10%). Họ tin Thương Gia — vì thương hiệu, vì uy tín, vì 8 năm không bao giờ thất hứa.
+
+Tổng huy động ngày đầu: 50.000.000 đồng (50 triệu). Tổng cho vay ngày đầu: 30.000.000 đồng (30 triệu). Hùng mỉm cười — khởi đầu tốt.
+
+「Giao dịch thành công: +100 EXP. Tổng EXP: 13.730」
+
+---
+
+Tối ấy, Hùng về nhà. Bà Hà ngồi ở phòng khách, xem TV. Trên TV, bản tin — "Ngân hàng TMCP Thương Gia khai trương — ngân hàng tư nhân đầu tiên ở Hà Đông. Chủ tịch Trần Văn Hùng: 'Ngân hàng của người dân.'"
+
+Bà Hà nhìn TV, nhìn cháu, rồi nói: "Cậu Hùng, ngân hàng là gì? Người ta gửi tiền, cậu giữ tiền à?"
+
+"Dạ, bà. Người ta gửi tiền — con giữ, trả lãi. Người ta vay tiền — con cho vay, thu lãi. Con quản lý tiền — giúp người gửi tiền sinh lời, giúp người vay tiền có vốn."
+
+Bà Hà suy nghĩ, rồi nói: "Vậy con phải cẩn thận — tiền là của người ta, không phải của con. Nếu mất, người ta khổ."
+
+Hùng nắm tay bà, mỉm cười. "Bà nói đúng — tiền là của người ta. Con cẩn thận, minh bạch, không mất một đồng. Con hứa."
+
+Bà Hà gật đầu — yên tâm. Bà không hiểu ngân hàng — nhưng bà hiểu đạo lý: tiền của người ta phải giữ cẩn thận. Và cháu bà hiểu — cháu luôn hiểu.
+
+Lan về — cô kiêm nhiệm: quản lý chuỗi cửa hàng + giao dịch ngân hàng. "Anh ơi, ngân hàng ngày đầu tốt lắm — 50 triệu huy động, 30 triệu cho vay. Nhân viên cửa hàng học nhanh — giao dịch cơ bản, gửi rút vay, đều làm được."
+
+"Được. Mở rộng — mỗi tháng, huy động tăng 20%. Mục tiêu: 1 tỷ đồng trong 6 tháng."
+
+Lan gật đầu, rồi cười. "Anh, em bây giờ quản lý cửa hàng AND ngân hàng. Em hai mươi hai tuổi, quản lý hai ngành. Em... em không ngờ."
+
+Hùng nhìn em, mỉm cười. "Em giỏi — em làm được. Và sau này, em sẽ quản lý nhiều hơn — không chỉ cửa hàng và ngân hàng, mà toàn bộ đế chế. Anh sẽ dạy em — dần dần."
+
+Lan mắt sáng — cô sẽ quản lý đế chế. Cô hai mươi hai tuổi, và cô có cả tương lai trước mặt. Cô sẽ học, sẽ lớn, sẽ mạnh — cùng anh, cùng Thương Gia.
+
+Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — thịnh soạn. Ba người ăn — bà Hà, Lan, Hùng. Ấm, vui, no.
+
+Sau bữa tối, Hùng vào không gian — 8.000m². Ông ngồi bên suối, nghe nước chảy. Hệ thống hiển thị:
+
+「Tiến độ Phần 2:
+- Xe đạp ✓ (+300 EXP)
+- Vận tải ✓ (+200 EXP)
+- Ngân hàng: đang hoạt động (+100 EXP, +400 khi hoàn thành)
+- Máy cày: đang xây (tháng 8)
+- Máy gặt: đang thiết kế (tháng 11)
+- EXP: 13.730 / 19.500 (70%)」
+
+13.730 EXP — còn 5.770. Hùng tính — ngân hàng +400, máy cày +300, máy gặt +300, giáo dục +250, y tế +250, xây dựng +200, năng lượng +250, từ thiện +300. Tổng: 2.250. Còn 3.520 — từ giao dịch, nhiệm vụ phụ, và hoàn thành Phần 2 (+1.000). Đủ — khả thi.
+
+Hùng thoát không gian, nằm xuống giường. Ngoài cửa sổ, đêm Hà Đông — trăng sáng, sao lấp lánh, gió lạnh. Bà Hà ngủ ngon. Lan ngủ — cô mệt, ngủ say, mỉm cười.
+
+Hùng nhắm mắt. Ngân hàng — đế chế trong đế chế. Tiền sinh tiền. Và Thương Gia — từ bán hàng đến ngân hàng. Từ thương gia đến tài chính gia.
+
+Năm 1992 — năm tài chính hóa. Năm của ngân hàng Thương Gia.
+
+Hành trình tiếp tục.

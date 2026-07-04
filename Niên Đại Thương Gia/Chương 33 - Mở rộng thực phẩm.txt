@@ -1,0 +1,44 @@
+============================================================
+Chương 33: Mở rộng thực phẩm
+============================================================
+
+Tháng 2 năm 1984. Xưởng thực phẩm hoạt động ổn định — 30.000 gói/tháng, bán qua cửa hàng và đại lý. Mì gói Thương Gia — bao bì giấy, nhãn đỏ, "Mì Thương Gia — Ngon, Rẻ, Việt Nam" — trở thành hàng quen thuộc ở sáu tỉnh.
+
+Mì Thương Gia khác mì nhập khẩu — gia vị đậm đà kiểu Việt, sợi mì dai, không mềm như mì Thái. Người dân thích — vừa no, vừa ngon, vừa rẻ. 4 đồng/gói — bằng nửa giá mì nhập khẩu.
+
+Hùng mở rộng — thêm hai xưởng thực phẩm: một ở Phủ Lý, một ở Hạ Long. Mỗi xưởng 30.000 gói/tháng. Tổng: 90.000 gói/tháng, lãi 90.000 đồng/tháng.
+
+「Nhiệm vụ hoàn thành: Sản xuất thực phẩm đóng gói
+- 30.000 gói/tháng ✓ (đạt và vượt — 90.000 gói/tháng)
+- Phần thưởng: +150 EXP, Kỹ năng Sản xuất thực phẩm lv1
+- Tổng EXP: 3.850 + 150 + (giao dịch) = 4.200」
+
+「Kỹ năng Sản xuất thực phẩm cấp 1: Đánh giá chất lượng thực phẩm 90%, tối ưu quy trình, giảm 15% hao hụt, quản lý an toàn vệ sinh cơ bản.」
+
+Mười kỹ năng. 4.200 EXP. Hùng đang tiến nhanh — nhanh hơn cả dự kiến.
+
+Hùng cũng mở rộng xuất khẩu thực phẩm — mì gói Thương Gia xuất khẩu sang Lào và Campuchia. Ông Kham (Lào) nhập 5.000 gói/tháng, bà Sothea (Campuchia) nhập 10.000 gói/tháng. Tổng xuất khẩu: 15.000 gói/tháng, lãi 15.000 đồng/tháng.
+
+Thực phẩm — ngành xuất khẩu tốt. Vì thực phẩm nhẹ, dễ vận chuyển, nhu cầu quốc tế lớn. Mì gói Việt Nam ở Lào và Campuchia — hàng độc đáo, không cạnh tranh.
+
+Lan quản lý chuỗi cửa hàng, và cô đề xuất: "Anh ơi, mình nên bán mì Thương Gia ở cửa hàng — đặt kệ riêng, trưng bày đẹp. Mì là hàng hút — người vào mua quần áo sẽ mua thêm mì."
+
+Hùng gật đầu. "Đúng — cross-sell. Bán chéo. Khách vào mua một thứ, mua thêm thứ khác. Em tự quyết."
+
+Lan triển khai — kệ mì Thương Gia ở tất cả tám cửa hàng. Mì bán nhanh — khách vào mua quần áo, thấy mì, mua thêm. Doanh thu mỗi cửa hàng tăng 20%.
+
+Tối ấy, Hùng ngồi ngoài sân, kiểm tra tài chính:
+- Tiền ngoài: ~25.000 đồng (tổng tài sản)
+- Tiền trong không gian: 10.000 đồng
+- EXP: 4.200
+- Không gian: 3.000m²
+- Cửa hàng: 8
+- Nhà hàng: 4
+- Xưởng: 10 (7 cũ + 3 thực phẩm)
+- Mảnh đất: 15
+- Đại lý: 9
+- Đối tác quốc tế: 3
+
+Đế chế Thương Gia đang lớn — đều đặn, chắc chắn. Hùng mỉm cười, nhìn trời. Năm 1984 mở ra — năm của mở rộng, của sản xuất mới, của xuất khẩu lớn.
+
+Hành trình tiếp tục.

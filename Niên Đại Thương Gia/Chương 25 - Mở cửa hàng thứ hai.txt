@@ -1,0 +1,50 @@
+============================================================
+Chương 25: Mở cửa hàng thứ hai
+============================================================
+
+Ngày thứ năm mươi tám. Hùng mở cửa hàng Thương Gia thứ hai — ở Hà Đông.
+
+Hà Đông là thị xã gần huyện Quốc Oai, đông dân, chợ lớn, nhu cầu hàng hóa cao. Hùng thuê mặt bằng mặt đường chợ Hà Đông — căn nhà cấp bốn, 40m², thuê 80 đồng/tháng. Anh Khanh giúp làm giấy phép (đứng tên ông Tâm, cùng như cửa hàng đầu).
+
+Cửa hàng thứ hai bày hàng giống cửa hàng đầu — quần áo, giày dép, túi xách, vải, thuốc men, đồ dùng sinh hoạt. Lan điều hành — cô đến Hà Đông mỗi ngày, trông cửa hàng, bán hàng. Bà Xuân trông cửa hàng huyện Quốc Oai (cô đã học bán hàng cơ bản).
+
+Khai trương cửa hàng thứ hai — đông khách. Tin đồn lan: "Thương Gia mở chi nhánh Hà Đông — hàng xịn, giá rẻ." Người dân đến đông, xếp hàng chờ mua.
+
+Ngày khai trương: bán 800 đồng — quần áo 300, giày 200, túi 150, vải 50, thuốc 50, đồ dùng 50.
+
+「Giao dịch thành công! +50 EXP. Tổng EXP: 1.625」
+
+Hai cửa hàng — huyện Quốc Oai và Hà Đông. Hùng đang xây dựng chuỗi — không chỉ một cửa hàng, mà nhiều. Mỗi cửa hàng một thị trường, mỗi thị trường một nguồn thu.
+
+---
+
+Hùng cũng mở nhà hàng đầu tiên — "Nhà Hàng Thương Gia" ở huyện Quốc Oai.
+
+Trong thời bao cấp, nhà hàng ít — người dân không có tiền ăn ngoài, chỉ có quán phở, quán bún nhỏ. Nhà hàng thật sự — có cơm, có canh, có thịt, có đồ uống — là xa xỉ. Nhưng Hùng thấy cơ hội: cán bộ huyện, giáo viên, y tá, người có thu nhập cao hơn — họ cần chỗ ăn uống, tiếp khách, họp mặt.
+
+Hùng thuê mặt bằng cạnh cửa hàng — căn nhà lớn, 60m², sửa thành nhà hàng. Ông Lân đóng bàn ghế gỗ, bếp xây mới, biển hiệu "Nhà Hàng Thương Gia" treo cao.
+
+Thực đơn: cơm trắng, thịt bò xào, thịt heo kho, gà luộc, canh các loại, cá chiên, trứng chiên, rau luộc, dưa muối. Đơn giản nhưng no — theo tiêu chuẩn thời bao cấp, đây là "tiệc". Giá: 5 đồng/phần cơm bình thường, 10 đồng/phần cơm đặc biệt (có thịt bò).
+
+Hùng thuê bà Tám — đầu bếp làng, nấu ăn giỏi — làm bếp trưởng. Lương 50 đồng/tháng. Hai phụ bếp: 30 đồng/tháng mỗi người.
+
+Khai trương nhà hàng — khách đến đông. Cán bộ huyện, giáo viên, y tá — họ đến ăn trưa, ăn tối. Cơm trắng, thịt bò xào, canh — no, ngon, rẻ hơn tự nấu (vì nguyên liệu từ kho không gian, giá vốn thấp).
+
+Ngày khai trương nhà hàng: phục vụ 50 suất trưa, 30 suất tối. Tổng: 80 suất × 7 đồng trung bình = 560 đồng.
+
+「Giao dịch thành công! +40 EXP. Tổng EXP: 1.665」
+
+Nhà hàng đầu tiên — hoạt động tốt. Hùng mỉm cười. Phần 1 cần 4 nhà hàng — ông đã có 1.
+
+Tối ấy, Hùng ngồi ngoài sân, kiểm tra tài chính:
+- Tiền ngoài: 12.286 (ngày 50) + 800 (cửa hàng 2) + 560 (nhà hàng) - 80 (thue cửa hàng 2) - 150 (sửa nhà hàng) - 110 (lương bếp) = 13.306 đồng
+- Tiền trong không gian: 10.000 đồng
+- EXP: 1.665
+- Cửa hàng: 2
+- Nhà hàng: 1
+- Xưởng: 3
+- Mảnh đất: 1
+
+13.306 đồng. Còn hai ngày nữa để hết 60 ngày Phần 1. Ông cần hoàn thành tối đa.
+
+Hành trình tiếp tục.

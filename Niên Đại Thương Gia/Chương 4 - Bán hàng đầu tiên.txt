@@ -1,111 +1,175 @@
-============================================================
+﻿============================================================
 Chương 4: Bán hàng đầu tiên
 ============================================================
 
-Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông mở mắt ra, nhìn thấy ánh sáng vàng yếu ớt chiếu qua khe cửa sổ. Đây là buổi sáng của một ngày mới, một ngày mà ông sẽ bắt đầu hành trình kinh doanh của mình. Ông ngồi dậy, cảm nhận sự hồi hộp trong lòng. Đây là lần đầu tiên ông sẽ bán hàng trong thời bao cấp, và ông muốn làm tốt.
+Sáng ngày thứ ba, Hùng tỉnh dậy trước lúc gà gáy.
 
-Ông kiểm tra không gian, suy nghĩ về kế hoạch bán hàng. Ông quyết định bắt đầu bán hàng, nhưng chỉ bán một số lượng nhỏ gạo trắng và thịt bò, đủ để kiếm tiền mà không bị nghi ngờ. Ông biết phải cẩn thận, không để ai phát hiện nguồn hàng của mình. Ông biết rằng trong thời bao cấp, việc có hàng hóa khan hiếm có thể bị nghi ngờ, và ông cần cẩn thận để bảo vệ bí mật của hệ thống.
+Không phải vì alarm — mà vì đầu ông đang chạy kế hoạch. Lý Minh từng có thói quen nằm suy nghĩ về architecture, về thuật toán, về cách refactor code trước khi ngủ và sau khi thức. Giờ đây, ông nằm suy nghĩ về hàng hóa, giá cả, và chiến lược bán hàng. Bản chất không khác — đều là tối ưu hóa tài nguyên trong môi trường có ràng buộc.
 
-Ông suy nghĩ về kế hoạch chi tiết cho ngày hôm nay. Ông sẽ bán 2kg gạo trắng và 0.5kg thịt bò, một lượng nhỏ đủ để kiếm tiền nhưng không gây chú ý. Ông sẽ bán tại chợ tự phát, nơi buôn bán lén lút, không bị chính phủ kiểm soát. Ông sẽ bán với giá thấp hơn giá thị trường, để thu hút khách hàng và xây dựng uy tín. Ông sẽ nói là anh đi làm thêm ở huyện thành và kiếm được hàng hóa, để giải thích nguồn gốc của hàng hóa.
+Hôm nay ông sẽ bán hàng ở huyện thành lần thứ hai. Nhưng khác hôm qua — hôm nay ông sẽ không chỉ bán quần áo. Ông sẽ mang theo thêm một ít thực phẩm cao cấp: trứng tươi và mì gói. Đây là hai mặt hàng mà Cung Tiêu Xã không có, chợ huyện hiếm, và người dân cần — đặc biệt là gia đình có trẻ con hoặc người ốm.
 
-Ông lấy từ không gian ra 2kg gạo trắng và 0.5kg thịt bò, cất vào túi, rồi đi đến khu chợ tự phát huyện Quốc Oai. Đây là nơi buôn bán lén lút, không được chính phủ cho phép, nhưng người dân vẫn buôn bán vì nhu cầu quá lớn. Ông đi nhanh, bước chân vững chắc, không muốn để ai chú ý. Ông cẩn thận không để ai nhìn thấy ông lấy hàng hóa từ không gian, vì ông đã sử dụng tính năng ẩn giấu.
+Nhưng ông phải cẩn thận. Thực phẩm dễ gây chú ý hơn quần áo — vì trong thời bao cấp, ai có nhiều thực phẩm khan hiếm thì bị nghi buôn lậu. Quần áo thì khác — có thể nói là hàng từ Hà Nội, do người thân gửi, hoặc mua ở chợ trời. Thực phẩm thì khó giải thích hơn.
 
-Ông đi trên con đường đất đỏ, hai bên là những cánh đồng lúa xanh mướt. Đây là mùa lúa, và cánh đồng đang tràn đầy sức sống. Ông có thể thấy những người nông dân đang làm việc trên đồng, cày bừa, gieo hạt, chăm sóc lúa. Họ mặc áo bà ba, đội nón lá, làm việc chăm chỉ dưới ánh nắng mặt trời. Ông cảm thấy kính trọng những người nông dân này, những người làm việc chăm chỉ để nuôi sống gia đình và đất nước.
+Hùng quyết định: chỉ mang 20 quả trứng và 2 thùng mì gói. Số lượng nhỏ, dễ giấu, dễ bán nhanh. Quần áo vẫn là mặt hàng chính — 5 bộ, giống hôm qua.
 
-Ông suy nghĩ về việc bán hàng hóa trong thời bao cấp. Trong thời bao cấp, hàng hóa khan hiếp, ai có hàng hóa sẽ có lợi thế. Ông biết rằng gạo trắng và thịt bò là những hàng hóa xa xỉ, và bán chúng sẽ mang lại lợi nhuận lớn. Nhưng ông cũng biết rằng ông cần cẩn thận, không để bị nghi ngờ về nguồn hàng của mình. Ông sẽ nói là anh đi làm thêm ở huyện thành và kiếm được hàng hóa, để giải thích nguồn gốc của hàng hóa.
+Ông bước ra sân. Trời còn tối, sao còn lấp lánh. Bà Hà chưa dậy — bà dậy lúc gà gáy, không sớm hơn. Hùng vào bếp, nhóm lửa, nấu cơm sáng. Nồi cơm trắng còn thừa tối qua, ông hâm nóng, chiên thêm mấy quả trứng (lấy từ không gian, ẩn giấu). Mâm cơm sáng: cơm trắng, trứng chiên, nước mắm. Đơn giản nhưng no.
 
-Khi đến chợ, Trần Văn Hùng tìm một vị trí tốt, trải khăn ra và bắt đầu bán hàng. Chợ tự phát đông đúc, người ra người vào, ai cũng đang tìm kiếm hàng hóa để mua. Chợ tự phát nằm ở ngoại ô thị trấn, nơi ít người qua lại, để tránh bị công an phát hiện. Tại đây, ông thấy nhiều người bán đủ thứ: gạo, thịt, quần áo, thậm chí cả radio. Đây là nơi buôn bán tự phát, không được chính phủ cho phép, nhưng người dân vẫn buôn bán vì nhu cầu quá lớn.
+Bà Hà ra bếp, thấy mâm cơm đã sẵn, sững người. "Cậu nấu rồi? Bà chưa thấy cậu nấu bao giờ."
 
-Ông chọn một vị trí gần lối vào chợ, nơi nhiều người đi qua. Ông trải khăn ra, bày gạo trắng và thịt bò lên. Gạo trắng thơm ngát, hạt gạo trắng tinh, khác hẳn với gạo lứt mà người dân thường ăn. Thịt bò màu đỏ tươi, mùi thơm nức mũi. Mọi người đi qua đều ngoái lại nhìn, vì đây là những hàng hóa xa xỉ trong thời bao cấp.
+"Con tập nấu." Hùng nói. "Từ nay con nấu sáng, bà nghỉ."
 
-Gạo trắng và thịt bò của ông nhanh chóng thu hút sự chú ý của người dân, vì đây là những hàng hóa xa xỉ trong thời bao cấp. Người dân tụ tập quanh sạp hàng của ông, ngạc nhiên khi thấy gạo trắng và thịt bò được bán công khai. Họ tự hỏi ông lấy đâu ra những hàng hóa này, và tại sao ông lại bán chúng với giá rẻ.
+Bà Hà nhìn cháu, đôi mắt mờ ấm lên. Bà ngồi xuống, bốc cơm, ăn. Miếng trứng chiên vàng ươm, bốc mùi thơm — bà nhắm mắt, nhai chậm, tận hưởng.
 
-"Gạo trắng! Thịt bò!" ông gọi, giọng nói to nhưng không quá lớn. "Giá tốt! Hàng chất lượng!"
+Lan ra sau, nhìn mâm cơm, nhìn anh đang rửa nồi, và cô cười — nụ cười nhỏ, nhẹ, nhưng thật. Cô bắt đầu quen với "anh trai mới" — người dậy sớm, nấu cơm, rửa bát, và mang tiền về. Cô không hỏi thêm về nguồn gốc — cô chỉ nhận và tin.
 
-Một người phụ nữ trung niên đi lại gần, ánh mắt nghi ngờ nhìn ông. "Gạo trắng bán thế nào? Có thật không?" Người phụ nữ mặc áo bà ba màu xanh cũ kỹ, với khuôn mặt gầy gò và đôi mắt lo lắng. Bà có vẻ là một nông dân đi chợ để mua lương thực cho gia đình, nhưng chưa từng thấy gạo trắng được bán công khai như vậy.
+Ăn xong, Hùng nói: "Con đi huyện thành lại hôm nay. Bà và Lan ở nhà, con về chiều."
 
-"4 đồng một kg," Trần Văn Hùng nói, giọng nói bình tĩnh. "Rẻ hơn chỗ khác, hàng chất lượng." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng giá 4 đồng một kg là rẻ hơn giá thị trường, và ông muốn thu hút khách hàng bằng giá tốt.
+Bà Hà gật đầu. "Đi cẩn thận, đừng ở lại quá tối."
 
-Người phụ nữ ngạc nhiên, đôi mắt mở to. "Thật sao? Tôi mua 1kg xem sao." Bà nói, giọng nói đầy ngạc nhiên. Bà chưa từng thấy gạo trắng được bán với giá rẻ như vậy, và bà muốn thử xem gạo có thật chất lượng như ông nói hay không.
+Hùng bước ra cổng. Đường đất đỏ, sương sớm còn đọng trên cỏ, mùi đất ẩm bốc lên. Ông đi bộ — bảy cây số, một tiếng rưỡi. Lần này cơ thể đỡ mệt hơn hôm qua — đã quen, đã điều nhịp.
 
-Trần Văn Hùng cân gạo, lấy tiền, và giao hàng. Người phụ nữ vui vẻ rời đi, miệng cười tít mắt vì mua được gạo trắng với giá rẻ. Bà cầm túi gạo, cảm nhận sự mịn màng của từng hạt gạo. Bà chưa từng nghĩ rằng một ngày nào đó bà sẽ lại được mua gạo trắng, và với giá rẻ như vậy. Bà cảm thấy hạnh phúc, vì bà biết rằng gia đình bà sẽ có một bữa ăn ngon.
+Đến huyện, chợ đã đông. Hùng đi thẳng vào hẻm gần chợ — "địa điểm" quen thuộc hôm qua. Ông nhắm mắt, mở không gian, lấy ra 5 bộ quần áo, 20 quả trứng (để trong rổ tre, ẩn giấu), và 2 thùng mì gói.
 
-Tin lan nhanh, ngày càng nhiều người đến mua hàng của Trần Văn Hùng. Trong vòng một giờ, ông đã bán hết gạo và thịt mang theo. Người dân xếp hàng dài, ai cũng muốn mua gạo trắng và thịt bò với giá rẻ. Ông bán gạo trắng với giá 4 đồng một kg, rẻ hơn giá thị trường 1 đồng. Ông bán thịt bò với giá 12 đồng một kg, cũng rẻ hơn giá thị trường. Mọi người đều vui vẻ khi mua được hàng hóa xa xỉ với giá rẻ.
+Quần áo trước. Hùng mặc một bộ sơ mi mới — màu xanh nhạt, kiểu dáng hiện đại — rồi đứng ở đường chính, để người đi đường nhìn thấy. Chiến lược "mẫu sống" hôm qua hiệu quả — người ta nhìn áo anh, hỏi mua, và anh bán.
 
-Ông sử dụng kỹ năng thương mại cấp 1 để đánh giá giá trị thực của hàng hóa và thương lượng giá tốt hơn. Với kỹ năng này, ông có thể biết giá trị thực của hàng hóa và biết khi nào nên mua, khi nào nên bán. Ông biết rằng trong thời bao cấp, giá cả thường không phản ánh giá trị thực, và ai có kỹ năng đánh giá giá trị sẽ có lợi thế lớn trong kinh doanh.
+Lần này, khách đến nhanh hơn. Tin đồn đã lan — hôm qua có người mua bộ áo sơ mi trắng, mặc đi làm, đồng nghiệp hỏi ở đâu mua, và họ nói "có một thanh niên bán rong ở huyện". Hôm nay, người ta tìm đến.
 
-Ông cũng sử dụng kỹ năng thương mại cấp 2 để dự đoán xu hướng thị trường. Với kỹ năng này, ông có thể biết những hàng hóa nào sẽ khan hiếm trong tương lai, những hàng hóa nào sẽ giảm giá, và những hàng hóa nào sẽ tăng giá. Ông có thể mua hàng hóa trước khi giá tăng, và bán hàng hóa trước khi giá giảm, để tối đa hóa lợi nhuận.
+Một người phụ nữ trung niên, mặc áo nâu sờn, tiến đến. "Cậu là người bán quần áo hôm qua à? Tôi nghe bà Khanh nói cậu có áo đẹp lắm."
 
-Trên đường về, ông đếm tiền. Tổng cộng ông kiếm được 10 đồng - một số tiền lớn trong thời bao cấp. Bình thường một người làm việc cả tháng cũng chỉ kiếm được vài chục đồng, nhưng ông chỉ mất một giờ đã kiếm được 10 đồng. Ông cảm thấy hạnh phúc khi cầm những đồng tiền trong tay, vì ông biết rằng đây là kết quả của sự nỗ lực và kiến thức của ông. Ông biết rằng với hệ thống và kỹ năng của mình, ông có thể kiếm được nhiều tiền hơn nữa.
+Hùng gật đầu. "Dạ, em có. Chị muốn xem bộ nào?"
 
-Ông đi trên con đường đất đỏ, hai bên là những cánh đồng lúa xanh mướt. Ông suy nghĩ về kế hoạch kinh doanh của mình. Ông biết rằng bán hàng tại chợ tự phát là một cách tốt để kiếm tiền, nhưng ông cũng biết rằng ông cần cẩn thận. Ông cần bán dần dần, xây dựng uy tín, không để ai nghi ngờ về nguồn hàng của mình. Ông sẽ nói là anh đi làm thêm ở huyện thành và kiếm được hàng hóa, để giải thích nguồn gốc của hàng hóa.
+"Cho tôi xem bộ nữ. Con gái tôi sắp lấy chồng, cần áo đẹp."
 
-Ông suy nghĩ về việc sử dụng kỹ năng thương mại để tối đa hóa lợi nhuận. Với kỹ năng thương mại cấp 2, ông có thể dự đoán xu hướng thị trường, biết khi nào nên mua, khi nào nên bán. Ông sẽ mua hàng hóa khi giá thấp, và bán hàng hóa khi giá cao, để kiếm lợi nhuận từ chênh lệch giá. Ông cũng sẽ sử dụng kỹ năng để biết những hàng hóa nào sẽ khan hiếm trong tương lai, và mua chúng trước khi giá tăng.
+Hùng lấy ra bộ blouse nữ, màu hồng nhạt, vải mềm, đường may thẳng. Người phụ nữ sờ vải, kéo nhẹ, kiểm tra đường may — rồi mắt sáng lên. Trong thời bao cấp, áo cưới may sẵn là xa xỉ phẩm. Hầu hết cô dâu mặc áo tự may, vải thô, đường may tay. Bộ blouse này — vải mềm, may công nghiệp, màu đẹp — là thứ mà cô dâu nào cũng mơ.
 
-Khi về đến nhà, Bà Hà đang ngồi ngoài sân, ánh mắt lo lắng nhìn ông. "Cháu đi đâu thế? Bà lo lắm."
+"Bao nhiêu?"
 
-"Cháu đi huyện thành bán chút hàng," Trần Văn Hùng nói, giọng nói dịu dàng. "Kiếm được chút tiền."
+"60 đồng, chị." Hùng nói. Bộ nữ giá cao hơn nam một chút — vì vải nhiều hơn, kiểu dáng phức tạp hơn. Kỹ năng thương mại lv1 xác nhận: giá trị thực 70-90 đồng, bán 60 đồng là giá tốt cho khách, vẫn có lợi nhuận.
 
-Ông đưa cho bà 5 đồng. "Bà giữ tiền này, bà mua chút đồ ăn ngon."
+Người phụ nữ do dự — 60 đồng là số lớn. Nhưng rồi bà nghĩ đến con gái, ngày cưới, và bà gật đầu. "Lấy. Nhưng tôi chỉ có 50 đồng. Cậu có giảm không?"
 
-Bà Hà sững sờ, đôi mắt rưng rưng nước mắt. "Nhiều quá! Cháu bán gì mà kiếm được nhiều tiền như vậy? Cháu có làm gì sai trái không?" Bà nói, giọng nói đầy lo lắng và ngạc nhiên. Bà chưa từng thấy cháu trai kiếm được nhiều tiền như vậy, và bà lo lắng rằng cháu trai có thể đã làm điều gì sai trái. Trong thời bao cấp, việc có nhiều tiền có thể bị nghi ngờ, và bà sợ rằng cháu trai sẽ gặp rắc rối.
+Hùng nhìn bà — quần áo cũ, tay chai sạn, mắt mệt. Bà là nông dân, kiếm được 50 đồng đã khó, 60 đồng là quá sức. Kỹ năng thương mại lv1 cho biết: 50 đồng vẫn có lợi nhuận (giá trị thực 70-90 đồng, bán 50 đồng vẫn lời). Và quan trọng hơn — bán cho bà với giá tốt sẽ tạo uy tín, bà sẽ giới thiệu cho hàng xóm.
 
-"Cháu bán gạo và thịt," Trần Văn Hùng nói, giọng nói chân thành. "Cháu có nguồn hàng tốt, cháu buôn bán lẻ thôi, không làm gì sai trái." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng lời nói dối này là cần thiết để bảo vệ bí mật của hệ thống. Ông không thể nói với bà về hệ thống, vì bà sẽ không tin và có thể bị lo lắng. Ông cần một lời nói dối hợp lý để giải thích nguồn gốc của tiền.
+"Được, 50 đồng. Nhưng chị giới thiệu em cho người quen nhé."
 
-Bà Hà lo lắng, ánh mắt vẫn còn nghi ngờ. "Nhưng cháu cẩn thận nhé. Buôn bán lén lút có thể bị bắt. Hộ nhà ta lại có lý lịch không tốt, cháu không được gây phiền toái." Bà nói, giọng nói đầy lo lắng. Bà biết rằng hộ nhà mình có lý lịch không tốt, và nếu cháu làm điều gì sai trái, cả gia đình sẽ gặp rắc rối. Bà muốn cháu trai cẩn thận, không muốn cháu trai gặp rắc rối.
+Bà cười, rút tiền, cầm bộ blouse, đi nhanh về phía làng — bà sẽ mang về cho con gái thử. Hùng nhận 50 đồng, hệ thống thông báo:
 
-"Cháu biết ạ," Trần Văn Hùng nói, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa." Ông nói thật lòng, giọng nói đầy hứa hẹn. Ông biết rằng bà lo lắng, và ông muốn trấn an bà. Ông sẽ cẩn thận, sẽ không làm điều gì sai trái. Ông sẽ sử dụng hệ thống để kiếm tiền, nhưng sẽ không để bị phát hiện.
+「Giao dịch thành công! +10 EXP. Tổng EXP: 60/100」
 
-Lan cũng chạy ra, ánh mắt ngạc nhiên nhìn anh. "Anh về rồi à? Có kiếm được tiền không?" Cô nói, giọng nói đầy hy vọng. Trong ký ức của cô, anh trai chưa từng kiếm được nhiều tiền như vậy, và cô lo lắng rằng anh sẽ thất bại. Nhưng hôm nay, anh lại thay đổi, và cô hy vọng rằng anh sẽ thành công.
+Tiếp theo: trứng và mì gói. Hùng mang rổ trứng (20 quả) và 2 thùng mì ra đường chính, đặt lên mảnh vải cũ trải đất. Không quảng cáo ầm ĩ — chỉ ngồi cạnh, để người đi đường tự nhìn thấy.
 
-"Có," Trần Văn Hùng mỉm cười, đưa cho em gái 2 đồng. "Em mua chút đồ ăn ngon, em và bà ăn ngon một chút." Ông nói thật lòng, giọng nói đầy yêu thương. Ông muốn em gái và bà có cuộc sống tốt hơn, và ông sẽ làm mọi thứ để đạt được mục tiêu đó.
+Trứng tươi trong rổ — vỏ nâu sáng, đều, không vỡ. Trong thời bao cấp, trứng là hàng khan hiếm, Cung Tiêu Xã bán theo phiếu, mỗi nhà vài quả/tháng. 20 quả trứng tươi, không cần phiếu, là thứ mà bất kỳ bà nội nào cũng muốn mua cho cháu.
 
-Lan ngạc nhiên, đôi mắt mở to. "Nhiều quá! Em chưa từng có nhiều tiền như vậy. Em cảm thấy như đang mơ." Cô nói, giọng nói đầy ngạc nhiên. Cô chưa từng nghĩ rằng một ngày nào đó cô sẽ có nhiều tiền như vậy, và cô cảm thấy như đang mơ. Cô cầm những đồng tiền trong tay, cảm nhận sự mịn màng của từng đồng tiền. Cô chưa từng nghĩ rằng cô sẽ có nhiều tiền như vậy.
+Một bà cụ dừng lại, nhìn rổ trứng. "Trứng gì đây, cậu? Gà nhà hay mua ở đâu?"
 
-"Anh muốn em và bà sống tốt hơn," Trần Văn Hùng nói, giọng nói dịu dàng. "Anh sẽ kiếm nhiều tiền hơn, anh sẽ khiến em và bà không còn phải chịu khổ nữa." Ông nói thật lòng, giọng nói đầy hứa hẹn. Ông biết rằng lời nói chưa đủ, ông cần hành động để chứng minh. Ông sẽ bắt đầu từ việc chăm sóc gia đình tốt hơn, sau đó sẽ mở rộng kinh doanh, và cuối cùng sẽ trở thành thương gia lớn nhất Việt Nam.
+"Dạ, gà nhà em nuôi, bà ơi." Hùng nói. "Em ở huyện, nhà có nuôi gà, trứng nhiều, bán thêm."
 
-Lan rưng rưng nước mắt, ôm lấy anh. "Cảm ơn anh. Em tin anh." Cô nói, giọng nói đầy cảm xúc. Cô quyết định tin anh, vì cô thấy ánh mắt chân thành của ông. Cô hy vọng rằng sự thay đổi này là thật, hy vọng rằng anh sẽ thực sự chăm sóc bà và cô tốt hơn.
+Bà cụ xới trứng, soi dưới nắng — trứng tươi, lòng trong, không ôi. Bà mua 10 quả, giá 1 đồng/quả (giá chợ đen 2 đồng/quả, giá Cung Tiêu Xã 0.5 đồng nhưng cần phiếu và hiếm). 10 đồng cho 10 quả trứng — rẻ hơn chợ đen, đắt hơn Cung Tiêu Xã, nhưng không cần phiếu, mua được ngay.
 
-Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+「Giao dịch thành công! +5 EXP. Tổng EXP: 65/100」
 
-"Chủ nhân đã hoàn thành giao dịch thương mại đầu tiên. Nhận được 10 điểm kinh nghiệm."
+Mì gói: 2 thùng, mỗi thùng 30 gói. Hùng bán lẻ — 0.5 đồng/gói, 15 đồng/thùng. Một người đàn ông mua 1 thùng cho gia đình — vợ ông mới sinh con, cần đồ ăn bổ, mì gói là thức ăn "bồi" trong thời bao cấp.
 
-"Điểm kinh nghiệm hiện tại: 10/100."
+「Giao dịch thành công! +5 EXP. Tổng EXP: 70/100」
 
-"Nhiệm vụ tiến độ: 40%."
+70 EXP. Còn 30 EXP nữa. Hùng tiếp tục bán quần áo — trong buổi sáng, ông bán thêm 3 bộ nam (50 đồng/bộ) và 1 bộ trẻ em (30 đồng). Tổng thu nhập buổi sáng: 50 + 10 + 15 + 150 + 30 = 255 đồng.
 
-Trần Văn Hùng gật đầu. Ông cần 90 điểm kinh nghiệm nữa để hoàn thành nhiệm vụ và nhận phần thưởng. Ông sẽ tiếp tục bán hàng, nhưng phải cẩn thận không để bị phát hiện. Ông biết rằng mỗi giao dịch thương mại sẽ mang lại điểm kinh nghiệm, và ông cần hoàn thành nhiều giao dịch để đạt được mục tiêu.
+「Tổng EXP hôm nay: +30. Tổng EXP: 80/100」
 
-Ông suy nghĩ về kế hoạch tiếp theo. Ông sẽ tiếp tục bán hàng vào ngày mai, nhưng sẽ tăng lượng bán hàng một chút. Ông sẽ bán 3kg gạo và 1kg thịt, nhưng vẫn cẩn thận không để bị nghi ngờ. Ông sẽ bán tại chợ tự phát, nơi buôn bán lén lút, không bị chính phủ kiểm soát. Ông sẽ bán với giá thấp hơn giá thị trường, để thu hút khách hàng và xây dựng uy tín.
+80 EXP. Còn 20 EXP nữa. Hùng có thể bán thêm chiều, nhưng ông quyết định dừng — không nên bán quá nhiều một ngày. 5 bộ quần áo + trứng + mì là đủ. Thêm nữa sẽ gây chú ý — ai cũng hỏi "hàng ở đâu ra", và câu trả lời "phụ việc ở Hà Nội" sẽ không thuyết phục nếu ông bán quá nhiều.
 
-Ông quyết định tiếp tục bán hàng vào ngày mai. Nhưng lần này, ông sẽ bán nhiều hơn một chút, nhưng vẫn đủ để không bị nghi ngờ. Ông cần tìm cách bán hàng một cách khéo léo, không để ai chú ý.
+Buổi chiều, Hùng không về ngay. Ông đi dạo huyện, khảo sát kỹ hơn. Ông tìm hiểu:
+- Chợ huyện họp mỗi ngày, từ 5h sáng đến 12h trưa
+- Có khoảng 30 sạp, đa số bán rau củ, gạo lứt, thịt heo (có phiếu)
+- Không có sạp nào bán quần áo may sẵn — chỉ có vải bán theo mét
+- Không có sạp nào bán trứng tươi liên tục — thỉnh thoảng có người mang ra bán lẻ, không ổn định
+- Không có sạp nào bán mì gói — hàng nhập khẩu, chỉ có ở Cung Tiêu Xã huyện, và hiếm
 
-Đột nhiên, ông nhớ ra kỹ năng thương mại cấp 2 cho phép ông dự đoán xu hướng thị trường. Ông tập trung suy nghĩ, và hệ thống hiển thị thông tin:
+Kết luận: thị trường ngách của ông — quần áo may sẵn, trứng tươi, mì gói — là thị trường không ai phục vụ. Cơ hội lớn, nhưng cũng là rào cản: nếu ông bán quá nhiều, sẽ bị chú ý, và câu hỏi "hàng ở đâu" sẽ khó trả lời.
 
-"Xu hướng thị trường hiện tại:"
-- Gạo trắng: Nhu cầu cao, giá sẽ tăng trong 2 tuần tới
-- Thịt bò: Nhu cầu rất cao, giá sẽ tăng mạnh trong 1 tuần tới
-- Quần áo cũ: Nhu cầu trung bình, giá ổn định
-- Radio: Nhu cầu thấp, giá sẽ giảm
+Hùng cũng quan sát người dân: đa số nông dân, thu nhập thấp, mua hàng thiết yếu. Nhưng có một nhóm nhỏ — cán bộ huyện, giáo viên, y tá, người có người nhà ở thành phố — thu nhập cao hơn, cần hàng chất lượng, sẵn sàng trả tiền. Đây là khách hàng mục tiêu của ông.
 
-Trần Văn Hùng mừng rỡ. Ông biết nên tập trung vào gạo và thịt bò, vì giá sẽ tăng trong thời gian tới. Ông sẽ tăng lượng bán hàng, tận dụng xu hướng thị trường để kiếm được nhiều tiền hơn. Ông biết rằng với kỹ năng thương mại cấp 2, ông có thể dự đoán xu hướng thị trường và tối đa hóa lợi nhuận.
+Một người đàn ông mặc áo sơ mi trắng (chính là người mua áo hôm qua) tiến đến, kéo Hùng sang một bên. "Cậu ơi, cậu có áo nào đẹp hơn không? Tôi cần bộ đi dự tiệc cưới. 100 đồng cũng được."
 
-Ông suy nghĩ về việc sử dụng kỹ năng mới này để cải thiện kế hoạch kinh doanh. Ông sẽ tập trung vào gạo và thịt bò, vì giá sẽ tăng trong thời gian tới. Ông sẽ tăng lượng bán hàng, tận dụng xu hướng thị trường để kiếm được nhiều tiền hơn. Ông cũng sẽ mua thêm gạo và thịt bò từ không gian, để bán nhiều hơn trong những ngày tới.
+Hùng nhìn ông ta — cán bộ huyện, thu nhập ổn, cần hàng cao cấp. Kỹ năng thương mại lv1 lập tức tính toán: bộ vest đơn giản (sơ mi trắng + quần tây đen + áo vest) — ông không có vest trong kho, nhưng có áo sơ mi cao cấp và quần tây. Giá trị thực: 120-150 đồng. Bán 100 đồng là giá tốt.
 
-Ông quyết định tăng lượng bán hàng vào ngày mai, tận dụng xu hướng thị trường. Ông sẽ bán 3kg gạo và 1kg thịt, nhưng vẫn cẩn thận không để bị nghi ngờ. Ông sẽ bán tại chợ tự phát, nơi buôn bán lén lút, không bị chính phủ kiểm soát. Ông sẽ bán với giá thấp hơn giá thị trường, để thu hút khách hàng và xây dựng uy tín.
+"Em có sơ mi cao cấp và quần tây, nhưng không có áo vest. Bộ sơ mi + quần tây, vải xịn, may công nghiệp, 80 đồng. Bác mặc đi dự tiệc cũng đẹp."
 
-Buổi tối, gia đình ăn cơm với gạo trắng và thịt bò. Bà Hà và Lan rất vui vì có thức ăn ngon. Đây là bữa ăn ngon nhất mà họ đã có trong nhiều năm, và họ cảm thấy hạnh phúc.
+Người đàn ông do dự, rồi gật đầu. "Được. Nhưng mang đến nhà tôi, tôi thử. Không vừa thì trả lại."
 
-"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch dài hạn không? Cháu muốn làm gì trong tương lai?"
+Hùng đồng ý. Ông lấy ra bộ sơ mi trắng cao cấp + quần tây đen, bọc trong bao vải. "Chiều nay em mang đến. Bác ở đâu?"
 
-"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu muốn làm ăn lớn, không chỉ bán lẻ. Cháu muốn xây dựng một mạng lưới kinh doanh, buôn bán sỉ, mở rộng sang các huyện lân cận."
+"Nhà cạnh ủy ban huyện. Cổng xanh, sân có cây bàng."
 
-Bà Hà ngạc nhiên, ánh mắt nghi ngờ. "Mạng lưới kinh doanh? Cháu nói thế có phải quá tham vọng không? Giờ này làm ăn khó lắm."
+Hùng ghi nhớ. Buổi chiều, ông mang bộ quần áo đến nhà người đàn ông — ông ta tên Khanh, cán bộ phòng tài chính huyện. Anh thử áo, vừa vặn, hài lòng, trả 80 đồng.
 
-"Không phải tham vọng," Trần Văn Hùng nói, giọng nói kiên định. "Cháu có kiến thức và khả năng. Cháu tin mình sẽ làm được. Cháu sẽ không làm bà lo lắng nữa."
+「Giao dịch thành công! +10 EXP. Tổng EXP: 90/100」
 
-Bà Hà nhìn cháu trai, thấy ánh mắt kiên định của ông, bà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, an toàn là quan trọng nhất. Cháu không được làm gì nguy hiểm."
+90 EXP. Còn 10 EXP nữa. Hùng mỉm cười — ngày mai ông sẽ hoàn thành nhiệm vụ dễ dàng.
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa."
+Anh Khanh mặc bộ áo mới, đứng trước gương, vuốt áo. "Cậu ơi, cậu có hàng đều đều không? Tôi muốn mua thêm cho con trai. Và tôi có mấy đồng nghiệp cũng cần."
 
-Sau bữa tối, Trần Văn Hùng vào phòng, tiếp tục vẽ kế hoạch kinh doanh. Với hệ thống và kiến thức của mình, ông tin sẽ trở thành thương gia lớn nhất Việt Nam. Đây là cơ hội thứ hai, ông sẽ không lãng phí.
+Hùng mắt sáng. "Em có, anh. Nhưng em bán rong, không có địa điểm cố định. Nếu anh biết ai cần, giới thiệu em. Em đến huyện mỗi ngày."
+
+Khanh gật đầu. "Được. Cậu đến nhà tôi mỗi sáng, tôi sẽ giới thiệu khách."
+
+Một mạng lưới bắt đầu hình thành. Không phải mạng lưới lớn — chỉ một cán bộ huyện giới thiệu cho đồng nghiệp — nhưng trong thời bao cấp, quan hệ là vàng. Một cán bộ giới thiệu, uy tín tăng, khách hàng tăng, và ông sẽ không cần bán rong nữa — khách sẽ tìm đến ông.
+
+Hùng về làng lúc chiều muộn. Nắng đã tắt, gió lạnh, đường đất đỏ tối dần. Ông đi bộ, tay túi quần có 335 đồng (255 buổi sáng + 80 chiều), và trong đầu là kế hoạch cho ngày mai.
+
+Về đến nhà, bà Hà đang ngồi ở hiên, tay quay sợi. Bà quay sợi bằng cái quay cũ — trục tre, con quay gỗ, sợi bông se dần thành sợi chỉ. Bà quay mỗi tối, sợi chỉ để dệt vải, vải để may quần áo. Trong thời bao cấp, tự làm là cách duy nhất để có quần áo — mua vải rồi tự may, hoặc tự se sợi, tự dệt, tự may. Bà Hà làm tất cả.
+
+Hùng ngồi cạnh bà, nhìn bà quay sợi. Tay bà run nhẹ, nhưng đều, quen. Sợi chỉ mỏng manh nhưng chắc, se từ bông — bông trồng trong vườn, hái, tách hạt, đánh tơi, rồi se sợi. Cả một quy trình thủ công, mất hàng tuần, để có sợi chỉ dệt vải may một chiếc áo.
+
+Ở thế kỷ 21, một chiếc áo mua trên Shopee giá 50.000 đồng, giao trong hai ngày. Ở đây, một chiếc áo mất hàng tuần công sức. Hùng nhận ra giá trị thực của劳 động — và ông biết rằng quần áo may công nghiệp trong kho không gian của ông, trong thời này, là phép màu.
+
+"Bà ơi." Hùng nói. "Ngày mai con đi huyện, bán thêm hàng. Con tính mua một chiếc xe đạp, đi cho nhanh."
+
+Bà Hà dừng quay sợi, nhìn cháu. "Xe đạp? Bao nhiêu tiền?"
+
+"Khoảng 200 đồng." Hùng nói. Trong kho không gian đã có xe đạp, nhưng ông cần lý do để sử dụng công khai — không thể đột nhiên có xe đạp mà không ai biết mua ở đâu. Ông sẽ nói là mua đồ cũ ở huyện, hoặc đổi bằng hàng hóa.
+
+"200 đồng..." Bà Hà lắc đầu. "Tiền đâu mà mua?"
+
+"Con kiếm được rồi, bà. Con bán hàng kiếm được hơn 300 đồng rồi. Mua xe đạp để đi lại cho nhanh, bán hàng nhiều hơn."
+
+Bà Hà im lặng, suy nghĩ. 300 đồng — số tiền mà bà chưa từng có trong đời. Bà không biết nói gì — chỉ gật đầu, tin cháu.
+
+Lan ngồi trong nhà, nghe chuyện, bước ra. "Anh mua xe đạp thật à?"
+
+"Thật." Hùng nói. "Em muốn đi cùng không? Ngày mai anh chở em đi huyện, em xem anh bán hàng."
+
+Lan mắt sáng lên — cô chưa từng đi huyện thành bao giờ. Cô chỉ ở làng, làm việc nhà, chăm bà, bán rau ngoài chợ làng. Huyện thành với cô là thế giới rộng lớn.
+
+"Thật hả?" Lan hỏi, giọng háo hức như đứa trẻ được đề nghị đi chơi.
+
+"Thật. Nhưng em phải dậy sớm."
+
+Lan gật đầu liên tục, rồi quay vào nhà chuẩn bị — cô sẽ mặc bộ blouse mà anh tặng (anh đã lấy một bộ từ không gian, nói là hàng thừa khách trả lại), và đi huyện cùng anh.
+
+Hùng nhìn em, mỉm cười. Lan mười tám tuổi, gầy gò, nhưng đôi mắt sáng, nụ cười tươi — cô còn trẻ, còn nhiều điều để khám phá. Trần Văn Hùng cũ đã tước đoạt của em những năm thanh xuân, bắt em ở nhà làm việc, không cho em đi đâu. Lần này, Hùng sẽ cho em thấy thế giới rộng hơn làng Thanh Xuân.
+
+Tối ấy, Hùng vào không gian, kiểm tra kho hàng:
+- Quần áo: 88 bộ (đã bán 12 bộ)
+- Gạo trắng: 98kg
+- Thịt bò: 50kg
+- Thịt heo: 19.5kg
+- Trứng: 70 quả (đã bán 30)
+- Mì gói: 9 thùng (đã bán 1 thùng)
+- Xe đạp: 1 chiếc
+- Tiền: 10.000đ (trong không gian) + 335đ (ngoài)
+
+Hùng ngồi trong căn nhà gỗ, nhìn dòng suối chảy, suy nghĩ. Ngày mai, ông sẽ:
+1. Dùng xe đạp từ không gian (nói là mua đồ cũ)
+2. Chở Lan đi huyện
+3. Bán hàng, hoàn thành nhiệm vụ (cần 10 EXP nữa)
+4. Bắt đầu xây dựng mạng lưới khách hàng qua anh Khanh
+
+Năm bước kế hoạch dài hạn vẫn nguyên — nhưng bước 1 (bán hàng kiếm tiền) đang đi đúng hướng. 335 đồng trong ba ngày, trong thời bao cấp, là số tiền mà nhiều người mơ cả đời.
+
+Hùng thoát không gian, nằm xuống giường. Ngoài sân, gió thổi, crickets kêu, trăng sáng. Trong bếp, tiếng bà Hà rửa bát — bà vẫn rửa bát tối, dù Hùng đã rửa. Bà không quen để cháu rửa bát — bà rửa lại, cho sạch theo tiêu chuẩn của bà.
+
+Hùng nhắm mắt. Ngày mai sẽ là ngày thứ tư. Hoàn thành nhiệm vụ. Và bắt đầu bước tiếp theo.
+
+Hành trình tiếp tục.
+

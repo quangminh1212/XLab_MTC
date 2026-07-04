@@ -1,0 +1,45 @@
+============================================================
+Chương 34: Tuyển kỹ sư Minh
+============================================================
+
+Tháng 4 năm 1984. Hùng nhận ra ông không thể làm một mình — ông cần đội ngũ cốt lõi. Ông cần người có kiến thức chuyên môn — kế toán, kỹ thuật, quản lý.
+
+Hùng đăng tin tuyển dụng (qua anh Khanh, dán ở ủy ban huyện): "Cửa hàng Thương Gia tuyển nhân viên kế toán, quản lý, kỹ thuật. Lương từ 80-150 đồng/tháng."
+
+Trong thời bao cấp, lương 80-150 đồng/tháng là cao — gấp đôi lương cán bộ. Nhiều người ứng tuyển, nhưng Hùng chọn kỹ.
+
+Người đầu tiên ông tuyển — Nguyễn Văn Minh, hai mươi lăm tuổi, kỹ sư nông nghiệp, tốt nghiệp đại học Khuyến Nông. Minh là người thông minh, chăm chỉ, nhưng thất nghiệp — trong thời bao cấp, việc làm hiếm, kỹ sư tốt nghiệp thường không có việc.
+
+Hùng phỏng vấn Minh. "Em biết gì về kinh doanh?"
+
+"Em không rành kinh doanh, anh. Nhưng em rành kỹ thuật — sản xuất, quy trình, quản lý nhà máy. Em học nông nghiệp, nhưng em hiểu sản xuất thực phẩm, vì liên quan đến nông sản."
+
+Hùng gật đầu. "Anh cần người quản lý kỹ thuật xưởng — sản xuất, quy trình, chất lượng. Em làm được không?"
+
+"Được, anh. Em sẽ quản lý kỹ thuật, đảm bảo chất lượng, tối ưu quy trình."
+
+" Lương 120 đồng/tháng, cộng thưởng theo hiệu quả. Em làm không?"
+
+Minh mắt sáng — 120 đồng/tháng, gấp ba lương công nhân. "Làm, anh!"
+
+Hùng tuyển Minh — người đầu tiên trong đội ngũ cốt lõi. Minh phụ trách kỹ thuật tất cả xưởng — may, giày, túi, thực phẩm. Ông kiểm tra chất lượng, tối ưu quy trình, giảm hao hụt.
+
+Với kỹ năng sản xuất lv2 và Minh phụ trách, chất lượng sản phẩm tăng — tỷ lệ合格 từ 96% lên 98%, hao hụt giảm từ 15% xuống 10%. Hiệu quả tăng, lợi nhuận tăng.
+
+「Nhân sự mới: Nguyễn Văn Minh — quản lý kỹ thuật xưởng. +20 EXP. Tổng EXP: 4.220」
+
+Hùng cũng tuyển người thứ hai — Trần Thị Hồng, ba mươi tuổi, kế toán, từng làm kế toán cho hợp tác xã. Cô bị sa thải khi hợp tác xã cắt giảm nhân sự. Hùng tuyển làm kế toán Thương Gia — quản lý sổ sách, doanh thu, chi phí, lương.
+
+"Chị Hồng, chị quản lý sổ sách tất cả cửa hàng, nhà hàng, xưởng. Báo cáo tháng cho anh. Lương 100 đồng/tháng."
+
+Hồng gật đầu — 100 đồng/tháng, gấp đôi lương cũ. Cô bắt đầu ngay — đi từng cửa hàng, thu thập sổ sách, lập hệ thống kế toán cơ bản.
+
+Với Hồng phụ trách kế toán, Hùng không còn phải tự tính toán — cô làm cho ông, chính xác, chuyên nghiệp. Ông tập trung vào chiến lược và mở rộng.
+
+「Nhân sự mới: Trần Thị Hồng — kế toán Thương Gia. +20 EXP. Tổng EXP: 4.240」
+
+Đội ngũ cốt lõi — Minh (kỹ thuật), Hồng (kế toán), Lan (chuỗi cửa hàng), bà Phượng (xưởng may), ông Tường (xưởng giày). Sáu người, mỗi người một mảng, cùng xây đế chế.
+
+Hùng bắt đầu xây dựng tổ chức — không chỉ một người, mà một đội. Đội Thương Gia.
+
+Hành trình tiếp tục.

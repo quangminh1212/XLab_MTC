@@ -1,68 +1,142 @@
-============================================================
+﻿============================================================
 Chương 8: Mở rộng hàng hóa
 ============================================================
 
-Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông mở mắt ra, nhìn thấy ánh sáng vàng yếu ớt chiếu qua khe cửa sổ. Đây là buổi sáng của một ngày mới, một ngày mà ông sẽ bắt đầu mở rộng danh mục hàng hóa. Ông ngồi dậy, cảm nhận sự hồi hộp trong lòng. Đây là lần đầu tiên ông sẽ bán hàng hóa mới như quần áo và radio, và ông muốn làm tốt. Ông nhìn quanh căn phòng mới, với tường gạch trắng sáng, sàn gỗ sạch sẽ, và cửa sổ lớn cho phép ánh sáng chiếu vào. Ông biết rằng gia đình ông xứng đáng có cuộc sống tốt hơn.
+Ngày thứ bảy. Một tuần kể từ khi Hùng tỉnh dậy trong cơ thể Trần Văn Hùng.
 
-Ông kiểm tra không gian, suy nghĩ về kế hoạch mở rộng danh mục hàng hóa. Ông không chỉ bán gạo và thịt nữa, mà còn bán quần áo, đồ dùng gia đình, và thậm chí cả radio. Ông muốn đa dạng hóa hàng hóa để tăng doanh thu và tích lũy điểm kinh nghiệm. Ông suy nghĩ về kế hoạch chi tiết cho việc mở rộng danh mục hàng hóa. Ông sẽ bán quần áo thời trang, đồ dùng gia đình như nồi chảo, bát đĩa, và thậm chí cả điện tử như radio. Ông biết rằng trong thời bao cấp, hàng hóa xa xỉ như radio là rất khan hiếm, và ông có thể bán chúng với giá cao.
+Sáng nay, ông dậy sớm, cho bà Hà uống thuốc, nấu cháo bò, rồi ngồi ở hiên suy nghĩ. Bà đỡ hơn — đau đầu giảm, mắt đỡ hoa, ăn được nhiều hơn. Thuốc bổ và dinh dưỡng bắt đầu phát huy tác dụng.
 
-Ông kiểm tra kho hàng trong không gian, thấy có 100 bộ quần áo thời hiện đại, 10 chiếc radio, và nhiều đồ dùng khác. Quần áo thời hiện đại với chất liệu tốt và thiết kế đẹp, khác hẳn với quần áo thời bao cấp. Radio là hàng xa xỉ, chỉ có cán bộ hoặc những người có đặc quyền mới có. Ông sờ vào từng bộ quần áo, cảm nhận chất liệu mềm mại và thiết kế hiện đại. Ông biết rằng quần áo này sẽ thu hút sự chú ý của người dân, vì trong thời bao cấp, quần áo thường đơn giản, màu sắc tối, và chất liệu thô ráp.
+Hôm nay, Hùng quyết định mở rộng mặt hàng. Quần áo, trứng, mì gói — ba mặt hàng hiện tại — đang bán tốt, nhưng ông cần thêm. Đa dạng hóa hàng hóa means giảm rủi ro, tăng khách hàng, và tạo nền tảng cho cửa hàng tương lai.
 
-Ông quyết định bán một số lượng nhỏ để thử thị trường. Ông lấy 10 bộ quần áo và 2 chiếc radio, cất vào túi, rồi đi đến huyện Quốc Oai bán. Ông đi nhanh, bước chân vững chắc, không muốn để ai chú ý. Ông đi trên con đường đất đỏ, hai bên là những cánh đồng lúa xanh mướt. Ông có thể thấy những người nông dân đang làm việc trên đồng, cày bừa, gieo hạt, chăm sóc lúa. Họ mặc áo bà ba, đội nón lá, làm việc chăm chỉ dưới ánh nắng mặt trời. Ông cảm thấy kính trọng những người nông dân này, những người làm việc chăm chỉ để nuôi sống gia đình và đất nước.
+Ông liệt kê các mặt hàng mới có thể bán:
+1. Thuốc men — thuốc bổ, vitamin, thuốc cảm, thuốc đau đầu. Trong thời bao cấp, thuốc khan hiếm, người dân cần. Hùng có thể lấy từ không gian (hệ thống có sẵn thuốc cơ bản) hoặc mua ở hiệu thuốc huyện bán lại.
+2. Đồ dùng sinh hoạt — xà phòng, kem đánh răng, bàn chải, dầu gội. Hàng nhập khẩu, Cung Tiêu Xã không có.
+3. Vải vóc — mua sỉ ở Hà Nội, bán lẻ ở huyện. Nhưng cần đi Hà Nội trước.
+4. Thực phẩm đóng gói — mì gói (đã bán), có thể thêm bún khô, phở khô, hạt nêm.
 
-Khi đến chợ, ông bày hàng hóa ra. Quần áo thời hiện đại với chất liệu tốt và thiết kế đẹp nhanh chóng thu hút sự chú ý của người dân. Trong thời bao cấp, quần áo thường đơn giản, màu sắc tối, nhưng quần áo của Trần Văn Hùng lại đa dạng màu sắc, thiết kế đẹp, chất liệu tốt. Ông bày quần áo lên bàn, sắp xếp từng bộ một cách cẩn thận. Màu sắc của quần áo rực rỡ: đỏ, xanh, vàng, tím, khác hẳn với màu sắc tối của quần áo thời bao cấp. Chất liệu mềm mại, thoải mái, khác hẳn với chất liệu thô ráp của quần áo thường.
+Hùng quyết định: hôm nay bán thêm thuốc men và đồ dùng sinh hoạt. Đi Hà Nội sẽ để ngày mai hoặc ngày kia — cần chuẩn bị kỹ, vì bốn mươi cây số xe đạp, mất cả ngày.
 
-"Quần áo đẹp quá!" một người phụ nữ nói, ánh mắt ngạc nhiên. "Bán thế nào? Em chưa từng thấy quần áo đẹp như vậy." Cô nói, giọng nói đầy ngạc nhiên. Cô chạm vào quần áo, cảm nhận chất liệu mềm mại. Cô chưa từng thấy quần áo đẹp như vậy trong thời bao cấp, và cô cảm thấy như đang mơ.
+Ông nhắm mắt, mở không gian, kiểm tra kho. Ngoài quần áo, gạo, thịt, trứng, mì, ông có gì? Ông nhìn kỹ — và phát hiện một góc kho hàng mới xuất hiện, góc mà trước đây ông không thấy. Trên kệ:
 
-"15 đồng một bộ," Trần Văn Hùng nói, giọng nói bình tĩnh. "Giá tốt, hàng chất lượng." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng giá này là hợp lý cho quần áo chất lượng cao, và ông muốn thu hút khách hàng bằng giá tốt. Ông sử dụng kỹ năng thương mại cấp 2 để dự đoán xu hướng thị trường, biết khi nào nên bán giá cao, khi nào nên bán giá thấp.
+- 20 hộp vitamin B (loại thuốc bổ phổ thông)
+- 10 tuýp kem đánh răng
+- 10 chiếc bàn chải răng
+- 20 bánh xà phòng
+- 10 chai dầu gội (loại nhỏ, 100ml)
 
-Người phụ nữ ngạc nhiên, đôi mắt mở to. "Đắt quá! Nhưng đẹp thật... Em mua một bộ xem sao." Cô nói, giọng nói đầy do dự. Cô biết rằng 15 đồng là một số tiền lớn trong thời bao cấp, nhưng quần áo quá đẹp, và cô muốn có một bộ. Cô lục lọi trong túi, lấy ra 15 đồng, đưa cho Trần Văn Hùng.
+Hùng sững sờ — hệ thống đã bổ sung hàng hóa mới khi ông nâng cấp thương mại lv2. Hoặc có thể hàng đã có từ đầu nhưng ông không để ý, vì trước đó ông chỉ tập trung vào quần áo và thực phẩm.
 
-Cô mua một bộ, và tin lan nhanh. Trong vòng một giờ, Trần Văn Hùng đã bán hết 10 bộ quần áo và 2 chiếc radio, tổng cộng kiếm được 170 đồng. Radio bán với giá 10 đồng một chiếc, giá rẻ hơn giá thị trường, nên người dân tranh nhau mua. Ông cảm thấy hạnh phúc khi thấy hàng hóa được bán hết, vì ông biết rằng đây là kết quả của sự nỗ lực và kiến thức của ông. Ông biết rằng với hệ thống và kỹ năng của mình, ông có thể kiếm được nhiều tiền hơn nữa.
+「Hệ thống bổ sung: Khi kỹ năng thương mại đạt cấp 2, kho hàng tự động bổ sung hàng hóa mới phù hợp với nhu cầu thị trường.」
 
-Ông về nhà với số tiền lớn, đưa cho bà 50 đồng. Ông đi trên con đường đất đỏ, hai bên là những cánh đồng lúa xanh mướt. Ông suy nghĩ về kế hoạch kinh doanh của mình. Ông biết rằng bán quần áo và radio là một cách tốt để kiếm tiền, nhưng ông cũng biết rằng ông cần cẩn thận. Ông cần bán dần dần, xây dựng uy tín, không để ai nghi ngờ về nguồn hàng của mình. Ông sẽ nói là anh đi làm thêm ở huyện thành và kiếm được hàng hóa, để giải thích nguồn gốc của hàng hóa.
+Tuyệt vời. Hùng mỉm cười. Hệ thống không chỉ cho không gian và EXP — nó còn cung cấp hàng hóa phù hợp. Thuốc men và đồ dùng sinh hoạt chính là thứ mà thị trường thời bao cấp cần, mà không ai cung cấp đầy đủ.
 
-Khi về đến nhà, ông đưa cho bà 50 đồng. "Bà, đây là tiền cháu kiếm được hôm nay," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon." Ông nói thật lòng, giọng nói đầy yêu thương. Ông muốn bà có cuộc sống tốt hơn, và ông sẽ làm mọi thứ để đạt được mục tiêu đó.
+Hùng lấy ra: 10 hộp vitamin B, 5 tuýp kem đánh răng, 5 bàn chải, 10 bánh xà phòng, 5 chai dầu gội. Đủ để bán một ngày, không quá nhiều để gây chú ý.
 
-Bà Hà ngạc nhiên, đôi mắt rưng rưng nước mắt. "Cháu bán gì mà kiếm được nhiều tiền như vậy? Cháu có làm gì sai trái không?" Bà nói, giọng nói đầy lo lắng và ngạc nhiên. Bà chưa từng thấy cháu trai kiếm được nhiều tiền như vậy trong một ngày, và bà lo lắng rằng cháu trai có thể đã làm điều gì sai trái. Trong thời bao cấp, việc có nhiều tiền có thể bị nghi ngờ, và bà sợ rằng cháu trai sẽ gặp rắc rối.
+Đạp xe ra huyện. Đến chợ, bày hàng ở hẻm quen. Hôm nay Lan đi cùng — cô mặc bộ blouse hồng, ngồi cạnh anh, phụ bán. Cô đã quen hơn — tự tin hơn, nói chuyện với khách thoải mái hơn.
 
-"Cháu bán quần áo và radio," Trần Văn Hùng nói, giọng nói chân thành. "Cháu có nguồn hàng tốt, cháu buôn bán hợp pháp, không làm gì sai trái." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng lời nói dối này là cần thiết để bảo vệ bí mật của hệ thống. Ông không thể nói với bà về hệ thống, vì bà sẽ không tin và có thể bị lo lắng. Ông cần một lời nói dối hợp lý để giải thích nguồn gốc của tiền.
+Hùng bày hàng: quần áo ở một góc, trứng và mì ở góc khác, và lần đầu tiên — thuốc men cùng đồ dùng sinh hoạt ở góc thứ ba. Ba nhóm hàng, ba loại khách.
 
-Bà Hà lo lắng, ánh mắt vẫn còn nghi ngờ. "Nhưng cháu cẩn thận nhé. Quần áo và radio là hàng xa xỉ, có thể gây chú ý. Hộ nhà ta lại có lý lịch không tốt, cháu không được gây phiền toái." Bà nói, giọng nói đầy lo lắng. Bà biết rằng hộ nhà mình có lý lịch không tốt, và nếu cháu làm điều gì sai trái, cả gia đình sẽ gặp rắc rối. Bà muốn cháu trai cẩn thận, không muốn cháu trai gặp rắc rối.
+Quần áo bán như mọi khi — 4 bộ trong buổi sáng, 200 đồng. Khách quen đã biết, đến tìm Hùng.
 
-"Cháu biết ạ," Trần Văn Hùng nói, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa." Ông nói thật lòng, giọng nói đầy hứa hẹn. Ông biết rằng bà lo lắng, và ông muốn trấn an bà. Ông sẽ cẩn thận, sẽ không làm điều gì sai trái. Ông sẽ sử dụng hệ thống để kiếm tiền, nhưng sẽ không để bị phát hiện.
+Trứng — 15 quả, 15 đồng. Mì — 10 gói, 5 đồng.
 
-Lan cũng chạy ra, ngạc nhiên khi thấy số tiền. "Anh, anh kiếm được nhiều tiền quá! Em chưa từng thấy nhiều tiền như vậy!" Cô nói, giọng nói đầy ngạc nhiên. Cô chưa từng nghĩ rằng một ngày nào đó anh sẽ kiếm được nhiều tiền như vậy, và cô cảm thấy như đang mơ. Cô cầm những đồng tiền trong tay, cảm nhận sự mịn màng của từng đồng tiền. Cô chưa từng nghĩ rằng cô sẽ có nhiều tiền như vậy.
+Thuốc men và đồ dùng sinh hoạt — đây là phần mới. Hùng bày vitamin B, kem đánh răng, bàn chải, xà phòng, dầu gội trên mảnh vải, và chờ.
 
-"Anh muốn em và bà sống tốt hơn," Trần Văn Hùng nói, giọng nói dịu dàng. "Anh sẽ dùng tiền này để mua thêm đồ dùng cho nhà. Anh sẽ khiến em và bà không còn phải chịu khổ nữa." Ông nói thật lòng, giọng nói đầy hứa hẹn. Ông biết rằng lời nói chưa đủ, ông cần hành động để chứng minh. Ông sẽ bắt đầu từ việc chăm sóc gia đình tốt hơn, sau đó sẽ mở rộng kinh doanh, và cuối cùng sẽ trở thành thương gia lớn nhất Việt Nam.
+Người đầu tiên đến là một bà cụ, nhìn xà phòng. "Xà phòng gì đây, cậu? Có tẩy không?"
 
-Lan rưng rưng nước mắt, ôm lấy anh. "Cảm ơn anh. Em tin anh." Cô nói, giọng nói đầy cảm xúc. Cô quyết định tin anh, vì cô thấy ánh mắt chân thành của ông. Cô hy vọng rằng sự thay đổi này là thật, hy vọng rằng anh sẽ thực sự chăm sóc bà và cô tốt hơn. Cô biết rằng anh đã thay đổi, và cô tin rằng anh sẽ tiếp tục thay đổi để tốt hơn.
+"Dạ, xà phòng tắm giặt, tẩy sạch, không khô da." Hùng nói. "Bà mua thử một bánh, dùng không满意 thì trả lại."
 
-Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+"Bao nhiêu?"
 
-"Chủ nhân đã hoàn thành giao dịch bán hàng hóa mới. Nhận được 20 điểm kinh nghiệm."
+"3 đồng một bánh." Kỹ năng thương mại lv2 xác nhận: giá trị thực 4-5 đồng, bán 3 đồng là giá tốt. Trong thời bao cấp, xà phòng Cung Tiêu Xã bán 2 đồng nhưng chất lượng kém, xà phòng nhập khẩu bán chợ đen 5-6 đồng. Bán 3 đồng cho hàng xịn là hời.
 
-"Điểm kinh nghiệm hiện tại: 570/1000."
+Bà cụ mua hai bánh — 6 đồng. Rồi bà thấy kem đánh răng. "Kem đánh răng? Cung Tiêu Xã không có bán. Bao nhiêu?"
 
-"Nhiệm vụ mới: Mở rộng danh mục hàng hóa trong vòng 30 ngày"
-- Mục tiêu: Bán ít nhất 5 loại hàng hóa khác nhau
-- Phần thưởng: 100 điểm kinh nghiệm, kỹ năng marketing cấp 1
-- Thời gian: 30 ngày
+"5 đồng một tuýp." Hùng nói. Kem đánh răng nhập khẩu trong thời bao cấp là xa xỉ — người dân thường dùng muối hoặc tro bếp đánh răng. Kem đánh răng 5 đồng cho hàng xịn là giá hợp lý.
 
-Trần Văn Hùng gật đầu. Ông đã bán gạo, thịt, quần áo, radio - 4 loại. Ông cần thêm một loại nữa để hoàn thành nhiệm vụ. Ông quyết định bán đồ dùng gia đình: nồi chảo, bát đĩa, và các vật dụng khác. Ông suy nghĩ về việc sử dụng kỹ năng marketing cấp 1 khi nhận được. Với kỹ năng này, ông có thể quảng bá hàng hóa hiệu quả hơn, thu hút nhiều khách hàng hơn, và tăng doanh thu. Ông có thể thiết kế chiến lược marketing phù hợp với thời bao cấp, sử dụng các phương pháp truyền miệng và xây dựng uy tín. Trong thời bao cấp năm 1983, kỹ năng marketing là rất quý giá, vì người buôn bán cần có kỹ năng quảng bá để đạt được hiệu quả cao nhất.
+Bà cụ mua một tuýp, một bàn chải (2 đồng). Tổng: 13 đồng.
 
-Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây. Bà Hà nấu cơm trong bếp mới, với nồi chảo mới và bát đĩa mới. Lan ngồi trên ghế mới, ăn cơm với thức ăn ngon. Trần Văn Hùng ngồi trên bàn mới, cảm nhận sự hạnh phúc khi thấy gia đình có cuộc sống tốt hơn. Ông suy nghĩ về kế hoạch kinh doanh của mình, và ông biết rằng ông cần tiếp tục mở rộng để đạt được mục tiêu trở thành thương gia lớn nhất Việt Nam.
+「Giao dịch thành công! +10 EXP. Tổng EXP: 165」
 
-"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?" Bà nói, giọng nói đầy quan tâm. Bà muốn biết cháu trai có kế hoạch gì cho tương lai, và bà muốn hỗ trợ cháu trai nếu có thể. Bà biết rằng cháu trai đã thay đổi, và bà tin rằng cháu trai sẽ tiếp tục thay đổi để tốt hơn.
+Tin đồn lan nhanh. Trong thời bao cấp, hàng xịn xuất hiện ở chợ là tin tức lớn — người dân truyền miệng: "Có thanh niên bán xà phòng xịn, kem đánh răng, dầu gội ở hẻm cạnh chợ." Buổi sáng, Hùng bán hết 10 bánh xà phòng (30 đồng), 5 tuýp kem đánh răng (25 đồng), 5 bàn chải (10 đồng), 5 chai dầu gội (8 đồng/chiếc = 40 đồng). Tổng đồ dùng: 105 đồng.
 
-"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu muốn mở rộng danh mục hàng hóa thêm nữa, bán nhiều loại hàng hóa khác nhau. Cháu muốn xây dựng một mạng lưới kinh doanh rộng khắp." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng ông muốn mở rộng kinh doanh, không chỉ bán gạo, thịt, quần áo và radio mà còn bán các hàng hóa khác như đồ dùng gia đình, sách vở, và thậm chí cả thuốc men. Ông muốn xây dựng một mạng lưới kinh doanh rộng khắp, không chỉ ở các huyện lân cận mà còn ở Hà Nội.
+Thuốc: 10 hộp vitamin B, giá 5 đồng/hộp = 50 đồng. Mua的主要 là bà cụ cho cháu, người già cần bổ, và phụ nữ có thai.
 
-Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, an toàn là quan trọng nhất. Cháu không được làm gì nguy hiểm." Bà nói, giọng nói đầy lo lắng. Bà biết rằng kinh doanh có rủi ro, và bà muốn cháu trai cẩn thận. Bà không muốn cháu trai gặp rắc rối, và bà muốn cháu trai an toàn.
+Tổng thu nhập buổi sáng: 200 (quần áo) + 15 (trứng) + 5 (mì) + 105 (đồ dùng) + 50 (thuốc) = 375 đồng.
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa." Ông nói thật lòng, giọng nói đầy hứa hẹn. Ông biết rằng bà lo lắng, và ông muốn trấn an bà. Ông sẽ cẩn thận, sẽ không làm điều gì sai trái. Ông sẽ sử dụng hệ thống để kiếm tiền, nhưng sẽ không để bị phát hiện.
+「Tổng EXP hôm nay: +40. Tổng EXP: 195」
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch kinh doanh mới. Ông quyết định bán thêm đồ dùng gia đình, sách vở, và thậm chí cả thuốc men. Với hàng hóa trong không gian, ông có thể bán nhiều loại hàng hóa khác nhau, không chỉ gạo và thịt. Ông sẽ mở rộng danh mục hàng hóa, tăng doanh thu, và tích lũy điểm kinh nghiệm.
+375 đồng trong một buổi sáng — gấp đôi ngày thường. Đa dạng hóa hàng hóa hiệu quả rõ rệt. Hùng hài lòng — nhưng ông biết rằng không thể mỗi ngày bán 375 đồng, vì hàng trong kho có hạn. Ông cần bắt đầu tìm nguồn hàng bên ngoài — mua sỉ ở Hà Nội, bán lẻ ở huyện. Kho không gian là dự phòng, không phải nguồn chính.
 
-Ông suy nghĩ về kế hoạch chi tiết cho việc mở rộng danh mục hàng hóa. Ông sẽ bán đồ dùng gia đình như nồi chảo nhôm, bát đĩa sứ, và các vật dụng gia đình khác. Ông cũng sẽ bán sách vở, đặc biệt là sách giáo khoa và sách tham khảo, vì trong thời bao cấp, sách cũng là hàng hóa khan hiếm. Ông thậm chí sẽ bán thuốc men, vì trong thời bao cấp, thuốc cũng rất khan hiếm và người dân rất cần thuốc để chữa bệnh.
+Buổi trưa, Hùng và Lan ăn bún ở quán bà Thủy. Lan ăn hai tô — cô đói, và hôm nay bán hàng mệt hơn mọi ngày. Hùng nhìn em, mỉm cười. Cô đang học — học bán hàng, học giao tiếp, học tính tiền. Mỗi ngày, cô tiến thêm một bước.
 
-Ông vẽ sơ đồ kế hoạch kinh doanh, với các bước cụ thể: bán đồ dùng gia đình, bán sách vở, bán thuốc men, và hoàn thành nhiệm vụ mở rộng danh mục hàng hóa. Ông biết rằng kế hoạch này sẽ đòi hỏi thời gian và nỗ lực, nhưng ông tin rằng ông sẽ thành công. Với hệ thống và kỹ năng của mình, ông có thể trở thành thương gia lớn nhất Việt Nam.
+"Anh ơi," Lan nói, ăn xong tô bún, "em thấy bán thuốc men dễ hơn bán quần áo. Quần áo người ta cân nhắc, thử, mặc. Thuốc men và đồ dùng thì mua ngay, không thử."
+
+Hùng gật đầu. "Em đúng. Đồ dùng sinh hoạt là hàng thiết yếu — người ta cần mỗi ngày, mua nhanh, không cân nhắc nhiều. Quần áo là hàng cao cấp — cân nhắc, thử, mặc. Hai loại hàng, hai loại khách."
+
+"Vậy mình nên bán nhiều đồ dùng sinh hoạt hơn?" Lan hỏi.
+
+"Đúng." Hùng nói. "Nhưng không chỉ đồ dùng sinh hoạt — mình cần cả hai. Đồ dùng sinh hoạt mang lại khách hàng đông, quay lại thường xuyên. Quần áo mang lại lợi nhuận cao, khách hàng ít nhưng trả nhiều. Cân bằng cả hai."
+
+Lan nghe, cố hiểu. Cô không rành thuật ngữ kinh doanh, nhưng cô hiểu ý: bán nhiều loại hàng, phục vụ nhiều loại khách. Đơn giản vậy.
+
+Buổi chiều, Hùng đến nhà anh Khanh, hỏi tin ông Tâm. Khanh lắc đầu. "Ông Tâm vẫn đang nghĩ. Ông ấy hỏi tôi về cậu — tôi nói tốt, cậu bán hàng thật, kiếm tiền chân chính. Nhưng ông ấy vẫn chưa quyết."
+
+"Ông ấy lo gì?" Hùng hỏi.
+
+"Ông lo rủi ro — nếu cậu bán hàng cấm, ông bị liên lụy. Ông là đảng viên, không mạo hiểm. Ông cần đảm bảo rằng hàng cậu bán hợp pháp."
+
+Hùng suy nghĩ. Ông cần thuyết phục ông Tâm rằng hàng hóa hợp pháp. Cách tốt nhất là cho ông xem hàng — quần áo, xà phòng, kem đánh răng, vitamin — đều là hàng thông thường, không cấm. Và ông cần cam kết: nếu có vấn đề, ông chịu trách nhiệm, ông Tâm không liên lụy.
+
+"Anh Khanh, anh có thể giúp em gặp ông Tâm lần nữa? Em muốn cho ông xem hàng, và cam kết bằng văn bản."
+
+Khanh gật đầu. "Được. Tôi sẽ nói với ông Tâm. Nhưng cậu chuẩn bị kỹ — ông ấy sẽ hỏi nhiều, hỏi kỹ. Ông ấy là bác sĩ, tư duy logic, không tin lời hứa suông."
+
+Hùng đã sẵn sàng. Ông sẽ chuẩn bị một bản kế hoạch: mặt hàng, nguồn hàng, giá cả, lợi nhuận dự kiến, rủi ro và cách kiểm soát. Bản kế hoạch bằng giấy, rõ ràng, cụ thể — như pitch deck cho nhà đầu tư, nhưng bằng giấy và bút bi.
+
+Về đến nhà, trời chiều muộn. Bà Hà ngồi ở hiên, đỡ hơn hôm qua — mặt hồng hơn, mắt sáng hơn. Bà uống thuốc đầy đủ, ăn cháo bò, và ngủ ngon. Thuốc bổ và dinh dưỡng đang chữa bà.
+
+Hùng ngồi cạnh bà, nói chuyện. "Bà ơi, ngày mai hoặc ngày kia con đi Hà Nội mua hàng. Con đi cả ngày, bà và Lan ở nhà."
+
+Bà Hà lo. "Hà Nội xa lắm, bốn mươi cây số. Đi một mình không sợ à?"
+
+"Không sợ, bà. Con đi xe đạp, ban ngày, đường quốc lộ đông người. Không có gì đâu."
+
+Bà Hà gật đầu, nhưng ánh mắt vẫn lo. Bà lo cho cháu — luôn lo, dù cháu đã hai mươi ba tuổi. Bà lo vì bà đã mất chồng, mất con dâu, không muốn mất cháu.
+
+Lan ngồi bên, nghe anh nói đi Hà Nội, mắt sáng lên. "Anh mang em đi được không?"
+
+"Lần này không." Hùng nói. "Đi Hà Nội xa, em ở nhà chăm bà. Lần sau anh sẽ đưa em."
+
+Lan hụt hẫng, nhưng gật đầu. Cô hiểu — bà đang ốm, cần người chăm. Cô ở lại.
+
+Tối ấy, Hùng ngồi viết kế hoạch kinh doanh bằng bút bi trên giấy học sinh. Ông viết:
+
+---
+KẾ HOẠCH HỢP TÁC KINH DOANH
+
+1. Mặt hàng: Quần áo may sẵn, đồ dùng sinh hoạt (xà phòng, kem đánh răng, dầu gội), thuốc men cơ bản (vitamin, thuốc bổ), thực phẩm (trứng tươi, mì gói). Tất cả là hàng hóa thông thường, không nằm trong danh mục cấm, không cần phiếu Cung Tiêu Xã.
+
+2. Nguồn hàng: Người quen ở Hà Nội, làm việc trong xưởng may nhà nước. Hàng dư, hàng lỗi nhẹ, mua giá rẻ. Đồ dùng sinh hoạt và thuốc men mua ở hiệu thuốc và cửa hàng nhập khẩu ở Hà Nội.
+
+3. Vốn: 600 đồng (hiện có). Dự kiến doanh thu: 200-300 đồng/ngày. Lợi nhuận: 40-50% (sau khi trừ vốn và chi phí).
+
+4. Phân chia lợi nhuận: Hùng bỏ vốn + bán hàng (70% công việc). Tâm đứng tên giấy phép (30% công việc). Chia lời: Hùng 70%, Tâm 30%. Dự kiến Tâm nhận: 60-90 đồng/tháng.
+
+5. Rủi ro: Hàng hóa hợp pháp, không vi phạm chính sách. Nếu có vấn đề, Hùng chịu trách nhiệm, Tâm không liên lụy. Cam kết bằng văn bản có chữ ký hai bên và người làm chứng (anh Khanh).
+---
+
+Hùng đọc lại, gật đầu. Rõ ràng, cụ thể, có số liệu. Ông sẽ trình bản kế hoạch này cho ông Tâm, và hy vọng ông đồng ý.
+
+Ngoài sân, trăng sáng. Gió lạnh. Bà Hà đã ngủ, tiếng thở nhẹ. Lan cũng ngủ, cuộn tròn trên chõng.
+
+Hùng nằm xuống giường, nhắm mắt. Ngày mai: đi Hà Nội. Bốn mươi cây số xe đạp, nửa ngày đi, nửa ngày về. Khó, nhưng cần thiết. Ông cần nguồn hàng bên ngoài — không thể mãi phụ thuộc kho không gian. Kho là dự phòng, là bí mật. Kinh doanh thật cần hàng thật, từ nguồn thật.
+
+Và ông cần khảo sát Hà Nội — chợ Đồng Xuân, cửa hàng nhập khẩu, hiệu thuốc sỉ. Hà Nội là thị trường lớn, trung tâm kinh tế miền Bắc. Nếu ông chinh phục được Hà Nội, ông sẽ chinh phục được cả nước.
+
+Nhưng trước hết, ông cần chinh phục huyện Quốc Oai. Từ nhỏ đến lớn. Từ huyện đến tỉnh. Từ tỉnh đến thành phố. Từ thành phố đến cả nước.
+
+Mỗi bước một chân. Không vội, không chậm. Đều đặn, chắc chắn, như đạp xe trên đường đất đỏ.
+
+Hành trình tiếp tục.
+

@@ -1,58 +1,131 @@
-============================================================
+﻿============================================================
 Chương 19: Hoàn thành nhiệm vụ sản xuất
 ============================================================
 
-Trong hai tuần tiếp theo, Trần Văn Hùng tập trung vào sản xuất quần áo. Ông thức dậy sớm mỗi ngày, đến xưởng may trước khi mặt trời mọc. Ông mở cửa xưởng may, cảm nhận sự hào hứng trong lòng. Đây là hai tuần quan trọng để hoàn thành nhiệm vụ sản xuất 500 bộ quần áo, và ông muốn làm tốt. Ông nhìn quanh xưởng may, với 8 máy may hiện đại và 8 công nhân làm việc chăm chỉ. Ông biết rằng với sự nỗ lực và kiến thức của mình, ông sẽ hoàn thành nhiệm vụ.
+Ngày thứ ba mươi. Một tháng kể từ khi Hùng tỉnh dậy. Và hôm nay là ngày khai trương Cửa Hàng Thương Gia.
 
-Với xưởng may đã mở rộng, năng suất sản xuất tăng lên rất nhanh. Ông và 8 công nhân làm việc chăm chỉ, mỗi ngày may được khoảng 20 bộ quần áo. Trong hai tuần, họ đã may được 250 bộ quần áo, hoàn thành mục tiêu 500 bộ. Ông cảm nhận sự hạnh phúc khi thấy năng suất sản xuất tăng lên nhanh chóng. Ông biết rằng đây là kết quả của sự nỗ lực và kiến thức của ông, và ông tin rằng ông sẽ tiếp tục thành công trong tương lai.
+Sáng sớm, Hùng dậy lúc bốn giờ — không phải vì alarm, mà vì hồi hộp. Lý Minh từng launch sản phẩm — ông biết cảm giác trước ngày ra mắt: hồi hộp, lo lắng, nhưng cũng phấn khích. Hôm nay, ông launch cửa hàng. Không phải app hay software, mà cửa hàng vật lý — nhưng cảm giác giống nhau.
 
-Ông tổ chức xưởng may hiệu quả, phân công công việc cho mỗi người. Ông sử dụng kiến thức quản lý của thế kỷ 21 để tối ưu hóa quy trình sản xuất. Ông chia xưởng may thành các nhóm chuyên môn, mỗi nhóm chịu trách nhiệm một loại sản phẩm cụ thể. Cô Hạnh và cô Loan làm việc may áo sơ mi, với kỹ năng giỏi và kinh nghiệm phong phú. Cô Mai và cô Hương làm việc may quần tây, với tay nghề nhanh nhẹn và chính xác. Cô Liên và cô Thảo làm việc may váy và áo khoác, với khả năng thiết kế và sáng tạo. Ông Đức và ông Nam làm việc kiểm tra chất lượng và hoàn thiện sản phẩm, với sự tỉ mỉ và cẩn thận. Ông cũng thiết lập quy trình kiểm soát chất lượng, đảm bảo mỗi sản phẩm đều đạt tiêu chuẩn cao. Lan cũng tham gia, đã may được 5 bộ quần áo đơn giản, tuy tay nghề còn chưa thành thạo nhưng rất chăm chỉ. Cô học chăm chỉ mỗi ngày, và ông biết rằng cô sẽ trở thành một thợ may giỏi trong tương lai.
+Bà Xuân đến sớm — cô nấu cơm sáng cho cả nhà, rồi dọn dẹp cửa hàng lần cuối. Lan đến cửa hàng từ sáu giờ — cô bày hàng, kiểm tra kệ, lau gương, xếp lại quần áo cho đều. Cô mặc áo blouse hồng (hàng của cửa hàng), đứng sau quầy, sẵn sàng.
 
-Trần Văn Hùng bán quần áo cho các đối tác của mình: ông Ba ở huyện Quốc Oai, ông Tâm ở huyện Chương Mỹ, ông Hùng ở Hà Nội, ông Tuấn ở Hà Nam, ông Hưng ở Hải Dương, ông Minh ở Thái Bình, ông Khánh ở Quảng Ninh, và ông Sơn ở Nghệ An. Ông sử dụng kỹ năng marketing cấp 1 để quảng bá sản phẩm của mình, thu hút sự chú ý của các đối tác. Ông cũng sử dụng kỹ năng đàm phán cấp 1 để thương lượng giá cả tốt hơn và đạt được thỏa thuận có lợi. Mỗi đối tác đều hài lòng với chất lượng quần áo. Quần áo tự sản xuất chất lượng cao, thiết kế đẹp, nên bán được giá cao. Trong thời bao cấp năm 1983, việc tìm đối tác kinh doanh là rất khó, nhưng ông tin rằng với kỹ năng của mình, ông sẽ đạt được thành công.
+Hùng đến cửa hàng lúc bảy giờ. Ông mặc áo sơ mi trắng (hàng của xưởng may), đứng trước cửa, nhìn biển hiệu "Cửa Hàng Thương Gia" — bốn chữ đỏ trên nền gỗ, chạm nổi, đẹp. Cửa hàng mặt đường chợ huyện, cửa lớn mở rộng, hàng bày gọn gàng, kệ gỗ sáng, gương lấp lánh. Trông chuyên nghiệp — không như sạp chợ, mà như cửa hàng thành phố.
 
-Sau hai tuần, ông đã bán được 500 bộ quần áo, kiếm được 9000 đồng. Đây là số tiền khổng lồ trong thời bao cấp, đủ để một gia đình sống cả năm. Ông cảm nhận sự hạnh phúc khi thấy thành quả của sự nỗ lực và kiến thức của ông. Ông biết rằng đây là kết quả của sự nỗ lực và kiến thức của ông, và ông tin rằng ông sẽ tiếp tục thành công trong tương lai. Ông cũng suy nghĩ về việc tiếp tục mở rộng kinh doanh, vì nhu cầu hàng hóa chất lượng cao trong thời bao cấp là rất lớn.
+Ông Tâm đến lúc bảy rưỡi — ông đứng tên, nên ông có mặt. Ông mặc áo bộ đội, huân chương treo ngực, nhìn cửa hàng, gật đầu. "Tốt. Đẹp. Chuyên nghiệp."
 
-Ông đưa cho bà 3000 đồng. "Bà, đây là tiền cháu kiếm được trong hai tuần này," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon." Ông nói thật lòng, giọng nói đầy yêu thương. Ông muốn bà có cuộc sống tốt hơn, và ông sẽ làm mọi thứ để đạt được mục tiêu đó.
+Anh Khanh đến lúc tám giờ — cùng ba đồng nghiệp. Họ nhìn cửa hàng, mắt sáng — hàng xịn, bày đẹp, giá hợp lý. "Cậu Hùng, cửa hàng đẹp lắm. Tôi sẽ giới thiệu cho toàn huyện."
 
-Bà Hà sững sờ, đôi mắt rưng rưng nước mắt. "Nhiều quá! Cháu làm ăn tốt quá. Cháu đã hoàn thành mục tiêu sản xuất à?" Bà nói, giọng nói đầy ngạc nhiên và hạnh phúc. Bà chưa từng nghĩ rằng cháu trai sẽ kiếm được nhiều tiền như vậy trong thời bao cấp, và bà cảm thấy tự hào về cháu trai. Bà biết rằng cháu trai đã thay đổi, và bà tin rằng cháu trai sẽ tiếp tục thay đổi để tốt hơn.
+Hùng mời khách — anh Khanh và đồng nghiệp, ông Tâm và bạn bè, người dân qua đường. Ông giảm giá ngày khai trương: tất cả hàng giảm 10%, khách đầu tiên tặng kèm bánh xà phòng miễn phí. Trong thời bao cấp, giảm giá và tặng quà là marketing hiệu quả — người dân truyền miệng, đông đến xem.
 
-"Vâng," Trần Văn Hùng nói, giọng nói chân thành. "Cháu đã hoàn thành mục tiêu sản xuất 500 bộ quần áo. Cháu sẽ tiếp tục mở rộng." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng ông đã hoàn thành nhiệm vụ và sẽ nhận phần thưởng từ hệ thống, và ông muốn tiếp tục mở rộng kinh doanh. Trong thời bao cấp năm 1983, việc hoàn thành nhiệm vụ sản xuất 500 bộ quần áo là rất khó, nhưng ông tin rằng với hệ thống và kiến thức của mình, ông sẽ thành công.
+Người dân đến — lúc đầu ít, rồi đông dần. Họ nhìn biển hiệu, nhìn hàng, mắt sáng. Quần áo may sẵn — áo sơ mi trắng, quần dài đen, vải mềm, đường may thẳng. Vải cotton trắng — mềm, đều, không lỗi. Thuốc men — vitamin, thuốc bổ, thuốc cảm. Đồ dùng sinh hoạt — xà phòng, kem đánh răng, dầu gội. Thực phẩm — trứng tươi, mì gói.
 
-Lan cũng chạy ra, ánh mắt ngạc nhiên nhìn anh. "Anh, em đã may được 5 bộ quần áo rồi. Em rất vui." Cô nói, giọng nói đầy hạnh phúc và tự hào. Cô chưa từng nghĩ rằng mình có thể may được nhiều quần áo như vậy, và cô cảm thấy tự hào về thành quả của mình. Cô biết rằng cô đã học chăm chỉ, và cô tin rằng cô sẽ tiếp tục học để tốt hơn. Trong thời bao cấp năm 1983, việc học may là rất quan trọng, và cô muốn học để giúp anh làm ăn.
+"Quần áo may sẵn đẹp quá! Bao nhiêu?" Một người đàn ông hỏi.
+"40 đồng một bộ, anh. Hôm nay khai trương, giảm 10% — 36 đồng." Lan trả lời, mỉm cười, tự tin.
+"Lấy một bộ!"
+"Em lấy vải 5 mét!" Một bà cụ.
+"Cho tôi 5 bánh xà phòng!" Một người phụ nữ.
+"Vitamin B bao nhiêu? Tôi cần cho con." Một bà mẹ.
 
-"Tốt lắm," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Em giỏi quá. Em rất có năng khiếu. Anh tự hào về em." Ông nói thật lòng, giọng nói đầy tự hào. Ông biết rằng Lan có năng khiếu may, và ông tin rằng cô sẽ trở thành một thợ may giỏi trong tương lai. Ông sẽ dạy cô thêm nhiều kỹ năng để cô có thể giúp đỡ ông trong công việc kinh doanh.
+Cửa hàng đông — người vào xem, mua, ra, người khác vào. Lan bán hàng, Hùng phụ, bà Xuân trông kho. Ba người bận rộn — nhưng hạnh phúc. Cửa hàng đầu tiên, khai trương, đông khách. Mọi nỗ lực một tháng qua kết tinh trong ngày hôm nay.
 
-Lan mỉm cười, đôi mắt sáng lên. "Em muốn giúp anh nhiều hơn. Em muốn làm việc chăm chỉ." Cô nói, giọng nói đầy hạnh phúc. Cô quyết định học chăm chỉ, vì cô muốn giúp anh làm ăn. Cô biết rằng anh đã thay đổi, và cô tin rằng anh sẽ tiếp tục thay đổi để tốt hơn. Cô hy vọng rằng sự thay đổi này là thật, hy vọng rằng anh sẽ thực sự dạy cô thêm nhiều kỹ năng.
+Buổi sáng, cửa hàng bán:
+- 10 bộ quần áo: 360 đồng (giảm giá 10%)
+- 15m vải: 108 đồng
+- 15 hộp vitamin: 67.5 đồng
+- 15 bánh xà phòng: 40.5 đồng
+- 5 tuýp kem đánh răng: 22.5 đồng
+- 5 chai dầu gội: 36 đồng
+- 10 quả trứng: 9 đồng
+- 5 gói mì: 2.5 đồng
+Tổng: 646 đồng (sau giảm giá)
 
-"Được," Trần Văn Hùng nói, giọng nói dịu dàng. "Em sẽ giúp anh khi em giỏi hơn. Anh sẽ dạy em thêm nhiều kỹ năng." Ông nói thật lòng, giọng nói đầy hứa hẹn. Ông biết rằng Lan muốn học, và ông muốn dạy cô thêm nhiều kỹ năng để cô có thể giúp đỡ ông trong công việc kinh doanh. Ông tin rằng Lan sẽ trở thành một thợ may giỏi trong tương lai.
+「Giao dịch thành công! +60 EXP. Tổng EXP: 975」
 
-Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+975 EXP — gần 1.000. Chỉ cần 25 EXP nữa.
 
-"Chúc mừng chủ nhân đã hoàn thành nhiệm vụ!"
+Buổi chiều, cửa hàng tiếp tục đông — tin đồn lan, người dân từ các làng đến. Hùng không giảm giá buổi chiều (chỉ giảm buổi sáng), nhưng khách vẫn đông — hàng xịn, giá hợp lý, cửa hàng đẹp. Bán thêm: 5 bộ quần áo (200 đồng), 10m vải (80 đồng), 10 hộp vitamin (50 đồng), 10 bánh xà phòng (30 đồng), 5 chai dầu gội (40 đồng). Tổng: 400 đồng.
 
-"Phần thưởng:"
-- 300 điểm kinh nghiệm
-- Kỹ năng sản xuất cấp 1
-- Mở rộng nhà xưởng trong không gian
+「Giao dịch thành công! +30 EXP. Tổng EXP: 1.005」
 
-"Điểm kinh nghiệm hiện tại: 1585."
+1.005 EXP. Hệ thống thông báo:
 
-"Nhà xưởng trong không gian đã mở rộng, có thêm 10 máy may mới."
+「Chúc mừng! EXP đạt 1.000 — Mốc nâng cấp!
+- Kỹ năng Thương mại cấp 3 → cấp 4: Đánh giá giá trị 99.5%, dự đoán xu hướng giá 21 ngày, thương lượng giảm 40% chi phí, nhận biết hàng giả 99%, phân tích thị trường cơ bản.
+- Kỹ năng Sản xuất cấp 1 → cấp 2: Đánh giá chất lượng 95%, tối ưu quy trình nâng cao, giảm 25% hao hụt, quản lý xưởng 20 thợ.
+- Không gian mở rộng +200m²: 1.400m² tổng.」
 
-Trần Văn Hùng mừng rỡ. Kỹ năng sản xuất mới sẽ giúp ông sản xuất hàng hóa chất lượng cao hơn. Nhà xưởng mở rộng cho phép ông thuê thêm công nhân. Với kỹ năng sản xuất cấp 1, ông có thể tối ưu hóa quy trình sản xuất, giảm chi phí, và tăng lợi nhuận. Ông cảm nhận sự hạnh phúc khi thấy phần thưởng từ hệ thống, và ông biết rằng đây là kết quả của sự nỗ lực và kiến thức của ông. Ông suy nghĩ về kế hoạch chi tiết cho việc sử dụng kỹ năng sản xuất mới. Ông sẽ sử dụng kỹ năng này để tối ưu hóa quy trình sản xuất, giảm chi phí, và tăng lợi nhuận. Trong thời bao cấp năm 1983, việc tối ưu hóa quy trình sản xuất là rất quan trọng, và ông tin rằng với hệ thống và kiến thức của mình, ông sẽ thành công.
+Thương mại lv4! Sản xuất lv2! Không gian 1.400m²! Hùng đứng trong cửa hàng, nghe thông báo, và mỉm cười — mỉm cười rộng, tươi, không giấu được. Một tháng, từ 0 đến 1.005 EXP, bốn kỹ năng, không gian 1.400m². Ông đang tiến nhanh — nhanh hơn cả dự tính.
 
-Ông quyết định thuê thêm 5 công nhân nữa: cô Nga, cô Vy, ông Huy, ông Tuấn và ông Dũng. Ông đi tìm những người có tay nghề và kinh nghiệm để gia tăng năng suất sản xuất. Cô Nga và cô Vy là người trẻ, có tay nghề nhanh nhẹn, học hỏi nhanh và làm việc chăm chỉ. Ông Huy, ông Tuấn và ông Dũng đều là thợ may có kinh nghiệm nhiều năm, từng làm việc cho các xưởng may lớn trước đây, với kỹ năng giỏi và kinh nghiệm phong phú. Ông trả lương cao và cung cấp điều kiện làm việc tốt để thu hút nhân tài. Xưởng may giờ có 13 người và 18 máy may, năng suất sản xuất tăng lên rất nhanh. Ông cảm nhận sự hạnh phúc khi thấy xưởng may phát triển, và ông biết rằng đây là kết quả của sự nỗ lực và kiến thức của ông.
+「Nhiệm vụ hoàn thành: Mở cửa hàng cố định
+- Giấy phép ✓
+- Mặt bằng ✓
+- Khai trương ✓
+- Phần thưởng: +200 EXP, Kỹ năng Quản lý lv1, Không gian +300m²
+- Tổng EXP: 1.005 + 200 = 1.205
+- Không gian: 1.400 + 300 = 1.700m²」
 
-Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây. Bà Hà nấu cơm trong bếp mới, với nồi chảo mới và bát đĩa mới. Lan ngồi trên ghế mới, ăn cơm với thức ăn ngon. Trần Văn Hùng ngồi trên bàn mới, cảm nhận sự hạnh phúc khi thấy gia đình có cuộc sống tốt hơn. Ông suy nghĩ về kế hoạch kinh doanh của mình, và ông biết rằng ông cần tiếp tục mở rộng để đạt được mục tiêu trở thành thương gia lớn nhất Việt Nam.
+Quản lý lv1! 1.205 EXP! 1.700m²!
 
-"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?" Bà nói, giọng nói đầy quan tâm. Bà muốn biết cháu trai có kế hoạch gì cho tương lai, và bà muốn hỗ trợ cháu trai nếu có thể. Bà biết rằng cháu trai đã thay đổi, và bà tin rằng cháu trai sẽ tiếp tục thay đổi để tốt hơn.
+「Kỹ năng Quản lý cấp 1: Quản lý nhân sự cơ bản (tối đa 10 nhân viên), lập kế hoạch kinh doanh cơ bản, theo dõi doanh thu chi phí, đánh giá hiệu quả nhân viên.」
 
-"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ tiếp tục sản xuất quần áo và mở rộng kinh doanh thêm nữa. Cháu muốn bắt đầu sản xuất các hàng hóa khác như giày dép và túi xách." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng ông cần đa dạng hóa sản phẩm để tăng doanh thu, và ông muốn bắt đầu sản xuất giày dép và túi xách. Trong thời bao cấp năm 1983, việc sản xuất giày dép và túi xách là rất khó, nhưng ông tin rằng với hệ thống và kiến thức của mình, ông sẽ thành công.
+Hùng hít sâu. Một tháng. Một tháng kể từ khi tỉnh dậy trong căn nhà dột rách. Và bây giờ:
+- 5 kỹ năng: Thương mại lv4, Ngôn ngữ lv1, Y tế lv1, Sản xuất lv2, Quản lý lv1
+- 1.205 EXP
+- 1.700m² không gian
+- 1 cửa hàng đang hoạt động
+- 6 đại lý ở 6 tỉnh
+- 50 bộ sản xuất + 100 bộ đang may
+- 5 nhân sự (bà Xuân, bà Phượng, 2 thợ may, Lan)
 
-Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức." Bà nói, giọng nói đầy lo lắng. Bà biết rằng cháu trai đã thay đổi, và bà tin rằng cháu trai sẽ tiếp tục thay đổi để tốt hơn. Bà chỉ muốn cháu trai khỏe mạnh, không muốn cháu trai làm việc quá sức.
+---
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa." Ông nói thật lòng, giọng nói đầy hứa hẹn. Ông biết rằng bà lo lắng, và ông muốn trấn an bà. Ông sẽ cẩn thận, sẽ không làm việc quá sức. Ông sẽ thuê thêm người giúp việc để giảm gánh nặng công việc.
+Chiều tối, cửa hàng đóng cửa. Hùng ngồi sau quầy, kiểm tra doanh thu:
+- Tổng doanh thu ngày khai trương: 646 + 400 = 1.046 đồng
+- Tổng chi phí ngày: 0 (hàng từ kho, không chi phí thêm)
+- Lãi: 1.046 đồng
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch kinh doanh mới. Ông quyết định bắt đầu sản xuất các hàng hóa khác như giày dép và túi xách. Với kiến thức của thế kỷ 21, ông biết cách thiết kế và sản xuất giày dép và túi xách đẹp và thời trang. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.
+1.046 đồng trong một ngày — kỷ lục. Cửa hàng hiệu quả hơn bán rong — khách đến tìm ông, không cần ông đi tìm khách. Và cửa hàng mở cả ngày, không chỉ buổi sáng.
 
-Ông suy nghĩ về kế hoạch chi tiết cho việc sản xuất giày dép và túi xách. Ông sẽ sử dụng hệ thống để lấy nguyên liệu từ không gian, bao gồm da, vải, và các phụ kiện khác. Ông sẽ thiết kế giày dép và túi xách theo phong cách thời trang của thế kỷ 21, thu hút sự chú ý của khách hàng. Ông cũng sẽ sử dụng kỹ năng sản xuất cấp 1 để tối ưu hóa quy trình sản xuất, giảm chi phí, và tăng lợi nhuận. Trong thời bao cấp năm 1983, việc sản xuất giày dép và túi xách là rất khó, nhưng ông tin rằng với hệ thống và kiến thức của mình, ông sẽ thành công.
+Hùng tính toán tài chính tổng:
+- Tiền ngoài: 5.175 (ngày 25) + 1.046 (khai trương) = 6.221 đồng
+- Tiền trong không gian: 10.000 đồng
+- EXP: 1.205
+- Không gian: 1.700m²
+
+6.221 đồng. Hùng mỉm cười — ông đã vượt mốc 6.000 đồng. Trong thời bao cấp, đây là số tiền mà người ta mua được cả căn nhà ở Hà Nội. Và ông kiếm được trong một tháng.
+
+Lan ngồi cạnh, mệt nhưng vui. "Anh ơi, hôm nay đông lắm. Em bán không kịp. Người ta xếp hàng chờ — như xếp hàng mua gạo Cung Tiêu Xã, nhưng mà vui hơn."
+
+Hùng cười. "Hôm nay là ngày đầu. Ngày mai sẽ ít hơn, nhưng đều đặn. Cửa hàng không chỉ bán ngày khai trương — bán mỗi ngày, mỗi tháng, mỗi năm."
+
+Lan gật đầu. "Em sẽ ở cửa hàng mỗi ngày. Anh đi mở rộng, em trông cửa hàng."
+
+"Được." Hùng nói. "Phân công: em trông cửa hàng, anh đi mở rộng. Bà Xuân nấu cơm và trông kho. Bà Phượng may. Anh Khanh giới thiệu khách. Ông Tâm đứng tên."
+
+Mỗi người một việc — phân công rõ ràng, hiệu quả. Hùng bắt đầu xây dựng tổ chức — không chỉ một người, mà một đội. Đội Thương Gia.
+
+Tối ấy, Hùng về nhà. Bà Hà ngồi ở hiên, đợi cháu. Bà khỏe mạnh, mặt hồng, mắt sáng. Bà hỏi: "Khai trương thế nào?"
+
+"Đông lắm, bà. Bán được hơn 1.000 đồng." Hùng nói.
+
+Bà Hà sững sờ. "1.000 đồng? Trong một ngày?"
+
+"Dạ, bà. Cửa hàng đông, hàng bán nhanh." Hùng mỉm cười. "Từ nay, bà không phải lo nữa. Cháu sẽ kiếm đủ tiền cho bà sống thoải mái."
+
+Bà Hà nhìn cháu, nước mắt chảy — nước mắt của vui, của tự hào, của biết ơn. Bà sống sáu mươi năm, trải qua bao nhiêu khổ, và bây giờ, cháu bà mở cửa hàng, bán được 1.000 đồng một ngày. Bà không tin — nhưng bà vui.
+
+Bà Xuân nấu cơm tối thịnh soạn: cơm trắng, gà luộc, canh nấm, xào lăn, dưa muối. Năm món — thịnh soạn nhất từ trước đến nay. Bà Hà ăn được hai bát rưỡi — khỏe mạnh. Lan ăn ba bát — mệt mà đói. Hùng ăn bốn bát — đói và phấn khích.
+
+Sau bữa tối, Hùng ngồi ngoài sân, nhìn trời. Trăng tròn, sao sáng, gió nhẹ. Cửa hàng Thương Gia — khai trương thành công. Một tháng — từ số không đến cửa hàng. Từ bát cháo loãng đến bàn đầy thịt cá. Từ căn nhà dột rách đến mái tôn ấm.
+
+Hùng vào không gian — 1.700m², rộng hơn, đẹp hơn. Suối chảy dài hơn, cây cỏ xanh hơn, nhà gỗ thêm một phòng. Kho hàng cũng lớn hơn — kệ nhiều hơn, hàng nhiều hơn. Hùng ngồi bên suối, nghe nước chảy, và suy nghĩ.
+
+Phần 1 cần: 8 cửa hàng, 4 nhà hàng, 7 xưởng, 15 mảnh đất. Hiện tại: 1 cửa hàng, 0 nhà hàng, 1 xưởng (may), 0 mảnh đất. Còn xa — nhưng ông đã đặt viên gạch đầu tiên. Cửa hàng Thương Gia — viên gạch đầu tiên của đế chế.
+
+Hùng thoát không gian, nằm xuống giường. Ngoài sân, gió lạnh, crickets kêu. Bà Hà ngủ ngon — giấc ngủ của người khỏe, ấm, yên. Lan ngủ — cô mệt sau ngày khai trương, ngủ say, mỉm cười.
+
+Hùng nhắm mắt. Một tháng. Một tháng thay đổi cả cuộc đời. Từ Lý Minh kỹ sư phần mềm thành Trần Văn Hùng thương gia. Từ căn hộ Quận 7 thành cửa hàng huyện Quốc Oai. Từ code thành hàng hóa. Từ cô đơn thành gia đình.
+
+Còn hai tháng nữa để hoàn thành Phần 1. 8 cửa hàng, 4 nhà hàng, 7 xưởng, 15 mảnh đất. Lộ trình dài — nhưng ông đã bước bước đầu. Và mỗi bước đều chắc.
+
+Hành trình tiếp tục.
+

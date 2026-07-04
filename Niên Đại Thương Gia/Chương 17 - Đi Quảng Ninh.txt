@@ -1,73 +1,106 @@
-============================================================
+﻿============================================================
 Chương 17: Đi Quảng Ninh
 ============================================================
 
-Sáng hôm sau, Trần Văn Hùng thức dậy sớm. Ông mở mắt ra, nhìn thấy ánh sáng vàng yếu ớt chiếu qua khe cửa sổ. Đây là buổi sáng của một ngày mới, một ngày mà ông sẽ bắt đầu hành trình đi tỉnh Quảng Ninh để mở rộng mạng lưới kinh doanh. Ông ngồi dậy, cảm nhận sự hào hứng trong lòng. Đây là lần đầu tiên ông đi tỉnh xa để tìm đối tác kinh doanh, và ông muốn làm tốt. Ông nhìn quanh căn phòng mới, với tường gạch trắng sáng, sàn gỗ sạch sẽ, và cửa sổ lớn cho phép ánh sáng chiếu vào. Ông biết rằng gia đình ông xứng đáng có cuộc sống tốt hơn.
+Ngày thứ hai mươi hai. Hùng nhận 50 bộ quần áo hoàn chỉnh từ bà Phượng — 50 áo sơ mi trắng, 50 quần dài đen, may công nghiệp, đường kim thẳng tắp, vải cotton mềm. Chất lượng tốt, đẹp, đúng tiêu chuẩn.
 
-Ông kiểm tra không gian, suy nghĩ về kế hoạch đi tỉnh Quảng Ninh. Ông muốn mở rộng mạng lưới kinh doanh ra các tỉnh xa hơn. Với kỹ năng marketing cấp 1, ông tin sẽ tìm được đối tác tốt và đạt được thỏa thuận có lợi. Ông suy nghĩ về kế hoạch chi tiết cho việc đi tỉnh Quảng Ninh. Ông sẽ đi thành phố Hạ Long, thủ phủ của tỉnh Quảng Ninh, để tìm đối tác kinh doanh. Ông biết rằng nhu cầu hàng hóa chất lượng cao trong thời bao cấp là rất lớn, và ông tin rằng ông sẽ tìm được đối tác tốt. Trong thời bao cấp năm 1983, việc đi tỉnh xa là rất khó, nhưng ông tin rằng với hệ thống và kiến thức của mình, ông sẽ thành công.
+「Nhiệm vụ hoàn thành: Sản xuất hàng hóa đầu tiên
+- 50 bộ quần áo đã sản xuất ✓
+- Phần thưởng: +100 EXP, Kỹ năng Sản xuất lv1
+- Tổng EXP: 640 + 100 = 740」
 
-Ông mặc bộ quần áo đẹp nhất, lấy từ không gian ra một số tiền và hàng hóa mẫu, rồi đi xe buýt đến thành phố Hạ Long, thủ phủ của tỉnh Quảng Ninh. Ông đi sớm, tránh giờ cao điểm, không muốn để ai chú ý. Ông mặc bộ quần áo sơ mi trắng và quần tây đen, với giày da sáng bóng. Ông lấy từ không gian ra một số tiền và hàng hóa mẫu, bao gồm gạo trắng, thịt bò, quần áo tự may, và thuốc men. Ông cẩn thận gói hàng hóa vào túi, không muốn để ai chú ý. Ông biết rằng trong thời bao cấp, việc có nhiều hàng hóa là rất nguy hiểm, và ông cần cẩn thận.
+「Kỹ năng Sản xuất cấp 1: Đánh giá chất lượng sản phẩm chính xác 90%, tối ưu quy trình sản xuất cơ bản, giảm 15% hao hụt nguyên liệu.」
 
-Xe buýt đông đúc, người dân đi làm, ai cũng đang lo lắng về việc kiếm sống trong thời bao cấp. Ông ngồi trên ghế xe buýt, nhìn ra cửa sổ thấy những cánh đồng lúa xanh mướt và những ngôi nhà mái ngói đơn giản. Ông suy nghĩ về kế hoạch kinh doanh của mình, và ông biết rằng ông cần tiếp tục mở rộng để đạt được mục tiêu trở thành thương gia lớn nhất Việt Nam. Ông cũng suy nghĩ về gia đình, và ông muốn bà và Lan có cuộc sống tốt hơn.
+Sản xuất lv1. Hùng mỉm cười — giờ ông không chỉ bán hàng, mà còn sản xuất, đánh giá chất lượng, và tối ưu quy trình. Kỹ năng mới sẽ giúp ông sản xuất hiệu quả hơn, giảm hao hụt, tăng lợi nhuận.
 
-Khi đến thành phố Hạ Long, ông đi dạo quanh khu chợ, quan sát tình hình. Ông đi trên con đường đá xanh, hai bên là những ngôi nhà mái ngói đơn giản của người dân trong thành phố. Ông nhìn thấy khu chợ Hạ Long, với những gian hàng nhỏ bán đủ loại hàng hóa từ gạo, thịt, đến quần áo và thuốc men. Ông quan sát tình hình, thấy người dân đang mua sắm, ai cũng đang lo lắng về việc kiếm sống trong thời bao cấp. Ông biết rằng nhu cầu hàng hóa chất lượng cao là rất lớn, và ông tin rằng ông sẽ tìm được đối tác tốt.
+Hùng giao 750 đồng công may cho bà Phượng, rồi chở 50 bộ quần áo về nhà. Ông kiểm tra từng bộ — kỹ năng sản xuất lv1 tự động kích hoạt, đánh giá chất lượng: 48 bộ loại A (đường kim thẳng, vải đều, không lỗi), 2 bộ loại B (đường kim hơi lệch ở cổ áo, nhưng vẫn dùng được). Tỷ lệ合格 96% — tốt cho sản xuất thủ công bằng máy Singer.
 
-Ông thấy một thương lái tên là ông Khánh, người có uy tín ở khu chợ. Ông Khánh là một thương lái giàu kinh nghiệm, có mạng lưới buôn bán rộng khắp trong tỉnh. Ông Khánh là một người đàn ông trung niên, với khuôn mặt hiền hậu và đôi mắt sáng ngời. Ông mặc áo bà ba màu xanh, đội nón lá, làm việc chăm chỉ. Ông cảm nhận sự chuyên nghiệp và kinh nghiệm của ông Khánh, và ông biết rằng ông Khánh là người mà ông cần tìm.
+Hùng phân loại: 48 bộ loại A bán giá 40 đồng/bộ, 2 bộ loại B bán giá 30 đồng/bộ (hàng sale). Tổng doanh thu dự kiến: 48 × 40 + 2 × 30 = 1.920 + 60 = 1.980 đồng. Vốn: 1.350 đồng (vải + công may). Lãi: 630 đồng (47%).
 
-"Ông Khánh, tôi có nguồn hàng gạo, thịt, quần áo, và thuốc men tốt, muốn hợp tác với ông," Trần Văn Hùng nói, giọng nói bình tĩnh. Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng ông Khánh là người uy tín trong khu chợ, và ông muốn hợp tác với ông Khánh để mở rộng mạng lưới kinh doanh. Ông sử dụng kỹ năng đàm phán cấp 1 để thương lượng với ông Khánh, và ông tin rằng ông sẽ đạt được thỏa thuận có lợi.
+Nhưng Hùng không bán ngay — ông cần phân bổ. 20 bộ bán ở cửa hàng huyện (khi khai trương), 10 bộ bán rong ở các tỉnh, 10 bộ giao sỉ cho đại lý, 10 bộ giữ kho. Phân bổ đều, tránh dồn một chỗ.
 
-Ông Khánh nhìn chàng trai trẻ, nghi ngờ. "Cậu lấy đâu ra nguồn hàng tốt? Giờ này hàng hóa khan hiếm lắm." Ông nói, giọng nói đầy nghi ngờ. Ông chưa từng nghĩ rằng một chàng trai trẻ sẽ có nguồn hàng tốt như vậy trong thời bao cấp, và ông nghi ngờ về khả năng của Trần Văn Hùng. Ông muốn biết rõ về nguồn gốc của hàng hóa trước khi quyết định hợp tác.
+---
 
-"Tôi có xưởng may tự sản xuất quần áo," Trần Văn Hùng nói, giọng nói kiên định. "Giá tốt hơn ông mua ở chỗ khác, hàng chất lượng." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng lời nói dối này là cần thiết để bảo vệ bí mật của hệ thống. Ông không thể nói với ông Khánh về hệ thống, vì ông sẽ không tin và có thể bị lo lắng. Ông cần một lời nói dối hợp lý để giải thích nguồn gốc của hàng hóa.
+Hôm nay, Hùng đi Quảng Ninh — tỉnh ven biển đông bắc, cách Hà Tây khoảng sáu mươi cây số. Xa nhất từ trước đến nay, nhưng Quảng Ninh là tỉnh đặc biệt: có Hạ Long, có mỏ than, có cảng, có giao thương quốc tế. Nhu cầu hàng hóa lớn, đa dạng, và người dân có thu nhập cao hơn (công nhân mỏ than, cán bộ cảng).
 
-Ông Khánh suy nghĩ một chút, ánh mắt vẫn còn nghi ngờ. "Được, tôi xem hàng trước. Nếu hàng tốt, tôi sẽ hợp tác." Ông nói, giọng nói đầy thực tế. Ông là một người thực tế, và ông muốn xem hàng hóa trước khi quyết định. Trong thời bao cấp, việc xem hàng hóa là rất quan trọng, và ông muốn đảm bảo rằng hàng hóa là chất lượng cao.
+Hùng đạp xe sáu mươi cây số — bốn tiếng. Đường quốc lộ 18 qua Hải Dương, qua Uông Bí, vào Hạ Long. Cảnh vật thay đổi hoàn toàn — từ đồng ruộng đến đồi núi đá vôi, từ nhà đất đến nhà cấp bốn, từ nông thôn đến đô thị nhỏ. Mùi biển thoang thoảng từ xa — mùi muối, mùi cá, mùi gió biển.
 
-Trần Văn Hùng lấy từ không gian ra 30kg gạo trắng, 5kg thịt bò, 10 bộ quần áo tự may, và 10 hộp thuốc, đặt lên bàn. Ông Khánh sững sờ trước số lượng hàng hóa lớn như vậy. Trong thời bao cấp, hiếm có ai có nhiều hàng hóa như vậy. Ông Khánh sờ vào từng loại hàng hóa, cảm nhận chất lượng cao của chúng. Gạo trắng sáng bóng, thịt bò tươi ngon, quần áo tự may đẹp và chất lượng cao, thuốc men đóng gói cẩn thận. Ông cảm nhận sự chuyên nghiệp và chất lượng của hàng hóa, và ông biết rằng đây là hàng hóa chất lượng cao.
+Đến Hạ Long lúc mười giờ. Thị xã nhỏ nhưng nhộn nhịp — cảng biển, tàu thuyền, công nhân mỏ than, cán bộ. Chợ Hạ Long đông, hàng hóa đa dạng hơn các tỉnh khác — có hàng nhập khẩu từ tàu biển, hàng Liên Xô, hàng Trung Quốc.
 
-"Quần áo tự may..." Ông Khánh ngạc nhiên, đôi mắt mở to. "Chất lượng tốt quá! Cậu tự may quần áo à?" Ông nói, giọng nói đầy ngạc nhiên và hào hứng. Ông chưa từng nghĩ rằng một chàng trai trẻ sẽ tự may quần áo chất lượng cao như vậy trong thời bao cấp, và ông bắt đầu tin rằng Trần Văn Hùng có khả năng cung cấp hàng hóa chất lượng cao. Ông sờ vào quần áo, cảm nhận chất lượng cao của vải và kỹ thuật may, và ông biết rằng đây là hàng hóa chất lượng cao.
+Hùng bày hàng ở hẻm cạnh chợ. Hôm nay ông mang: 10 bộ quần áo (từ lô sản xuất đầu tiên), 15m vải, 15 hộp vitamin, 15 bánh xà phòng, 5 tuýp kem đánh răng, 5 chai dầu gội.
 
-"Vâng," Trần Văn Hùng nói, giọng nói kiên định. "Giá tôi bán: gạo 2.5 đồng một kg, thịt 9 đồng một kg, quần áo 18 đồng một bộ, thuốc 1.5 đồng một hộp. Giá sỉ, rẻ hơn giá lẻ nhiều." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng giá này là thấp hơn nhiều so với giá lẻ trong thời bao cấp, và ông tin rằng ông Khánh sẽ bị thu hút. Ông sử dụng kỹ năng đàm phán cấp 1 để thương lượng giá cả tốt hơn và đạt được thỏa thuận có lợi.
+Quần áo sản xuất — áo sơ mi trắng, quần dài đen, may công nghiệp — bán nhanh nhất. Công nhân mỏ than cần áo sơ mi trắng đi làm, cán bộ cần áo đẹp đi họp, người dân cần quần áo mới. 10 bộ bán hết trong hai giờ, giá 45 đồng/bộ (cao hơn huyện 5 đồng vì Hạ Long xa hơn, hàng hiếm hơn). Tổng: 450 đồng.
 
-Ông Khánh tính toán nhanh chóng. Nếu mua ở giá này và bán lại, ông sẽ kiếm được lợi nhuận lớn. Gạo trắng giá lẻ là 4-5 đồng một kg, thịt bò giá lẻ là 12-15 đồng một kg, quần áo tự may giá lẻ là 20-25 đồng một bộ, thuốc giá lẻ là 2-3 đồng một hộp. Nếu mua ở giá sỉ và bán lại, ông sẽ kiếm được lợi nhuận đáng kể. Ông cảm nhận sự hào hứng khi thấy lợi nhuận tiềm năng, và ông biết rằng đây là một cơ hội tốt để kiếm tiền.
+「Giao dịch thành công! +40 EXP. Tổng EXP: 780」
 
-"Được, tôi mua," ông Khánh nói nhanh chóng, giọng nói hào hứng. "Nhưng tôi cần nguồn hàng ổn định. Cậu có thể cung cấp thường xuyên không?" Ông nói, giọng nói đầy hào hứng và thực tế. Ông biết rằng nguồn hàng ổn định là rất quan trọng trong kinh doanh, và ông muốn đảm bảo rằng Trần Văn Hùng có khả năng cung cấp hàng hóa thường xuyên. Trong thời bao cấp, việc tìm nguồn hàng ổn định là rất khó, và ông muốn đảm bảo rằng ông sẽ có nguồn hàng ổn định để kinh doanh.
+Vải — 15m bán hết, 10 đồng/m (cao hơn huyện 2 đồng). Tổng: 150 đồng. Thuốc và đồ dùng: 15 hộp vitamin (75 đồng), 15 bánh xà phòng (45 đồng), 5 tuýp kem đánh răng (25 đồng), 5 chai dầu gội (40 đồng). Tổng: 185 đồng.
 
-"Tôi có thể cung cấp mỗi tuần 100kg gạo, 20kg thịt, 30 bộ quần áo, và 50 hộp thuốc," Trần Văn Hùng nói. "Giá vẫn như thế." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng ông có khả năng cung cấp hàng hóa thường xuyên nhờ vào hệ thống, và ông tin rằng ông sẽ đạt được thỏa thuận có lợi với ông Khánh.
+Tổng thu nhập Hạ Long: 450 + 150 + 185 = 785 đồng.
 
-"Được, chúng ta hợp tác," ông Khánh gật đầu, ánh mắt hài lòng. "Tôi sẽ thanh toán ngay." Ông nói, giọng nói đầy hào hứng. Ông biết rằng đây là một cơ hội tốt để kiếm tiền, và ông muốn bắt đầu hợp tác ngay lập tức. Ông cảm nhận sự hạnh phúc khi thấy thỏa thuận được ký kết, và ông tin rằng ông sẽ kiếm được lợi nhuận lớn từ việc hợp tác với Trần Văn Hùng.
+「Giao dịch thành công! +35 EXP. Tổng EXP: 815」
 
-Hai người ký kết thỏa thuận bằng lời nói. Ông Khánh đếm tiền, đưa cho Trần Văn Hùng 545 đồng - tổng cộng 75 đồng cho gạo, 45 đồng cho thịt, 180 đồng cho quần áo, và 15 đồng cho thuốc. Ông cảm nhận sự hạnh phúc khi thấy thành quả của sự nỗ lực và kiến thức của ông. Ông biết rằng đây là kết quả của sự nỗ lực và kiến thức của ông, và ông tin rằng ông sẽ tiếp tục thành công trong tương lai. Ông cũng suy nghĩ về việc tiếp tục mở rộng kinh doanh, vì nhu cầu hàng hóa chất lượng cao trong thời bao cấp là rất lớn.
+785 đồng trong một buổi — kỷ lục mới. Hạ Long là thị trường giàu, nhu cầu cao, giá bán cao. Hùng ghi nhớ — Quảng Ninh sẽ là tỉnh trọng điểm.
 
-Trần Văn Hùng về nhà với 545 đồng từ giao dịch này. Ông đã tìm được đối tác ở tỉnh thứ tư, mở rộng mạng lưới kinh doanh ra miền Bắc. Ông đi trên con đường đất đỏ, hai bên là những cánh đồng lúa xanh mướt. Ông suy nghĩ về thành quả của ngày hôm nay. Ông đã tìm được đối tác ở tỉnh Quảng Ninh, và ông cảm thấy hạnh phúc với kết quả này. Ông biết rằng đây là kết quả của sự nỗ lực và kiến thức của ông, và ông tin rằng ông sẽ tiếp tục thành công trong tương lai.
+Buổi chiều, Hùng tìm đại lý. Ông hỏi thăm, tìm thấy ông Hải — chủ tiệm tạp hóa lớn ở Hạ Long, gần cảng. Ông Hải là người năng động, buôn bán lâu năm, hiểu thị trường.
 
-Khi về đến nhà, ông đưa cho bà 150 đồng. "Bà, đây là tiền cháu kiếm được hôm nay," Trần Văn Hùng nói, giọng nói dịu dàng. "Bà giữ tiền này, bà mua chút đồ ăn ngon." Ông nói thật lòng, giọng nói đầy yêu thương. Ông muốn bà có cuộc sống tốt hơn, và ông sẽ làm mọi thứ để đạt được mục tiêu đó.
+"Cậu Hùng à," ông Hải nói, sau khi nghe Hùng giới thiệu, "tôi bán đủ thứ, nhưng quần áo may sẵn thì chưa có. Hàng xịn thế này, ở Hạ Long hiếm lắm. Tôi muốn mua sỉ — 20 bộ/tháng, giá sỉ bao nhiêu?"
 
-Bà Hà mỉm cười, đôi mắt rưng rưng nước mắt. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Bà chưa từng nghĩ cháu sẽ làm ăn tốt như vậy." Bà nói, giọng nói đầy hạnh phúc và tự hào. Bà chưa từng nghĩ rằng cháu trai sẽ kiếm được nhiều tiền như vậy trong thời bao cấp, và bà cảm thấy tự hào về cháu trai. Bà biết rằng cháu trai đã thay đổi, và bà tin rằng cháu trai sẽ tiếp tục thay đổi để tốt hơn.
+"35 đồng/bộ sỉ." Hùng nói. Giá vốn 27 đồng/bộ (vải + công may), sỉ 35 đồng = lãi 8 đồng/bộ = 160 đồng/20 bộ. Ông Hải bán lẻ 45 đồng = lãi 10 đồng/bộ = 200 đồng/20 bộ. Win-win.
 
-Lan cũng chạy ra, ánh mắt ngạc nhiên nhìn anh. "Anh, em muốn đi cùng anh lần sau. Em chưa từng đi tỉnh khác." Cô nói, giọng nói đầy hào hứng và mong chờ. Cô chưa từng đi tỉnh xa, và cô muốn đi cùng anh để xem cảnh đẹp. Cô nhìn vào anh, thấy sự thành công của ông, và cô muốn chia sẻ niềm vui với anh. Trong thời bao cấp, việc đi tỉnh xa là rất khó, và cô cảm thấy như đang mơ khi nghĩ về việc đi tỉnh xa.
+"Được. Nhưng tôi cũng muốn vải sỉ — 50m/tháng, giá sỉ 7 đồng/m."
 
-"Được," Trần Văn Hùng mỉm cười, giọng nói dịu dàng. "Lần sau anh sẽ đưa em đi. Anh sẽ đưa em đi dạo tỉnh, xem cảnh đẹp." Ông nói thật lòng, giọng nói đầy hứa hẹn. Ông biết rằng Lan muốn đi tỉnh xa, và ông muốn đưa em gái đi để cô có thể trải nghiệm những điều mới mẻ. Ông tin rằng Lan sẽ thích đi tỉnh xa và xem cảnh đẹp.
+"6 đồng/m, tối thiểu 50m/tháng." Hùng trả giá. Giá vốn 4 đồng/m, sỉ 6 đồng = lãi 2 đồng/m = 100 đồng/50m.
 
-Lan mỉm cười, đôi mắt sáng lên. "Em muốn đi! Em cảm thấy như đang mơ." Cô nói, giọng nói đầy hạnh phúc. Cô quyết định học chăm chỉ, vì cô muốn giúp anh làm ăn. Cô biết rằng anh đã thay đổi, và cô tin rằng anh sẽ tiếp tục thay đổi để tốt hơn. Cô hy vọng rằng sự thay đổi này là thật, hy vọng rằng anh sẽ thực sự đưa cô đi tỉnh xa.
+Ông Hải tính nhẩm, gật đầu. "Deal. Chở hàng đến mỗi tuần. Tôi trả tiền khi nhận hàng."
 
-Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
+「Giao dịch sỉ thành công! +20 EXP. Tổng EXP: 835」
 
-"Chủ nhân đã tìm được đối tác ở tỉnh mới. Nhận được 50 điểm kinh nghiệm."
+Năm đại lý — Dương (Hà Nam), Thảo (Hải Dương), Hạnh (Thái Bình), Thành (Nam Định), Hải (Quảng Ninh). Mạng lưới phủ năm tỉnh.
 
-"Điểm kinh nghiệm hiện tại: 1235."
+---
 
-Trần Văn Hùng gật đầu. Ông sẽ tiếp tục mở rộng mạng lưới kinh doanh. Ông suy nghĩ về kế hoạch chi tiết cho việc mở rộng mạng lưới kinh doanh. Ông đã tìm được đối tác ở tỉnh thứ tư, và ông muốn tiếp tục tìm đối tác ở các tỉnh khác. Ông biết rằng nhu cầu hàng hóa chất lượng cao trong thời bao cấp là rất lớn, và ông tin rằng ông sẽ tìm được nhiều đối tác tốt. Trong thời bao cấp năm 1983, việc mở rộng mạng lưới kinh doanh là rất khó, nhưng ông tin rằng với hệ thống và kiến thức của mình, ông sẽ thành công.
+Chiều, Hùng đạp xe về. Sáu mươi cây số, bốn tiếng, về đến nhà khi trời đã nhá nhem tối. Bà Hà ngồi ở hiên chờ — bà lo, như mọi khi ông đi xa.
 
-Buổi tối, gia đình ăn cơm trong nhà mới. Bà Hà và Lan rất vui vì cuộc sống đang dần tốt lên. Nhà mới đẹp đẽ, đầy đủ tiện nghi, cuộc sống tốt hơn nhiều so với trước đây. Bà Hà nấu cơm trong bếp mới, với nồi chảo mới và bát đĩa mới. Lan ngồi trên ghế mới, ăn cơm với thức ăn ngon. Trần Văn Hùng ngồi trên bàn mới, cảm nhận sự hạnh phúc khi thấy gia đình có cuộc sống tốt hơn. Ông suy nghĩ về kế hoạch kinh doanh của mình, và ông biết rằng ông cần tiếp tục mở rộng để đạt được mục tiêu trở thành thương gia lớn nhất Việt Nam.
+"Cậu về rồi! Đi xa quá, bà lo lắm." Bà nói, giọng run.
 
-"Hùng à," Bà Hà nói, giọng nói dịu dàng. "Cháu có kế hoạch gì tiếp theo không? Cháu muốn làm gì sau này?" Bà nói, giọng nói đầy quan tâm. Bà muốn biết cháu trai có kế hoạch gì cho tương lai, và bà muốn hỗ trợ cháu trai nếu có thể. Bà biết rằng cháu trai đã thay đổi, và bà tin rằng cháu trai sẽ tiếp tục thay đổi để tốt hơn.
+"Con xin lỗi bà, đi Quảng Ninh xa lắm." Hùng nói, dỡ hàng, ngồi cạnh. "Lần này con đi sáu mươi cây số, bán được nhiều hàng, tìm được đại lý mới. Nhưng con hứa, lần sau đi xa thì về trước trời tối."
 
-"Cháu có," Trần Văn Hùng nói, giọng nói kiên định. "Cháu sẽ đi các tỉnh khác tìm đối tác mới. Cháu muốn mở rộng mạng lưới kinh doanh rộng khắp." Ông nói thật lòng, giọng nói đầy tự tin. Ông biết rằng ông cần mở rộng mạng lưới kinh doanh để tăng doanh thu, và ông muốn đi các tỉnh khác để tìm đối tác mới. Trong thời bao cấp năm 1983, việc đi các tỉnh xa là rất khó, nhưng ông tin rằng với kỹ năng của mình, ông sẽ đạt được thành công.
+Bà Hà gật đầu, yên tâm. Bà không cản — nhưng bà lo. Đó là bà, luôn lo cho cháu.
 
-Bà Hà gật đầu, ánh mắt vẫn còn lo lắng. "Được rồi, bà tin cháu. Nhưng cháu phải nhớ, sức khỏe là quan trọng nhất. Cháu không được làm việc quá sức." Bà nói, giọng nói đầy lo lắng. Bà biết rằng cháu trai đã thay đổi, và bà tin rằng cháu trai sẽ tiếp tục thay đổi để tốt hơn. Bà chỉ muốn cháu trai khỏe mạnh, không muốn cháu trai làm việc quá sức.
+Bà Xuân đã nấu cơm tối: cơm trắng, cá rô phi chiên (cá từ kho không gian, ẩn giấu — Hùng nói mua ở chợ), canh chua, dưa muối. Ngon, no, ấm.
 
-"Cháu biết ạ," Trần Văn Hùng mỉm cười, nắm lấy tay bà. "Cháu sẽ cẩn thận, cháu sẽ không làm bà lo lắng nữa." Ông nói thật lòng, giọng nói đầy hứa hẹn. Ông biết rằng bà lo lắng, và ông muốn trấn an bà. Ông sẽ cẩn thận, sẽ không làm việc quá sức. Ông sẽ thuê thêm người giúp việc để giảm gánh nặng công việc.
+Lan về từ nhà bà Phượng, phấn khích. "Anh ơi, em may được một cái áo sơ mi hoàn chỉnh! Bà Phượng khen đường kim thẳng, cổ áo đều. Bà bảo em có thể làm thợ may được rồi!"
 
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch đi các tỉnh còn lại. Ông quyết định đi Nghệ An vào ngày mai để tìm đối tác mới. Với kỹ năng marketing cấp 1, ông tin sẽ tìm được nhiều đối tác tốt và mở rộng mạng lưới kinh doanh rộng khắp. Đây là bước tiếp theo trong hành trình trở thành thương gia lớn nhất Việt Nam.
+Hùng nhìn em, mỉm cười. "Giỏi lắm, Lan. Em sẽ quản lý xưởng may, và em cũng sẽ may được quần áo — không cần thuê thợ, tự may."
 
-Ông suy nghĩ về kế hoạch chi tiết cho việc đi Nghệ An. Ông sẽ đi thành phố Vinh, thủ phủ của tỉnh Nghệ An, để tìm đối tác kinh doanh. Ông biết rằng nhu cầu hàng hóa chất lượng cao trong thời bao cấp là rất lớn, và ông tin rằng ông sẽ tìm được đối tác tốt. Ông cũng sẽ sử dụng kỹ năng logistics cấp 1 để tối ưu hóa vận chuyển hàng hóa và giảm chi phí. Trong thời bao cấp năm 1983, việc đi tỉnh xa là rất khó, nhưng ông tin rằng với hệ thống và kiến thức của mình, ông sẽ thành công. Ông vẽ sơ đồ kế hoạch đi Nghệ An, với các bước cụ thể: chuẩn bị hàng hóa, đi xe buýt, tìm đối tác, thương lượng, và ký kết thỏa thuận. Ông biết rằng kế hoạch này sẽ đòi hỏi thời gian và nỗ lực, nhưng ông tin rằng ông sẽ thành công.
+Lan cười — nụ cười tự hào, tươi. Cô mười tám tuổi, gầy gò, nhưng cô đang trở thành thợ may, quản lý, đối tác. Từ cô gái nhút nhát ở nhà làm việc nhà đến người đa năng.
+
+Tối ấy, Hùng ngồi ngoài sân, kiểm tra tài chính:
+- Tiền ngoài: 3.110 (ngày 16) - 750 (công may) + 785 (Hạ Long) = 3.145 đồng
+- Tiền trong không gian: 10.000 đồng
+- EXP: 835
+- Đại lý: 5
+- Sản xuất: 50 bộ xong (20 bán Hạ Long, 30 giữ kho + cửa hàng)
+- Kỹ năng: Thương mại lv3, Ngôn ngữ lv1, Y tế lv1, Sản xuất lv1
+
+835 EXP. Hùng đang tiến nhanh — nếu tiếp tục, ông sẽ đạt 1.000 EXP sớm, và có thể hệ thống sẽ nâng cấp hoặc mở nhiệm vụ lớn.
+
+Hùng vào không gian, ngồi bên suối. Hệ thống thông báo:
+
+「Tiến độ nhiệm vụ: Mở cửa hàng cố định
+- Hợp tác ông Tâm: ✓
+- Giấy phép: Đang chờ phê duyệt (anh Khanh báo vài ngày nữa)
+- Mặt bằng: Nhà ông Tâm, mặt đường chợ huyện
+- Hàng hóa: Sẵn (quần áo, vải, thuốc, đồ dùng)
+- Thời hạn: 18/30 ngày còn lại」
+
+18 ngày. Giấy phép sắp xong. Cửa hàng sắp khai trương. Hùng mỉm cười — ông đang tiến gần đến bước ngoặt.
+
+Hùng thoát không gian, nằm xuống giường. Ngoài sân, trăng khuyết, gió lạnh. Bà Hà ngủ ngon. Lan ngủ, tay ôm cuốn sách may.
+
+Hùng nhắm mắt. Hai mươi hai ngày. Từ tỉnh dậy trong căn nhà dột rách đến 3.145 đồng, năm đại lý, năm tỉnh, sản xuất 50 bộ, bốn kỹ năng, và sắp có cửa hàng. Hai mươi hai ngày — và ông mới chỉ bắt đầu.
+
+Còn ba mươi tám ngày nữa. Nhưng ông không sợ — ông đang tiến lên, đều đặn, chắc chắn.
+
+Hành trình tiếp tục.
+

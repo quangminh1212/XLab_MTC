@@ -1,0 +1,93 @@
+============================================================
+Chương 30: Mở rộng cửa hàng
+============================================================
+
+Ngày thứ một trăm. Hùng đẩy nhanh mở rộng cửa hàng — mở liên tiếp năm cửa hàng mới trong hai tuần.
+
+Cửa hàng thứ tư — Hải Dương, cạnh đại lý bà Thảo. 30m², thuê 50 đồng/tháng. Thuê cô Lan (không phải Lan em gái — cô Lan khác, con gái bà Thảo) trông cửa hàng. Khai trương: 500 đồng.
+
+Cửa hàng thứ năm — Thái Bình, cạnh đại lý bà Hạnh. 35m², thuê 60 đồng/tháng. Thuê ông Bình, con trai bà Hạnh, trông cửa hàng. Khai trương: 450 đồng.
+
+Cửa hàng thứ sáu — Nam Định, cạnh đại lý ông Thành. 30m², thuê 50 đồng/tháng. Thuê cô Mai, cháu ông Thành, trông cửa hàng. Khai trương: 400 đồng.
+
+Cửa hàng thứ bảy — Hạ Long, Quảng Ninh, cạnh đại lý ông Hải. 40m², thuê 70 đồng/tháng. Thuê ông Bách, bạn ông Hải, trông cửa hàng. Khai trương: 600 đồng.
+
+Cửa hàng thứ tám — Vinh, Nghệ An, cạnh đại lý ông Minh. 35m², thuê 60 đồng/tháng. Thuê cô Hương, con gái ông Minh, trông cửa hàng. Khai trương: 500 đồng.
+
+Tám cửa hàng — hoàn thành mục tiêu Phần 1!
+
+「Nhiệm vụ hoàn thành: 8 cửa hàng Thương Gia
+- Cửa hàng 1: Quốc Oai ✓
+- Cửa hàng 2: Hà Đông ✓
+- Cửa hàng 3: Phủ Lý ✓
+- Cửa hàng 4: Hải Dương ✓
+- Cửa hàng 5: Thái Bình ✓
+- Cửa hàng 6: Nam Định ✓
+- Cửa hàng 7: Hạ Long ✓
+- Cửa hàng 8: Vinh ✓
+- Phần thưởng: +300 EXP, Không gian +200m²
+- Tổng EXP: 2.170 + 300 + (giao dịch) = 2.700
+- Không gian: 1.700 + 200 = 1.900m²」
+
+Tám cửa hàng, phủ sáu tỉnh thành. Chuỗi Thương Gia — từ huyện nhỏ đến sáu tỉnh. Mỗi cửa hàng một thị trường, mỗi thị trường một nguồn thu.
+
+Hùng cũng mở thêm hai nhà hàng — nhà hàng thứ ba ở Phủ Lý, nhà hàng thứ tư ở Hạ Long. Cùng mô hình, cùng thực đơn. Bốn nhà hàng — hoàn thành mục tiêu Phần 1!
+
+「Nhiệm vụ hoàn thành: 4 nhà hàng Thương Gia
+- Nhà hàng 1: Quốc Oai ✓
+- Nhà hàng 2: Hà Đông ✓
+- Nhà hàng 3: Phủ Lý ✓
+- Nhà hàng 4: Hạ Long ✓
+- Phần thưởng: +200 EXP, Không gian +200m²
+- Tổng EXP: 2.900
+- Không gian: 2.100m²」
+
+Bốn nhà hàng, phục vụ hàng ngàn suất mỗi ngày. Cơm no, thịt cá, giá rẻ — người dân vui, Hùng có lãi.
+
+Hùng cũng mở thêm xưởng — xưởng giày thứ hai ở Hà Đông (mười thợ, 100 đôi/lô), xưởng túi thứ hai ở Hà Đông (năm thợ, 50 cái/lô). Tổng xưởng: bảy — hoàn thành mục tiêu Phần 1!
+
+「Nhiệm vụ hoàn thành: 7 xưởng Thương Gia
+- Xưởng may Quốc Oai ✓
+- Xưởng giày Hà Nội ✓
+- Xưởng giày Sài Gòn ✓
+- Xưởng túi Hà Nội ✓
+- Xưởng giày Hà Đông ✓
+- Xưởng túi Hà Đông ✓
+- Xưởng may Hà Đông ✓
+- Phần thưởng: +250 EXP, Không gian +200m²
+- Tổng EXP: 3.150
+- Không gian: 2.300m²」
+
+Bảy xưởng, sản xuất quần áo, giày dép, túi xách. Hàng hóa từ xưởng Thương Gia — không còn phụ thuộc kho không gian. Sản xuất thật, hàng thật, từ xưởng thật.
+
+Cuối cùng, Hùng mua thêm mười một mảnh đất — ở các tỉnh có cửa hàng. Tổng: mười lăm mảnh đất — hoàn thành mục tiêu Phần 1!
+
+「Nhiệm vụ hoàn thành: 15 mảnh đất
+- Phần thưởng: +200 EXP, Không gian +200m²
+- Tổng EXP: 3.350
+- Không gian: 2.500m²」
+
+Tối ấy, Hùng ngồi ngoài sân, kiểm tra tổng kết:
+- Tiền ngoài: ~15.000 đồng (sau chi phí mở rộng)
+- Tiền trong không gian: 10.000 đồng
+- EXP: 3.350
+- Không gian: 2.500m²
+- Cửa hàng: 8/8 ✓
+- Nhà hàng: 4/4 ✓
+- Xưởng: 7/7 ✓
+- Mảnh đất: 15/15 ✓
+- Đại lý: 9
+- Đối tác quốc tế: 3 ✓
+- Kỹ năng: 8
+
+Hoàn thành Phần 1! Hùng mỉm cười — mỉm cười rộng, tươi, không giấu được. Một trăm ngày. Từ số không đến đế chế. Từ bát cháo loãng đến tám cửa hàng, bốn nhà hàng, bảy xưởng, mười lăm mảnh đất, ba đối tác quốc tế.
+
+Bà Hà ngồi cạnh, nhìn cháu cười, và bà cũng cười — nụ cười của người bà tự hào. "Cậu vui lắm hả?"
+
+"Dạ, bà. Con vui. Con đã làm được những gì con hứa."
+
+Bà Hà nắm tay cháu, nước mắt chảy. "Bà tự hào về cậu. Bố cậu cũng tự hào, ở đâu đó."
+
+Hùng ôm bà, im lặng. Bố — người cha ông chưa từng gặp. Một ngày nào đó, ông sẽ đưa bố về. Nhưng đó là câu chuyện khác — câu chuyện của Phần 2.
+
+Hành trình tiếp tục.

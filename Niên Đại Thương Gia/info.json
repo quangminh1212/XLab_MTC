@@ -1,4 +1,4 @@
-CẤU TRÚC TỔNG THỂ (6 Phần – 360 chương)
+﻿CẤU TRÚC TỔNG THỂ (6 Phần – 360 chương)
 
 Phần 1: Trùng sinh & Xây dựng nền tảng (1-60) – 1983-1985
 Phần 2: Thống trị nội địa & Đa ngành dịch vụ (61-130) – 1985-1988 (Đổi Mới)
@@ -91,3 +91,106 @@ Chapters_detail:
 356: “Nhiệm vụ cuối cùng hoàn thành – Hệ thống chúc mừng Chủ nhân trở thành Thương gia vĩ đại nhất lịch sử Việt Nam.”
 357-359: Flashback cảm xúc + bữa tối gia đình 3 thế hệ.
 360: “Hành trình kết thúc nhưng tinh thần Thương Gia mãi trường tồn” – Hùng đứng trên nóc tòa tháp Thương Gia 100 tầng nhìn ra Hà Nội & Sài Gòn rực rỡ, câu cuối: “Tôi đã làm được. Và con cháu sẽ tiếp tục…”
+
+============================================================
+TRACKING DATA (Cập nhật sau mỗi chương)
+============================================================
+
+currentStateSnapshot:
+  nam: 1983
+  ngay: 35 (tinh tu ngay trung sinh)
+  tien_ngoai: 7.141d
+  tien_khong_gian: 10.000d
+  EXP: 1.205
+  space: 1.700m2
+  ky_nang:
+    - Thuong mai lv4 (danh gia 99.5%, du doan gia 21 ngay, thuong luong -40%, nhan biet hang gia 99%)
+    - Ngon ngu lv1 (tieng Anh thanh thao, tieng Phap co ban)
+    - Y te lv1 (nhan biet benh thong thuong, dung thuoc OTC)
+    - San xuat lv2 (danh gia chat luong 95%, giam hao hut 25%, quan ly 20 tho)
+    - Quan ly lv1 (quan ly 10 nhan vien, lap ke hoach, theo doi doanh thu)
+  nhiem_vu_dang_lam:
+    - san_xuat_giay: 50 doi (15 ngay, 120 EXP, San xuat giay lv1)
+  nhiem_vu_da_hoan_thanh:
+    - cai_thien_gia_dinh_7_ngay: hoan thanh (+100 EXP, +200m2)
+    - cham_soc_suc_khoe: hoan thanh (+150 EXP, Y te lv1)
+    - san_xuat_50_bo_quan_ao: hoan thanh (+100 EXP, San xuat lv1)
+    - mo_cua_hang_co_dinh: hoan thanh (+200 EXP, Quan ly lv1, +300m2)
+
+kho_hang_con:
+  quan_ao: ~60 bo (san xuat + kho khong gian)
+  vai_cotton: ~20m
+  gao_trang: 98kg
+  thit_bo: 50kg
+  thit_heo: 19.5kg
+  trung: ~20 qua
+  mi_goi: ~8 thung
+  vitamin_B: ~15 hop
+  thuoc_bo_gan: ~5 hop
+  thuoc_cam: ~5 hop
+  xa_phong: ~15 banh
+  kem_danh_rang: ~5 tuyp
+  dau_goi: ~5 chai
+  xe_dap: 1 (trong khong gian)
+
+cua_hang:
+  - Cua Hang Thuong Gia (huyen Quoc Oai) — khai truong ngay 30, dung ten ong Tam, Lan trong
+
+xuong:
+  - Xuong may (ba Phuong, 5 may, 5 tho, 100 bo/lo)
+  - Xuong giay (ong Tuong, 3 tho, 50 doi/lo — dang lam)
+
+dai_ly:
+  - ong Duong (Phu Ly, Ha Nam) — xa phong, kem danh rang
+  - ba Thao (Hai Duong) — xa phong, kem danh rang, dau goi
+  - ba Hanh (Thai Binh) — vai si 100m/tuan
+  - ong Thanh (Nam Dinh) — xa phong, kem danh rang, dau goi
+  - ong Hai (Ha Long, Quang Ninh) — quan ao 20 bo, vai 50m
+  - ong Minh (Vinh, Nghe An) — quan ao, vai, do dung
+
+nhan_su:
+  - ba Xuan: giup viec nha (30d/thang)
+  - ba Phuong: quan ly xuong may (100d/thang + 5d/bo)
+  - 4 tho may: xuong may (50d/thang + 15d/bo)
+  - ong Tuong: tho giay chinh (25d/doi giay da)
+  - 2 tho giay phu (15d/doi)
+  - Lan: trong cua hang + hoc may + quan ly xuong
+
+moi_quan_he:
+  - anh Khanh: can bo phong tai chinh huyen — nguoi gioi thieu, lam chung
+  - ong Tam: bac si huu, thuong binh, dang vien — dung ten cua hang
+  - chi Hong: bac si phong kham huyen — gioi thieu benh nhan mua thuoc
+  - ong Lan: tho moc lang — ban ba Ha, dong do cua hang
+  - ba Phuong: tho may huyen — quan ly xuong may
+
+nhan_vat:
+  Tran_Van_Hung:
+    tuoi: 23
+    than_phan: Ly Minh trung sinh, ky su phan mem the ky 21
+    tinh_cach: quyet doan, kien thuc the ky 21, yeu thuong gia dinh
+  Tran_Thi_Lan:
+    tuoi: 18
+    than_phan: em gai Hung
+    tinh_cach: ngoan ngoan, nhanh nhen, dang hoc may + ban hang + quan ly
+  ba_Nguyen_Thi_Ha:
+    tuoi: 60
+    than_phan: ba noi Hung
+    tinh_cach: hien lanh, cham chi, da hoi phuc suc khoe
+  ong_Nguyen_Van_Tam:
+    tuoi: 60
+    than_phan: bac si huu, thuong binh, doi tac cua hang
+    tinh_cach: can than, logic, dang vien
+
+phan_1_tien_do:
+  cua_hang: 1/8
+  nha_hang: 0/4
+  xuong: 2/7
+  manh_dat: 0/15
+  doi_tac_quoc_te: 0 (Lao/Campuchia/Thai Lan chua co)
+
+chapter_outline_next:
+  chuong_21: Mo rong lam giay — Hoan thanh 50 doi, ban, mo rong xuong giay
+  chuong_22: Di Thanh pho Ho Chi Minh — Mo rong mien Nam
+  chuong_23: San xuat tui xach — Nganh san xuat thu ba
+  chuong_24: Mo rong lam tui — Xuong tui xach dau tien
+  chuong_25: Hoan thanh nhiem vu giay — Nhan skill San xuat giay lv1

@@ -1,0 +1,125 @@
+============================================================
+Chương 63: Sản xuất máy gặt
+============================================================
+
+Tháng 5 năm 1991. Xe đạp Thương Gia ra mắt — 1.000 xe/tháng, bán qua 63 cửa hàng.
+
+Ngày ra mắt — Hùng đứng trước xưởng Hà Đông, xe đạp Thương Gia xếp hàng dài — đen, sáng, mới. Bao bì đẹp — logo TG, chữ "Xe Đạp Thương Gia — Bền, Đẹp, Rẻ". Xe đạp city bike — khung thép, lốp cao su, phanh cơ, yên da, giỏ trước. Đơn giản, bền, đẹp — phù hợp người Việt.
+
+Hùng mời báo chí — báo Nhân Dân, báo Lao Động, đài truyền hình. Lần đầu tiên Thương Gia tổ chức sự kiện ra mắt — ông muốn lan tỏa. Báo chí đến, chụp ảnh, phỏng vấn.
+
+"Anh Hùng, xe đạp Thương Gia — xe đạp Việt Nam đầu tiên. Anh nghĩ gì?" Phóng viên báo Nhân Dân hỏi.
+
+Hùng nhìn ống kính, mỉm cười. "Xe đạp Thương Gia — sản xuất 100% Việt Nam, từ khung thép đến lốp cao su. Giá 250 đồng — rẻ hơn xe nhập khẩu 20%. Chất lượng tương đương — bền, đẹp, an toàn. Tôi muốn người Việt đi xe Việt — không phải xe Tàu, xe Ấn."
+
+Phóng viên ghi chép, chụp ảnh. Bài báo sẽ ra — "Xe đạp Việt Nam đầu tiên — Thương Gia sản xuất." Tin sẽ lan tỏa — và xe đạp Thương Gia sẽ bán chạy.
+
+Ngày ra mắt: 200 xe bán (50.000 đồng). Khách đông — người dân tò mò, xe đẹp, giá rẻ, hàng Việt. Nhiều người mua ngay — "Xe Việt Nam, rẻ, đẹp — mua đi, ủng hộ hàng Việt."
+
+「Giao dịch thành công: +80 EXP. Tổng EXP: 13.030」
+
+「Nhiệm vụ hoàn thành: Sản xuất xe đạp 1.000 xe/tháng
+- 1.000 xe/tháng ✓
+- Phần thưởng: +300 EXP, Kỹ năng Sản xuất cơ khí lv1
+- Tổng EXP: 13.330」
+
+「Kỹ năng Sản xuất cơ khí cấp 1: Đánh giá chất lượng cơ khí 90%, tối ưu quy trình cơ khí, giảm 15% hao hụt thép, quản lý an toàn cơ khí.」
+
+Xe đạp — ngành thứ mười. Thương Gia đang trở thành tập đoàn công nghiệp — không chỉ bán hàng, mà sản xuất máy móc. Từ quần áo may công nghiệp đến xe đạp cơ khí — bước nhảy lớn.
+
+---
+
+Nhưng Hùng không dừng ở xe đạp. Ngay sau khi xe đạp ra mắt, ông đẩy nhanh máy cày — xưởng Phủ Lý gần xong, ông Hải đang lắp máy móc.
+
+Hùng đến Phủ Lý — xưởng máy cày, 3.000m², khung thép, tường gạch, mái tôn. Xưởng lớn — lớn hơn xưởng xe đạp. Khu sản xuất: 1.500m², băng chuyền lắp đặt, máy hàn, máy cắt thép. Khu kho: 800m², nguyên liệu xếp gọn — động cơ diesel, thép, lốp. Khu văn phòng: 300m², phòng họp, phòng vẽ kỹ thuật. Khu ăn nghỉ: 400m², phòng ngủ công nhân.
+
+Ông Hải đứng giữa xưởng, chỉ đạo công nhân lắp máy. Ông mặc áo blouse xám, mồ hôi ướt lưng, tay bẩn dầu — nhưng mắt sáng, phấn khích.
+
+"Anh Hùng, xưởng xong 90%. Máy móc lắp xong — máy hàn, máy cắt thép, máy phay, máy tiện. Còn 1 tuần nữa là sản xuất thử." Ông Hải báo cáo, giọng tự hào.
+
+"Tốt. Sản xuất thử — 10 máy. Em kiểm tra chất lượng, điều chỉnh quy trình. Nếu 10 máy đạt, sản xuất hàng loạt — 100 máy/tháng."
+
+Ông Hải gật đầu. "Vâng. Em đã thiết kế xong — bản vẽ máy cày Thương Gia TG-12. Động cơ diesel 12 mã lực, lưỡi cày thép C60, khung thép CT3, bánh xe cao su 650-16. Máy cày nhỏ, nhẹ 800kg, phù hợp ruộng 1-2 sào. Đặc biệt — lưỡi cày tháo rời được, thay dễ dàng."
+
+Hùng xem bản vẽ — chi tiết, chuyên nghiệp. Ông Hải giỏi — hai mươi năm kinh nghiệm cơ khí, thiết kế chính xác. Hùng gật đầu hài lòng.
+
+"Ông Hải, cháu muốn thêm một thứ — máy gặt. Sau máy cày, Thương Gia sản xuất máy gặt. Ông thiết kế được không?"
+
+Ông Hải suy nghĩ, rồi gật đầu. "Được. Máy gặt phức tạp hơn máy cày — cần lưỡi gặt xoay, buồng chứa lúa, hệ thống rung tách lúa. Nhưng tôi làm được — tôi từng thiết kế máy gặt ở nhà máy, nhưng không được sản xuất. Bây giờ, Thương Gia sản xuất — tôi sẽ làm."
+
+"Được. Xưởng máy gặt — ở Thái Bình, 2.500m². Cháu sẽ xây sau khi xưởng máy cày hoạt động. Ông thiết kế máy gặt song song — trong khi sản xuất máy cày, ông thiết kế máy gặt. Hai việc cùng lúc."
+
+Ông Hải gật đầu — ông hiểu. Thời gian là vàng — thiết kế song song, sản xuất liên tục. Thương Gia không chờ — Thương Gia chạy.
+
+---
+
+Hùng đi Thái Bình — tìm đất cho xưởng máy gặt. Thái Bình là tỉnh đồng bằng, vựa lúa, nông nghiệp mạnh. Xưởng máy gặt ở Thái Bình — gần thị trường, gần nông dân.
+
+Hùng hỏi anh Khanh — Khanh bây giờ là cán bộ tỉnh, quan hệ rộng. "Anh Khanh, cháu cần đất ở Thái Bình — 2.500m², mặt đường. Có ai bán không?"
+
+Khanh giới thiệu — ông Hùng (khác Trần Văn Hùng), chủ đất mặt đường QL10, 2.500m², giá 8.000 đồng. Đắt hơn Phủ Lý — vì Thái Bình gần Hà Nội, đất đắc. Nhưng Hùng mua — 8.000 đồng cho 2.500m², vẫn rẻ so với tương lai.
+
+Hùng ký hợp đồng, trả tiền, sang tên. Rồi gọi công ty xây dựng — ông Ba.
+
+"Ông Ba, xây xưởng máy gặt ở Thái Bình — 2.500m². Khung thép, tường gạch, mái tôn. Khu sản xuất: 1.200m². Khu kho: 600m². Khu văn phòng: 300m². Khu ăn nghỉ: 400m². Thời gian: 3 tháng. Vốn: 70.000 đồng."
+
+Ông Ba gật đầu. "Được. Tôi sẽ xây — 3 tháng, xong."
+
+Hùng mỉm cười. Ba xưởng công nghiệp — xe đạp Hà Đông, máy cày Phủ Lý, máy gặt Thái Bình. Ba nhà máy, ba ngành, ba thị trường. Thương Gia đang công nghiệp hóa — nhanh, mạnh, chắc.
+
+---
+
+Tối ấy, Hùng về nhà — biệt thự Hà Đông. Bà Hà ngồi ở phòng khách, xem TV. Trên TV, bản tin tối — "Xe đạp Thương Gia — xe đạp Việt Nam đầu tiên, ra mắt hôm nay tại Hà Đông. Chủ tịch Trần Văn Hùng: 'Người Việt đi xe Việt.'"
+
+Bà Hà nhìn TV, nhìn cháu trên màn hình, nước mắt chảy. "Cậu Hùng... trên TV. Cháu bà trên TV."
+
+Hùng ngồi cạnh bà, nắm tay. "Bà, con trên TV — nhưng con vẫn là cháu bà. Không thay."
+
+Bà Hà gật đầu, lau nước mắt. "Bà biết. Bà chỉ... tự hào. Bà sống sáu mươi tám năm, chưa thấy cháu mình trên TV. Bà... bà không biết nói gì."
+
+"Thì không cần nói, bà. Bà chỉ cần ngồi đây, xem TV, và tự hào. Đó là đủ."
+
+Bà Hà cười — nụ cười qua nước mắt. Bà nắm tay cháu, xem TV, và tự hào. Tự hào vì cháu bà — từ đứa con trai hư hỏng đến chủ tịch tập đoàn trên TV.
+
+Lan về — cô đi cửa hàng Thái Nguyên, kiểm tra doanh số. "Anh ơi, xe đạp bán chạy lắm! 200 xe ngày đầu, và đặt trước 500 xe — người ta xếp hàng chờ. Em phải tăng sản lượng — 2.000 xe/tháng."
+
+"Được. Tăng — Minh sẽ mở ca 2. 2.000 xe/tháng từ tháng 7."
+
+Lan gật đầu, rồi hỏi: "Máy cày khi nào ra mắt?"
+
+"Tháng 8 — sản xuất thử tháng 6, hàng loạt tháng 7, ra mắt tháng 8."
+
+"Và máy gặt?"
+
+"Tháng 11 — xây xưởng tháng 6, lắp máy tháng 9, sản xuất thử tháng 10, ra mắt tháng 11."
+
+Lan tính nhẩm. "Ba ngành mới — xe đạp tháng 5, máy cày tháng 8, máy gặt tháng 11. Mỗi 3 tháng một ngành mới. Nhanh lắm."
+
+"Thương Gia không chờ — Thương Gia chạy." Hùng nói, mỉm cười.
+
+Lan cười — nụ cười tự hào. Cô hai mươi hai tuổi, quản lý chuỗi 66 cửa hàng, và cô đang thấy đế chế lớn lên — từng ngày, từng tháng, từng ngành.
+
+Bữa tối — bà Xuân nấu: gà luộc, thịt heo kho, canh măng, nem rán, dưa muối, cơm trắng. Sáu món — no, ngon, ấm. Ba người ăn — bà Hà, Lan, Hùng. Bà Xuân đã về nhà — cô nấu xong, để thức ăn trên bàn, ra về.
+
+Bà Hà ăn được hai bát rưỡi — khỏe mạnh, ngon miệng. Bà nhìn cháu, nhìn cháu gái, mỉm cười. "Hai đứa ăn đi, ăn no. Làm việc nhiều, phải ăn no."
+
+Lan ăn ba bát — cô đói, bận rộn cả ngày. Hùng ăn ba bát — ông cần năng lượng, ông bận rộn hơn Lan.
+
+Sau bữa tối, Hùng vào không gian — 8.000m². Ông ngồi bên suối, nghe nước chảy, suy nghĩ. Hệ thống hiển thị:
+
+「Tiến độ Phần 2:
+- Xe đạp: 1.000 xe/tháng ✓ (+300 EXP)
+- Máy cày: đang xây xưởng (hoàn thành tháng 8)
+- Máy gặt: đang thiết kế (hoàn thành tháng 11)
+- EXP: 13.330 / 19.500 (68%)
+- Không gian: 8.000m² / 6.200m² (vượt mục tiêu)」
+
+13.330 EXP — còn 6.170 EXP đến mục tiêu Phần 2. Hùng tính — mỗi ngành mới +300 EXP, mỗi nhiệm vụ +200-500 EXP. Còn 5 ngành mới + nhiều nhiệm vụ — đủ để đạt 19.500.
+
+Hùng thoát không gian, nằm xuống giường. Ngoài cửa sổ, đêm Hà Đông — đèn vàng, trăng sáng, gió nhẹ. Bà Hà ngủ ngon — giấc ngủ của người ấm lòng. Lan ngủ — cô mệt, ngủ say, mỉm cười.
+
+Hùng nhắm mắt. Ngày mai — ông sẽ đến Phủ Lý, kiểm tra xưởng máy cày. Ngày mai nữa — ông sẽ đến Thái Bình, khởi công xưởng máy gặt. Mỗi ngày một bước — và đế chế lớn lên.
+
+Năm 1991 — năm công nghiệp hóa. Năm của xe đạp, máy cày, máy gặt. Năm của Thương Gia — từ bán hàng đến sản xuất máy móc. Từ thương gia đến công nghiệp gia.
+
+Hành trình tiếp tục.
