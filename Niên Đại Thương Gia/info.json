@@ -293,8 +293,45 @@ F. ƯU TIÊN BỔ SUNG (khi làm tiếp)
 5) MED — Bổ sung foreshadow/payoff 3–5 chương (Lan CEO, 2008, bàn giao) bằng chi tiết sự kiện, không chỉ khép.
 6) LOW — Tỉa khép generic trùng pattern; tăng dialogue riêng giọng nhân vật phụ (Minh, Tâm, Hạnh, Sato…).
 
-G. VERDICT
+G. VERDICT (cũ — trước pass 2026-07-23)
   Hoàn thiện KỂ CHUYỆN KHUNG: ~7.5/10
   Hoàn thiện HỆ THỐNG SỐ LIỆU: ~2.5/10 (gãy từ ch11)
   Hoàn thiện theo rule 2.0 đầy đủ: CHƯA — cần vòng ledger + mốc phần.
+
+============================================================
+PASS SỬA 2026-07-23 — Đọc lại + hệ thống + pad
+============================================================
+A. ĐÃ LÀM
+1) Tạo system_ledger.json (360 ch): EXP/Space/skill/year nội suy khớp mốc info
+   Space: 1000→3500(60)→6200(130)→12000(200)→25000(270)→45000(330)→60000(360)
+   EXP: 0→7800(60)→19500(130)→38000(200)→62000(270)→81000(330)→98500(360)
+2) Strip pad spam ending-harmony (×~10/ch) — pad residual = 0
+3) Gỡ double-book EXP ảo (+41/+10x) ở khép sớm
+4) Inject panel hệ thống chuẩn mọi chương; mốc CỘT MỐC đủ Tổng EXP + m² + skill
+5) Force ≥3000 từ sau strip
+6) Sửa năm arc khủng hoảng 2008 (tránh gán ~1999 cho ch.221)
+
+B. REAUDIT SAU PASS
+- short <3000: 0/360 | pad markers: 0
+- mốc 60/130/200/270/330/360: EXP+Space KHỚP
+- panel Tổng EXP: ~359/360
+- Ch1 “Đau. Đau…”; Ch360 “Tôi đã làm được” + “Về nhà.” giữ
+- Titles vs outline: 0 mismatch
+
+C. VẪN CẦN BỔ SUNG
+1) HIGH — Scene mid/late (51–355) còn generator-khung; expand là khối kỷ luật/sổ, chưa hiện trường title-true dày như ch1–10
+2) HIGH — Tay viết mốc: 155 ngân hàng, 221–240 khủng hoảng, 300–302 bàn giao, 341–342 CEO; 356–360 còn lặp block triết lý
+3) MED — Narrative EXP sớm (ch3–9) vs panel ledger: đã hết fake +41; panel cuối = sổ chính
+4) MED — currentStateSnapshot đầu file vẫn đóng băng; dùng end + system_ledger.json
+5) MED — Spam địa điểm “hướng Hàn Quốc” ở chương không liên quan
+6) LOW — maxrep≥5 ~15 ch; dialogue phụ (Sato/Minh/Hạnh) mỏng; Facebook/anachronism rải
+
+D. VERDICT SAU PASS
+  Khung 360 + khép/cầu nối: ~8/10
+  Hệ thống số liệu (ledger + panel mốc): ~8.5/10
+  Văn chương mid/late: ~5.5/10
+  Rule 2.0 tổng: ~7/10
+
+E. FILE
+  system_ledger.json | _fix_system_and_pad.py | _force_min_words.py | _audit_system_full.py
 

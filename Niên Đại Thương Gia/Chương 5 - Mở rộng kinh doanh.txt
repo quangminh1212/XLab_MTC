@@ -139,8 +139,6 @@ Bên ngoài muốn “linh hoạt” quy trình. Thương Gia từ chối. Linh 
 
 ### Kết quả
 
-「1983 | Mở rộng kinh doanh | EXP +42 | người – sổ – uy tín」
-
 ### Nhà
 
 Mâm cơm 1983. “Mở rộng kinh doanh” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
@@ -165,6 +163,12 @@ Có một tình huống văn hóa khác biệt lộ ra đúng giờ mệt. Hùng
 
 Buổi chiều ông gọi một cuộc ngắn về nhà: không báo cáo doanh thu, chỉ báo “vẫn ổn, về trước bữa”. Giọng bình thường là món quà với người chờ.
 
+「Hệ thống — cập nhật ch.5」
+1983 · Mở rộng kinh doanh
+Tổng EXP: 120 | Không gian: 1,200m²
+Nhịp này: +30 EXP, +50m²
+Kỹ năng gần nhất: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2
+
 ### Khép — Mở rộng kinh doanh
 
 Cửa mới khóa muộn hơn dự kiến — vì còn sót một việc nhỏ phải làm đúng. “Mở rộng kinh doanh” khép bằng việc, không bằng băng keo khai trương.
@@ -173,8 +177,6 @@ Nếu bà Hà còn hỏi “ăn chưa”, ông sẽ đáp “rồi” và mỉm 
 
 Trên bàn có bát nước chè để nguội. Ông uống cạn, cảm ơn sự bình thường còn giữ được.
 
-Trong đầu, hệ thống ghi nhận ngắn: 「1983 · Mở rộng kinh doanh · Hoàn thành nhiệm vụ phụ — +EXP」. Ông không vái. Ông chỉ gật với kỷ luật.
-
 Trước khi ngủ, ông viết một dòng cầu nối: việc tiếp theo là “Tìm đối tác mới”. Không hứa thắng. Chỉ hứa sẽ đến hiện trường đủ tỉnh.
 
 Chốt ý nghĩa chương này: sau “Mở rộng kinh doanh”, ông không chỉ có thêm việc — có thêm một ranh giới không được vượt: không đổi người lấy số.
@@ -182,4 +184,4 @@ Chốt ý nghĩa chương này: sau “Mở rộng kinh doanh”, ông không ch
 Lan gõ cửa nhẹ: “Ngủ đi.” Ông đáp “Ừ.” Có những mệnh lệnh chỉ nhà mới được phép đưa.
 
 ============================================================
-(3001 từ)
+(3003 từ)
