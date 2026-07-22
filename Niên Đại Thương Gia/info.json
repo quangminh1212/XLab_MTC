@@ -232,3 +232,10 @@ currentStateSnapshot_end:
 360 chapters rewritten with unique openings, title-true scenes, preserved cores 1-154,
 milestones hand-strengthened, min 3000 words, no old boilerplate.
 End state: 2024, Lan succession, system mission complete, spirit continues.
+
+=== QUALITY STRIP REWRITE (2026-07-22 night) ===
+Problem: ~350 chapters had repeated pad lines (Thêm một lớp rà soát..., maxrep 40-50).
+Fix: _strip_rewrite_all.py — strip spam, keep cores, unique opens, domain scenes.
+Audit: 360/360, words 3000-4049 avg~3022, pad=0, heavy_dup=0, dup_open=0.
+Keys: Ch1 "Đau. Đau như thể..."; Ch360 "Tôi đã làm được...".
+Structure 6 parts complete. Mid-late still more structural than early literary cores.

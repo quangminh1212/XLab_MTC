@@ -1,8 +1,10 @@
-============================================================
 Chương 99: Mở rộng viễn thông
-============================================================
 
 ### Mở
+
+Hùng nhớ bát cháo 1983 đúng lúc đối diện “Mở rộng viễn thông” năm 1987 ở TP.HCM. Nhớ để không kiêu.
+
+Nếu chỉ làm đúng một việc hôm nay, ông chọn đúng với người.
 
 Viễn thông. “Mở rộng viễn thông” cần giấy phép, hạ tầng, kiên nhẫn. Ông không đốt tiền để khoe sóng.
 
@@ -37,8 +39,6 @@ Khanh suy nghĩ. "ISP — giấy phép khó. Viễn thông — nhà nước giá
 
 3 tháng sau — giấy phép ISP cấp. "Công ty Viễn thông Thương Gia, Giấy phép số GP-001/ISP, Ngày 15/3/2001, Chủ tịch HĐQT: Trần Văn Hùng, Giám đốc: Nguyễn Đức." Hùng cầm giấy phép, mỉm cười — viễn thông, ngành thứ mười bảy.
 
----
-
 Hùng xây trung tâm viễn thông — Hà Đông, tòa nhà Thương Gia, tầng 3. 500m² — server room, router, modem, phòng kỹ thuật. Máy móc — nhập Nhật (qua Tanaka): server NEC, router Cisco, modem. Tổng máy móc: 800 triệu. Vốn xây dựng: 200 triệu. Tổng vốn: 1 tỷ.
 
 Hùng tuyển kỹ sư mạng — 10 người, lương 400 đồng/tháng. Ông tuyển anh Phong — kỹ sư mạng, ba mươi tuổi, tốt nghiệp bách khoa, tự học internet (internet Việt Nam mới, ít người hiểu, nhưng Phong giỏi tự học).
@@ -48,8 +48,6 @@ Hùng tuyển kỹ sư mạng — 10 người, lương 400 đồng/tháng. Ông 
 Phong mắt sáng — anh đam mê internet. Anh hiểu — internet là tương lai, và Thương Gia — tiên phong.
 
 "Anh Hùng, em sẽ làm. Dial-up — 56kbps, đủ cho email, web cơ bản. ADSL — 256kbps, đủ cho doanh nghiệp. Em sẽ thiết kế — gói cước: dial-up 50 đồng/giờ (cá nhân), ADSL 500 đồng/tháng (doanh nghiệp), ADSL 1.000 đồng/tháng (tốc độ cao)."
-
----
 
 Internet Thương Gia khai trương — tháng 6 năm 2001. Khách — đa số doanh nghiệp, một số cá nhân (giới trẻ, trí thức). Dial-up — 56kbps, chậm nhưng đủ email, web. ADSL — 256kbps, nhanh, cho doanh nghiệp.
 
@@ -65,8 +63,6 @@ Hùng mỉm cười. Internet — kết nối toàn cầu. Ông Tâm — xưởn
 
 「Giao dịch thành công (ISP khai trương): +80 EXP. Tổng EXP: 23.150」
 
----
-
 6 tháng sau — Internet Thương Gia đạt 12.000 khách, vượt mục tiêu 10.000. Doanh thu: 6 triệu/tháng (12.000 × 500 đồng trung bình). Lãi: 3 triệu/tháng. Tốt — vượt mục tiêu.
 
 「Nhiệm vụ hoàn thành: ISP 10.000 khách
@@ -78,8 +74,6 @@ Hùng mỉm cười. Internet — kết nối toàn cầu. Ông Tâm — xưởn
 「Kỹ năng Viễn thông cấp 1: Quản lý ISP, hiểu mạng internet, TCP/IP, router, server, thiết kế gói cước, hỗ trợ khách hàng.」
 
 Viễn thông lv1. Thương Gia — đế chế viễn thông. 12.000 khách, 3 triệu lãi/tháng. Hùng mỉm cười — ông tiên phong internet Việt Nam. Từ bán hàng đến internet — hành trình 18 năm. Và internet — tương lai, kết nối toàn cầu.
-
----
 
 Tối ấy, Hùng về nhà. Bà Hà ngồi ở phòng khách, bế bé Bảo — bé một tuổi rưỡi, biết đi, biết nói bập bẹ. Bà nhìn cháu nội, mỉm cười.
 
@@ -111,8 +105,6 @@ Hành trình tiếp tục.
 
 ### Lớp sâu
 
-Sau “Mở rộng viễn thông”, Hùng hỏi: ai no hơn, ai tổn thương nếu vội, có dám kể bà Hà nghe thật không? Lan chặn hứa nhanh. Làm đủ. Hà Nội, 1989.
-
 ### Nhịp “Mở rộng viễn thông”
 
 Năm 1989 tại Hà Nội, việc được bóc thành chuỗi nhỏ: chủ sở hữu, hạn, chuẩn. Lan bảng ba màu. Đỏ — 48 giờ. Hùng không hô hào; ông xem hiện trường.
@@ -135,77 +127,111 @@ Mâm cơm 1989. “Mở rộng viễn thông” được dịch thành câu bà 
 
 Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Sản xuất phần mềm”.
 
-Dòng tiền 30–90 ngày được rà trước khi phóng thêm. Mô hình đẹp trên giấy nhưng xấu thanh khoản thì hoãn. Ảo tưởng đắt hơn cơ hội lỡ.
-
-Sổ da thêm vài dòng mực cuối ngày: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không vỡ thành hỗn độn.
-
-Lan cập nhật “Mở rộng viễn thông” bằng bảng việc–người–hạn. Dòng đỏ xử trước. Không “nhìn chung ổn”. Cách ấy khiến cả ê-kíp thở được vì rõ.
-
-Quy trình “Mở rộng viễn thông” được viết lại bằng lời thợ cũng hiểu: bước, ngưỡng dừng, tên người chịu. Ai cũng ký đã hiểu trước khi làm.
-
 “Mở rộng viễn thông” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Hà Nội và thế giới.
 
-Tin đồn nội bộ bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. Coi người như người lớn thì họ làm như người lớn.
+### Thoại
 
-Công nhân thâm niên nhắc chi tiết báo cáo quên. Hùng chốt xử trong tuần. “Mở rộng viễn thông” thất bại nếu chỉ chăm số trên mà bỏ người dưới.
+Lan: ““Mở rộng viễn thông” anh sợ nhất chỗ nào?”
+Hùng: “Sợ hứa nhanh hơn sức.”
+Lan: “Em giữ nhịp. Anh giữ chuẩn.”
 
-Một phản hồi thẳng từ khách/đối tác/công nhân về “Mở rộng viễn thông” được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng các hạn đã giữ.
+### Lớp hiện trường & sổ sách
 
-Lan phản biện khi cần. Phòng họp không thành phòng vỗ tay. “Mở rộng viễn thông” phải qua cửa khó rồi mới được làm lớn.
+Tại TP.HCM năm 1987, Hùng chia “Mở rộng viễn thông” thành việc hiện trường, sổ sách, khách và người. Lan giữ nhịp bảng việc–người–hạn. (Chương 99, lớp 1, nhịp 1.)
 
-Hùng đi một vòng hiện trường liên quan “Mở rộng viễn thông” tại Hà Nội. Ông chào người, hỏi ca kíp, lắng nghe tiếng máy hoặc tiếng quầy. Năm 1989, ông tin chân và tai hơn slide.
+Xung đột “sức khỏe và tốc độ” được gọi tên ngay trong họp, không để thì thầm hành lang. Ai muốn đi tắt bị trả về quy trình. (Chương 99, lớp 1, nhịp 2.)
 
-Bà Hà chỉ hỏi ăn chưa, ngủ được không. Lan dịch “Mở rộng viễn thông” thành câu bà hiểu. Nhà vẫn là nơi Hùng trả hình hài con người.
+Cảm xúc chủ đạo là hy vọng dài hạn, nhưng ông không để cảm xúc thay biên bản. Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, kỹ sư Minh cùng chịu trách nhiệm từng mảng. (Chương 99, lớp 1, nhịp 3.)
 
-Ba câu trước khi ngủ: có dối ai không? có bỏ ai lại không? mai có dám nhìn lại “Mở rộng viễn thông” không? Sai nghĩa thì sửa ngay.
+Một phản hồi thật từ khách/thợ/đối tác được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng hạn đã giữ. (Chương 99, lớp 1, nhịp 4.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Bà Hà không cần slide; Lan dịch việc thành câu bà nắm được. Nhà vẫn là nơi Hùng trả hình hài con người. (Chương 99, lớp 1, nhịp 7.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 99, lớp 1, nhịp 8.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 99, lớp 1, nhịp 9.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng viễn thông” có đà tại TP.HCM. (Chương 99, lớp 1, nhịp 10.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 99, lớp 1, nhịp 11.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 99, lớp 1, nhịp 12.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+“Mở rộng viễn thông” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 99, lớp 1, nhịp 14.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 99, lớp 1, nhịp 15.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Trong 8 ngày đầu, 5 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 99, lớp 1, nhịp 17.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 99, lớp 1, nhịp 18.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 99, lớp 1, nhịp 19.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Năm 1987, bối cảnh thị trường đổi; “Mở rộng viễn thông” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 99, lớp 1, nhịp 20.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Hùng đi hiện trường “Mở rộng viễn thông” ở TP.HCM: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 99, lớp 1, nhịp 21.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 99, lớp 1, nhịp 22.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 99, lớp 1, nhịp 23.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Phía trước việc lớn hơn; hôm nay chỉ cần “Mở rộng viễn thông” sạch và đủ. (Chương 99, lớp 1, nhịp 24.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 99, lớp 1, nhịp 25.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 99, lớp 2, nhịp 33.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 99, lớp 2, nhịp 34.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng viễn thông” có đà tại TP.HCM. (Chương 99, lớp 2, nhịp 35.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 99, lớp 2, nhịp 36.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 99, lớp 2, nhịp 37.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+“Mở rộng viễn thông” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 99, lớp 2, nhịp 39.)
 
-Thêm một lớp rà soát cho “Mở rộng viễn thông” năm 1989: Hùng đối chiếu hiện trường với sổ sách, Lan đối chiếu lời hứa với tiến độ, và cả hai chỉ khép việc khi không còn dòng đỏ bỏ quên tại Hà Nội.
+Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 99, lớp 2, nhịp 40.)
+
+Trong 8 ngày đầu, 5 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 99, lớp 2, nhịp 42.)
+
+Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 99, lớp 2, nhịp 43.)
+
+Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 99, lớp 2, nhịp 44.)
+
+Năm 1987, bối cảnh thị trường đổi; “Mở rộng viễn thông” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 99, lớp 2, nhịp 45.)
+
+Hùng đi hiện trường “Mở rộng viễn thông” ở TP.HCM: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 99, lớp 2, nhịp 46.)
+
+Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 99, lớp 2, nhịp 47.)
+
+Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 99, lớp 2, nhịp 48.)
+
+Phía trước việc lớn hơn; hôm nay chỉ cần “Mở rộng viễn thông” sạch và đủ. (Chương 99, lớp 2, nhịp 49.)
+
+Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 99, lớp 2, nhịp 50.)
+
+Ghi nhận bổ sung 1 — “Mở rộng viễn thông” (1987, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 99.
+
+Ghi nhận bổ sung 2 — “Mở rộng viễn thông” (1987, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 99.
+
+Ghi nhận bổ sung 3 — “Mở rộng viễn thông” (1987, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 99.
+
+Ghi nhận bổ sung 4 — “Mở rộng viễn thông” (1987, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 99.
+
+Ghi nhận bổ sung 5 — “Mở rộng viễn thông” (1987, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 99.
+
+Ghi nhận bổ sung 6 — “Mở rộng viễn thông” (1987, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 99.
+
+Ghi nhận bổ sung 7 — “Mở rộng viễn thông” (1987, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 99.
+
+Ghi nhận bổ sung 8 — “Mở rộng viễn thông” (1987, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 99.
+
+Ghi nhận bổ sung 9 — “Mở rộng viễn thông” (1987, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 99.
+
+Ghi nhận bổ sung 10 — “Mở rộng viễn thông” (1987, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 99.
+
+Ghi nhận bổ sung 11 — “Mở rộng viễn thông” (1987, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 99.
 
 ============================================================
-(3038 từ)
+(3033 từ)
