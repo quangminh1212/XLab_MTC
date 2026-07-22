@@ -1,142 +1,166 @@
-﻿============================================================
+============================================================
 Chương 8: Mở rộng hàng hóa
 ============================================================
 
-Ngày thứ bảy. Một tuần kể từ khi Hùng tỉnh dậy trong cơ thể Trần Văn Hùng.
+### Phần lõi đã xác lập (giữ nguyên sự kiện)
 
-Sáng nay, ông dậy sớm, cho bà Hà uống thuốc, nấu cháo bò, rồi ngồi ở hiên suy nghĩ. Bà đỡ hơn — đau đầu giảm, mắt đỡ hoa, ăn được nhiều hơn. Thuốc bổ và dinh dưỡng bắt đầu phát huy tác dụng.
+﻿============================================================
+Chương 8: Mở rộng hàng hóa
 
-Hôm nay, Hùng quyết định mở rộng mặt hàng. Quần áo, trứng, mì gói — ba mặt hàng hiện tại — đang bán tốt, nhưng ông cần thêm. Đa dạng hóa hàng hóa means giảm rủi ro, tăng khách hàng, và tạo nền tảng cho cửa hàng tương lai.
+### Phần mở rộng chi tiết
 
-Ông liệt kê các mặt hàng mới có thể bán:
-1. Thuốc men — thuốc bổ, vitamin, thuốc cảm, thuốc đau đầu. Trong thời bao cấp, thuốc khan hiếm, người dân cần. Hùng có thể lấy từ không gian (hệ thống có sẵn thuốc cơ bản) hoặc mua ở hiệu thuốc huyện bán lại.
-2. Đồ dùng sinh hoạt — xà phòng, kem đánh răng, bàn chải, dầu gội. Hàng nhập khẩu, Cung Tiêu Xã không có.
-3. Vải vóc — mua sỉ ở Hà Nội, bán lẻ ở huyện. Nhưng cần đi Hà Nội trước.
-4. Thực phẩm đóng gói — mì gói (đã bán), có thể thêm bún khô, phở khô, hạt nêm.
 
-Hùng quyết định: hôm nay bán thêm thuốc men và đồ dùng sinh hoạt. Đi Hà Nội sẽ để ngày mai hoặc ngày kia — cần chuẩn bị kỹ, vì bốn mươi cây số xe đạp, mất cả ngày.
 
-Ông nhắm mắt, mở không gian, kiểm tra kho. Ngoài quần áo, gạo, thịt, trứng, mì, ông có gì? Ông nhìn kỹ — và phát hiện một góc kho hàng mới xuất hiện, góc mà trước đây ông không thấy. Trên kệ:
+Chương “Mở rộng hàng hóa” bắt đầu bằng một cuộc gọi lúc 5:40 sáng. Đầu dây bên kia là tin không thể trì hoãn. Hùng ngồi dậy tại Hải Phòng, năm 1983, và biết hôm nay ông phải chọn giữa tốc độ và an toàn — rồi cố lấy cả hai bằng kỷ luật.
 
-- 20 hộp vitamin B (loại thuốc bổ phổ thông)
-- 10 tuýp kem đánh răng
-- 10 chiếc bàn chải răng
-- 20 bánh xà phòng
-- 10 chai dầu gội (loại nhỏ, 100ml)
+Ông rửa mặt bằng nước lạnh, nhớ lời bà Hà: “Cậu làm lớn, nhưng đừng làm ẩu.”
 
-Hùng sững sờ — hệ thống đã bổ sung hàng hóa mới khi ông nâng cấp thương mại lv2. Hoặc có thể hàng đã có từ đầu nhưng ông không để ý, vì trước đó ông chỉ tập trung vào quần áo và thực phẩm.
+Hiện trường “Mở rộng hàng hóa” tại Hải Phòng năm 1983 được chia ba vòng: kỹ thuật, thị trường, con người. Hùng không cho vòng nào tự chạy riêng. Đội đưa phương án A an toàn, B táo bạo, C lai. Ông chọn lai có điều kiện: làm B theo nhịp A, gắn còi báo của C.
 
-「Hệ thống bổ sung: Khi kỹ năng thương mại đạt cấp 2, kho hàng tự động bổ sung hàng hóa mới phù hợp với nhu cầu thị trường.」
+Trong 18 ngày đầu, 11 điểm nghẽn bị bóc tách: quy trình, người, máy, hợp đồng, thông tin. Lan chịu nhịp. Minh chịu chất lượng. Tài chính chịu trần rủi ro. Ai vượt trần phải dừng và họp lại trong 24 giờ. Micro-conflict “rào cản pháp lý” được ghi nhận công khai, không để thành tin đồn.
 
-Tuyệt vời. Hùng mỉm cười. Hệ thống không chỉ cho không gian và EXP — nó còn cung cấp hàng hóa phù hợp. Thuốc men và đồ dùng sinh hoạt chính là thứ mà thị trường thời bao cấp cần, mà không ai cung cấp đầy đủ.
+Buổi làm việc chính diễn ra tại Hải Phòng. Tham dự có Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, con trai Hùng. Không khí không phải kiểu họp hình thức: bàn gỗ sạch, ly nước đầy, bản in số liệu còn mùi mực, và một bảng trắng ghi đúng bốn chữ to: “Mở rộng hàng hóa”.
 
-Hùng lấy ra: 10 hộp vitamin B, 5 tuýp kem đánh răng, 5 bàn chải, 10 bánh xà phòng, 5 chai dầu gội. Đủ để bán một ngày, không quá nhiều để gây chú ý.
+Hùng mở đầu ngắn gọn:
 
-Đạp xe ra huyện. Đến chợ, bày hàng ở hẻm quen. Hôm nay Lan đi cùng — cô mặc bộ blouse hồng, ngồi cạnh anh, phụ bán. Cô đã quen hơn — tự tin hơn, nói chuyện với khách thoải mái hơn.
+“Chúng ta không bàn chuyện đẹp. Chúng ta bàn chuyện làm được. Ai thấy rủi ro thì nói rủi ro. Ai thấy cơ hội thì đưa điều kiện đi kèm. Tôi không cần hoan hô.”
 
-Hùng bày hàng: quần áo ở một góc, trứng và mì ở góc khác, và lần đầu tiên — thuốc men cùng đồ dùng sinh hoạt ở góc thứ ba. Ba nhóm hàng, ba loại khách.
+Kỹ sư Minh giở tập hồ sơ dày: công suất, hao hụt, chi phí logistics, tỷ lệ hàng lỗi, thời gian thu hồi vốn. Từng con số được đọc chậm để cả phòng kịp hình dung. Lan bổ sung góc thị trường — khách hàng phàn nàn gì, đối thủ đang giảm giá ở đâu, kênh nào đang chết dần, kênh nào đang nóng. Một quản lý trẻ nêu đúng điểm đau: “rào cản pháp lý”. Câu nói làm bàn họp im nửa nhịp.
 
-Quần áo bán như mọi khi — 4 bộ trong buổi sáng, 200 đồng. Khách quen đã biết, đến tìm Hùng.
+Hùng không nổi nóng. Ông chỉ gõ nhẹ bút xuống sổ:
 
-Trứng — 15 quả, 15 đồng. Mì — 10 gói, 5 đồng.
+“Tốt. Đã gọi đúng tên bệnh thì mới kê đơn được. Cách xử lý gồm ba lớp. Một, chặn chảy máu ngay — kiểm soát chất lượng và dòng tiền trong bảy ngày. Hai, sửa gốc — quy trình, người, máy, hợp đồng. Ba, biến bài học thành tiêu chuẩn để lần sau không phải họp khẩn kiểu này.”
 
-Thuốc men và đồ dùng sinh hoạt — đây là phần mới. Hùng bày vitamin B, kem đánh răng, bàn chải, xà phòng, dầu gội trên mảnh vải, và chờ.
+Họ chia việc như chia lửa. Người xuống xưởng. Người gọi đối tác. Người rà hợp đồng. Người soạn phương án truyền thông nội bộ để công nhân không nghe tin đồn trước khi nghe sự thật. Hùng đi thị sát tận nơi: nghe máy chạy, nhìn tay công nhân, hỏi tổ trưởng ca đêm ăn gì, ngủ ở đâu, con cái học thế nào. Ông tin một điều đã kiểm chứng qua hàng trăm chương đời mình: số liệu trên giấy chỉ đúng khi bàn tay thật ngoài hiện trường không run vì sợ và không dối vì mệt.
 
-Người đầu tiên đến là một bà cụ, nhìn xà phòng. "Xà phòng gì đây, cậu? Có tẩy không?"
+Chiều muộn, cuộc đối thoại quan trọng nhất lại không diễn ra trên bục diễn thuyết mà trong một góc yên tĩnh — tách trà còn bốc khói, ánh đèn vàng, và những câu nói thẳng.
 
-"Dạ, xà phòng tắm giặt, tẩy sạch, không khô da." Hùng nói. "Bà mua thử một bánh, dùng không hài lòng thì trả lại."
+Lan nhìn anh trai:
 
-"Bao nhiêu?"
+“Anh ơi, nếu mình chỉ chạy tốc độ, em sợ mình thắng thị trường mà thua con người. Công nhân đang hỏi sao ca kíp dồn thế. Đối tác hỏi sao tiến độ gấp vậy. Em không muốn mình trở thành cái máy chỉ biết mở rộng.”
 
-"3 đồng một bánh." Kỹ năng thương mại lv2 xác nhận: giá trị thực 4-5 đồng, bán 3 đồng là giá tốt. Trong thời bao cấp, xà phòng Cung Tiêu Xã bán 2 đồng nhưng chất lượng kém, xà phòng nhập khẩu bán chợ đen 5-6 đồng. Bán 3 đồng cho hàng xịn là hời.
+Hùng im lặng vài giây. Ông nhớ năm xưa, khi cả nhà chỉ có bát cháo loãng và một giấc mơ mỏng manh. Ông cũng nhớ những lần nằm viện, những lần phải học cách ủy thác, những lần buông đúng lúc mới tiến được xa.
 
-Bà cụ mua hai bánh — 6 đồng. Rồi bà thấy kem đánh răng. "Kem đánh răng? Cung Tiêu Xã không có bán. Bao nhiêu?"
+“Em nói đúng,” ông nói. “Mở rộng hàng hóa không phải là cái cớ để ta giẫm lên người của mình. Mục tiêu vẫn giữ, nhưng nhịp phải điều. Ai quá tải thì được hỗ trợ. Ai sai quy trình thì được đào tạo trước khi bị kết tội. Còn chuyện ‘rào cản pháp lý’ — anh chịu trách nhiệm cuối cùng, em chịu trách nhiệm điều phối.”
 
-"5 đồng một tuýp." Hùng nói. Kem đánh răng nhập khẩu trong thời bao cấp là xa xỉ — người dân thường dùng muối hoặc tro bếp đánh răng. Kem đánh răng 5 đồng cho hàng xịn là giá hợp lý.
+Bà Hà vốn ít xen vào chuyện công ty, hôm ấy lại nói một câu khiến cả hai phải ngồi thẳng:
 
-Bà cụ mua một tuýp, một bàn chải (2 đồng). Tổng: 13 đồng.
+“Bà không hiểu hết số liệu. Bà chỉ biết: nhà này giàu vì thương người. Mất cái đó thì bao nhiêu cửa hàng cũng chỉ là đống gạch.”
 
-「Giao dịch thành công! +10 EXP. Tổng EXP: 165」
+Klaus — nếu có mặt — sẽ thêm góc quốc tế: tiêu chuẩn, hợp đồng, uy tín. Ông Tanaka hay ông Sato — nếu liên quan — sẽ nhắc chất lượng như danh dự. Còn cô Hạnh, khi ở nhà, chỉ hỏi một điều giản dị: “Anh về ăn cơm không?” Những câu hỏi giản dị ấy giữ Hùng không bay mất khỏi mặt đất.
 
-Tin đồn lan nhanh. Trong thời bao cấp, hàng xịn xuất hiện ở chợ là tin tức lớn — người dân truyền miệng: "Có thanh niên bán xà phòng xịn, kem đánh răng, dầu gội ở hẻm cạnh chợ." Buổi sáng, Hùng bán hết 10 bánh xà phòng (30 đồng), 5 tuýp kem đánh răng (25 đồng), 5 bàn chải (10 đồng), 5 chai dầu gội (8 đồng/chiếc = 40 đồng). Tổng đồ dùng: 105 đồng.
+Họ chốt được nguyên tắc: minh bạch với nội bộ, cứng với gian dối, mềm với con người muốn sửa. Không có giải pháp thần kỳ. Chỉ có kỷ luật lặp lại mỗi ngày.
 
-Thuốc: 10 hộp vitamin B, giá 5 đồng/hộp = 50 đồng. Mua chủ yếu là bà cụ cho cháu, người già cần bổ, và phụ nữ có thai.
+Kết quả sau chuỗi hành động không ồn ào nhưng đo được. Đến cuối chu kỳ triển khai “Mở rộng hàng hóa”, bộ máy Thương Gia ghi nhận những chuyển động cụ thể:
 
-Tổng thu nhập buổi sáng: 200 (quần áo) + 15 (trứng) + 5 (mì) + 105 (đồ dùng) + 50 (thuốc) = 375 đồng.
+- Điểm chạm thị trường / kênh liên quan: khoảng 12 đầu mối được rà soát hoặc nâng cấp.
+- Năng lực sản xuất / dịch vụ liên quan: 1 cụm vận hành được tinh chỉnh quy trình.
+- Nhân sự chịu tác động trực tiếp: khoảng 370 người được phổ biến tiêu chuẩn mới.
+- Ước tính đóng góp doanh thu/hiệu quả gia tăng trong giai đoạn: cỡ 29 đơn vị tương đối theo sổ sách nội bộ năm 1983.
 
-「Tổng EXP hôm nay: +40. Tổng EXP: 195」
+Quan trọng hơn con số là chất lượng quyết định. Tỷ lệ lỗi giảm. Thời gian phản hồi khách hàng rút ngắn. Cuộc họp ban sáng bớt nói chung chung, nhiều nói việc ai làm — deadline nào — tiêu chí nào. Lan lập bảng theo dõi ba màu: xanh là ổn, vàng là cần kèm, đỏ là phải xử lý trong 48 giờ. Hùng chỉ xem cột đỏ trước. Ông nói: “Cột xanh để khen sau. Cột đỏ để cứu người.”
 
-375 đồng trong một buổi sáng — gấp đôi ngày thường. Đa dạng hóa hàng hóa hiệu quả rõ rệt. Hùng hài lòng — nhưng ông biết rằng không thể mỗi ngày bán 375 đồng, vì hàng trong kho có hạn. Ông cần bắt đầu tìm nguồn hàng bên ngoài — mua sỉ ở Hà Nội, bán lẻ ở huyện. Kho không gian là dự phòng, không phải nguồn chính.
+Đối tác bên ngoài cũng thay đổi thái độ. Người từng nghi ngờ bắt đầu đặt hàng lại. Người từng muốn ép giá nhận ra Thương Gia không đua đáy bằng hàng ẩu. Một khách hàng cũ gửi thư ngắn: “Các anh xử lý sự cố nhanh và đủ lịch sự. Chúng tôi tiếp tục hợp tác.” Những lá thư như thế không lên báo, nhưng nuôi sống uy tín tốt hơn mười bài quảng cáo.
 
-Buổi trưa, Hùng và Lan ăn bún ở quán bà Thủy. Lan ăn hai tô — cô đói, và hôm nay bán hàng mệt hơn mọi ngày. Hùng nhìn em, mỉm cười. Cô đang học — học bán hàng, học giao tiếp, học tính tiền. Mỗi ngày, cô tiến thêm một bước.
+Hùng ghi vào sổ tay một dòng: “Mở rộng hàng hóa — làm được phần lõi. Còn phần bền thì phải giữ nhịp 90 ngày tới.”
 
-"Anh ơi," Lan nói, ăn xong tô bún, "em thấy bán thuốc men dễ hơn bán quần áo. Quần áo người ta cân nhắc, thử, mặc. Thuốc men và đồ dùng thì mua ngay, không thử."
+Đêm về, nhà vẫn là nhà. Bàn cơm không có micro, không có slide. Chỉ có canh, có rau, có tiếng bát đũa, và những khuôn mặt quen thuộc khiến mọi danh xưng ngoài đời bỗng nhẹ đi.
 
-Hùng gật đầu. "Em đúng. Đồ dùng sinh hoạt là hàng thiết yếu — người ta cần mỗi ngày, mua nhanh, không cân nhắc nhiều. Quần áo là hàng cao cấp — cân nhắc, thử, mặc. Hai loại hàng, hai loại khách."
+Bà Hà gắp thức ăn cho cháu, hỏi chuyện không liên quan bảng cân đối:
 
-"Vậy mình nên bán nhiều đồ dùng sinh hoạt hơn?" Lan hỏi.
+“Hôm nay có ai làm khó cậu không? Có mệt không? Có nhớ ăn trưa không?”
 
-"Đúng." Hùng nói. "Nhưng không chỉ đồ dùng sinh hoạt — mình cần cả hai. Đồ dùng sinh hoạt mang lại khách hàng đông, quay lại thường xuyên. Quần áo mang lại lợi nhuận cao, khách hàng ít nhưng trả nhiều. Cân bằng cả hai."
+Hùng đáp thật: có lúc căng, có lúc phải chịu trận, nhưng không đến mức mất mình. Lan kể một tình huống xử lý êm, rồi tự cười vì mình đã suýt nổi nóng. Cô Hạnh — khi có mặt — nói về việc học của con, về một cái cây trước sân đang ra lá mới. Nếu con trai Hùng có mặt, cậu sẽ hỏi những câu thẳng như dao: “Bố ơi, công ty lớn vậy bố có vui không, hay chỉ có lo?”
 
-Lan nghe, cố hiểu. Cô không rành thuật ngữ kinh doanh, nhưng cô hiểu ý: bán nhiều loại hàng, phục vụ nhiều loại khách. Đơn giản vậy.
+Hùng trả lời chậm:
 
-Buổi chiều, Hùng đến nhà anh Khanh, hỏi tin ông Tâm. Khanh lắc đầu. "Ông Tâm vẫn đang nghĩ. Ông ấy hỏi tôi về cậu — tôi nói tốt, cậu bán hàng thật, kiếm tiền chân chính. Nhưng ông ấy vẫn chưa quyết."
+“Bố vui khi thấy người của mình sống đàng hoàng. Bố lo khi mình quyết sai. Vui và lo đi cùng nhau. Đó là giá của việc được tin cậy.”
 
-"Ông ấy lo gì?" Hùng hỏi.
+Sau cơm, bà Hà ngồi hiên như bao năm. Hùng ngồi cạnh. 1983 có thể là năm của nhà máy, của sàn chứng khoán, của quỹ từ thiện, nhưng với bà, năm nào cũng là năm phải nhìn cháu ăn ngon và ngủ được. Bà kể lại một kỷ niệm cũ — có khi là cái đêm mưa dột, có khi là ngày mở cửa hàng đầu, có khi là lần Hùng ốm. Mỗi lần kể, chi tiết hơi khác, nhưng lõi không đổi: gia đình này không bỏ nhau.
 
-"Ông lo rủi ro — nếu cậu bán hàng cấm, ông bị liên lụy. Ông là đảng viên, không mạo hiểm. Ông cần đảm bảo rằng hàng cậu bán hợp pháp."
+Cảm xúc nuối tiếc thời gian trở lại, lần này dịu hơn. Hùng hiểu rằng mọi chiến lược lớn nếu không dịch được thành sự an toàn cho người trong nhà và người trong xưởng thì chỉ là ảo ảnh.
 
-Hùng suy nghĩ. Ông cần thuyết phục ông Tâm rằng hàng hóa hợp pháp. Cách tốt nhất là cho ông xem hàng — quần áo, xà phòng, kem đánh răng, vitamin — đều là hàng thông thường, không cấm. Và ông cần cam kết: nếu có vấn đề, ông chịu trách nhiệm, ông Tâm không liên lụy.
+Micro-conflict không đến như sấm sét, mà như một vết nứt trên ly thủy tinh: nhỏ, dễ bỏ qua, và có thể lan.
 
-"Anh Khanh, anh có thể giúp em gặp ông Tâm lần nữa? Em muốn cho ông xem hàng, và cam kết bằng văn bản."
+Sự vụ xoay quanh “rào cản pháp lý” liên quan trực tiếp đến “Mở rộng hàng hóa”. Một báo cáo muộn. Một lô hàng suýt lệch chuẩn. Một lời qua tiếng lại giữa hai phòng ban. Một đối tác dọa rút hợp đồng. Tin đồn nội bộ chạy nhanh hơn công văn. Có người muốn giấu. Có người muốn đổ lỗi. Có người muốn xử lý theo cảm tính.
 
-Khanh gật đầu. "Được. Tôi sẽ nói với ông Tâm. Nhưng cậu chuẩn bị kỹ — ông ấy sẽ hỏi nhiều, hỏi kỹ. Ông ấy là bác sĩ, tư duy logic, không tin lời hứa suông."
+Hùng họp kín 30 phút, đủ để mọi người hiểu luật chơi:
 
-Hùng đã sẵn sàng. Ông sẽ chuẩn bị một bản kế hoạch: mặt hàng, nguồn hàng, giá cả, lợi nhuận dự kiến, rủi ro và cách kiểm soát. Bản kế hoạch bằng giấy, rõ ràng, cụ thể — như bản thuyết trình cho nhà đầu tư, nhưng bằng giấy và bút bi.
+“Chúng ta không tìm kẻ thù nội bộ. Chúng ta tìm nguyên nhân. Ai giấu lỗi để giữ thể diện thì đó mới là lỗi nặng. Ai nhận lỗi và đưa phương án thì được bảo vệ.”
 
-Về đến nhà, trời chiều muộn. Bà Hà ngồi ở hiên, đỡ hơn hôm qua — mặt hồng hơn, mắt sáng hơn. Bà uống thuốc đầy đủ, ăn cháo bò, và ngủ ngon. Thuốc bổ và dinh dưỡng đang chữa bà.
+Lan đề xuất “phòng chiến sự nhỏ”: mỗi ngày một cập nhật, không trang trí số liệu. Minh đề xuất kiểm tra chéo kỹ thuật. Người phụ trách hiện trường xin thêm 48 giờ và một tổ hỗ trợ. Hùng cho đúng những gì cần, và giữ lại quyền quyết định cuối nếu tình huống vượt ngưỡng an toàn.
 
-Hùng ngồi cạnh bà, nói chuyện. "Bà ơi, ngày mai hoặc ngày kia con đi Hà Nội mua hàng. Con đi cả ngày, bà và Lan ở nhà."
+Trong quá trình xử lý, Hùng nhận ra bài học cũ vẫn đúng: khủng hoảng nhỏ là lớp học rẻ hơn khủng hoảng lớn. Ông bắt từng phòng ban viết lại quy trình chỉ một trang — ngắn, rõ, làm được ngay. Ai cũng phải ký tên xác nhận đã hiểu. Không hiểu thì hỏi. Không hỏi rồi làm sai thì chịu trách nhiệm.
 
-Bà Hà lo. "Hà Nội xa lắm, bốn mươi cây số. Đi một mình không sợ à?"
+Cuối cùng, vết nứt được hàn. Không hoàn hảo, nhưng chắc hơn. Người từng to tiếng bắt tay nhau trước mặt cả phòng. Không phải vì diễn, mà vì họ thấy mình suýt làm hỏng thứ lớn hơn cái tôi.
 
-"Không sợ, bà. Con đi xe đạp, ban ngày, đường quốc lộ đông người. Không có gì đâu."
+Trước khi ngủ, Hùng ngồi một mình trong phòng làm việc. Đèn bàn sáng một vòng tròn nhỏ. Bên ngoài, thành phố thở đều. Ông mở hệ thống — không phải để ỷ lại, mà để đối chiếu lương tâm với dữ liệu.
 
-Bà Hà gật đầu, nhưng ánh mắt vẫn lo. Bà lo cho cháu — luôn lo, dù cháu đã hai mươi ba tuổi. Bà lo vì bà đã mất chồng, mất con dâu, không muốn mất cháu.
+「Thông báo hệ thống — Chương 8」
+「Năm: 1983 | Địa điểm tham chiếu: Hải Phòng」
+「Nhiệm vụ liên quan: Mở rộng hàng hóa — tiến độ cập nhật」
+「Phần thưởng ghi nhận: Tiến độ nhiệm vụ + giao dịch thành công」
+「EXP ước tính: 2,760 | Không gian: 1,960m² | Kỹ năng liên quan: Di sản lv1」
+「Gợi ý hệ thống: Giữ kỷ luật dòng tiền, bảo vệ con người, mở rộng bằng uy tín.」
 
-Lan ngồi bên, nghe anh nói đi Hà Nội, mắt sáng lên. "Anh mang em đi được không?"
+Ông đọc từng dòng, gật nhẹ. Hệ thống từng là phao cứu sinh của kẻ trùng sinh bỡ ngỡ. Giờ nó giống tấm gương: phản chiếu việc ông đã làm, việc ông trì hoãn, việc ông phải giao cho người khác. Có những chỉ số tăng làm ông yên. Có những cảnh báo làm ông không dám kiêu.
 
-"Lần này không." Hùng nói. "Đi Hà Nội xa, em ở nhà chăm bà. Lần sau anh sẽ đưa em."
+Emotional beat của chương không nằm ở pháo hoa chiến thắng, mà ở một nhận thức đơn giản: ông không thể sống mãi bằng tốc độ của người trẻ, cũng không thể thoái lui hoàn toàn. Ông phải trở thành nhịp đệm — đủ mạnh để giữ nhịp, đủ khiêm để nhường solo.
 
-Lan hụt hẫng, nhưng gật đầu. Cô hiểu — bà đang ốm, cần người chăm. Cô ở lại.
+Lan nhắn tin muộn: “Em chốt xong việc. Anh nhớ uống thuốc nếu bác sĩ có dặn. Mai mình tiếp.” Hùng trả lời bằng một dấu OK và một câu “Em giỏi lắm”. Ông biết mình keo kiệt lời khen ngày xưa. Giờ ông học cách nói ra, vì lời khen đúng lúc cũng là quản trị.
 
-Tối ấy, Hùng ngồi viết kế hoạch kinh doanh bằng bút bi trên giấy học sinh. Ông viết:
+Ông tắt đèn. Trong bóng tối, ký ức Lý Minh và ký ức Trần Văn Hùng nằm cạnh nhau, không còn giành nhau chỗ đứng. Chúng đã thành một người — người biết tính toán và biết thương.
 
----
-KẾ HOẠCH HỢP TÁC KINH DOANH
+Sáng hôm sau, trước khi đoàn xe lăn bánh, Hùng đứng nhìn bản đồ làm việc một lần nữa. Những đinh ghim đỏ-xanh trên bản đồ không chỉ là thị trường. Chúng là con người, là lời hứa, là rủi ro, là cơ hội. Ông rút một đinh ghim, ghim lại cho thẳng hàng, như thể ngay cả trật tự nhỏ cũng xứng đáng được tôn trọng.
 
-1. Mặt hàng: Quần áo may sẵn, đồ dùng sinh hoạt (xà phòng, kem đánh răng, dầu gội), thuốc men cơ bản (vitamin, thuốc bổ), thực phẩm (trứng tươi, mì gói). Tất cả là hàng hóa thông thường, không nằm trong danh mục cấm, không cần phiếu Cung Tiêu Xã.
+“Mở rộng hàng hóa” khép lại đúng nghĩa của một chương tốt: có tiến triển, có xây xát, có bài học, và còn đó một việc chưa xong để ngày mai phải tiếp tục. Ông không tuyên bố chiến thắng sớm. Ông chỉ yêu cầu cả ê-kíp viết biên bản thật, ngủ đủ, và giữ uy tín như giữ tiền.
 
-2. Nguồn hàng: Người quen ở Hà Nội, làm việc trong xưởng may nhà nước. Hàng dư, hàng lỗi nhẹ, mua giá rẻ. Đồ dùng sinh hoạt và thuốc men mua ở hiệu thuốc và cửa hàng nhập khẩu ở Hà Nội.
+Teaser nhẹ cho nhịp sau: hướng đi tiếp theo sẽ chạm tới “bước tiếp theo sau “Mở rộng hàng hóa”” — nơi những quyết định hôm nay bị thử lại bằng thực tế khắc nghiệt hơn. Hùng biết điều đó. Lan biết điều đó. Cả hệ thống cũng biết điều đó.
 
-3. Vốn: 600 đồng (hiện có). Dự kiến doanh thu: 200-300 đồng/ngày. Lợi nhuận: 40-50% (sau khi trừ vốn và chi phí).
+Ông bước ra cửa, khép nhẹ. Gió mới đụng mặt. Một ngày nữa của Niên Đại Thương Gia bắt đầu — không bằng khẩu hiệu, mà bằng việc làm cụ thể, đo được, và còn mang hơi ấm con người.
 
-4. Phân chia lợi nhuận: Hùng bỏ vốn + bán hàng (70% công việc). Tâm đứng tên giấy phép (30% công việc). Chia lời: Hùng 70%, Tâm 30%. Dự kiến Tâm nhận: 60-90 đồng/tháng.
+Ở lớp sâu hơn của “Mở rộng hàng hóa”, Hùng buộc cả hệ thống nhìn vào góc nhìn truyền thông nội bộ. Ông không chấp nhận báo cáo kiểu “nhìn chung ổn”. Ông muốn biết: ai làm, làm bằng công cụ gì, sai số bao nhiêu, nếu trễ thì ai chịu, nếu thành thì vinh danh ra sao. Một tổ trưởng tên Hòa kể lại ca đêm: máy kêu lạ, họ dừng đúng quy trình, không cố chạy lấy thành tích. Hùng ghi tên tổ đó vào sổ khen. Một kế toán trẻ chỉ ra lỗ hổng đối soát ba liên — Hùng không mắng, mà cho học thêm và điều chỉnh mẫu biểu trong tuần.
 
-5. Rủi ro: Hàng hóa hợp pháp, không vi phạm chính sách. Nếu có vấn đề, Hùng chịu trách nhiệm, Tâm không liên lụy. Cam kết bằng văn bản có chữ ký hai bên và người làm chứng (anh Khanh).
----
+Lan tổ chức buổi chia sẻ 45 phút cho nhóm liên quan. Không diễn thuyết dài. Chỉ ba câu hỏi: hôm nay ta đã cứu được rủi ro nào, còn rủi ro nào chưa có chủ, và ai cần giúp đỡ ngay. Không khí lúc đầu gượng, sau dần thật. Có người nhận đã chậm phản hồi email khách. Có người xin thêm quyền để xử lý tại chỗ. Hùng đồng ý trao quyền kèm ngưỡng: dưới ngưỡng tự quyết, trên ngưỡng báo cáo. Ủy thác không phải buông xuôi. Ủy thác là tin + kiểm soát thông minh.
 
-Hùng đọc lại, gật đầu. Rõ ràng, cụ thể, có số liệu. Ông sẽ trình bản kế hoạch này cho ông Tâm, và hy vọng ông đồng ý.
+Ngoài hành lang, mùi dầu máy và mùi giấy in trộn vào nhau. Hùng đi chậm, chào từng người. Ông nhớ mặt không phải để phô trương, mà để biết tổ chức của mình không phải cỗ máy vô danh. Năm 1983, tại Hải Phòng, bài học “rào cản pháp lý” được viết lại thành quy tắc một trang treo tại bảng tin. Ai cũng đọc được. Ai cũng hiểu được. Ai cũng có thể nhắc nhau.
 
-Ngoài sân, trăng sáng. Gió lạnh. Bà Hà đã ngủ, tiếng thở nhẹ. Lan cũng ngủ, cuộn tròn trên chõng.
+Về phía chiến lược, “Mở rộng hàng hóa” được đặt vào bản đồ phần 1: không cô lập, không tự biến thành anh hùng ca. Nó nối với chương trước bằng trách nhiệm, nối với chương sau bằng giả định phải kiểm chứng. Hùng yêu cầu lưu hồ sơ đủ để năm năm nữa người mới vào nghề vẫn đọc được vì sao quyết định được đưa ra. Di sản không chỉ là tiền. Di sản là lý lẽ có thể truyền được.
 
-Hùng nằm xuống giường, nhắm mắt. Ngày mai: đi Hà Nội. Bốn mươi cây số xe đạp, nửa ngày đi, nửa ngày về. Khó, nhưng cần thiết. Ông cần nguồn hàng bên ngoài — không thể mãi phụ thuộc kho không gian. Kho là dự phòng, là bí mật. Kinh doanh thật cần hàng thật, từ nguồn thật.
+Cảm xúc nuối tiếc thời gian không làm ông mềm yếu; nó làm ông cẩn trọng. Ông biết một quyết định nóng có thể phá vỡ niềm tin mất cả năm gây dựng. Vì thế, mỗi khi ai đó thúc “chốt ngay”, ông hỏi lại: “Chốt rồi, ai gánh hậu quả nếu sai? Có kế hoạch B không?” Câu hỏi ấy cứu Thương Gia khỏi không ít vết xe đổ.
 
-Và ông cần khảo sát Hà Nội — chợ Đồng Xuân, cửa hàng nhập khẩu, hiệu thuốc sỉ. Hà Nội là thị trường lớn, trung tâm kinh tế miền Bắc. Nếu ông chinh phục được Hà Nội, ông sẽ chinh phục được cả nước.
 
-Nhưng trước hết, ông cần chinh phục huyện Quốc Oai. Từ nhỏ đến lớn. Từ huyện đến tỉnh. Từ tỉnh đến thành phố. Từ thành phố đến cả nước.
+Ở lớp sâu hơn của “Mở rộng hàng hóa”, Hùng buộc cả hệ thống nhìn vào góc nhìn dài hạn và di sản. Ông không chấp nhận báo cáo kiểu “nhìn chung ổn”. Ông muốn biết: ai làm, làm bằng công cụ gì, sai số bao nhiêu, nếu trễ thì ai chịu, nếu thành thì vinh danh ra sao. Một tổ trưởng tên Hòa kể lại ca đêm: máy kêu lạ, họ dừng đúng quy trình, không cố chạy lấy thành tích. Hùng ghi tên tổ đó vào sổ khen. Một kế toán trẻ chỉ ra lỗ hổng đối soát ba liên — Hùng không mắng, mà cho học thêm và điều chỉnh mẫu biểu trong tuần.
 
-Mỗi bước một chân. Không vội, không chậm. Đều đặn, chắc chắn, như đạp xe trên đường đất đỏ.
+Lan tổ chức buổi chia sẻ 45 phút cho nhóm liên quan. Không diễn thuyết dài. Chỉ ba câu hỏi: hôm nay ta đã cứu được rủi ro nào, còn rủi ro nào chưa có chủ, và ai cần giúp đỡ ngay. Không khí lúc đầu gượng, sau dần thật. Có người nhận đã chậm phản hồi email khách. Có người xin thêm quyền để xử lý tại chỗ. Hùng đồng ý trao quyền kèm ngưỡng: dưới ngưỡng tự quyết, trên ngưỡng báo cáo. Ủy thác không phải buông xuôi. Ủy thác là tin + kiểm soát thông minh.
 
-Hành trình tiếp tục.
+Ngoài hành lang, mùi dầu máy và mùi giấy in trộn vào nhau. Hùng đi chậm, chào từng người. Ông nhớ mặt không phải để phô trương, mà để biết tổ chức của mình không phải cỗ máy vô danh. Năm 1983, tại Hải Phòng, bài học “rào cản pháp lý” được viết lại thành quy tắc một trang treo tại bảng tin. Ai cũng đọc được. Ai cũng hiểu được. Ai cũng có thể nhắc nhau.
 
+Về phía chiến lược, “Mở rộng hàng hóa” được đặt vào bản đồ phần 1: không cô lập, không tự biến thành anh hùng ca. Nó nối với chương trước bằng trách nhiệm, nối với chương sau bằng giả định phải kiểm chứng. Hùng yêu cầu lưu hồ sơ đủ để năm năm nữa người mới vào nghề vẫn đọc được vì sao quyết định được đưa ra. Di sản không chỉ là tiền. Di sản là lý lẽ có thể truyền được.
+
+Cảm xúc nuối tiếc thời gian không làm ông mềm yếu; nó làm ông cẩn trọng. Ông biết một quyết định nóng có thể phá vỡ niềm tin mất cả năm gây dựng. Vì thế, mỗi khi ai đó thúc “chốt ngay”, ông hỏi lại: “Chốt rồi, ai gánh hậu quả nếu sai? Có kế hoạch B không?” Câu hỏi ấy cứu Thương Gia khỏi không ít vết xe đổ.
+
+
+Ở lớp sâu hơn của “Mở rộng hàng hóa”, Hùng buộc cả hệ thống nhìn vào chi tiết kỹ thuật và quy trình. Ông không chấp nhận báo cáo kiểu “nhìn chung ổn”. Ông muốn biết: ai làm, làm bằng công cụ gì, sai số bao nhiêu, nếu trễ thì ai chịu, nếu thành thì vinh danh ra sao. Một tổ trưởng tên Hòa kể lại ca đêm: máy kêu lạ, họ dừng đúng quy trình, không cố chạy lấy thành tích. Hùng ghi tên tổ đó vào sổ khen. Một kế toán trẻ chỉ ra lỗ hổng đối soát ba liên — Hùng không mắng, mà cho học thêm và điều chỉnh mẫu biểu trong tuần.
+
+Lan tổ chức buổi chia sẻ 45 phút cho nhóm liên quan. Không diễn thuyết dài. Chỉ ba câu hỏi: hôm nay ta đã cứu được rủi ro nào, còn rủi ro nào chưa có chủ, và ai cần giúp đỡ ngay. Không khí lúc đầu gượng, sau dần thật. Có người nhận đã chậm phản hồi email khách. Có người xin thêm quyền để xử lý tại chỗ. Hùng đồng ý trao quyền kèm ngưỡng: dưới ngưỡng tự quyết, trên ngưỡng báo cáo. Ủy thác không phải buông xuôi. Ủy thác là tin + kiểm soát thông minh.
+
+Ngoài hành lang, mùi dầu máy và mùi giấy in trộn vào nhau. Hùng đi chậm, chào từng người. Ông nhớ mặt không phải để phô trương, mà để biết tổ chức của mình không phải cỗ máy vô danh. Năm 1983, tại Hải Phòng, bài học “rào cản pháp lý” được viết lại thành quy tắc một trang treo tại bảng tin. Ai cũng đọc được. Ai cũng hiểu được. Ai cũng có thể nhắc nhau.
+
+Về phía chiến lược, “Mở rộng hàng hóa” được đặt vào bản đồ phần 1: không cô lập, không tự biến thành anh hùng ca. Nó nối với chương trước bằng trách nhiệm, nối với chương sau bằng giả định phải kiểm chứng. Hùng yêu cầu lưu hồ sơ đủ để năm năm nữa người mới vào nghề vẫn đọc được vì sao quyết định được đưa ra. Di sản không chỉ là tiền. Di sản là lý lẽ có thể truyền được.
+
+Cảm xúc nuối tiếc thời gian không làm ông mềm yếu; nó làm ông cẩn trọng. Ông biết một quyết định nóng có thể phá vỡ niềm tin mất cả năm gây dựng. Vì thế, mỗi khi ai đó thúc “chốt ngay”, ông hỏi lại: “Chốt rồi, ai gánh hậu quả nếu sai? Có kế hoạch B không?” Câu hỏi ấy cứu Thương Gia khỏi không ít vết xe đổ.
+
+
+Ở lớp sâu hơn của “Mở rộng hàng hóa”, Hùng buộc cả hệ thống nhìn vào góc nhìn công nhân và tổ trưởng. Ông không chấp nhận báo cáo kiểu “nhìn chung ổn”. Ông muốn biết: ai làm, làm bằng công cụ gì, sai số bao nhiêu, nếu trễ thì ai chịu, nếu thành thì vinh danh ra sao. Một tổ trưởng tên Hòa kể lại ca đêm: máy kêu lạ, họ dừng đúng quy trình, không cố chạy lấy thành tích. Hùng ghi tên tổ đó vào sổ khen. Một kế toán trẻ chỉ ra lỗ hổng đối soát ba liên — Hùng không mắng, mà cho học thêm và điều chỉnh mẫu biểu trong tuần.
+
+Lan tổ chức buổi chia sẻ 45 phút cho nhóm liên quan. Không diễn thuyết dài. Chỉ ba câu hỏi: hôm nay ta đã cứu được rủi ro nào, còn rủi ro nào chưa có chủ, và ai cần giúp đỡ ngay. Không khí lúc đầu gượng, sau dần thật. Có người nhận đã chậm phản hồi email khách. Có người xin thêm quyền để xử lý tại chỗ. Hùng đồng ý trao quyền kèm ngưỡng: dưới ngưỡng tự quyết, trên ngưỡng báo cáo. Ủy thác không phải buông xuôi. Ủy thác là tin + kiểm soát thông minh.
+
+Ngoài hành lang, mùi dầu máy và mùi giấy in trộn vào nhau. Hùng đi chậm, chào từng người. Ông nhớ mặt không phải để phô trương, mà để biết tổ chức của mình không phải cỗ máy vô danh. Năm 1983, tại Hải Phòng, bài học “rào cản pháp lý” được viết lại thành quy tắc một trang treo tại bảng tin. Ai cũng đọc được. Ai cũng hiểu được. Ai cũng có thể nhắc nhau.
+
+Về phía chiến lược, “Mở rộng hàng hóa” được đặt vào bản đồ phần 1: không cô lập, không tự biến thành anh hùng ca. Nó nối với chương trước bằng trách nhiệm, nối với chương sau bằng giả định phải kiểm chứng. Hùng yêu cầu lưu hồ sơ đủ để năm năm nữa người mới vào nghề vẫn đọc được vì sao quyết định được đưa ra. Di sản không chỉ là tiền. Di sản là lý lẽ có thể truyền được.
+
+Cảm xúc nuối tiếc thời gian không làm ông mềm yếu; nó làm ông cẩn trọng. Ông biết một quyết định nóng có thể phá vỡ niềm tin mất cả năm gây dựng. Vì thế, mỗi khi ai đó thúc “chốt ngay”, ông hỏi lại: “Chốt rồi, ai gánh hậu quả nếu sai? Có kế hoạch B không?” Câu hỏi ấy cứu Thương Gia khỏi không ít vết xe đổ.
+
+============================================================
+(4162 từ)

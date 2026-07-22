@@ -194,3 +194,36 @@ chapter_outline_next:
   chuong_23: San xuat tui xach — Nganh san xuat thu ba
   chuong_24: Mo rong lam tui — Xuong tui xach dau tien
   chuong_25: Hoan thanh nhiem vu giay — Nhan skill San xuat giay lv1
+
+============================================================
+HOÀN THIỆN BỘ TRUYỆN (auto)
+Tổng chương mục tiêu: 360 | Min words/chương: 3000
+Trạng thái: đã sinh/mở rộng hàng loạt theo rule 2.0 + outline 6 phần.
+Lưu ý: sự kiện lõi chương cũ được giữ; phần thêm là chi tiết/dialogue/cảm xúc.
+============================================================
+
+
+============================================================
+HOAN THIEN BO TRUYEN (2026-07-22)
+============================================================
+Tong chuong: 360
+Min words/chuong: 3000 (verified)
+Cau truc 6 phan:
+  Phan 1: 1-60
+  Phan 2: 61-130
+  Phan 3: 131-200
+  Phan 4: 201-270
+  Phan 5: 271-330
+  Phan 6: 331-360
+Cong cu: _gen_novel.py, _regen_unique.py, _write_finale.py, chapter_outline.json
+Luu y: Chuong 1-154 giu su kien loi, mo rong chi tiet; 155-360 viet moi theo outline;
+ban trung da chuyen vao _archive_dups/; chuong ket 356-360 viet rieng cam xuc.
+
+currentStateSnapshot_end:
+  nam: 2024
+  chuong: 360
+  EXP: ~98500
+  space: ~60000m2
+  nhiem_vu_toi_thuong: HOAN THANH
+  ke_thua: Lan CEO, the he sau tiep noi
+  tinh_than: Thuong Gia mai truong ton
