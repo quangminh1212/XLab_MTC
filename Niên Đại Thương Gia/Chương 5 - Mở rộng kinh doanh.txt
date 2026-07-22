@@ -2,7 +2,7 @@
 Chương 5: Mở rộng kinh doanh
 ============================================================
 
-Làng/phố London năm 1983 chưa biết chữ “tập đoàn”. Nó chỉ biết nhà nào có gạo, nhà nào còn nợ. “Mở rộng kinh doanh” nằm giữa hai thứ ấy.
+Lan hé cửa: “Anh dậy chưa?” Giọng em gái mười tám tuổi, lo hơn trách. Hùng đáp khẽ: “Dậy rồi.” Trong nhà đất London, năm 1983, “Mở rộng kinh doanh” bắt đầu bằng những việc không ai viết lên báo: nhóm lửa, vo gạo, tính từng đồng, nhìn người khác bằng mắt không dối.
 
 ### Diễn biến đã xác lập
 
@@ -129,68 +129,50 @@ Mọi thứ đều bắt đầu từ nhỏ. Từ năm bộ quần áo. Từ 518 
 
 Hành trình tiếp tục.
 
-### Nhìn lại cùng sự kiện
+### Lớp sâu hơn — cùng một sự thật
 
-Sau những gì đã xảy ra trong “Mở rộng kinh doanh”, Hùng không vội khoe. Ông ngồi lại với Lan và bà Hà, hỏi chỗ nào suýt sai, chỗ nào cần giữ. Năm 1983 tại London, bài học “tiến độ và chất lượng” được viết thành thói quen: kiểm tra lại trước khi hứa, hiện trường trước báo cáo, người trước danh.
+Nhìn lại khoảnh khắc then chốt: Bốn giờ sáng. Trời tối như hũ nút.
 
-Lan nói điều em thấy. Hùng ghi sổ. Bà Hà chỉ cần thấy cháu còn thương nhà.
+Những chi tiết bám lấy ngày ấy — sáng., Trời, nút., tỉnh, giấc, ngay, thói, quen — không phải đạo cụ. Chúng là bằng chứng đời sống. Tại London, năm 1983, Hùng buộc mình trả lời ba câu sau “Mở rộng kinh doanh”:
 
-Trên hiên, bà Hà:
+1) Ai được no hơn nhờ việc này?
+2) Ai có thể bị tổn thương nếu mình vội?
+3) Mình có dám kể lại cho bà Hà nghe mà không phải sửa sự thật không?
 
-“Cậu đừng vì “Mở rộng kinh doanh” mà thành người chỉ biết việc.”
+Lan đứng ở rìa việc, mắt tinh. Em không cần chức danh để thấy anh đang căng. “Anh ơi, chỗ này mình đừng hứa nhanh.” Hùng gật. Ông sửa câu hứa cho vừa sức, rồi làm đủ phần đã hứa. Đó là khác biệt giữa thương gia và kẻ chộp giật.
 
-“Bà ơi, cháu làm việc để nhà mình và nhiều nhà khác còn bàn cơm,” Hùng nói. “Nhưng cháu nhớ về nhà.”
+Ông đi lại hiện trường lần nữa nếu cần: nghe, nhìn, hỏi. Không phải để diễn gần dân. Vì ông từng là kẻ chỉ nhìn màn hình đến chết — lần này ông chọn nhìn người.
 
-Lan ngồi dựa vai bà. Im lặng lúc ấy là hợp đồng vô hình của gia đình.
+### Bếp lửa và lời thề nhỏ
 
-Sau chu kỳ triển khai “Mở rộng kinh doanh”, kết quả đo được:
+Đêm “Mở rộng kinh doanh”, mâm cơm có thể chỉ là cơm trắng, trứng, miếng thịt kho mỏng. Nhưng với bà Hà, đó là cả một trời đổi đời. Bà không hỏi nguồn hàng bằng giọng thẩm vấn; bà hỏi bằng sợ vui: sợ cháu lại trở về người cũ, vui vì cháu đang thành người nhà.
 
-- Hạng mục cốt lõi hoàn thành có biên bản và người ký.
-- Khoảng 40 người liên quan được phổ biến thay đổi.
-- Giá trị/hiệu quả ghi nhận cỡ 15 đơn vị theo sổ nội bộ năm 1983.
-- Rủi ro “tiến độ và chất lượng” có chủ sở hữu và hạn xử lý.
+Lan ăn chậm, mắt vẫn dõi anh. Cô bé đã quá quen thất vọng. Hôm nay cô ghi nhận từng hành vi: anh nhóm lửa, anh múc cơm cho bà, anh không uống rượu, anh nói chuyện việc như người có kế hoạch. “Anh thay đổi thật à?” cô không hỏi thành lời. Hùng nhìn em: “Anh sẽ chứng minh bằng nhiều bữa như thế này.”
 
-「Hệ thống: Mở rộng kinh doanh — tiến độ ghi nhận | 1983 | EXP +42」
+Năm 1983, lời thề không ký công chứng. Lời thề ký bằng việc mai còn làm.
 
-Hùng viết sổ: “Xong phần mở. Còn 90 ngày giữ.”
+### Hệ thống — thước, không phải ông chủ
 
-Đêm 1983, mâm cơm không có chức danh. Lan dịch “Mở rộng kinh doanh” thành câu bà Hà hiểu được.
+「Năm: 1983」
+「Việc: Mở rộng kinh doanh — tiến độ ghi nhận」
+「Gợi ý: giữ uy tín, giữ người, giữ sổ sạch」
+「EXP +90 | Hoàn thành nhiệm vụ phụ — +EXP」
 
-Cảm xúc lắng. Hùng biết chiến lược lớn phải dịch thành sự an toàn cho người trong nhà và trong xưởng.
+Hùng đọc rồi tắt. Ông cảm ơn công cụ, nhưng không giao linh hồn. Thước đo cuối vẫn là bát cơm nhà và lương công nhân.
 
-Trước khi ngủ, Hùng nhìn lại “Mở rộng kinh doanh”: có tiến, có sẹo nhỏ, có bài học. Ông nhắn Lan: “Mai tiếp. Nhớ nghỉ.”
+### Khép ngày
 
-Phía trước là “Tìm đối tác mới”. Ông không sợ. Ông chỉ không cho phép mình quên gốc.
+“Mở rộng kinh doanh” không hoàn hảo. Nhưng có tiến, có sẹo nhỏ, có bài học. Hùng nhắn Lan một câu ngắn: “Mai tiếp. Nhớ nghỉ.” Rồi tắt đèn.
 
-“Mở rộng kinh doanh” được neo vào phần 1: nối trách nhiệm sau lưng và giả định phía trước.
+Phía trước là “Tìm đối tác mới”. Ông không hứa dễ. Ông chỉ hứa không trở thành kẻ quên gốc.
 
-Ba câu tự vấn: có dối ai không? có bỏ ai lại không? mai có dám nhìn lại không?
+Tại London, Hùng đi một vòng cuối ngày: hỏi ca đêm ăn gì, có ai ốm, thiếu gì. Quản trị bắt đầu từ câu hỏi nhỏ ấy.
 
-Hiện trường năm 1983 tại London dạy rằng slide đẹp không cứu được máy hỏng và lời hứa ẩu.
+Lan phản biện khi cần. Không khí không thành phòng vỗ tay. “Mở rộng kinh doanh” phải qua cửa phản biện rồi mới được làm lớn.
 
-Lan giữ nhịp; Hùng giữ hậu quả. Ủy thác không phải buông xuôi.
+Sổ tay da thêm vài dòng mực: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không trôi thành hỗn độn.
 
-Sổ tay da thêm một dòng mực: làm đúng trước, làm lớn sau — đúng với “Mở rộng kinh doanh”.
-
-Hùng yêu cầu viết quy trình “Mở rộng kinh doanh” bằng lời thợ cũng hiểu: bước, ngưỡng dừng, tên người chịu.
-
-Một phản hồi thẳng từ người thật liên quan “Mở rộng kinh doanh” được đọc to. Khen ghi. Chê sửa trong tuần.
-
-Mọi quyết định phải trả lời dòng tiền 30–90 ngày. Không trả lời được thì chưa phóng.
-
-Tin đồn nội bộ bị chặn bằng bản tin một trang. Người ta sợ nhất là không biết.
-
-Bà Hà không cần hiểu hết số. Bà cần thấy cháu còn ăn, còn về nhà, còn thương người.
-
-“Mở rộng kinh doanh” được neo vào phần 1: nối trách nhiệm sau lưng và giả định phía trước.
-
-Ba câu tự vấn: có dối ai không? có bỏ ai lại không? mai có dám nhìn lại không?
-
-Hiện trường năm 1983 tại London dạy rằng slide đẹp không cứu được máy hỏng và lời hứa ẩu.
-
-Lan giữ nhịp; Hùng giữ hậu quả. Ủy thác không phải buông xuôi.
-
-Sổ tay da thêm một dòng mực: làm đúng trước, làm lớn sau — đúng với “Mở rộng kinh doanh”.
+Công nhân thâm niên nhắc chi tiết báo cáo quên. Hùng chốt xử trong tuần. “Mở rộng kinh doanh” thất bại nếu chỉ chăm số trên mà bỏ người dưới.
 
 ============================================================
-(3011 từ)
+(3002 từ)
