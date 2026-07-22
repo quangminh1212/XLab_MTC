@@ -1,240 +1,137 @@
+============================================================
 Chương 32: Sản xuất thực phẩm
+============================================================
 
 ### Mở
 
-Trời Khu công nghiệp năm 1984 chưa kịp ấm thì việc “Sản xuất thực phẩm” đã chiếm chỗ trong đầu Trần Văn Hùng.
+Trời Khu công nghiệp năm 1985 mang mùi mực in. Trần Văn Hùng bước vào ngày với một việc cần làm đủ, không cần làm ồn.
 
-Ông nhắc: tốc độ không đè chất lượng, chất lượng không đè con người.
+Thị trường có thể ồn; ông giữ nhịp thở đều.
 
-Thực phẩm — vùng nhạy cảm. “Sản xuất thực phẩm” buộc vệ sinh, hạn dùng, nguồn gốc. Ăn vào miệng người là nợ.
+### Dấu vết đã có
 
-### Diễn biến đã xác lập
+### Mở Trời Khu công nghiệp năm 1984 chưa kịp ấm thì việc “Sản xuất thực phẩm” đã chiếm chỗ trong đầu Trần Văn Hùng. Ông nhắc: tốc độ không đè chất lượng, chất lượng không đè con người. Thực phẩm — vùng nhạy cảm. “Sản xuất thực phẩm” buộc vệ sinh, hạn dùng, nguồn gốc. Ăn vào miệng người là nợ. ### Diễn biến đã xác lập Đầu năm 1984. Hùng bắt đầu sản xuất thực phẩm đóng gói — ngành thứ tư sau quần áo, giày dép, túi xách. Trong thời bao cấp, thực phẩm đóng gói hiếm — mì gói nhập khẩu (Indomie, Mì Thái), bún khô làm thủ công, phở khô không có. Hùng thấy cơ hội: sản xuất mì gói, bún khô, phở khô — hàng Việt Nam, giá rẻ, chất lượng tốt. Hùng thuê xưởng thực phẩm ở Hà Đông — căn nhà 50m², thuê 80 đồng/tháng. Mua máy sấy (máy sấy nông sản cũ, 200 đồng), máy đóng gói (thủ công, khuôn gỗ, 50 đồng). Thuê bà Năm — đầu bếp có kinh nghiệm làm bún khô — làm quản lý xưởng. Lương 60 đồng/tháng. Ba công nhân: 30 đồng/tháng mỗi người. Sản xuất mì gói: - Nguyên liệu: bột mì (mua ở Hà Nội, 5 đồng/kg), muối, nước, gia vị (từ kho không gian) - Quy trình: trộn bột, cán mỏng, cắt sợi, sấy khô, đóng gói - Sản lượng: 500 gói/ngày, 15.000 gói/tháng - Giá vốn: 2 đồng/gói, bán 4 đồng/gói, lãi 2 đồng/gói - Doanh thu tháng: 60.000 đồng — nhưng trong thời bao cấp, bán 4 đồng/gói là giá cao. Hùng bán sỉ 3 đồng/gói cho đại lý, lãi 1 đồng/gói = 15.000 đồng/tháng. Sản xuất bún khô: - Nguyên liệu: gạo (từ kho không gian, giá vốn thấp), nước - Quy trình: ngâm gạo, xay bột, tráng mỏng, cắt sợi, sấy khô, đóng gói - Sản lượng: 300 gói/ngày, 9.000 gói/tháng - Giá vốn: 1.5 đồng/gói, bán sỉ 2.5 đồng/gói, lãi 1 đồng/gói = 9.000 đồng/tháng Sản xuất phở khô: - Tương tự bún khô, nhưng sợi to hơn - Sản lượng: 200 gói/ngày, 6.000 gói/tháng - Lãi: 6.000 đồng/tháng Tổng lãi thực phẩm: 30.000 đồng/tháng — gấp nhiều lần quần áo và giày. Thực phẩm là ngành lợi nhuận cao, nhu cầu lớn, tiêu dùng hàng ngày. 「Nhiệm vụ mới: Sản xuất thực phẩm đóng gói - Mục tiêu: Sản xuất 30.000 gói/tháng trong 30 ngày - Phần thưởng: 150 EXP, Kỹ năng Sản xuất thực phẩm lv1 - Thời hạn: 30 ngày」 Hùng mỉm cười. Thực phẩm — ngành thứ tư, và có thể là ngành lớn nhất. Vì mọi người đều ăn, mỗi ngày, mỗi tháng. Quần áo mua vài tháng một lần, giày mua vài năm một lần, nhưng thực phẩm mua mỗi ngày. Tiêu dùng liên tục = thu nhập liên tục. Lan nghe kế hoạch, mắt sáng. "Anh ơi, thực phẩm là ngành tốt nhất! Người ta ăn mỗi ngày — mình
 
-Đầu năm 1984. Hùng bắt đầu sản xuất thực phẩm đóng gói — ngành thứ tư sau quần áo, giày dép, túi xách.
+### Cảnh chính
 
-Trong thời bao cấp, thực phẩm đóng gói hiếm — mì gói nhập khẩu (Indomie, Mì Thái), bún khô làm thủ công, phở khô không có. Hùng thấy cơ hội: sản xuất mì gói, bún khô, phở khô — hàng Việt Nam, giá rẻ, chất lượng tốt.
+Hiện trường Khu công nghiệp năm 1985 có mùi dầu máy / vải / kim loại — tùy chuyền. Hùng đi chậm, dừng ở chỗ tai nghe tiếng lạ. “Danh dự mất bắt đầu từ milimét,” ông nói với tổ trưởng. Kinh doanh muốn xuất sớm để kịp quý bị chặn.
 
-Hùng thuê xưởng thực phẩm ở Hà Đông — căn nhà 50m², thuê 80 đồng/tháng. Mua máy sấy (máy sấy nông sản cũ, 200 đồng), máy đóng gói (thủ công, khuôn gỗ, 50 đồng). Thuê bà Năm — đầu bếp có kinh nghiệm làm bún khô — làm quản lý xưởng. Lương 60 đồng/tháng. Ba công nhân: 30 đồng/tháng mỗi người.
+Lan lo sau bán và phụ tùng. bà Nguyễn Thị Hà, đối tác địa phương, công nhân xưởng ghi chép, tranh luận kỹ thuật. Việc hôm nay không phải bán cho xong — là bán sự yên tâm còn lại sau khi khách mang hàng về nhà.
 
-Sản xuất mì gói:
-- Nguyên liệu: bột mì (mua ở Hà Nội, 5 đồng/kg), muối, nước, gia vị (từ kho không gian)
-- Quy trình: trộn bột, cán mỏng, cắt sợi, sấy khô, đóng gói
-- Sản lượng: 500 gói/ngày, 15.000 gói/tháng
-- Giá vốn: 2 đồng/gói, bán 4 đồng/gói, lãi 2 đồng/gói
-- Doanh thu tháng: 60.000 đồng — nhưng trong thời bao cấp, bán 4 đồng/gói là giá cao. Hùng bán sỉ 3 đồng/gói cho đại lý, lãi 1 đồng/gói = 15.000 đồng/tháng.
+### Buổi sáng
 
-Sản xuất bún khô:
-- Nguyên liệu: gạo (từ kho không gian, giá vốn thấp), nước
-- Quy trình: ngâm gạo, xay bột, tráng mỏng, cắt sợi, sấy khô, đóng gói
-- Sản lượng: 300 gói/ngày, 9.000 gói/tháng
-- Giá vốn: 1.5 đồng/gói, bán sỉ 2.5 đồng/gói, lãi 1 đồng/gói = 9.000 đồng/tháng
+Trời Khu công nghiệp năm 1985 chưa kịp sáng hẳn. Hùng đến sớm hơn lịch họp. Ông không mở slide trước. Ông đi một vòng, chào kỹ sư mới ra trường, hỏi một câu cụ thể: máy có kêu lạ không.
 
-Sản xuất phở khô:
-- Tương tự bún khô, nhưng sợi to hơn
-- Sản lượng: 200 gói/ngày, 6.000 gói/tháng
-- Lãi: 6.000 đồng/tháng
+Mùi canh ca bếp công nhân bám lấy ông như lời nhắc: đây là đời sống, không phải mô hình trên giấy. Lan đã để sẵn ba tờ giấy: phải làm / không được làm / ai chịu. Hùng viết thêm một dòng bằng tay: “Không dối.”
 
-Tổng lãi thực phẩm: 30.000 đồng/tháng — gấp nhiều lần quần áo và giày. Thực phẩm là ngành lợi nhuận cao, nhu cầu lớn, tiêu dùng hàng ngày.
+### Va chạm
 
-「Nhiệm vụ mới: Sản xuất thực phẩm đóng gói
-- Mục tiêu: Sản xuất 30.000 gói/tháng trong 30 ngày
-- Phần thưởng: 150 EXP, Kỹ năng Sản xuất thực phẩm lv1
-- Thời hạn: 30 ngày」
+Xung đột “áp lực truyền thông” đến đúng lúc việc vừa có đà. Một tin đồn chạy trước sự thật. 
 
-Hùng mỉm cười. Thực phẩm — ngành thứ tư, và có thể là ngành lớn nhất. Vì mọi người đều ăn, mỗi ngày, mỗi tháng. Quần áo mua vài tháng một lần, giày mua vài năm một lần, nhưng thực phẩm mua mỗi ngày. Tiêu dùng liên tục = thu nhập liên tục.
+Hùng không lớn tiếng. Ông yêu cầu quy trình một trang lên bảng: sự thật, việc cần làm, kênh hỏi. Ai nhận lỗi để sửa được bảo vệ; ai giấu lỗi để giữ mặt sẽ bị xử. Lan đứng về phía quy trình — không phải cứng đầu, để đỡ anh khi áp lực muốn kéo lệch.
 
-Lan nghe kế hoạch, mắt sáng. "Anh ơi, thực phẩm là ngành tốt nhất! Người ta ăn mỗi ngày — mình bán mỗi ngày. Không lo ế."
+Quyết định trong ngày: dừng lô hàng để kiểm lại. Không hứa nóng. Có hạn. Có tên người.
 
-"Đúng." Hùng gật đầu. "Thực phẩm là ngành tiêu dùng thiết yếu. Lợi nhuận mỗi gói thấp, nhưng số lượng lớn. Volume — số lượng bán được là chìa khóa."
+### Việc cụ thể
 
-Lan ghi nhớ — volume. Cô bắt đầu hiểu tư duy kinh doanh: không chỉ lợi nhuận mỗi đơn vị, mà tổng số lượng bán. Lợi nhuận thấp × số lượng cao = tổng lợi nhuận cao.
+Trong 8 ngày xoay quanh mốc này, đội ngũ bóc 3 nút thắt. Không phải 54 cuộc họp dài — là 54 quyết định ngắn có chủ sở hữu. Một lỗi lặp bị chặn từ gốc. Một quy trình viết lại bằng lời thợ cũng hiểu: bước làm, ngưỡng dừng, tên người chịu.
 
-Hành trình tiếp tục.
+Lan cập nhật bằng việc đã xong, không bằng tính từ. Hùng khen đúng việc, không khen lấy lệ. bà Nguyễn Thị Hà, đối tác địa phương, công nhân xưởng được gọi tên khi đóng góp. Người im lặng làm đúng cũng được nhìn thấy — nếu không, văn hóa sẽ chỉ nuôi người khéo nói.
 
-### Lớp sâu
-
-### Sàn sản xuất
-
-“Sản xuất thực phẩm” tại Quốc Oai / Hà Đông năm 1984: máy, ca, sai số. Hùng đi chậm. Lỗi thì dừng đúng quy trình. Kinh doanh muốn xuất sớm bị chặn. Danh dự bắt đầu từ milimet và mũi chỉ.
-
-### Thử nhỏ
-
-Bên ngoài muốn “linh hoạt” quy trình. Thương Gia từ chối. Linh hoạt sai chỗ là lỗ uy tín.
-
-### Kết quả
-
-“Sản xuất thực phẩm” (1984): có biên bản; ~158 người liên quan được phổ biến thay đổi; rủi ro có chủ sở hữu. Lan xem vàng; Hùng xem đỏ.
-
-「1984 | Sản xuất thực phẩm | EXP +56 | người – sổ – uy tín」
-
-### Nhà
-
-Mâm cơm 1984. “Sản xuất thực phẩm” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-### Khép
-
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Mở rộng thực phẩm”.
-
-“Sản xuất thực phẩm” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Quốc Oai / Hà Đông và thế giới.
+Chỉ số theo dõi tuần: tiến độ 4 mốc; phản hồi khách/thợ được đọc to 4 lần; quỹ thời gian cho hiện trường không bị họp nuốt. EXP hệ thống có thể cộng 146, nhưng ông không làm việc vì con số nhấp nháy.
 
 ### Thoại
 
-Tổ trưởng: “Chỗ này máy kêu lạ.”
-Hùng: “Dừng đúng quy trình. Cảm ơn đã không chạy thành tích.”
+Đối tác: “Cam kết đi, ông Hùng.”
+Hùng: “Cam kết bằng điều khoản và hạn. Không cam kết bằng miệng cho nóng bàn.”
+Lan đẩy bản nháp đã soạn. Việc thắng cảm xúc.
 
-### Lớp hiện trường & sổ sách
+### Nhà
 
-Tại Khu công nghiệp năm 1984, Hùng chia “Sản xuất thực phẩm” thành việc hiện trường, sổ sách, khách và người. Lan giữ nhịp bảng việc–người–hạn. (Chương 32, lớp 1, nhịp 1.)
+Đêm 1985, mâm cơm không chức danh. Bà Hà để phần ngon cho cháu; Hùng nhẹ nhàng gắp lại cho bà. Lan dịch việc ngày thành câu bà hiểu — không giọng họp trên mâm.
 
-Xung đột “áp lực truyền thông” được gọi tên ngay trong họp, không để thì thầm hành lang. Ai muốn đi tắt bị trả về quy trình. (Chương 32, lớp 1, nhịp 2.)
+Hùng kể một mẩu việc bằng lời bình dân, bỏ hết từ hoa mỹ. Bà Hà (hoặc ký ức bà) chỉ cần biết cháu còn ăn, còn về, còn thương người. Nhà vẫn là nơi ông trả lại hình hài con người sau ngày dài ở Khu công nghiệp.
 
-Cảm xúc chủ đạo là ấm áp gia đình, nhưng ông không để cảm xúc thay biên bản. Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, đối tác địa phương cùng chịu trách nhiệm từng mảng. (Chương 32, lớp 1, nhịp 3.)
+### Hệ thống
 
-Một phản hồi thật từ khách/thợ/đối tác được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng hạn đã giữ. (Chương 32, lớp 1, nhịp 4.)
+「Năm 1985 | Tiến độ liên quan: Sản xuất thực phẩm
+- Ghi nhận: lớp việc trong ngày hoàn thành có kiểm chứng
+- Thưởng: +176 EXP | Tiến độ nhiệm vụ + giao dịch thành công
+- Gợi ý: giữ người – giữ sổ – giữ uy tín」
 
-Bà Hà không cần slide; Lan dịch việc thành câu bà nắm được. Nhà vẫn là nơi Hùng trả hình hài con người. (Chương 32, lớp 1, nhịp 7.)
+Hùng đọc xong rồi tắt. Thước đo hữu ích — không phải ông chủ trong đầu. Việc ngoài đời ồn và thật hơn bất kỳ dòng chữ phát sáng nào.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 32, lớp 1, nhịp 8.)
+### Lớp sâu trong ngày
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 32, lớp 1, nhịp 9.)
+Ông từ chối một đề xuất “linh hoạt” sai chỗ. Linh hoạt đúng là thích ứng. Linh hoạt sai là lỗ uy tín trả góp.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Sản xuất thực phẩm” có đà tại Khu công nghiệp. (Chương 32, lớp 1, nhịp 10.)
+Hùng yêu cầu mọi cam kết lớn phải có tên người chịu và hạn. Bắt tay không thay chữ ký. Nụ cười không thay điều khoản.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 32, lớp 1, nhịp 11.)
+Một cải tiến nhỏ từ thợ cả được khen công khai. Cải tiến nhỏ được nhìn thấy sẽ đẻ cải tiến vừa. Văn hóa không sống bằng khẩu hiệu — sống bằng việc được thấy.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 32, lớp 1, nhịp 12.)
+Hùng kiểm tra lại một con số đẹp. Đẹp mà không truy xuất nguồn thì chưa phải đẹp. Ông trả số về cho đúng tay chịu trách nhiệm.
 
-“Sản xuất thực phẩm” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 32, lớp 1, nhịp 14.)
+Chiều tà ở Khu công nghiệp, ông đứng nhìn bản đồ ghim. Mỗi điểm trên đó là người thật. Ông gỡ một việc đã xong khỏi đầu như gỡ một bao gạo — nhẹ hơn, nhưng không được phép kiêu.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 32, lớp 1, nhịp 15.)
+Đối thủ chơi chiêu nóng. Thương Gia đáp bằng hàng/dịch vụ đúng mẫu và hợp đồng rõ. Không đua đáy. Giữ chuẩn là giữ tên.
 
-Trong 7 ngày đầu, 2 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 32, lớp 1, nhịp 17.)
+Lan phản biện một điểm trong phương án. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm lớn.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 32, lớp 1, nhịp 18.)
+Kho bạc/kế toán rà dòng tiền ba mươi và chín mươi ngày. Mô hình đẹp trên giấy nhưng xấu thanh khoản thì hoãn. Ảo tưởng đắt hơn cơ hội lỡ — bài học ông trả giá từ những năm đầu.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 32, lớp 1, nhịp 19.)
+Năm 1985, thời bao cấp còn đọng phiếu và hàng hiếm, mỗi giao dịch nhỏ cũng mang mùi thận trọng. Trong bối cảnh ấy, nước cờ hôm nay vừa phòng thủ vừa mở đường — miễn là sổ còn sạch và người còn đứng.
 
-Năm 1984, bối cảnh thị trường đổi; “Sản xuất thực phẩm” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 32, lớp 1, nhịp 20.)
+Có khoảnh khắc ông muốn ôm đồm như xưa. Rồi nhìn Lan và đội ngũ, ông buông đúng phần. Ủy thác không phải bỏ mặc: là tin và kiểm có nhịp.
 
-Hùng đi hiện trường “Sản xuất thực phẩm” ở Khu công nghiệp: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 32, lớp 1, nhịp 21.)
+Phần thưởng hệ thống có thể chờ. Người đang chờ lương, chờ hàng, chờ câu trả lời thì không thể chờ văn chương quản trị.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 32, lớp 1, nhịp 22.)
+Truyền thông nội bộ một trang chặn tin đồn trước khi nó nở. Coi người như người lớn thì họ làm như người lớn. Coi người như trẻ con thì họ sẽ thì thầm sau lưng.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 32, lớp 1, nhịp 23.)
+Cuối ngày đèn còn sáng một dãy bàn. Ông tắt dãy đó sau khi chắc ai cũng về được nhà. Việc quan trọng không biến thành văn hóa thức khuya khoe mẽ.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Sản xuất thực phẩm” sạch và đủ. (Chương 32, lớp 1, nhịp 24.)
+Ông nhớ lần đầu bán hàng run tay năm 1983. Cảm giác ấy giúp ông không biến mốc hôm nay thành trò chơi danh vọng.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 32, lớp 1, nhịp 25.)
+Ca đêm được hỏi ăn gì, có xe về không, ghế chờ mưa đã đủ chưa. Chi tiết không lên báo. Chi tiết lên lương tâm.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 32, lớp 2, nhịp 33.)
+Bà Hà trong khung ảnh / trong giọng nói chỉ hỏi ăn chưa. Hùng mỉm cười một mình: quản trị đế chế bắt đầu từ câu hỏi ấy.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 32, lớp 2, nhịp 34.)
+### Các nhịp hiện trường
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Sản xuất thực phẩm” có đà tại Khu công nghiệp. (Chương 32, lớp 2, nhịp 35.)
+Nhịp 1 trong ngày tại Khu công nghiệp: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 32, lớp 2, nhịp 36.)
+Nhịp 2 trong ngày tại Khu công nghiệp: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 32, lớp 2, nhịp 37.)
+Nhịp 3 trong ngày tại Khu công nghiệp: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-“Sản xuất thực phẩm” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 32, lớp 2, nhịp 39.)
+Nhịp 4 trong ngày tại Khu công nghiệp: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 32, lớp 2, nhịp 40.)
+Nhịp 5 trong ngày tại Khu công nghiệp: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Trong 7 ngày đầu, 2 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 32, lớp 2, nhịp 42.)
+Nhịp 6 trong ngày tại Khu công nghiệp: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 32, lớp 2, nhịp 43.)
+Nhịp 7 trong ngày tại Khu công nghiệp: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 32, lớp 2, nhịp 44.)
+Nhịp 8 trong ngày tại Khu công nghiệp: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Năm 1984, bối cảnh thị trường đổi; “Sản xuất thực phẩm” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 32, lớp 2, nhịp 45.)
+Nhịp 9 trong ngày tại Khu công nghiệp: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 32, lớp 2, nhịp 47.)
+Nhịp 10 trong ngày tại Khu công nghiệp: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 32, lớp 2, nhịp 48.)
+Nhịp 11 trong ngày tại Khu công nghiệp: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Sản xuất thực phẩm” sạch và đủ. (Chương 32, lớp 2, nhịp 49.)
+Nhịp 12 trong ngày tại Khu công nghiệp: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 32, lớp 2, nhịp 50.)
+### Khép
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 32, lớp 3, nhịp 58.)
+Ngày ở Khu công nghiệp năm 1985 có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước là “Mở rộng thực phẩm”. Ông không hứa dễ — chỉ hứa không quên gốc làng Thanh Xuân và bát cháo năm ấy.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 32, lớp 3, nhịp 59.)
+Thêm một lớp quan sát 1 trong ngày tại Khu công nghiệp năm 1985: Hùng dừng lại với thợ cả, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 32-1 được để trong sổ da, không để trong bài diễn văn.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Sản xuất thực phẩm” có đà tại Khu công nghiệp. (Chương 32, lớp 3, nhịp 60.)
+Thêm một lớp quan sát 2 trong ngày tại Khu công nghiệp năm 1985: Hùng dừng lại với kế toán, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 32-2 được để trong sổ da, không để trong bài diễn văn.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 32, lớp 3, nhịp 61.)
+Thêm một lớp quan sát 3 trong ngày tại Khu công nghiệp năm 1985: Hùng dừng lại với tài xế, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 32-3 được để trong sổ da, không để trong bài diễn văn.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 32, lớp 3, nhịp 62.)
-
-“Sản xuất thực phẩm” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 32, lớp 3, nhịp 64.)
-
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 32, lớp 3, nhịp 65.)
-
-Trong 7 ngày đầu, 2 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 32, lớp 3, nhịp 67.)
-
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 32, lớp 3, nhịp 68.)
-
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 32, lớp 3, nhịp 69.)
-
-Năm 1984, bối cảnh thị trường đổi; “Sản xuất thực phẩm” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 32, lớp 3, nhịp 70.)
-
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 32, lớp 3, nhịp 72.)
-
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 32, lớp 3, nhịp 73.)
-
-Phía trước việc lớn hơn; hôm nay chỉ cần “Sản xuất thực phẩm” sạch và đủ. (Chương 32, lớp 3, nhịp 74.)
-
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 32, lớp 3, nhịp 75.)
-
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 32, lớp 4, nhịp 83.)
-
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 32, lớp 4, nhịp 84.)
-
-Ghi nhận bổ sung 1 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 2 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 3 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 4 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 5 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 6 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 7 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 8 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 9 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 10 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 11 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 12 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 13 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 14 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 15 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 16 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 17 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 18 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 19 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 20 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 21 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 22 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
-
-Ghi nhận bổ sung 23 — “Sản xuất thực phẩm” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 32.
+Thêm một lớp quan sát 4 trong ngày tại Khu công nghiệp năm 1985: Hùng dừng lại với thủ kho, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 32-4 được để trong sổ da, không để trong bài diễn văn.
 
 ============================================================
-(3007 từ)
+(3034 từ)

@@ -1,236 +1,137 @@
+============================================================
 Chương 20: Sản xuất giày dép
+============================================================
 
 ### Mở
 
-Không banner. Chỉ việc “Sản xuất giày dép” và người chịu hậu quả nếu làm ẩu. Khu công nghiệp, 1983.
+Lan để sẵn ba bút màu. Đỏ là việc chết. Vàng là việc gấp. Xanh là việc được. Nhịp riêng chương 20.
 
-Ông nhắc: tốc độ không đè chất lượng, chất lượng không đè con người.
+Nếu chỉ làm đúng một việc, ông chọn đúng với người.
 
-Giày dép — ngành mới. Mùi da, keo, phom. “Sản xuất giày dép” kéo Hùng vào chi tiết từng mũi chỉ như từng dòng code xưa.
+### Dấu vết đã có
 
-### Diễn biến đã xác lập
+### Mở Không banner. Chỉ việc “Sản xuất giày dép” và người chịu hậu quả nếu làm ẩu. Khu công nghiệp, 1983. Ông nhắc: tốc độ không đè chất lượng, chất lượng không đè con người. Giày dép — ngành mới. Mùi da, keo, phom. “Sản xuất giày dép” kéo Hùng vào chi tiết từng mũi chỉ như từng dòng code xưa. ### Diễn biến đã xác lập Ngày thứ ba mươi lăm. Cửa hàng Thương Gia hoạt động ổn định — mỗi ngày bán 300-500 đồng, Lan trông cửa hàng, bà Xuân trông kho, Hùng đi mở rộng. Xưởng may cũng ổn — 100 bộ lô thứ hai đang may, bà Phượng quản lý, năm máy khâu (mua thêm hai máy cũ 200 đồng), năm thợ. Lan đến xưởng mỗi sáng, học may và quản lý, chiều về cửa hàng bán hàng. Cô bận rộn — nhưng phấn khích. Cô đang trở thành người quản lý thật sự. Hôm nay, Hùng mở rộng ngành sản xuất — giày dép. Quần áo đã ổn định, nhưng giày dép là thị trường mới. Trong thời bao cấp, giày dép khan hiếm — người dân mặc dép lốp, dép cao su, giày vải tự may. Giày da, giày công nghiệp là xa xỉ — chỉ cán bộ hoặc người có đặc quyền mới có. Hùng muốn sản xuất giày dép giá rẻ, chất lượng tốt, cho người dân. Nhưng sản xuất giày khác sản xuất quần áo — cần nguyên liệu khác (da, cao su, keo), máy móc khác (may da, ép đế), và thợ khác (thợ giày). Hùng cần tìm thợ giày và nguyên liệu. Ông đi Hà Nội, đến khu phố Hàng Lược — phố có truyền thống làm giày. Ở đây, có vài xưởng giày nhỏ, thợ giày lành nghề. Hùng hỏi thăm, tìm thấy ông Tường — thợ giày năm mươi tuổi, làm giày cả đời, có xưởng nhỏ ở nhà. "Ông Tường, cháu muốn sản xuất giày dép." Hùng nói, ngồi trong xưởng nhỏ của ông. "Cháu bỏ vốn, ông làm giày. Giày da nam, giày vải, dép cao su — 50 đôi/lô. Công bao nhiêu?" Ông Tường nhìn Hùng, đánh giá. Ông là thợ giày lành nghề — tay chai sạn, mắt tinh, đánh giá da và cao su bằng sờ và ngửi. "50 đôi thì... giày da khó hơn giày vải. Giày da: 20 đôi, công 25 đồng/đôi. Giày vải: 20 đôi, công 15 đồng/đôi. Dép cao su: 10 đôi, công 10 đồng/đôi. Tổng công: 500 + 300 + 100 = 900 đồng." Hùng tính nhẩm. Kỹ năng thương mại lv4 và sản xuất lv2 tự động kích hoạt: - Giày da: nguyên liệu (da, keo, chỉ) khoảng 20 đồng/đôi → vốn 40 đồng/đôi → bán 60 đồng/đôi → lãi 20 đồng/đôi - Giày vải: nguyên liệu (vải, cao su, chỉ) khoảng 10 đồng/đôi → vốn 25 đồng/đôi → bán 40 đồng/đôi → lãi 15 đồng/đôi - Dép cao su: nguyên liệu (cao su, keo)
 
-Ngày thứ ba mươi lăm. Cửa hàng Thương Gia hoạt động ổn định — mỗi ngày bán 300-500 đồng, Lan trông cửa hàng, bà Xuân trông kho, Hùng đi mở rộng.
+### Cảnh chính
 
-Xưởng may cũng ổn — 100 bộ lô thứ hai đang may, bà Phượng quản lý, năm máy khâu (mua thêm hai máy cũ 200 đồng), năm thợ. Lan đến xưởng mỗi sáng, học may và quản lý, chiều về cửa hàng bán hàng. Cô bận rộn — nhưng phấn khích. Cô đang trở thành người quản lý thật sự.
+Hiện trường Làng Thanh Xuân / Quốc Oai năm 1983 có mùi dầu máy / vải / kim loại — tùy chuyền. Hùng đi chậm, dừng ở chỗ tai nghe tiếng lạ. “Danh dự mất bắt đầu từ milimét,” ông nói với tổ trưởng. Kinh doanh muốn xuất sớm để kịp quý bị chặn.
 
-Hôm nay, Hùng mở rộng ngành sản xuất — giày dép. Quần áo đã ổn định, nhưng giày dép là thị trường mới. Trong thời bao cấp, giày dép khan hiếm — người dân mặc dép lốp, dép cao su, giày vải tự may. Giày da, giày công nghiệp là xa xỉ — chỉ cán bộ hoặc người có đặc quyền mới có. Hùng muốn sản xuất giày dép giá rẻ, chất lượng tốt, cho người dân.
+Lan lo sau bán và phụ tùng. bà Nguyễn Thị Hà, công nhân xưởng, bác sĩ Tuấn ghi chép, tranh luận kỹ thuật. Việc hôm nay không phải bán cho xong — là bán sự yên tâm còn lại sau khi khách mang hàng về nhà.
 
-Nhưng sản xuất giày khác sản xuất quần áo — cần nguyên liệu khác (da, cao su, keo), máy móc khác (may da, ép đế), và thợ khác (thợ giày). Hùng cần tìm thợ giày và nguyên liệu.
+### Buổi sáng
 
-Ông đi Hà Nội, đến khu phố Hàng Lược — phố có truyền thống làm giày. Ở đây, có vài xưởng giày nhỏ, thợ giày lành nghề. Hùng hỏi thăm, tìm thấy ông Tường — thợ giày năm mươi tuổi, làm giày cả đời, có xưởng nhỏ ở nhà.
+Trời Làng Thanh Xuân / Quốc Oai năm 1983 chưa kịp sáng hẳn. Hùng đến sớm hơn lịch họp. Ông không mở slide trước. Ông đi một vòng, chào trưởng phòng bán hàng, hỏi một câu cụ thể: ca qua có ốm không.
 
-"Ông Tường, cháu muốn sản xuất giày dép." Hùng nói, ngồi trong xưởng nhỏ của ông. "Cháu bỏ vốn, ông làm giày. Giày da nam, giày vải, dép cao su — 50 đôi/lô. Công bao nhiêu?"
+Tiếng gõ bàn phím dồn dập bám lấy ông như lời nhắc: đây là đời sống, không phải mô hình trên giấy. Lan đã để sẵn ba tờ giấy: phải làm / không được làm / ai chịu. Hùng viết thêm một dòng bằng tay: “Không dối.”
 
-Ông Tường nhìn Hùng, đánh giá. Ông là thợ giày lành nghề — tay chai sạn, mắt tinh, đánh giá da và cao su bằng sờ và ngửi. "50 đôi thì... giày da khó hơn giày vải. Giày da: 20 đôi, công 25 đồng/đôi. Giày vải: 20 đôi, công 15 đồng/đôi. Dép cao su: 10 đôi, công 10 đồng/đôi. Tổng công: 500 + 300 + 100 = 900 đồng."
+### Va chạm
 
-Hùng tính nhẩm. Kỹ năng thương mại lv4 và sản xuất lv2 tự động kích hoạt:
-- Giày da: nguyên liệu (da, keo, chỉ) khoảng 20 đồng/đôi → vốn 40 đồng/đôi → bán 60 đồng/đôi → lãi 20 đồng/đôi
-- Giày vải: nguyên liệu (vải, cao su, chỉ) khoảng 10 đồng/đôi → vốn 25 đồng/đôi → bán 40 đồng/đôi → lãi 15 đồng/đôi
-- Dép cao su: nguyên liệu (cao su, keo) khoảng 5 đồng/đôi → vốn 15 đồng/đôi → bán 25 đồng/đôi → lãi 10 đồng/đôi
+Xung đột “thiếu vốn ngắn hạn” đến đúng lúc việc vừa có đà. Một tin đồn chạy trước sự thật. 
 
-Tổng vốn: 50 đôi × 40 + 50 × 25 + 50 × 15 = ... không, 50 đôi tổng (20 da + 20 vải + 10 dép).
-- Giày da: 20 × 40 = 800 đồng vốn, 20 × 60 = 1.200 đồng doanh thu, lãi 400 đồng
-- Giày vải: 20 × 25 = 500 đồng vốn, 20 × 40 = 800 đồng doanh thu, lãi 300 đồng
-- Dép cao su: 10 × 15 = 150 đồng vốn, 10 × 25 = 250 đồng doanh thu, lãi 100 đồng
-- Tổng vốn: 1.450 đồng, tổng doanh thu: 2.250 đồng, lãi: 800 đồng (55%)
+Hùng không lớn tiếng. Ông yêu cầu quy trình một trang lên bảng: sự thật, việc cần làm, kênh hỏi. Ai nhận lỗi để sửa được bảo vệ; ai giấu lỗi để giữ mặt sẽ bị xử. Lan đứng về phía quy trình — không phải cứng đầu, để đỡ anh khi áp lực muốn kéo lệch.
 
-800 đồng lãi — từ một lô giày. Tốt hơn lô quần áo đầu tiên (630 đồng). Giày dép lợi nhuận cao hơn vì hàng khan hiếm hơn, giá bán cao hơn.
+Quyết định trong ngày: giữ lương cốt lõi, cắt chi hoa hòe. Không hứa nóng. Có hạn. Có tên người.
 
-"Được." Hùng nói. "Cháu cung cấp nguyên liệu, ông làm giày. 50 đôi trong 15 ngày. Công 900 đồng, trả khi nhận hàng."
+### Việc cụ thể
 
-Ông Tường gật đầu. "Được. Nhưng tôi cần thêm hai thợ — một mình tôi không kịp. 50 đôi trong 15 ngày thì cần ba người."
+Trong 6 ngày xoay quanh mốc này, đội ngũ bóc 3 nút thắt. Không phải 60 cuộc họp dài — là 60 quyết định ngắn có chủ sở hữu. Một lỗi lặp bị chặn từ gốc. Một quy trình viết lại bằng lời thợ cũng hiểu: bước làm, ngưỡng dừng, tên người chịu.
 
-"Cháu trả thêm 15 đồng/đôi cho hai thợ phụ. Tổng công: 900 + 300 = 1.200 đồng."
+Lan cập nhật bằng việc đã xong, không bằng tính từ. Hùng khen đúng việc, không khen lấy lệ. bà Nguyễn Thị Hà, công nhân xưởng, bác sĩ Tuấn được gọi tên khi đóng góp. Người im lặng làm đúng cũng được nhìn thấy — nếu không, văn hóa sẽ chỉ nuôi người khéo nói.
 
-"Được." Ông Tường bắt tay Hùng. "Cậu giao nguyên liệu, tôi bắt đầu."
-
-Hùng mua nguyên liệu ở Hà Nội:
-- Da: 20 đôi × 0.5m² × 15 đồng/m² = 150 đồng
-- Vải (cho giày vải): 20 đôi × 0.5m × 4 đồng/m = 40 đồng
-- Cao su: 30 đôi × 0.3kg × 10 đồng/kg = 90 đồng
-- Keo, chỉ, phụ liệu: 100 đồng
-Tổng nguyên liệu: 380 đồng
-
-「Nhiệm vụ mới: Sản xuất giày dép
-- Mục tiêu: Sản xuất 50 đôi giày dép trong 15 ngày
-- Phần thưởng: 120 EXP, kỹ năng Sản xuất giày lv1
-- Thời hạn: 15 ngày」
-
-Hùng giao nguyên liệu cho ông Tường, rồi về. Trên đường về, ông suy nghĩ — giày dép là ngành thứ hai sau quần áo. Nếu thành công, ông sẽ mở rộng: sản xuất túi xách, sản xuất mũ nón, sản xuất thắt lưng. Đa dạng sản phẩm, đa dạng nguồn thu.
-
----
-
-Về đến nhà, trời chiều. Bà Hà ngồi ở hiên, khỏe mạnh, đọc sách. Bà Xuân ở bếp nấu cơm. Lan ở cửa hàng, bán hàng chiều.
-
-" Bà ơi, cháu mở rộng sản xuất — giày dép." Hùng nói, ngồi cạnh bà.
-
-Bà Hà nhìn cháu, gật đầu. "Giày dép à? Bố cậu hồi trước cũng bán giày dép — dép lốp, dép cao su, bán ở chợ huyện. Ông ấy nói giày dép là hàng cần — ai cũng phải đi giày."
-
-Hùng nghe, im lặng. Bà lại nhắc cha — người cha ông chưa từng gặp. Mỗi lần bà nhắc, ông lại muốn tìm cách đưa cha về. Nhưng cha đang trong trại cải tạo, không có tin tức, và ông không biết bắt đầu từ đâu. Có lẽ khi ông đủ lớn, đủ quan hệ, ông sẽ hỏi cán bộ cấp cao — nhưng đó là tương lai xa.
-
-"Bà, cháu sẽ sản xuất giày dép tốt hơn cha." Hùng nói, mỉm cười. "Giày da, giày vải, dép cao su — chất lượng tốt, giá rẻ. Ai cũng có giày đi."
-
-Bà Hà cười. "Tốt. Làm đi, con. Bà tin cháu."
-
-Bữa tối: cơm trắng, thịt lợn xào, canh cua, dưa muối. Ngon, no. Bà Hà ăn hai bát — khỏe mạnh. Lan ăn ba bát — bận rộn cả ngày, đói. Hùng ăn ba bát — cần năng lượng.
-
-Sau bữa tối, Hùng ngồi ngoài sân, kiểm tra tài chính:
-- Tiền ngoài: 6.221 (ngày 30) + 1.500 (bán hàng 5 ngày × 300đ) - 380 (nguyên liệu giày) - 200 (2 máy khâu) = 7.141 đồng
-- Tiền trong không gian: 10.000 đồng
-- EXP: 1.205
-- Không gian: 1.700m²
-- Cửa hàng: 1 (hoạt động ổn định)
-- Xưởng: 2 (may 100 bộ, giày 50 đôi đang làm)
-- Đại lý: 6
-- Nhân sự: 8 (bà Xuân, bà Phượng, 4 thợ may, ông Tường + 2 thợ giày)
-
-7.141 đồng. Hùng mỉm cười — ông đang tiến đều. Cửa hàng bán hàng mỗi ngày, xưởng sản xuất, đại lý giao sỉ. Nhiều dòng tiền, nhiều nguồn thu.
-
-Hùng vào không gian, ngồi bên suối. Nước chảy róc rách, trăng sáng qua cửa sổ nhà gỗ. Ông suy nghĩ về lộ trình tiếp theo:
-
-Tuần 6 (ngày 36-42): Hoàn thành 100 bộ quần áo, bán, giao đại lý
-Tuần 7 (ngày 43-49): Hoàn thành 50 đôi giày, bán, mở rộng
-Tuần 8 (ngày 50-56): Mua đất, xây xưởng riêng, mở thêm cửa hàng
-
-Phần 1 cần: 8 cửa hàng, 4 nhà hàng, 7 xưởng, 15 mảnh đất. Hiện tại: 1 cửa hàng, 0 nhà hàng, 2 xưởng (may + giày đang làm), 0 mảnh đất. Còn xa — nhưng ông đang tiến.
-
-Hùng thoát không gian, nằm xuống giường. Ngoài sân, trăng khuyết, gió lạnh. Bà Hà ngủ ngon. Lan ngủ, tay ôm cuốn sách may.
-
-Hùng nhắm mắt. Ba mươi lăm ngày. Từ tỉnh dậy trong căn nhà dột rách đến 7.141 đồng, một cửa hàng, hai xưởng, sáu đại lý, năm kỹ năng. Ba mươi lăm ngày — và ông mới chỉ bắt đầu.
-
-Còn hai mươi lăm ngày nữa để hoàn thành Phần 1. Nhưng ông không sợ — ông đang tiến lên, đều đặn, chắc chắn.
-
-Hành trình tiếp tục.
-
-### Lớp sâu
-
-### Sàn sản xuất
-
-“Sản xuất giày dép” tại Làng Thanh Xuân, Quốc Oai năm 1983: máy, ca, sai số. Hùng đi chậm. Lỗi thì dừng đúng quy trình. Kinh doanh muốn xuất sớm bị chặn. Danh dự bắt đầu từ milimet và mũi chỉ.
-
-### Thử nhỏ
-
-Bên ngoài muốn “linh hoạt” quy trình. Thương Gia từ chối. Linh hoạt sai chỗ là lỗ uy tín.
-
-### Kết quả
-
-“Sản xuất giày dép” (1983): có biên bản; ~110 người liên quan được phổ biến thay đổi; rủi ro có chủ sở hữu. Lan xem vàng; Hùng xem đỏ.
-
-「1983 | Sản xuất giày dép | EXP +50 | người – sổ – uy tín」
-
-### Nhà
-
-Mâm cơm 1983. “Sản xuất giày dép” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-### Khép
-
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Mở rộng làm giày”.
-
-“Sản xuất giày dép” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Làng Thanh Xuân, Quốc Oai và thế giới.
+Chỉ số theo dõi tuần: tiến độ 2 mốc; phản hồi khách/thợ được đọc to 2 lần; quỹ thời gian cho hiện trường không bị họp nuốt. EXP hệ thống có thể cộng 110, nhưng ông không làm việc vì con số nhấp nháy.
 
 ### Thoại
 
-Tổ trưởng: “Chỗ này máy kêu lạ.”
-Hùng: “Dừng đúng quy trình. Cảm ơn đã không chạy thành tích.”
+Đối tác: “Cam kết đi, ông Hùng.”
+Hùng: “Cam kết bằng điều khoản và hạn. Không cam kết bằng miệng cho nóng bàn.”
+Lan đẩy bản nháp đã soạn. Việc thắng cảm xúc.
 
-### Lớp hiện trường & sổ sách
+### Nhà
 
-Tại Khu công nghiệp năm 1983, Hùng chia “Sản xuất giày dép” thành việc hiện trường, sổ sách, khách và người. Lan giữ nhịp bảng việc–người–hạn. (Chương 20, lớp 1, nhịp 1.)
+Đêm 1983, mâm cơm không chức danh. Bà Hà để phần ngon cho cháu; Hùng nhẹ nhàng gắp lại cho bà. Lan dịch việc ngày thành câu bà hiểu — không giọng họp trên mâm.
 
-Xung đột “thiếu vốn ngắn hạn” được gọi tên ngay trong họp, không để thì thầm hành lang. Ai muốn đi tắt bị trả về quy trình. (Chương 20, lớp 1, nhịp 2.)
+Hùng kể một mẩu việc bằng lời bình dân, bỏ hết từ hoa mỹ. Bà Hà (hoặc ký ức bà) chỉ cần biết cháu còn ăn, còn về, còn thương người. Nhà vẫn là nơi ông trả lại hình hài con người sau ngày dài ở Làng Thanh Xuân / Quốc Oai.
 
-Cảm xúc chủ đạo là tự hào thầm lặng, nhưng ông không để cảm xúc thay biên bản. Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, công nhân xưởng cùng chịu trách nhiệm từng mảng. (Chương 20, lớp 1, nhịp 3.)
+### Hệ thống
 
-Một phản hồi thật từ khách/thợ/đối tác được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng hạn đã giữ. (Chương 20, lớp 1, nhịp 4.)
+「Năm 1983 | Tiến độ liên quan: Sản xuất giày dép
+- Ghi nhận: lớp việc trong ngày hoàn thành có kiểm chứng
+- Thưởng: +140 EXP | Cột mốc 10 chương — +EXP, mở rộng không gian
+- Gợi ý: giữ người – giữ sổ – giữ uy tín」
 
-Bà Hà không cần slide; Lan dịch việc thành câu bà nắm được. Nhà vẫn là nơi Hùng trả hình hài con người. (Chương 20, lớp 1, nhịp 7.)
+Hùng đọc xong rồi tắt. Thước đo hữu ích — không phải ông chủ trong đầu. Việc ngoài đời ồn và thật hơn bất kỳ dòng chữ phát sáng nào.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 20, lớp 1, nhịp 8.)
+### Lớp sâu trong ngày
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 20, lớp 1, nhịp 9.)
+Một cải tiến nhỏ từ bảo vệ cổng được khen công khai. Cải tiến nhỏ được nhìn thấy sẽ đẻ cải tiến vừa. Văn hóa không sống bằng khẩu hiệu — sống bằng việc được thấy.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Sản xuất giày dép” có đà tại Khu công nghiệp. (Chương 20, lớp 1, nhịp 10.)
+Hùng yêu cầu mọi cam kết lớn phải có tên người chịu và hạn. Bắt tay không thay chữ ký. Nụ cười không thay điều khoản.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 20, lớp 1, nhịp 11.)
+Bà Hà trong khung ảnh / trong giọng nói chỉ hỏi ăn chưa. Hùng mỉm cười một mình: quản trị đế chế bắt đầu từ câu hỏi ấy.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 20, lớp 1, nhịp 12.)
+Mùi mực in biên bản lúc tan ca kéo ông nhớ bát cháo năm 1983. Nhớ không phải để tự thương. Nhớ để không biến thành kẻ chỉ nhìn số.
 
-“Sản xuất giày dép” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 20, lớp 1, nhịp 14.)
+Ông từ chối một đề xuất “linh hoạt” sai chỗ. Linh hoạt đúng là thích ứng. Linh hoạt sai là lỗ uy tín trả góp.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 20, lớp 1, nhịp 15.)
+Phần thưởng hệ thống có thể chờ. Người đang chờ lương, chờ hàng, chờ câu trả lời thì không thể chờ văn chương quản trị.
 
-Trong 7 ngày đầu, 2 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 20, lớp 1, nhịp 17.)
+Ông nhớ lần đầu bán hàng run tay năm 1983. Cảm giác ấy giúp ông không biến mốc hôm nay thành trò chơi danh vọng.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 20, lớp 1, nhịp 18.)
+Cuối ngày đèn còn sáng một dãy bàn. Ông tắt dãy đó sau khi chắc ai cũng về được nhà. Việc quan trọng không biến thành văn hóa thức khuya khoe mẽ.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 20, lớp 1, nhịp 19.)
+Đối thủ chơi chiêu nóng. Thương Gia đáp bằng hàng/dịch vụ đúng mẫu và hợp đồng rõ. Không đua đáy. Giữ chuẩn là giữ tên.
 
-Năm 1983, bối cảnh thị trường đổi; “Sản xuất giày dép” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 20, lớp 1, nhịp 20.)
+Lan phản biện một điểm trong phương án. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm lớn.
 
-Hùng đi hiện trường “Sản xuất giày dép” ở Khu công nghiệp: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 20, lớp 1, nhịp 21.)
+Chiều tà ở Làng Thanh Xuân / Quốc Oai, ông đứng nhìn hàng ghế phòng họp trống. Mỗi điểm trên đó là người thật. Ông gỡ một việc đã xong khỏi đầu như gỡ một bao gạo — nhẹ hơn, nhưng không được phép kiêu.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 20, lớp 1, nhịp 22.)
+Có khoảnh khắc ông muốn ôm đồm như xưa. Rồi nhìn Lan và đội ngũ, ông buông đúng phần. Ủy thác không phải bỏ mặc: là tin và kiểm có nhịp.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 20, lớp 1, nhịp 23.)
+Hùng kiểm tra lại một con số đẹp. Đẹp mà không truy xuất nguồn thì chưa phải đẹp. Ông trả số về cho đúng tay chịu trách nhiệm.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Sản xuất giày dép” sạch và đủ. (Chương 20, lớp 1, nhịp 24.)
+Ca đêm được hỏi ăn gì, có xe về không, ghế chờ mưa đã đủ chưa. Chi tiết không lên báo. Chi tiết lên lương tâm.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 20, lớp 1, nhịp 25.)
+Trước khi ngủ ông viết sổ da bốn dòng: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không vỡ thành hỗn độn.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 20, lớp 2, nhịp 33.)
+Năm 1983, thời bao cấp còn đọng phiếu và hàng hiếm, mỗi giao dịch nhỏ cũng mang mùi thận trọng. Trong bối cảnh ấy, nước cờ hôm nay vừa phòng thủ vừa mở đường — miễn là sổ còn sạch và người còn đứng.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 20, lớp 2, nhịp 34.)
+### Các nhịp hiện trường
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Sản xuất giày dép” có đà tại Khu công nghiệp. (Chương 20, lớp 2, nhịp 35.)
+Nhịp 1 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 20, lớp 2, nhịp 36.)
+Nhịp 2 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 20, lớp 2, nhịp 37.)
+Nhịp 3 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-“Sản xuất giày dép” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 20, lớp 2, nhịp 39.)
+Nhịp 4 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 20, lớp 2, nhịp 40.)
+Nhịp 5 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Trong 7 ngày đầu, 2 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 20, lớp 2, nhịp 42.)
+Nhịp 6 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 20, lớp 2, nhịp 43.)
+Nhịp 7 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 20, lớp 2, nhịp 44.)
+Nhịp 8 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Năm 1983, bối cảnh thị trường đổi; “Sản xuất giày dép” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 20, lớp 2, nhịp 45.)
+Nhịp 9 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 20, lớp 2, nhịp 47.)
+Nhịp 10 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 20, lớp 2, nhịp 48.)
+Nhịp 11 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Sản xuất giày dép” sạch và đủ. (Chương 20, lớp 2, nhịp 49.)
+Nhịp 12 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 20, lớp 2, nhịp 50.)
+### Khép
 
-Ghi nhận bổ sung 1 — “Sản xuất giày dép” (1983, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 20.
+Ngày ở Làng Thanh Xuân / Quốc Oai năm 1983 có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước là “Mở rộng làm giày”. Ông không hứa dễ — chỉ hứa không quên gốc làng Thanh Xuân và bát cháo năm ấy.
 
-Ghi nhận bổ sung 2 — “Sản xuất giày dép” (1983, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 20.
+Thêm một lớp quan sát 1 trong ngày tại Làng Thanh Xuân / Quốc Oai năm 1983: Hùng dừng lại với thợ cả, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 20-1 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 3 — “Sản xuất giày dép” (1983, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 20.
+Thêm một lớp quan sát 2 trong ngày tại Làng Thanh Xuân / Quốc Oai năm 1983: Hùng dừng lại với kế toán, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 20-2 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 4 — “Sản xuất giày dép” (1983, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 20.
+Thêm một lớp quan sát 3 trong ngày tại Làng Thanh Xuân / Quốc Oai năm 1983: Hùng dừng lại với tài xế, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 20-3 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 5 — “Sản xuất giày dép” (1983, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 20.
-
-Ghi nhận bổ sung 6 — “Sản xuất giày dép” (1983, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 20.
-
-Ghi nhận bổ sung 7 — “Sản xuất giày dép” (1983, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 20.
-
-Ghi nhận bổ sung 8 — “Sản xuất giày dép” (1983, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 20.
-
-Ghi nhận bổ sung 9 — “Sản xuất giày dép” (1983, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 20.
-
-Ghi nhận bổ sung 10 — “Sản xuất giày dép” (1983, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 20.
-
-Ghi nhận bổ sung 11 — “Sản xuất giày dép” (1983, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 20.
-
-Ghi nhận bổ sung 12 — “Sản xuất giày dép” (1983, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 20.
+Thêm một lớp quan sát 4 trong ngày tại Làng Thanh Xuân / Quốc Oai năm 1983: Hùng dừng lại với thủ kho, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 20-4 được để trong sổ da, không để trong bài diễn văn.
 
 ============================================================
-(3029 từ)
+(3083 từ)

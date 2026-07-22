@@ -1,233 +1,139 @@
+============================================================
 Chương 77: Hoàn thành nhiệm vụ đào tạo
+============================================================
 
 ### Mở
 
-Gió mang mùi đời sống qua Seoul. “Hoàn thành nhiệm vụ đào tạo” bắt đầu bằng hiện trường trước slide.
+Một biên bản để ngược. Ông lật lại. Chi tiết nhỏ hay là chỗ thủng. (Mở riêng ch.77.)
 
-Thị trường ồn; ông giữ nhịp thở đều như thợ siết bu lông.
+Ông nhắc mình: tốc độ không đè người.
 
-Hoàn đào tạo. “Hoàn thành nhiệm vụ đào tạo” người ra nghề có chỗ làm trong hệ thống — không đào tạo bỏ rơi.
+### Dấu vết đã có
 
-### Diễn biến đã xác lập
+### Mở Gió mang mùi đời sống qua Seoul. “Hoàn thành nhiệm vụ đào tạo” bắt đầu bằng hiện trường trước slide. Thị trường ồn; ông giữ nhịp thở đều như thợ siết bu lông. Hoàn đào tạo. “Hoàn thành nhiệm vụ đào tạo” người ra nghề có chỗ làm trong hệ thống — không đào tạo bỏ rơi. ### Diễn biến đã xác lập Tháng 6 năm 1994. Trung tâm đào tạo Thương Gia đạt mục tiêu — 5.000 người/năm, 82% có việc làm sau đào tạo. Hùng ngồi trong văn phòng, nghe ông Thắng báo cáo. "Anh Hùng, trung tâm đào tạo 1993-1994: - 5.200 người đào tạo (vượt mục tiêu 5.000) - 3.600 đối ngoại (học phí) + 1.600 nội bộ (miễn phí) - 82% có việc làm sau đào tạo (vượt mục tiêu 80%) - Doanh thu học phí: 800.000 đồng/năm - Chi phí: 500.000 đồng (lương giảng viên, máy móc, điện nước) - Lãi: 300.000 đồng/năm (25.000 đồng/tháng) - Ngành đào tạo: may (1.000), cơ khí (500), nấu ăn (800), tin học (1.200), ngoại ngữ (1.000), quản lý (700)" Hùng gật đầu — 300.000 đồng lãi/năm, không nhiều so với ngân hàng hay sản xuất. Nhưng giá trị xã hội — 4.264 người có việc làm (82% × 5.200). 4.264 cuộc đời thay đổi — từ không kỹ năng đến có việc, có lương, có tương lai. "Ông Thắng, em làm tốt — 82% có việc làm, vượt mục tiêu. Em tiếp tục — mở rộng, nâng cao chất lượng. Mục tiêu 1995: 8.000 người/năm, 90% có việc làm." Ông Thắng gật đầu. "Em sẽ mở rộng — thêm 10 phòng, thêm giảng viên. Và em sẽ liên kết — với doanh nghiệp khác, đặt hàng đào tạo. Doanh nghiệp cần nhân sự — Thương Gia đào tạo. Win-win." 「Nhiệm vụ hoàn thành: Trung tâm đào tạo 5.000 người/năm - 5.200 người ✓, 82% có việc làm ✓ - Phần thưởng: +250 EXP, Kỹ năng Đào tạo lv2 - Tổng EXP: 16.690」 「Kỹ năng Đào tạo cấp 2: Thiết kế khóa học nâng cao, giảng dạy nâng cao, đánh giá học viên nâng cao, phát triển chương trình đào tạo đa ngành, liên kết doanh nghiệp.」 Đào tạo lv2. Thương Gia — đế chế đào tạo. 5.000 người/năm — 5.000 cơ hội, 5.000 tương lai. Hùng mỉm cười — ông không chỉ thương gia, mà đào tạo gia. Từ bán hàng đến đào tạo — hành trình không ngờ. Nhưng đúng — vì đào tạo là đầu tư nhân lực, là nền tảng phát triển. --- Chiều, Hùng đi thăm cựu học viên — cô Hạnh, học may năm 1993, bây giờ làm xưởng Thương Gia Hà Đông. Cô hai mươi mốt tuổi, thợ may, lương 150 đồng/tháng — gấp ba làm ruộng. Cô ngồi trước máy may — may quần áo Thương Gia, nhanh, đều tay. Đường may thẳng tắp — chuyên nghiệp. Cô đã thạo — 1 năm kinh nghiệm, may 50 bộ/tháng.
 
-Tháng 6 năm 1994. Trung tâm đào tạo Thương Gia đạt mục tiêu — 5.000 người/năm, 82% có việc làm sau đào tạo.
+### Cảnh chính
 
-Hùng ngồi trong văn phòng, nghe ông Thắng báo cáo.
+Cửa ngoài tại Seoul năm 1987 không cần bài diễn văn dài. Cần mẫu hàng, truy xuất, điều khoản phạt trễ, bảo hành. Hùng không hứa điều không làm được. Đối thủ giảm giá — Thương Gia không đua đáy.
 
-"Anh Hùng, trung tâm đào tạo 1993-1994:
-- 5.200 người đào tạo (vượt mục tiêu 5.000)
-- 3.600 đối ngoại (học phí) + 1.600 nội bộ (miễn phí)
-- 82% có việc làm sau đào tạo (vượt mục tiêu 80%)
-- Doanh thu học phí: 800.000 đồng/năm
-- Chi phí: 500.000 đồng (lương giảng viên, máy móc, điện nước)
-- Lãi: 300.000 đồng/năm (25.000 đồng/tháng)
-- Ngành đào tạo: may (1.000), cơ khí (500), nấu ăn (800), tin học (1.200), ngoại ngữ (1.000), quản lý (700)"
+Lan siết phần dịch vụ sau bán. Ông giữ phần văn hóa: cúi đầu đúng lúc, thẳng lưng đúng chỗ. Xung đột “chất lượng lô hàng” được gọi tên trong phòng họp, không mang về thì thầm.
 
-Hùng gật đầu — 300.000 đồng lãi/năm, không nhiều so với ngân hàng hay sản xuất. Nhưng giá trị xã hội — 4.264 người có việc làm (82% × 5.200). 4.264 cuộc đời thay đổi — từ không kỹ năng đến có việc, có lương, có tương lai.
+### Buổi sáng
 
-"Ông Thắng, em làm tốt — 82% có việc làm, vượt mục tiêu. Em tiếp tục — mở rộng, nâng cao chất lượng. Mục tiêu 1995: 8.000 người/năm, 90% có việc làm."
+Trời Seoul năm 1987 nắng sớm gắt. Hùng đến sớm hơn lịch họp. Ông không mở slide trước. Ông đi một vòng, chào đối tác nhỏ tỉnh lẻ, hỏi một câu cụ thể: máy có kêu lạ không.
 
-Ông Thắng gật đầu. "Em sẽ mở rộng — thêm 10 phòng, thêm giảng viên. Và em sẽ liên kết — với doanh nghiệp khác, đặt hàng đào tạo. Doanh nghiệp cần nhân sự — Thương Gia đào tạo. Win-win."
+Tiếng xe nâng lùi có còi bám lấy ông như lời nhắc: đây là đời sống, không phải mô hình trên giấy. Lan đã để sẵn ba tờ giấy: phải làm / không được làm / ai chịu. Hùng viết thêm một dòng bằng tay: “Không dối.”
 
-「Nhiệm vụ hoàn thành: Trung tâm đào tạo 5.000 người/năm
-- 5.200 người ✓, 82% có việc làm ✓
-- Phần thưởng: +250 EXP, Kỹ năng Đào tạo lv2
-- Tổng EXP: 16.690」
+### Va chạm
 
-「Kỹ năng Đào tạo cấp 2: Thiết kế khóa học nâng cao, giảng dạy nâng cao, đánh giá học viên nâng cao, phát triển chương trình đào tạo đa ngành, liên kết doanh nghiệp.」
+Xung đột “chất lượng lô hàng” đến đúng lúc việc vừa có đà. Một tin đồn chạy trước sự thật. 
 
-Đào tạo lv2. Thương Gia — đế chế đào tạo. 5.000 người/năm — 5.000 cơ hội, 5.000 tương lai. Hùng mỉm cười — ông không chỉ thương gia, mà đào tạo gia. Từ bán hàng đến đào tạo — hành trình không ngờ. Nhưng đúng — vì đào tạo là đầu tư nhân lực, là nền tảng phát triển.
+Hùng không lớn tiếng. Ông yêu cầu quy trình một trang lên bảng: sự thật, việc cần làm, kênh hỏi. Ai nhận lỗi để sửa được bảo vệ; ai giấu lỗi để giữ mặt sẽ bị xử. Lan đứng về phía quy trình — không phải cứng đầu, để đỡ anh khi áp lực muốn kéo lệch.
 
----
+Quyết định trong ngày: ủy thác việc vận hành, giữ việc chiến lược. Không hứa nóng. Có hạn. Có tên người.
 
-Chiều, Hùng đi thăm cựu học viên — cô Hạnh, học may năm 1993, bây giờ làm xưởng Thương Gia Hà Đông. Cô hai mươi mốt tuổi, thợ may, lương 150 đồng/tháng — gấp ba làm ruộng.
+### Việc cụ thể
 
-Cô ngồi trước máy may — may quần áo Thương Gia, nhanh, đều tay. Đường may thẳng tắp — chuyên nghiệp. Cô đã thạo — 1 năm kinh nghiệm, may 50 bộ/tháng.
+Trong 8 ngày xoay quanh mốc này, đội ngũ bóc 4 nút thắt. Không phải 99 cuộc họp dài — là 99 quyết định ngắn có chủ sở hữu. Một lỗi lặp bị chặn từ gốc. Một quy trình viết lại bằng lời thợ cũng hiểu: bước làm, ngưỡng dừng, tên người chịu.
 
-"Anh Hùng!" Cô Hạnh thấy Hùng, đứng dậy, vui. "Anh đến thăm em!"
+Lan cập nhật bằng việc đã xong, không bằng tính từ. Hùng khen đúng việc, không khen lấy lệ. bà Nguyễn Thị Hà, kỹ sư Minh, kỹ sư Minh được gọi tên khi đóng góp. Người im lặng làm đúng cũng được nhìn thấy — nếu không, văn hóa sẽ chỉ nuôi người khéo nói.
 
-Hùng mỉm cười. "Em làm tốt không? Lương đủ không? Gia đình thế nào?"
-
-Cô Hạnh cười — nụ cười tươi, hạnh phúc. "Em làm tốt lắm, anh! Lương 150 đồng — em gửi về nhà 100 đồng, để dành 50 đồng. Ba mẹ em — không phải làm ruộng khổ nữa, vì em nuôi. Em xây nhà cho ba mẹ — nhà gạch, 2 phòng. Em... em thay đổi gia đình, nhờ Thương Gia."
-
-Hùng nhìn cô Hạnh, nước mắt lưng tròng. Cô — hai mươi mốt tuổi, nông dân, học may Thương Gia, làm xưởng, nuôi gia đình, xây nhà gạch. Thương Gia — thay đổi cuộc đời cô, thay đổi gia đình cô, thay đổi làng cô. Đó là giá trị — giá trị lớn hơn 300.000 đồng lãi/năm.
-
-"Em giỏi, Hạnh. Em thay đổi gia đình — đó là điều Thương Gia muốn. Thương Gia — cho em cơ hội, em nắm lấy. Em xứng đáng."
-
-Cô Hạnh nước mắt chảy — nước mắt của biết ơn. "Cảm ơn anh, anh Hùng. Cảm ơn Thương Gia. Nếu không có Thương Gia — em vẫn làm ruộng, nghèo, khổ. Thương Gia — cho em cần câu, em câu được cá. Cảm ơn."
-
-Hùng nắm tay cô, mỉm cười. "Không, em tự câu — Thương Gia chỉ cho cần. Em giỏi — và em sẽ giỏi hơn. Sau này, em có thể mở xưởng riêng — Thương Gia hỗ trợ vay vốn, hỗ trợ kỹ thuật. Em sẽ trở thành doanh nhân — như anh."
-
-Cô Hạnh mắt sáng — mở xưởng riêng? Doanh nhân? Cô chưa dám mơ — nhưng anh Hùng nói, cô tin. Anh luôn đúng — từ đào tạo đến việc làm đến tương lai. Cô sẽ cố gắng — và một ngày, cô sẽ mở xưởng, sẽ thành doanh nhân.
-
-Tối ấy, Hùng về nhà. Bà Hà ngồi ở phòng khách, xem TV. Trên TV, bản tin — "Trung tâm đào tạo Thương Gia — 5.000 người/năm, 82% có việc làm. Chủ tịch Trần Văn Hùng: 'Cho cần câu, không cho cá.'"
-
-Bà Hà nhìn TV, nhìn cháu trên màn hình, nước mắt chảy. "Cậu Hùng... trên TV. Cháu bà trên TV. Lại."
-
-Hùng ngồi cạnh bà, nắm tay. "Bà, con trên TV — nhưng con vẫn là cháu bà. Không thay."
-
-Bà Hà gật đầu, lau nước mắt. "Bà biết. Bà chỉ... tự hào. Bà sống bảy mươi năm, chưa thấy cháu mình trên TV nhiều lần. Bà... bà không biết nói gì."
-
-"Thì không cần nói, bà. Bà chỉ cần ngồi đây, xem TV, và tự hào. Đó là đủ."
-
-Bà Hà cười — nụ cười qua nước mắt. Bà nắm tay cháu, xem TV, tự hào. Tự hào vì cháu bà — từ đứa con trai hư hỏng đến chủ tịch tập đoàn, từ bán rong đến đào tạo 5.000 người/năm.
-
-Lan về — cô đi kiểm tra trung tâm đào tạo Sài Gòn. "Anh ơi, trung tâm Sài Gòn — 2.000 người/năm, 85% có việc làm. Sài Gòn — nhu cầu cao, người đông, học viên nhiều. Em đề xuất mở trung tâm Sài Gòn riêng — 20 phòng, 2.000 người/năm."
-
-"Được. Mở — trung tâm Sài Gòn. Vốn 50.000 đồng. Em lo — thuê giảng viên, mặt bằng, máy móc."
-
-Lan gật đầu, rồi cười. "Anh, em bây giờ quản lý — cửa hàng, ngân hàng, trường, trung tâm đào tạo. Em hai mươi ba tuổi, quản lý bốn ngành. Em... em không ngờ."
-
-Hùng nhìn em, mỉm cười. "Em giỏi — em làm được. Và sau này, em sẽ quản lý nhiều hơn — toàn bộ đế chế. Anh sẽ dạy em — dần dần."
-
-Lan mắt sáng — cô sẽ quản lý đế chế. Cô hai mươi ba tuổi, và cô có cả tương lai. Cô sẽ học, sẽ lớn, sẽ mạnh — cùng anh, cùng Thương Gia.
-
-Bữa tối — bà Xuân nấu: gà luộc, thịt heo kho, canh chua, cá chiên, nem rán, dưa muối, cơm trắng, chè. Tám món — thịnh soạn. Ba người ăn — bà Hà, Lan, Hùng. Ấm, vui, no.
-
-Sau bữa tối, Hùng vào không gian — 8.000m². Ông ngồi bên suối, nghe nước chảy. Hệ thống:
-
-「Tiến độ Phần 2:
-- Hoàn thành: xe đạp, vận tải, ngân hàng, giáo dục, đào tạo, y tế, cho vay nông dân (8/12)
-- Đang làm: máy cày (sản xuất), máy gặt (sản xuất thử), bảo hiểm (thiết kế)
-- Còn lại: xây dựng mở rộng, năng lượng mở rộng, từ thiện mở rộng
-- EXP: 16.690 / 19.500 (86%)」
-
-16.690 EXP — còn 2.810. Hùng tính — máy cày +300, máy gặt +300, bảo hiểm +300, xây dựng +200, năng lượng +250, từ thiện +300, hoàn thành Phần 2 +1.000. Tổng: 2.650. Còn 160 — từ giao dịch. Đủ — vừa đủ.
-
-Hùng thoát không gian, nằm xuống giường. Ngoài cửa sổ, đêm Hà Đông — trăng sáng, sao lấp lánh. Bà Hà ngủ ngon. Lan ngủ — cô mệt, ngủ say.
-
-Hùng nhắm mắt. Đào tạo — 5.000 người/năm, 82% có việc làm. 4.000 cuộc đời thay đổi — như cô Hạnh, từ nông dân đến thợ may, từ nghèo đến nuôi gia đình. Thương Gia — cho cần câu, họ câu cá. Đó là đạo lý — và đó là di sản.
-
-Hành trình tiếp tục.
-
-### Lớp sâu
-
-### Hiện trường xã hội
-
-“Hoàn thành nhiệm vụ đào tạo” xuống đất: lớp, trạm, xã, sổ thụ hưởng. Biên lai. Kiểm tra đột xuất. Tiền mờ thì dừng. Năm 1987 tại Hà Nội.
-
-### Thử nhỏ
-
-Bên ngoài muốn “linh hoạt” quy trình. Thương Gia từ chối. Linh hoạt sai chỗ là lỗ uy tín.
-
-### Kết quả
-
-“Hoàn thành nhiệm vụ đào tạo” (1987): có biên bản; ~338 người liên quan được phổ biến thay đổi; rủi ro có chủ sở hữu. Lan xem vàng; Hùng xem đỏ.
-
-「1987 | Hoàn thành nhiệm vụ đào tạo | EXP +78 | người – sổ – uy tín」
-
-### Nhà
-
-Mâm cơm 1987. “Hoàn thành nhiệm vụ đào tạo” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-### Khép
-
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Mở rộng phòng khám tiếp”.
-
-“Hoàn thành nhiệm vụ đào tạo” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Hà Nội và thế giới.
+Chỉ số theo dõi tuần: tiến độ 4 mốc; phản hồi khách/thợ được đọc to 4 lần; quỹ thời gian cho hiện trường không bị họp nuốt. EXP hệ thống có thể cộng 281, nhưng ông không làm việc vì con số nhấp nháy.
 
 ### Thoại
 
-Tổ trưởng: “Chỗ này máy kêu lạ.”
-Hùng: “Dừng đúng quy trình. Cảm ơn đã không chạy thành tích.”
+Tổ trưởng ca đêm: “Anh ơi, chỗ này em thấy chưa ổn.”
+Hùng: “Nói cụ thể. Rồi mình dừng đúng quy trình — không chạy thành tích.”
+Ông ghi tên người góp ý vào sổ khen tháng.
 
-### Lớp hiện trường & sổ sách
+### Nhà
 
-Tại Seoul năm 1986, Hùng chia “Hoàn thành nhiệm vụ đào tạo” thành việc hiện trường, sổ sách, khách và người. Lan giữ nhịp bảng việc–người–hạn. (Chương 77, lớp 1, nhịp 1.)
+Đêm 1987, mâm cơm không chức danh. Bà Hà để phần ngon cho cháu; Hùng nhẹ nhàng gắp lại cho bà. Lan dịch việc ngày thành câu bà hiểu — không giọng họp trên mâm.
 
-Xung đột “chất lượng lô hàng” được gọi tên ngay trong họp, không để thì thầm hành lang. Ai muốn đi tắt bị trả về quy trình. (Chương 77, lớp 1, nhịp 2.)
+Hùng kể một mẩu việc bằng lời bình dân, bỏ hết từ hoa mỹ. Bà Hà (hoặc ký ức bà) chỉ cần biết cháu còn ăn, còn về, còn thương người. Nhà vẫn là nơi ông trả lại hình hài con người sau ngày dài ở Seoul.
 
-Cảm xúc chủ đạo là kiên định sứ mệnh, nhưng ông không để cảm xúc thay biên bản. Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, kỹ sư Minh cùng chịu trách nhiệm từng mảng. (Chương 77, lớp 1, nhịp 3.)
+### Hệ thống
 
-Một phản hồi thật từ khách/thợ/đối tác được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng hạn đã giữ. (Chương 77, lớp 1, nhịp 4.)
+「Năm 1987 | Tiến độ liên quan: Hoàn thành nhiệm vụ đào tạo
+- Ghi nhận: lớp việc trong ngày hoàn thành có kiểm chứng
+- Thưởng: +311 EXP | Tiến độ nhiệm vụ + giao dịch thành công
+- Gợi ý: giữ người – giữ sổ – giữ uy tín」
 
-Bà Hà không cần slide; Lan dịch việc thành câu bà nắm được. Nhà vẫn là nơi Hùng trả hình hài con người. (Chương 77, lớp 1, nhịp 7.)
+Hùng đọc xong rồi tắt. Thước đo hữu ích — không phải ông chủ trong đầu. Việc ngoài đời ồn và thật hơn bất kỳ dòng chữ phát sáng nào.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 77, lớp 1, nhịp 8.)
+### Lớp sâu trong ngày
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 77, lớp 1, nhịp 9.)
+Hùng kiểm tra lại một con số đẹp. Đẹp mà không truy xuất nguồn thì chưa phải đẹp. Ông trả số về cho đúng tay chịu trách nhiệm.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Hoàn thành nhiệm vụ đào tạo” có đà tại Seoul. (Chương 77, lớp 1, nhịp 10.)
+Đối thủ chơi chiêu nóng. Thương Gia đáp bằng hàng/dịch vụ đúng mẫu và hợp đồng rõ. Không đua đáy. Giữ chuẩn là giữ tên.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 77, lớp 1, nhịp 11.)
+Tiếng xe nâng lùi có còi lúc tan ca kéo ông nhớ bát cháo năm 1983. Nhớ không phải để tự thương. Nhớ để không biến thành kẻ chỉ nhìn số.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 77, lớp 1, nhịp 12.)
+Năm 1987, những năm đầu mở cửa, cơ hội nhởn nhơ nhưng luật và vốn còn mỏng như giấy nến. Trong bối cảnh ấy, nước cờ hôm nay vừa phòng thủ vừa mở đường — miễn là sổ còn sạch và người còn đứng.
 
-“Hoàn thành nhiệm vụ đào tạo” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 77, lớp 1, nhịp 14.)
+Chiều tà ở Seoul, ông đứng nhìn chuyền sản xuất. Mỗi điểm trên đó là người thật. Ông gỡ một việc đã xong khỏi đầu như gỡ một bao gạo — nhẹ hơn, nhưng không được phép kiêu.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 77, lớp 1, nhịp 15.)
+Hùng yêu cầu mọi cam kết lớn phải có tên người chịu và hạn. Bắt tay không thay chữ ký. Nụ cười không thay điều khoản.
 
-Trong 10 ngày đầu, 3 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 77, lớp 1, nhịp 17.)
+Phần thưởng hệ thống có thể chờ. Người đang chờ lương, chờ hàng, chờ câu trả lời thì không thể chờ văn chương quản trị.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 77, lớp 1, nhịp 18.)
+Cuối ngày đèn còn sáng một dãy bàn. Ông tắt dãy đó sau khi chắc ai cũng về được nhà. Việc quan trọng không biến thành văn hóa thức khuya khoe mẽ.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 77, lớp 1, nhịp 19.)
+Trước khi ngủ ông viết sổ da bốn dòng: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không vỡ thành hỗn độn.
 
-Năm 1986, bối cảnh thị trường đổi; “Hoàn thành nhiệm vụ đào tạo” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 77, lớp 1, nhịp 20.)
+Ông từ chối một đề xuất “linh hoạt” sai chỗ. Linh hoạt đúng là thích ứng. Linh hoạt sai là lỗ uy tín trả góp.
 
-Hùng đi hiện trường “Hoàn thành nhiệm vụ đào tạo” ở Seoul: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 77, lớp 1, nhịp 21.)
+Bà Hà trong khung ảnh / trong giọng nói chỉ hỏi ăn chưa. Hùng mỉm cười một mình: quản trị đế chế bắt đầu từ câu hỏi ấy.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 77, lớp 1, nhịp 22.)
+Truyền thông nội bộ một trang chặn tin đồn trước khi nó nở. Coi người như người lớn thì họ làm như người lớn. Coi người như trẻ con thì họ sẽ thì thầm sau lưng.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 77, lớp 1, nhịp 23.)
+Ca đêm được hỏi ăn gì, có xe về không, ghế chờ mưa đã đủ chưa. Chi tiết không lên báo. Chi tiết lên lương tâm.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Hoàn thành nhiệm vụ đào tạo” sạch và đủ. (Chương 77, lớp 1, nhịp 24.)
+Lan phản biện một điểm trong phương án. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm lớn.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 77, lớp 1, nhịp 25.)
+Một nhân viên trẻ hỏi thẳng có đang che gì không. Hùng đáp: “Nếu có, em được quyền hỏi đến khi rõ. Che là nợ.” Câu ấy lan trong nội bộ nhanh hơn bất kỳ poster động lực nào.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 77, lớp 2, nhịp 33.)
+Ông nhớ lần đầu bán hàng run tay năm 1983. Cảm giác ấy giúp ông không biến mốc hôm nay thành trò chơi danh vọng.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 77, lớp 2, nhịp 34.)
+### Các nhịp hiện trường
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Hoàn thành nhiệm vụ đào tạo” có đà tại Seoul. (Chương 77, lớp 2, nhịp 35.)
+Nhịp 1 trong ngày tại Seoul: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: ủy thác việc vận hành, giữ việc chiến lược. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 77, lớp 2, nhịp 36.)
+Nhịp 2 trong ngày tại Seoul: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: từ chối đua giá đáy. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 77, lớp 2, nhịp 37.)
+Nhịp 3 trong ngày tại Seoul: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: trả hồ sơ cánh hẩu. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-“Hoàn thành nhiệm vụ đào tạo” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 77, lớp 2, nhịp 39.)
+Nhịp 4 trong ngày tại Seoul: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: giữ lương cốt lõi, cắt chi hoa hòe. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 77, lớp 2, nhịp 40.)
+Nhịp 5 trong ngày tại Seoul: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: ủy thác việc vận hành, giữ việc chiến lược. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Trong 10 ngày đầu, 3 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 77, lớp 2, nhịp 42.)
+Nhịp 6 trong ngày tại Seoul: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: từ chối đua giá đáy. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 77, lớp 2, nhịp 43.)
+Nhịp 7 trong ngày tại Seoul: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: trả hồ sơ cánh hẩu. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 77, lớp 2, nhịp 44.)
+Nhịp 8 trong ngày tại Seoul: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: giữ lương cốt lõi, cắt chi hoa hòe. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 77, lớp 2, nhịp 47.)
+Nhịp 9 trong ngày tại Seoul: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: ủy thác việc vận hành, giữ việc chiến lược. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 77, lớp 2, nhịp 48.)
+Nhịp 10 trong ngày tại Seoul: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: từ chối đua giá đáy. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Hoàn thành nhiệm vụ đào tạo” sạch và đủ. (Chương 77, lớp 2, nhịp 49.)
+Nhịp 11 trong ngày tại Seoul: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: trả hồ sơ cánh hẩu. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 77, lớp 2, nhịp 50.)
+Nhịp 12 trong ngày tại Seoul: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: giữ lương cốt lõi, cắt chi hoa hòe. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 1 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
+### Khép
 
-Ghi nhận bổ sung 2 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
+Ngày ở Seoul năm 1987 có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước là “Mở rộng phòng khám tiếp”. Ông không hứa dễ — chỉ hứa không quên gốc làng Thanh Xuân và bát cháo năm ấy.
 
-Ghi nhận bổ sung 3 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
+Thêm một lớp quan sát 1 trong ngày tại Seoul năm 1987: Hùng dừng lại với thợ cả, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 77-1 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 4 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
+Thêm một lớp quan sát 2 trong ngày tại Seoul năm 1987: Hùng dừng lại với kế toán, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 77-2 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 5 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
+Thêm một lớp quan sát 3 trong ngày tại Seoul năm 1987: Hùng dừng lại với tài xế, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 77-3 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 6 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
+Thêm một lớp quan sát 4 trong ngày tại Seoul năm 1987: Hùng dừng lại với thủ kho, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 77-4 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 7 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
-
-Ghi nhận bổ sung 8 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
-
-Ghi nhận bổ sung 9 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
-
-Ghi nhận bổ sung 10 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
-
-Ghi nhận bổ sung 11 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
-
-Ghi nhận bổ sung 12 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
-
-Ghi nhận bổ sung 13 — “Hoàn thành nhiệm vụ đào tạo” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 77.
+Thêm một lớp quan sát 5 trong ngày tại Seoul năm 1987: Hùng dừng lại với kỹ sư trẻ, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 77-5 được để trong sổ da, không để trong bài diễn văn.
 
 ============================================================
-(3028 từ)
+(3046 từ)

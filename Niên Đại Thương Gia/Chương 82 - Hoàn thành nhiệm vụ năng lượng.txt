@@ -1,219 +1,140 @@
+============================================================
 Chương 82: Hoàn thành nhiệm vụ năng lượng
+============================================================
 
 ### Mở
 
-Lan đặt trà xuống bàn ở Seoul: “Anh, hôm nay là “Hoàn thành nhiệm vụ năng lượng”. Em không muốn chỉ nói hay.”
+Trên kính cửa in mờ hơi thở. Bên ngoài thành phố đã chạy. Bên trong ông còn sắp xếp đầu. (Mở riêng ch.82.)
 
-Hệ thống nhấp như thư ký, không như thần thánh.
+Thị trường có thể ồn; ông giữ nhịp thở đều.
 
-Hoàn năng lượng nhịp. “Hoàn thành nhiệm vụ năng lượng” bảo trì định kỳ — anh hùng thầm lặng.
+### Dấu vết đã có
 
-### Diễn biến đã xác lập
+### Mở Lan đặt trà xuống bàn ở Seoul: “Anh, hôm nay là “Hoàn thành nhiệm vụ năng lượng”. Em không muốn chỉ nói hay.” Hệ thống nhấp như thư ký, không như thần thánh. Hoàn năng lượng nhịp. “Hoàn thành nhiệm vụ năng lượng” bảo trì định kỳ — anh hùng thầm lặng. ### Diễn biến đã xác lập Tháng 2 năm 1996. Nhà máy điện mặt trời Thương Gia Bình Thuận hoàn thành — 1MW, phát điện, bán cho EVN. Hùng đứng giữa nhà máy — 15.000m² đất cát, 5.000 tấm pin mặt trời xếp hàng, đen bóng, lấp lánh dưới nắng. Pin — nhập Nhật (Tanaka), tấm polycrystalline 200W, hiệu quả 15%. Inverter — Nhật, chuyển DC sang AC. Khung thép — sản xuất Thương Gia, cao 2m, nghiêng 15 độ. Trạm biến áp — nâng điện áp thấp lên trung áp, kết nối lưới điện EVN. Nhà máy — đẹp. 5.000 tấm pin, hàng đều tăm tắp, đen bóng, như đội quân xếp hàng. Nắng chiếu — pin hấp thụ, chuyển thành điện. Điện chạy qua inverter, qua trạm biến áp, lên lưới điện EVN. 1MW — đủ điện cho 2.000 gia đình. Thương Gia — cung cấp điện sạch, tái tạo, cho 2.000 gia đình. Minh đứng cạnh, mồ hôi ướt lưng, nhưng mắt sáng. "Anh Hùng, nhà máy hoạt động! 1MW, phát điện ổn định. Sản lượng: 5 giờ nắng/ngày × 1MW = 5MWh/ngày. Tháng: 150MWh. Năm: 1.825MWh. Bán EVN: 500 đồng/MWh × 1.825 = 912.500 đồng/năm. Chi phí: 200.000 đồng/năm (bảo trì, lương). Lãi: 712.500 đồng/năm." 712.500 đồng lãi/năm — từ nhà máy điện. Không nhiều so với ngân hàng (50 triệu/tháng), nhưng đây là ngành mới — và sẽ lớn. Hùng biết — ở thế kỷ 21, điện mặt trời sẽ là ngành tỷ đô. Ông đang xây nền tảng — sớm, trước mọi người. 「Nhiệm vụ hoàn thành: Nhà máy điện mặt trời 1MW - 1MW ✓, phát điện 1.825 MWh/năm ✓, bán EVN ✓ - Phần thưởng: +300 EXP, Kỹ năng Năng lượng lv2 - Tổng EXP: 17.940」 「Kỹ năng Năng lượng cấp 2: Quản lý nhà máy điện, đánh giá hiệu quả năng lượng nâng cao, tối ưu sản lượng điện, quản lý lưới điện, phát triển năng lượng tái tạo.」 Năng lượng lv2. Thương Gia — đế chế năng lượng. Từ pin nhỏ đến nhà máy 1MW. Hùng mỉm cười — ông đang xây tương lai, sớm 20 năm. Và khi thế giới quay sang năng lượng tái tạo, Thương Gia sẽ dẫn đầu. --- Báo chí đến — báo Nhân Dân, đài truyền hình. Lần thứ tư Thương Gia lên báo — xe đạp, ngân hàng, bệnh viện, điện mặt trời. Phóng viên phỏng vấn Hùng, đứng giữa 5.000 tấm pin. "Anh Hùng, nhà máy điện mặt trời Thương Gia — nhà máy điện mặt trời đầu tiên Việt Nam. 1MW, 5.000 tấm pin, bán điện cho EVN. Anh nghĩ gì?" Hùng nhìn ống kính, nắng chói,
 
-Tháng 2 năm 1996. Nhà máy điện mặt trời Thương Gia Bình Thuận hoàn thành — 1MW, phát điện, bán cho EVN.
+### Cảnh chính
 
-Hùng đứng giữa nhà máy — 15.000m² đất cát, 5.000 tấm pin mặt trời xếp hàng, đen bóng, lấp lánh dưới nắng. Pin — nhập Nhật (Tanaka), tấm polycrystalline 200W, hiệu quả 15%. Inverter — Nhật, chuyển DC sang AC. Khung thép — sản xuất Thương Gia, cao 2m, nghiêng 15 độ. Trạm biến áp — nâng điện áp thấp lên trung áp, kết nối lưới điện EVN.
+Cửa ngoài tại Seoul năm 1987 không cần bài diễn văn dài. Cần mẫu hàng, truy xuất, điều khoản phạt trễ, bảo hành. Hùng không hứa điều không làm được. Đối thủ giảm giá — Thương Gia không đua đáy.
 
-Nhà máy — đẹp. 5.000 tấm pin, hàng đều tăm tắp, đen bóng, như đội quân xếp hàng. Nắng chiếu — pin hấp thụ, chuyển thành điện. Điện chạy qua inverter, qua trạm biến áp, lên lưới điện EVN. 1MW — đủ điện cho 2.000 gia đình. Thương Gia — cung cấp điện sạch, tái tạo, cho 2.000 gia đình.
+Lan siết phần dịch vụ sau bán. Ông giữ phần văn hóa: cúi đầu đúng lúc, thẳng lưng đúng chỗ. Xung đột “áp lực truyền thông” được gọi tên trong phòng họp, không mang về thì thầm.
 
-Minh đứng cạnh, mồ hôi ướt lưng, nhưng mắt sáng. "Anh Hùng, nhà máy hoạt động! 1MW, phát điện ổn định. Sản lượng: 5 giờ nắng/ngày × 1MW = 5MWh/ngày. Tháng: 150MWh. Năm: 1.825MWh. Bán EVN: 500 đồng/MWh × 1.825 = 912.500 đồng/năm. Chi phí: 200.000 đồng/năm (bảo trì, lương). Lãi: 712.500 đồng/năm."
+### Buổi sáng
 
-712.500 đồng lãi/năm — từ nhà máy điện. Không nhiều so với ngân hàng (50 triệu/tháng), nhưng đây là ngành mới — và sẽ lớn. Hùng biết — ở thế kỷ 21, điện mặt trời sẽ là ngành tỷ đô. Ông đang xây nền tảng — sớm, trước mọi người.
+Trời Seoul năm 1987 nắng sớm gắt. Hùng đến sớm hơn lịch họp. Ông không mở slide trước. Ông đi một vòng, chào trưởng phòng bán hàng, hỏi một câu cụ thể: ca qua có ốm không.
 
-「Nhiệm vụ hoàn thành: Nhà máy điện mặt trời 1MW
-- 1MW ✓, phát điện 1.825 MWh/năm ✓, bán EVN ✓
-- Phần thưởng: +300 EXP, Kỹ năng Năng lượng lv2
-- Tổng EXP: 17.940」
+Tiếng xe nâng lùi có còi bám lấy ông như lời nhắc: đây là đời sống, không phải mô hình trên giấy. Lan đã để sẵn ba tờ giấy: phải làm / không được làm / ai chịu. Hùng viết thêm một dòng bằng tay: “Không dối.”
 
-「Kỹ năng Năng lượng cấp 2: Quản lý nhà máy điện, đánh giá hiệu quả năng lượng nâng cao, tối ưu sản lượng điện, quản lý lưới điện, phát triển năng lượng tái tạo.」
+### Va chạm
 
-Năng lượng lv2. Thương Gia — đế chế năng lượng. Từ pin nhỏ đến nhà máy 1MW. Hùng mỉm cười — ông đang xây tương lai, sớm 20 năm. Và khi thế giới quay sang năng lượng tái tạo, Thương Gia sẽ dẫn đầu.
+Xung đột “áp lực truyền thông” đến đúng lúc việc vừa có đà. Một chỉ số đẹp nhưng không truy xuất được. 
 
----
+Hùng không lớn tiếng. Ông yêu cầu quy trình một trang lên bảng: sự thật, việc cần làm, kênh hỏi. Ai nhận lỗi để sửa được bảo vệ; ai giấu lỗi để giữ mặt sẽ bị xử. Lan đứng về phía quy trình — không phải cứng đầu, để đỡ anh khi áp lực muốn kéo lệch.
 
-Báo chí đến — báo Nhân Dân, đài truyền hình. Lần thứ tư Thương Gia lên báo — xe đạp, ngân hàng, bệnh viện, điện mặt trời. Phóng viên phỏng vấn Hùng, đứng giữa 5.000 tấm pin.
+Quyết định trong ngày: dừng lô hàng để kiểm lại. Không hứa nóng. Có hạn. Có tên người.
 
-"Anh Hùng, nhà máy điện mặt trời Thương Gia — nhà máy điện mặt trời đầu tiên Việt Nam. 1MW, 5.000 tấm pin, bán điện cho EVN. Anh nghĩ gì?"
+### Việc cụ thể
 
-Hùng nhìn ống kính, nắng chói, mỉm cười. "Điện mặt trời — năng lượng tương lai. Sạch, tái tạo, không ô nhiễm. Việt Nam — nắng nhiều, tiềm năng lớn. Thương Gia — xây nhà máy đầu tiên, hy vọng nhiều nhà máy tiếp theo. Năng lượng tái tạo — cho thế hệ tương lai, cho Trái Đất xanh."
+Trong 8 ngày xoay quanh mốc này, đội ngũ bóc 5 nút thắt. Không phải 44 cuộc họp dài — là 44 quyết định ngắn có chủ sở hữu. Một lỗi lặp bị chặn từ gốc. Một quy trình viết lại bằng lời thợ cũng hiểu: bước làm, ngưỡng dừng, tên người chịu.
 
-Phóng viên ghi chép — bài báo sẽ ra, tin sẽ lan tỏa. Thương Gia — tiên phong năng lượng tái tạo. Người dân biết — và tin. Thương Gia — không chỉ kinh doanh, mà tiên phong, mà dẫn đầu.
+Lan cập nhật bằng việc đã xong, không bằng tính từ. Hùng khen đúng việc, không khen lấy lệ. bà Nguyễn Thị Hà, ông Sato, đối tác địa phương được gọi tên khi đóng góp. Người im lặng làm đúng cũng được nhìn thấy — nếu không, văn hóa sẽ chỉ nuôi người khéo nói.
 
-Tối ấy, Hùng về nhà — biệt thự Hà Đông. Bà Hà ngồi ở phòng khách, xem TV. Trên TV, bản tin — "Nhà máy điện mặt trời Thương Gia — nhà máy đầu tiên Việt Nam. 1MW, Bình Thuận, bán điện EVN. Chủ tịch Trần Văn Hùng: 'Năng lượng tương lai, cho thế hệ tương lai.'"
-
-Bà Hà nhìn TV, nhìn cháu trên màn hình, nước mắt chảy. "Cậu Hùng... điện mặt trời. Cháu bà làm điện từ nắng. Bà... bà không hiểu lắm — nhưng bà thấy đẹp. 5.000 tấm pin, đen bóng, lấp lánh. Đẹp lắm."
-
-Hùng ngồi cạnh bà, mỉm cười. "Bà, điện từ nắng — sạch, tái tạo, không ô nhiễm. Con làm — cho thế hệ tương lai, cho Trái Đất xanh. Con học — từ kiến thức tương lai, mang về hiện tại."
-
-Bà Hà không hiểu "kiến thức tương lai" — nhưng bà hiểu: cháu bà làm điều tốt, điều mới, điều đẹp. Bà tự hào — luôn tự hào.
-
-"Cậu à, bà sống bảy mươi năm — chưa thấy ai làm điện từ nắng. Cháu bà — người đầu tiên. Bà... bà không biết nói gì."
-
-"Thì không cần nói, bà. Bà chỉ cần ngồi đây, xem TV, và tự hào. Đó là đủ."
-
-Bà Hà cười — nụ cười qua nước mắt. Bà nắm tay cháu, xem TV, tự hào. Tự hào vì cháu bà — tiên phong, dẫn đầu, làm điều chưa ai làm.
-
-Lan về — cô đi Bình Thuận, kiểm tra nhà máy. "Anh ơi, nhà máy đẹp lắm! 5.000 tấm pin, xếp hàng, đen bóng. Nắng chiếu — pin hấp thụ, điện chạy. Em thấy — điện lên lưới điện EVN, đèn sáng ở Bình Thuận. Người dân vui — có điện, lần đầu tiên. Em thấy — trẻ em đọc sách dưới đèn, mẹ nấu cơm bằng bếp điện, ông xem TV. Điện — thay đổi cuộc sống."
-
-Hùng gật đầu. "Đúng. Điện — thay đổi cuộc sống. Không điện — tối, lạc hậu. Có điện — sáng, phát triển. Thương Gia — mang điện, mang sáng, mang phát triển."
-
-Lan im lặng, suy nghĩ. Cô hai mươi bốn tuổi, quản lý đa ngành — cửa hàng, ngân hàng, trường, bệnh viện, năng lượng. Cô hiểu — Thương Gia không chỉ kinh doanh, mà thay đổi cuộc sống. Điện — thay đổi Bình Thuận, thay đổi 2.000 gia đình. Đó là giá trị — giá trị lớn hơn 712.500 đồng lãi/năm.
-
-Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — no, ngon, ấm. Ba người ăn — bà Hà, Lan, Hùng. Gia đình.
-
-Sau bữa tối, Hùng vào không gian — 8.000m². Ông ngồi bên suối, nghe nước chảy. Hệ thống:
-
-「Tiến độ Phần 2:
-- Hoàn thành: xe đạp, vận tải, ngân hàng, giáo dục, đào tạo, y tế, cho vay, xây dựng, năng lượng (10/12)
-- Đang làm: máy cày (sản xuất), máy gặt (sản xuất), bảo hiểm (thiết kế)
-- Còn lại: từ thiện mở rộng, hoàn thành Phần 2
-- EXP: 17.940 / 19.500 (92%)」
-
-17.940 EXP — còn 1.560. Hùng tính — máy cày +300, máy gặt +300, bảo hiểm +300, từ thiện +300, hoàn thành Phần 2 +1.000. Tổng: 2.200. Vượt 640 — dư. Khả thi — dễ dàng.
-
-Hùng thoát không gian, nằm xuống giường. Ngoài cửa sổ, đêm Hà Đông — trăng sáng, sao lấp lánh. Bà Hà ngủ ngon. Lan ngủ — cô mệt, ngủ say.
-
-Hùng nhắm mắt. Năng lượng — điện từ nắng. 5.000 tấm pin, 1MW, 2.000 gia đình có điện. Thương Gia — tiên phong năng lượng tái tạo. Từ bán hàng đến điện mặt trời — hành trình không ngờ. Nhưng đúng — vì năng lượng là tương lai, là phát triển, làcivilization.
-
-Hành trình tiếp tục.
-
-### Lớp sâu
-
-### Nhìn lại
-
-“Hoàn thành nhiệm vụ năng lượng” năm 1987 tại Hà Nội: thắng và sẹo. Hùng gạch tự ca. Công nhân thâm niên ngồi gần. Mục tiêu người cạnh doanh thu.
-
-### Thử nhỏ
-
-Hai phòng ban đổ lỗi quanh “Hoàn thành nhiệm vụ năng lượng”. Hùng cắt: lỗi hệ thống trước tội đồ. Quy trình một trang lên bảng tin.
-
-### Kết quả
-
-“Hoàn thành nhiệm vụ năng lượng” (1987): có biên bản; ~358 người liên quan được phổ biến thay đổi; rủi ro có chủ sở hữu. Lan xem vàng; Hùng xem đỏ.
-
-「1987 | Hoàn thành nhiệm vụ năng lượng | EXP +81 | người – sổ – uy tín」
-
-### Nhà
-
-Mâm cơm 1987. “Hoàn thành nhiệm vụ năng lượng” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-### Khép
-
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Mở rộng từ thiện quỹ”.
-
-“Hoàn thành nhiệm vụ năng lượng” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Hà Nội và thế giới.
+Chỉ số theo dõi tuần: tiến độ 4 mốc; phản hồi khách/thợ được đọc to 4 lần; quỹ thời gian cho hiện trường không bị họp nuốt. EXP hệ thống có thể cộng 296, nhưng ông không làm việc vì con số nhấp nháy.
 
 ### Thoại
 
-Đối tác tại Seoul: “Cam kết đi.”
-Hùng: “Cam kết bằng điều khoản và hạn, không bằng miệng cho nóng.”
-Lan đẩy bản nháp.
+Lan: “Anh sợ nhất chỗ nào ở việc lần này?”
+Hùng: “Sợ mình hứa nhanh hơn sức.”
+Lan: “Vậy em giữ nhịp. Anh giữ chuẩn.”
+Im một nhịp. Ngoài hành lang có tiếng bước chân ca kíp.
 
-### Lớp hiện trường & sổ sách
+### Nhà
 
-Tại Seoul năm 1986, Hùng chia “Hoàn thành nhiệm vụ năng lượng” thành việc hiện trường, sổ sách, khách và người. Lan giữ nhịp bảng việc–người–hạn. (Chương 82, lớp 1, nhịp 1.)
+Đêm 1987, mâm cơm không chức danh. Bà Hà để phần ngon cho cháu; Hùng nhẹ nhàng gắp lại cho bà. Lan dịch việc ngày thành câu bà hiểu — không giọng họp trên mâm.
 
-Xung đột “áp lực truyền thông” được gọi tên ngay trong họp, không để thì thầm hành lang. Ai muốn đi tắt bị trả về quy trình. (Chương 82, lớp 1, nhịp 2.)
+Hùng kể một mẩu việc bằng lời bình dân, bỏ hết từ hoa mỹ. Bà Hà (hoặc ký ức bà) chỉ cần biết cháu còn ăn, còn về, còn thương người. Nhà vẫn là nơi ông trả lại hình hài con người sau ngày dài ở Seoul.
 
-Cảm xúc chủ đạo là ấm áp gia đình, nhưng ông không để cảm xúc thay biên bản. Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, ông Sato cùng chịu trách nhiệm từng mảng. (Chương 82, lớp 1, nhịp 3.)
+### Hệ thống
 
-Một phản hồi thật từ khách/thợ/đối tác được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng hạn đã giữ. (Chương 82, lớp 1, nhịp 4.)
+「Năm 1987 | Tiến độ liên quan: Hoàn thành nhiệm vụ năng lượng
+- Ghi nhận: lớp việc trong ngày hoàn thành có kiểm chứng
+- Thưởng: +326 EXP | Tiến độ nhiệm vụ + giao dịch thành công
+- Gợi ý: giữ người – giữ sổ – giữ uy tín」
 
-Bà Hà không cần slide; Lan dịch việc thành câu bà nắm được. Nhà vẫn là nơi Hùng trả hình hài con người. (Chương 82, lớp 1, nhịp 7.)
+Hùng đọc xong rồi tắt. Thước đo hữu ích — không phải ông chủ trong đầu. Việc ngoài đời ồn và thật hơn bất kỳ dòng chữ phát sáng nào.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 82, lớp 1, nhịp 8.)
+### Lớp sâu trong ngày
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 82, lớp 1, nhịp 9.)
+Hùng yêu cầu mọi cam kết lớn phải có tên người chịu và hạn. Bắt tay không thay chữ ký. Nụ cười không thay điều khoản.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Hoàn thành nhiệm vụ năng lượng” có đà tại Seoul. (Chương 82, lớp 1, nhịp 10.)
+Ca đêm được hỏi ăn gì, có xe về không, ghế chờ mưa đã đủ chưa. Chi tiết không lên báo. Chi tiết lên lương tâm.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 82, lớp 1, nhịp 11.)
+Một nhân viên trẻ hỏi thẳng có đang che gì không. Hùng đáp: “Nếu có, em được quyền hỏi đến khi rõ. Che là nợ.” Câu ấy lan trong nội bộ nhanh hơn bất kỳ poster động lực nào.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 82, lớp 1, nhịp 12.)
+Tiếng xe nâng lùi có còi lúc tan ca kéo ông nhớ bát cháo năm 1983. Nhớ không phải để tự thương. Nhớ để không biến thành kẻ chỉ nhìn số.
 
-“Hoàn thành nhiệm vụ năng lượng” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 82, lớp 1, nhịp 14.)
+Phần thưởng hệ thống có thể chờ. Người đang chờ lương, chờ hàng, chờ câu trả lời thì không thể chờ văn chương quản trị.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 82, lớp 1, nhịp 15.)
+Có khoảnh khắc ông muốn ôm đồm như xưa. Rồi nhìn Lan và đội ngũ, ông buông đúng phần. Ủy thác không phải bỏ mặc: là tin và kiểm có nhịp.
 
-Trong 9 ngày đầu, 4 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 82, lớp 1, nhịp 17.)
+Truyền thông nội bộ một trang chặn tin đồn trước khi nó nở. Coi người như người lớn thì họ làm như người lớn. Coi người như trẻ con thì họ sẽ thì thầm sau lưng.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 82, lớp 1, nhịp 18.)
+Năm 1987, những năm đầu mở cửa, cơ hội nhởn nhơ nhưng luật và vốn còn mỏng như giấy nến. Trong bối cảnh ấy, nước cờ hôm nay vừa phòng thủ vừa mở đường — miễn là sổ còn sạch và người còn đứng.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 82, lớp 1, nhịp 19.)
+Hùng kiểm tra lại một con số đẹp. Đẹp mà không truy xuất nguồn thì chưa phải đẹp. Ông trả số về cho đúng tay chịu trách nhiệm.
 
-Năm 1986, bối cảnh thị trường đổi; “Hoàn thành nhiệm vụ năng lượng” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 82, lớp 1, nhịp 20.)
+Bà Hà trong khung ảnh / trong giọng nói chỉ hỏi ăn chưa. Hùng mỉm cười một mình: quản trị đế chế bắt đầu từ câu hỏi ấy.
 
-Hùng đi hiện trường “Hoàn thành nhiệm vụ năng lượng” ở Seoul: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 82, lớp 1, nhịp 21.)
+Trước khi ngủ ông viết sổ da bốn dòng: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không vỡ thành hỗn độn.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 82, lớp 1, nhịp 22.)
+Cuối ngày đèn còn sáng một dãy bàn. Ông tắt dãy đó sau khi chắc ai cũng về được nhà. Việc quan trọng không biến thành văn hóa thức khuya khoe mẽ.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 82, lớp 1, nhịp 23.)
+Ông từ chối một đề xuất “linh hoạt” sai chỗ. Linh hoạt đúng là thích ứng. Linh hoạt sai là lỗ uy tín trả góp.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Hoàn thành nhiệm vụ năng lượng” sạch và đủ. (Chương 82, lớp 1, nhịp 24.)
+Lan phản biện một điểm trong phương án. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm lớn.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 82, lớp 1, nhịp 25.)
+Hai phòng ban suýt thành hai chiến tuyến. Hùng cắt: lỗi hệ thống trước tội đồ. Quy trình được sửa trước khi tìm người để chửi.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 82, lớp 2, nhịp 33.)
+Đối thủ chơi chiêu nóng. Thương Gia đáp bằng hàng/dịch vụ đúng mẫu và hợp đồng rõ. Không đua đáy. Giữ chuẩn là giữ tên.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 82, lớp 2, nhịp 34.)
+### Các nhịp hiện trường
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Hoàn thành nhiệm vụ năng lượng” có đà tại Seoul. (Chương 82, lớp 2, nhịp 35.)
+Nhịp 1 trong ngày tại Seoul: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 82, lớp 2, nhịp 36.)
+Nhịp 2 trong ngày tại Seoul: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 82, lớp 2, nhịp 37.)
+Nhịp 3 trong ngày tại Seoul: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 82, lớp 2, nhịp 40.)
+Nhịp 4 trong ngày tại Seoul: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Trong 9 ngày đầu, 4 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 82, lớp 2, nhịp 42.)
+Nhịp 5 trong ngày tại Seoul: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 82, lớp 2, nhịp 43.)
+Nhịp 6 trong ngày tại Seoul: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 82, lớp 2, nhịp 44.)
+Nhịp 7 trong ngày tại Seoul: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 82, lớp 2, nhịp 47.)
+Nhịp 8 trong ngày tại Seoul: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 82, lớp 2, nhịp 48.)
+Nhịp 9 trong ngày tại Seoul: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Hoàn thành nhiệm vụ năng lượng” sạch và đủ. (Chương 82, lớp 2, nhịp 49.)
+Nhịp 10 trong ngày tại Seoul: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 82, lớp 2, nhịp 50.)
+Nhịp 11 trong ngày tại Seoul: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 82, lớp 3, nhịp 58.)
+Nhịp 12 trong ngày tại Seoul: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 1 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
+### Khép
 
-Ghi nhận bổ sung 2 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
+Ngày ở Seoul năm 1987 có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước là “Mở rộng từ thiện quỹ”. Ông không hứa dễ — chỉ hứa không quên gốc làng Thanh Xuân và bát cháo năm ấy.
 
-Ghi nhận bổ sung 3 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
+Thêm một lớp quan sát 1 trong ngày tại Seoul năm 1987: Hùng dừng lại với thợ cả, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 82-1 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 4 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
+Thêm một lớp quan sát 2 trong ngày tại Seoul năm 1987: Hùng dừng lại với kế toán, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 82-2 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 5 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
+Thêm một lớp quan sát 3 trong ngày tại Seoul năm 1987: Hùng dừng lại với tài xế, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 82-3 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 6 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
+Thêm một lớp quan sát 4 trong ngày tại Seoul năm 1987: Hùng dừng lại với thủ kho, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 82-4 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 7 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
-
-Ghi nhận bổ sung 8 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
-
-Ghi nhận bổ sung 9 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
-
-Ghi nhận bổ sung 10 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
-
-Ghi nhận bổ sung 11 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
-
-Ghi nhận bổ sung 12 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
-
-Ghi nhận bổ sung 13 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
-
-Ghi nhận bổ sung 14 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
-
-Ghi nhận bổ sung 15 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
-
-Ghi nhận bổ sung 16 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
-
-Ghi nhận bổ sung 17 — “Hoàn thành nhiệm vụ năng lượng” (1986, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 82.
+Thêm một lớp quan sát 5 trong ngày tại Seoul năm 1987: Hùng dừng lại với kỹ sư trẻ, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 82-5 được để trong sổ da, không để trong bài diễn văn.
 
 ============================================================
-(3020 từ)
+(3046 từ)

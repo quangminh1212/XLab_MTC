@@ -1,234 +1,137 @@
+============================================================
 Chương 15: Thuê người giúp việc
+============================================================
 
 ### Mở
 
-Trên bản đồ/bảng số/hiện trường cùng một mũi tên: “Thuê người giúp việc”. Năm 1983.
+Cà phê nguội trên bàn. Việc thì nóng. Hùng bắt đầu bằng sổ chứ không bằng miệng. Nhịp riêng chương 15.
 
-Nếu chỉ làm đúng một việc hôm nay, ông chọn đúng với người.
+Hệ thống nhấp như thư ký — hữu ích, không thần thánh.
 
-Thuê người giúp việc — nghe nhỏ, nhưng là lần đầu nhà Trần có thêm hơi thở. “Thuê người giúp việc” dạy ông quản người bắt đầu từ tôn trọng.
+### Dấu vết đã có
 
-### Diễn biến đã xác lập
+### Mở Trên bản đồ/bảng số/hiện trường cùng một mũi tên: “Thuê người giúp việc”. Năm 1983. Nếu chỉ làm đúng một việc hôm nay, ông chọn đúng với người. Thuê người giúp việc — nghe nhỏ, nhưng là lần đầu nhà Trần có thêm hơi thở. “Thuê người giúp việc” dạy ông quản người bắt đầu từ tôn trọng. ### Diễn biến đã xác lập Ngày thứ mười lăm. Sáng sớm, Hùng giao 150m vải cho bà Phượng. Bà nhận vải, kiểm tra từng cuộn, gật đầu hài lòng. Lan đi theo, bắt đầu học may — cô ngồi cạnh bà Phượng, quan sát, ghi chép, và thử may những đường kim đầu tiên. "Học may thì bắt đầu từ đường thẳng." Bà Phượng nói, chỉ vào máy khâu Singer. "Đạp chân đều, tay đưa vải thẳng, mắt theo kim. Đường thẳng là nền tảng — đường thẳng tốt thì mọi đường khác mới tốt." Lan đạp máy khâu — chân đạp, kim lên xuống, vải chạy dưới chân vịt. Đường kim đầu tiên cong queo, ngoằn ngoèo, như rắn bò. Lan đỏ mặt, nhưng bà Phượng cười: "Bình thường. Hôm đầu ai cũng thế. Đạp lại, lần này chậm hơn, đều hơn." Lan đạp lại. Lần thứ hai thẳng hơn. Lần thứ ba gần thẳng. Lần thứ năm thẳng. Cô mỉm cười — học nhanh, như mọi thứ cô làm. Hùng để Lan ở lại học may, rồi đi bán hàng ở huyện. Hôm nay ông bán lẻ: 3 bộ quần áo (150 đồng), 10 hộp vitamin (50 đồng), 10 bánh xà phòng (30 đồng), 5 tuýp kem đánh răng (25 đồng), 5 chai dầu gội (40 đồng). Tổng: 295 đồng. 「Giao dịch thành công! +30 EXP. Tổng EXP: 615」 615 EXP. Thương mại lv2 cần 500 EXP để nâng cấp lv3 — ông đã vượt 500. Hệ thống thông báo: 「Kỹ năng Thương mại cấp 2 → cấp 3! EXP đạt 500+. - Thương mại cấp 3: Đánh giá giá trị hàng hóa chính xác 99%, dự đoán xu hướng giá trong 14 ngày, thương lượng giảm 30% chi phí, nhận biết hàng giả/hàng thật chính xác 95%.」 Thương mại lv3. Hùng mỉm cười — giờ ông không chỉ biết giá trị và xu hướng giá, mà còn nhận biết hàng giả. Trong thời bao cấp, hàng giả phổ biến — vải pha, thuốc giả, xà phòng nhái. Kỹ năng này sẽ giúp ông tránh lừa đảo và chọn hàng đúng. --- Buổi chiều, Hùng về nhà sớm. Bà Hà ngồi ở hiên, nhưng bà không alone — có một người phụ nữ trung niên ngồi cạnh, đang nói chuyện. Người phụ nữ mặc áo nâu sờn, khuôn mặt gầy, đôi mắt hiền nhưng mệt mỏi. Bà ta khoảng bốn mươi tuổi, tay chai sạn, lưng hơi còng. "Cậu Hùng về rồi." Bà Hà nói. "Đây là bà Xuân, ở làng bên. Bà ấy... bà ấy cần việc." Hùng ngồi xuống, nhìn bà Xuân. "Cháu chào bà.
 
-Ngày thứ mười lăm. Sáng sớm, Hùng giao 150m vải cho bà Phượng. Bà nhận vải, kiểm tra từng cuộn, gật đầu hài lòng. Lan đi theo, bắt đầu học may — cô ngồi cạnh bà Phượng, quan sát, ghi chép, và thử may những đường kim đầu tiên.
+### Cảnh chính
 
-"Học may thì bắt đầu từ đường thẳng." Bà Phượng nói, chỉ vào máy khâu Singer. "Đạp chân đều, tay đưa vải thẳng, mắt theo kim. Đường thẳng là nền tảng — đường thẳng tốt thì mọi đường khác mới tốt."
+Tại Làng Thanh Xuân / Quốc Oai năm 1983, việc của ngày được bóc thành chuỗi nhỏ: ai chịu, hạn nào, chuẩn nào. Lan bảng ba màu. Đỏ — xử trong bốn mươi tám giờ. Hùng không hô hào; ông xem hiện trường.
 
-Lan đạp máy khâu — chân đạp, kim lên xuống, vải chạy dưới chân vịt. Đường kim đầu tiên cong queo, ngoằn ngoèo, như rắn bò. Lan đỏ mặt, nhưng bà Phượng cười: "Bình thường. Hôm đầu ai cũng thế. Đạp lại, lần này chậm hơn, đều hơn."
+Bối cảnh thời cuộc: thời bao cấp còn đọng phiếu và hàng hiếm, mỗi giao dịch nhỏ cũng mang mùi thận trọng. Xung đột “văn hóa khác biệt” không được giải bằng khẩu hiệu. Cảm xúc tin tưởng thế hệ sau được để đúng chỗ — không tràn lên quyết định sổ sách.
 
-Lan đạp lại. Lần thứ hai thẳng hơn. Lần thứ ba gần thẳng. Lần thứ năm thẳng. Cô mỉm cười — học nhanh, như mọi thứ cô làm.
+### Buổi sáng
 
-Hùng để Lan ở lại học may, rồi đi bán hàng ở huyện. Hôm nay ông bán lẻ: 3 bộ quần áo (150 đồng), 10 hộp vitamin (50 đồng), 10 bánh xà phòng (30 đồng), 5 tuýp kem đánh răng (25 đồng), 5 chai dầu gội (40 đồng). Tổng: 295 đồng.
+Trời Làng Thanh Xuân / Quốc Oai năm 1983 se lạnh cuối mùa. Hùng đến sớm hơn lịch họp. Ông không mở slide trước. Ông đi một vòng, chào khách hàng trung thành, hỏi một câu cụ thể: máy có kêu lạ không.
 
-「Giao dịch thành công! +30 EXP. Tổng EXP: 615」
+Mùi canh ca bếp công nhân bám lấy ông như lời nhắc: đây là đời sống, không phải mô hình trên giấy. Lan đã để sẵn ba tờ giấy: phải làm / không được làm / ai chịu. Hùng viết thêm một dòng bằng tay: “Không dối.”
 
-615 EXP. Thương mại lv2 cần 500 EXP để nâng cấp lv3 — ông đã vượt 500. Hệ thống thông báo:
+### Va chạm
 
-「Kỹ năng Thương mại cấp 2 → cấp 3! EXP đạt 500+.
-- Thương mại cấp 3: Đánh giá giá trị hàng hóa chính xác 99%, dự đoán xu hướng giá trong 14 ngày, thương lượng giảm 30% chi phí, nhận biết hàng giả/hàng thật chính xác 95%.」
+Xung đột “văn hóa khác biệt” đến đúng lúc việc vừa có đà. Một người cũ xin đặc cách. 
 
-Thương mại lv3. Hùng mỉm cười — giờ ông không chỉ biết giá trị và xu hướng giá, mà còn nhận biết hàng giả. Trong thời bao cấp, hàng giả phổ biến — vải pha, thuốc giả, xà phòng nhái. Kỹ năng này sẽ giúp ông tránh lừa đảo và chọn hàng đúng.
+Hùng không lớn tiếng. Ông yêu cầu quy trình một trang lên bảng: sự thật, việc cần làm, kênh hỏi. Ai nhận lỗi để sửa được bảo vệ; ai giấu lỗi để giữ mặt sẽ bị xử. Lan đứng về phía quy trình — không phải cứng đầu, để đỡ anh khi áp lực muốn kéo lệch.
 
----
+Quyết định trong ngày: mở quỹ minh bạch thêm một lớp số. Không hứa nóng. Có hạn. Có tên người.
 
-Buổi chiều, Hùng về nhà sớm. Bà Hà ngồi ở hiên, nhưng bà không alone — có một người phụ nữ trung niên ngồi cạnh, đang nói chuyện. Người phụ nữ mặc áo nâu sờn, khuôn mặt gầy, đôi mắt hiền nhưng mệt mỏi. Bà ta khoảng bốn mươi tuổi, tay chai sạn, lưng hơi còng.
+### Việc cụ thể
 
-"Cậu Hùng về rồi." Bà Hà nói. "Đây là bà Xuân, ở làng bên. Bà ấy... bà ấy cần việc."
+Trong 6 ngày xoay quanh mốc này, đội ngũ bóc 6 nút thắt. Không phải 25 cuộc họp dài — là 25 quyết định ngắn có chủ sở hữu. Một lỗi lặp bị chặn từ gốc. Một quy trình viết lại bằng lời thợ cũng hiểu: bước làm, ngưỡng dừng, tên người chịu.
 
-Hùng ngồi xuống, nhìn bà Xuân. "Cháu chào bà. Bà cần việc gì ạ?"
+Lan cập nhật bằng việc đã xong, không bằng tính từ. Hùng khen đúng việc, không khen lấy lệ. bà Nguyễn Thị Hà, ông Tanaka, con trai Hùng được gọi tên khi đóng góp. Người im lặng làm đúng cũng được nhìn thấy — nếu không, văn hóa sẽ chỉ nuôi người khéo nói.
 
-Bà Xuân cúi đầu, giọng nhỏ: "Tôi... tôi góa chồng, hai con nhỏ. Chồng tôi mất năm ngoái, bệnh nặng không có tiền chữa. Tôi ở nhà trồng rau, nhưng không đủ ăn. Tôi nghe bà Hà nói cậu cần người giúp việc nhà, nên tôi đến."
-
-Hùng nhìn bà Xuân — góa chồng, hai con nhỏ, nghèo. Trong thời bao cấp, góa phụ không có việc làm ổn định, sống bằng nông nghiệp tự cấp tự túc, nghèo đói. Bà cần việc, cần tiền, cần ổn định.
-
-"Bà có kinh nghiệm làm việc nhà không?" Hùng hỏi.
-
-"Có. Tôi làm việc nhà cả đời — nấu cơm, giặt quần áo, quét nhà, chăm con. Tôi cũng biết nấu ăn — nấu cơm, nấu canh, nấu phở, nấu bún."
-
-Hùng suy nghĩ. Bà Hà đã khỏe, nhưng bà già — sáu mươi tuổi, không nên làm việc nhà nặng. Lan bận học may và bán hàng. Hùng bận kinh doanh. Gia đình cần người giúp việc nhà — nấu cơm, giặt quần áo, dọn dẹp. Và bà Xuân cần việc.
-
-"Được." Hùng nói. "Cháu thuê bà. Công việc: nấu cơm 2 bữa/ngày, giặt quần áo, dọn dẹp nhà cửa. Lương 30 đồng/tháng, cộng cơm ăn. Bà làm từ 6 giờ sáng đến 6 giờ chiều, về nhà ngủ. Bà có nhận không?"
-
-30 đồng/tháng — bằng hai tháng lương công nhân thời bao cấp. Bà Xuân mắt sáng lên, rồi nước mắt chảy. "Nhận. Tôi nhận. Cảm ơn cậu, cảm ơn."
-
-Bà Xuân bắt đầu làm ngay buổi chiều — cô quét nhà, giặt quần áo, nấu cơm tối. Nấu cơm trắng, canh trứng, thịt heo kho — đơn giản nhưng ngon. Cô nấu giỏi — thịt kho mềm, canh đậm, cơm dẻo. Bà Hà ăn, gật đầu khen: "Ngon. Bà nấu giỏi lắm."
-
-Bà Xuân cười — nụ cười đầu tiên sau nhiều tháng. Cô có việc, có lương, có cơm ăn. Hai con cô ở nhà (12 tuổi và 10 tuổi), tự lo được nhau. Cô về nhà tối, sáng lại đến.
-
-Bữa tối nay do bà Xuân nấu — và khác hẳn mọi bữa. Không chỉ ngon hơn, mà đa dạng hơn: cơm trắng, thịt bò xào hành tỏi, canh rau lang nấu tôm (tôm khô từ kho không gian, ẩn giấu), đĩa dưa muối. Bốn món — thịnh soạn theo tiêu chuẩn thời bao cấp, đơn giản theo tiêu chuẩn thế kỷ 21.
-
-Bà Hà ăn được hai bát cơm, gật đầu liên tục. "Bà Xuân nấu ngon lắm. Bà Hà may mắn có người nấu cơm."
-
-Lan về từ nhà bà Phượng, mệt nhưng phấn khích. Cô học may cả ngày — đường thẳng, đường cong, đường zic-zac, may cổ áo, may tay áo. Bà Phượng kiên nhẫn, dạy từng bước, và Lan học nhanh.
-
-"Em may được đường thẳng rồi!" Lan nói, mắt sáng. "Bà Phượng khen em tay ổn, đạp đều. Bà bảo em có thiên phú — em may giỏi."
-
-Hùng cười. "Em giỏi thì sau này em quản lý xưởng may."
-
-Lan cười, rồi ăn cơm — cô đói, ăn ba bát. Bà Xuân nấu ngon, cơm dẻo, thịt mềm, canh đậm — Lan ăn nhiều hơn mọi khi.
-
-Sau bữa tối, bà Xuân dọn dẹp, rửa bát, rồi về nhà. Bà Hà ngồi ở hiên, uống trà, nhìn trăng. Bà khỏe, bà vui, bà có người nấu cơm, có người giặt quần áo — bà không phải làm việc nhà nữa. Bà chỉ việc nghỉ ngơi, đọc sách, và nhìn cháu thành công.
-
-"Bà ơi." Hùng ngồi cạnh. "Bà thấy bà Xuân thế nào?"
-
-Bà Hà gật đầu. "Bà ấy hiền, chăm chỉ, nấu giỏi. Bà ấy khổ lắm — góa chồng, hai con nhỏ. Cậu giúp bà ấy là làm phước."
-
-"Cháu biết." Hùng nói. "Cháu không chỉ thuê bà ấy vì cần người giúp — cháu thuê vì bà ấy cần việc. Trong thời bao cấp, nhiều người nghèo, không có việc. Cháu có việc, cháu cho. Đó là kinh doanh đúng cách."
-
-Bà Hà nhìn cháu, đôi mắt mờ ấm lên. "Cậu nói đúng. Kinh doanh không chỉ là kiếm tiền — kinh doanh là giúp người. Bố cậu cũng nghĩ vậy, hồi trước. Ông ấy buôn bán nhỏ, nhưng luôn giúp người nghèo. Ai đói, ông cho gạo. Ai ốm, ông cho thuốc. Rồi ông bị coi là tư sản, bị đưa đi..." Bà im lặng, nước mắt chảy.
-
-Hùng nắm tay bà. "Con sẽ tìm cách đưa cha về, bà. Con hứa."
-
-Bà Hà gật đầu, lau nước mắt. "Bà tin cậu. Bà luôn tin."
-
-Tối ấy, Hùng ngồi ngoài sân, kiểm tra tài chính:
-- Tiền ngoài: 2.575 (ngày 14) + 295 (bán hàng) - 30 (lương bà Xuân, trả đầu tháng) = 2.840 đồng
-- Tiền trong không gian: 10.000 đồng
-- EXP: 615
-- Đại lý: 4
-- Sản xuất: 50 bộ đang may (9 ngày còn lại)
-- Nhân sự: bà Xuân (giúp việc), bà Phượng + 2 thợ (may)
-
-Hùng vào không gian, ngồi bên suối. Hệ thống thông báo:
-
-「Tiến độ tổng quan:
-- Kỹ năng: Thương mại lv3, Ngôn ngữ lv1, Y tế lv1
-- Không gian: 1.200m²
-- Nhiệm vụ đang làm:
-  + Mở cửa hàng: 5/30 ngày (ký hợp tác, đang làm giấy phép)
-  + Sản xuất 50 bộ: 1/10 ngày (đã giao vải, đang may)」
-
-Hùng gật đầu. Hai nhiệm vụ song song — cửa hàng và sản xuất. Cả hai đang tiến triển. Nếu hoàn thành cả hai, ông sẽ nhận 300 EXP + 2 kỹ năng mới + 500m² không gian. Tổng EXP sẽ đạt 900+, và không gian 1.700m².
-
-Hùng suy nghĩ về bước tiếp theo. Sau khi cửa hàng khai trương và sản xuất hoàn thành, ông sẽ:
-1. Mở rộng sản xuất — từ 50 bộ/lô lên 100 bộ/lô, thuê thêm thợ
-2. Mở thêm cửa hàng — không chỉ huyện Quốc Oai, mà các tỉnh lân cận
-3. Mua đất — đầu tư bất động sản, xây xưởng, xây cửa hàng
-4. Mở rộng đại lý — thêm tỉnh, thêm mặt hàng
-
-Bốn bước, song song. Hùng sẽ thực hiện cùng lúc — vì thời gian không chờ, và cơ hội không đợi.
-
-Hùng thoát không gian, nằm xuống giường. Ngoài sân, trăng tròn, sáng vằng vặc. Bà Hà ngủ ngon — giấc ngủ của người khỏe, ấm, yên. Lan ngủ, mỉm cười — cô mơ về máy khâu, về đường kim thẳng tắp.
-
-Hùng nhắm mắt. Mười lăm ngày. Từ tỉnh dậy trong căn nhà dột rách đến 2.840 đồng, bốn đại lý, một đối tác cửa hàng, sản xuất đầu tiên, và nhân sự đầu tiên. Mười lăm ngày — và ông mới chỉ bắt đầu.
-
-Còn bốn mươi lăm ngày nữa. Nhưng ông không sợ — ông có hệ thống, có kiến thức, có gia đình, và có ý chí.
-
-Hành trình tiếp tục.
-
-### Lớp sâu
-
-### Nhịp “Thuê người giúp việc”
-
-Năm 1983 tại Làng Thanh Xuân, Quốc Oai, việc được bóc thành chuỗi nhỏ: chủ sở hữu, hạn, chuẩn. Lan bảng ba màu. Đỏ — 48 giờ. Hùng không hô hào; ông xem hiện trường.
-
-### Thử nhỏ
-
-Thử nhỏ: báo cáo muộn / lô suýt lệch / tin đồn. Họp 25 phút — nguyên nhân, 48 giờ, cấm giấu. Nhận lỗi được bảo vệ để sửa.
-
-### Kết quả
-
-“Thuê người giúp việc” (1983): có biên bản; ~90 người liên quan được phổ biến thay đổi; rủi ro có chủ sở hữu. Lan xem vàng; Hùng xem đỏ.
-
-「1983 | Thuê người giúp việc | EXP +47 | người – sổ – uy tín」
-
-### Nhà
-
-Mâm cơm 1983. “Thuê người giúp việc” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-### Khép
-
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Mở rộng xưởng may”.
-
-“Thuê người giúp việc” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Làng Thanh Xuân, Quốc Oai và thế giới.
+Chỉ số theo dõi tuần: tiến độ 2 mốc; phản hồi khách/thợ được đọc to 2 lần; quỹ thời gian cho hiện trường không bị họp nuốt. EXP hệ thống có thể cộng 95, nhưng ông không làm việc vì con số nhấp nháy.
 
 ### Thoại
 
-Lan: ““Thuê người giúp việc” anh sợ nhất chỗ nào?”
-Hùng: “Sợ hứa nhanh hơn sức.”
-Lan: “Em giữ nhịp. Anh giữ chuẩn.”
+Một cán bộ/khách quen hỏi nhỏ: “Có cách nhanh không?”
+Hùng lắc: “Nhanh mà bẩn thì không chơi. Năm 1983 khác xưa, nhưng sạch vẫn là sạch.”
+Im lặng — rồi phía bên kia gật.
 
-### Lớp hiện trường & sổ sách
+### Nhà
 
-Tại TP.HCM năm 1983, Hùng chia “Thuê người giúp việc” thành việc hiện trường, sổ sách, khách và người. Lan giữ nhịp bảng việc–người–hạn. (Chương 15, lớp 1, nhịp 1.)
+Đêm 1983, mâm cơm không chức danh. Bà Hà để phần ngon cho cháu; Hùng nhẹ nhàng gắp lại cho bà. Lan dịch việc ngày thành câu bà hiểu — không giọng họp trên mâm.
 
-Xung đột “văn hóa khác biệt” được gọi tên ngay trong họp, không để thì thầm hành lang. Ai muốn đi tắt bị trả về quy trình. (Chương 15, lớp 1, nhịp 2.)
+Hùng kể một mẩu việc bằng lời bình dân, bỏ hết từ hoa mỹ. Bà Hà (hoặc ký ức bà) chỉ cần biết cháu còn ăn, còn về, còn thương người. Nhà vẫn là nơi ông trả lại hình hài con người sau ngày dài ở Làng Thanh Xuân / Quốc Oai.
 
-Cảm xúc chủ đạo là tin tưởng thế hệ sau, nhưng ông không để cảm xúc thay biên bản. Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, ông Tanaka cùng chịu trách nhiệm từng mảng. (Chương 15, lớp 1, nhịp 3.)
+### Hệ thống
 
-Một phản hồi thật từ khách/thợ/đối tác được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng hạn đã giữ. (Chương 15, lớp 1, nhịp 4.)
+「Năm 1983 | Tiến độ liên quan: Thuê người giúp việc
+- Ghi nhận: lớp việc trong ngày hoàn thành có kiểm chứng
+- Thưởng: +125 EXP | Hoàn thành nhiệm vụ phụ — +EXP
+- Gợi ý: giữ người – giữ sổ – giữ uy tín」
 
-Bà Hà không cần slide; Lan dịch việc thành câu bà nắm được. Nhà vẫn là nơi Hùng trả hình hài con người. (Chương 15, lớp 1, nhịp 7.)
+Hùng đọc xong rồi tắt. Thước đo hữu ích — không phải ông chủ trong đầu. Việc ngoài đời ồn và thật hơn bất kỳ dòng chữ phát sáng nào.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 15, lớp 1, nhịp 8.)
+### Lớp sâu trong ngày
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 15, lớp 1, nhịp 9.)
+Phần thưởng hệ thống có thể chờ. Người đang chờ lương, chờ hàng, chờ câu trả lời thì không thể chờ văn chương quản trị.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Thuê người giúp việc” có đà tại TP.HCM. (Chương 15, lớp 1, nhịp 10.)
+Cuối ngày đèn còn sáng một dãy bàn. Ông tắt dãy đó sau khi chắc ai cũng về được nhà. Việc quan trọng không biến thành văn hóa thức khuya khoe mẽ.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 15, lớp 1, nhịp 11.)
+Truyền thông nội bộ một trang chặn tin đồn trước khi nó nở. Coi người như người lớn thì họ làm như người lớn. Coi người như trẻ con thì họ sẽ thì thầm sau lưng.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 15, lớp 1, nhịp 12.)
+Có khoảnh khắc ông muốn ôm đồm như xưa. Rồi nhìn Lan và đội ngũ, ông buông đúng phần. Ủy thác không phải bỏ mặc: là tin và kiểm có nhịp.
 
-“Thuê người giúp việc” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 15, lớp 1, nhịp 14.)
+Trước khi ngủ ông viết sổ da bốn dòng: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không vỡ thành hỗn độn.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 15, lớp 1, nhịp 15.)
+Kho bạc/kế toán rà dòng tiền ba mươi và chín mươi ngày. Mô hình đẹp trên giấy nhưng xấu thanh khoản thì hoãn. Ảo tưởng đắt hơn cơ hội lỡ — bài học ông trả giá từ những năm đầu.
 
-Trong 8 ngày đầu, 5 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 15, lớp 1, nhịp 17.)
+Ông nhớ lần đầu bán hàng run tay năm 1983. Cảm giác ấy giúp ông không biến mốc hôm nay thành trò chơi danh vọng.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 15, lớp 1, nhịp 18.)
+Đối thủ chơi chiêu nóng. Thương Gia đáp bằng hàng/dịch vụ đúng mẫu và hợp đồng rõ. Không đua đáy. Giữ chuẩn là giữ tên.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 15, lớp 1, nhịp 19.)
+Hai phòng ban suýt thành hai chiến tuyến. Hùng cắt: lỗi hệ thống trước tội đồ. Quy trình được sửa trước khi tìm người để chửi.
 
-Năm 1983, bối cảnh thị trường đổi; “Thuê người giúp việc” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 15, lớp 1, nhịp 20.)
+Chiều tà ở Làng Thanh Xuân / Quốc Oai, ông đứng nhìn chuyền sản xuất. Mỗi điểm trên đó là người thật. Ông gỡ một việc đã xong khỏi đầu như gỡ một bao gạo — nhẹ hơn, nhưng không được phép kiêu.
 
-Hùng đi hiện trường “Thuê người giúp việc” ở TP.HCM: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 15, lớp 1, nhịp 21.)
+Năm 1983, thời bao cấp còn đọng phiếu và hàng hiếm, mỗi giao dịch nhỏ cũng mang mùi thận trọng. Trong bối cảnh ấy, nước cờ hôm nay vừa phòng thủ vừa mở đường — miễn là sổ còn sạch và người còn đứng.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 15, lớp 1, nhịp 22.)
+Lan phản biện một điểm trong phương án. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm lớn.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 15, lớp 1, nhịp 23.)
+Hùng kiểm tra lại một con số đẹp. Đẹp mà không truy xuất nguồn thì chưa phải đẹp. Ông trả số về cho đúng tay chịu trách nhiệm.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Thuê người giúp việc” sạch và đủ. (Chương 15, lớp 1, nhịp 24.)
+Ông từ chối một đề xuất “linh hoạt” sai chỗ. Linh hoạt đúng là thích ứng. Linh hoạt sai là lỗ uy tín trả góp.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 15, lớp 1, nhịp 25.)
+Bà Hà trong khung ảnh / trong giọng nói chỉ hỏi ăn chưa. Hùng mỉm cười một mình: quản trị đế chế bắt đầu từ câu hỏi ấy.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 15, lớp 2, nhịp 33.)
+Ca đêm được hỏi ăn gì, có xe về không, ghế chờ mưa đã đủ chưa. Chi tiết không lên báo. Chi tiết lên lương tâm.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 15, lớp 2, nhịp 34.)
+### Các nhịp hiện trường
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Thuê người giúp việc” có đà tại TP.HCM. (Chương 15, lớp 2, nhịp 35.)
+Nhịp 1 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: từ chối đua giá đáy. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 15, lớp 2, nhịp 36.)
+Nhịp 2 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: trả hồ sơ cánh hẩu. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 15, lớp 2, nhịp 37.)
+Nhịp 3 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: giữ lương cốt lõi, cắt chi hoa hòe. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-“Thuê người giúp việc” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 15, lớp 2, nhịp 39.)
+Nhịp 4 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: ủy thác việc vận hành, giữ việc chiến lược. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 15, lớp 2, nhịp 40.)
+Nhịp 5 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: từ chối đua giá đáy. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Trong 8 ngày đầu, 5 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 15, lớp 2, nhịp 42.)
+Nhịp 6 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: trả hồ sơ cánh hẩu. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 15, lớp 2, nhịp 43.)
+Nhịp 7 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: giữ lương cốt lõi, cắt chi hoa hòe. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 15, lớp 2, nhịp 44.)
+Nhịp 8 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: ủy thác việc vận hành, giữ việc chiến lược. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 1 — “Thuê người giúp việc” (1983, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 15.
+Nhịp 9 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: từ chối đua giá đáy. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 2 — “Thuê người giúp việc” (1983, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 15.
+Nhịp 10 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: trả hồ sơ cánh hẩu. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 3 — “Thuê người giúp việc” (1983, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 15.
+Nhịp 11 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: giữ lương cốt lõi, cắt chi hoa hòe. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 4 — “Thuê người giúp việc” (1983, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 15.
+Nhịp 12 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: ủy thác việc vận hành, giữ việc chiến lược. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 5 — “Thuê người giúp việc” (1983, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 15.
+### Khép
 
-Ghi nhận bổ sung 6 — “Thuê người giúp việc” (1983, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 15.
+Ngày ở Làng Thanh Xuân / Quốc Oai năm 1983 có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước là “Mở rộng xưởng may”. Ông không hứa dễ — chỉ hứa không quên gốc làng Thanh Xuân và bát cháo năm ấy.
 
-Ghi nhận bổ sung 7 — “Thuê người giúp việc” (1983, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 15.
+Thêm một lớp quan sát 1 trong ngày tại Làng Thanh Xuân / Quốc Oai năm 1983: Hùng dừng lại với thợ cả, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 15-1 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 8 — “Thuê người giúp việc” (1983, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 15.
+Thêm một lớp quan sát 2 trong ngày tại Làng Thanh Xuân / Quốc Oai năm 1983: Hùng dừng lại với kế toán, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 15-2 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 9 — “Thuê người giúp việc” (1983, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 15.
+Thêm một lớp quan sát 3 trong ngày tại Làng Thanh Xuân / Quốc Oai năm 1983: Hùng dừng lại với tài xế, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 15-3 được để trong sổ da, không để trong bài diễn văn.
+
+Quan sát thêm khi mở đầu đã đổi: Hùng giữ nhịp thở, Lan giữ hạn, việc không chạy theo vanity. Chi tiết chương 15.
 
 ============================================================
-(3012 từ)
+(3021 từ)

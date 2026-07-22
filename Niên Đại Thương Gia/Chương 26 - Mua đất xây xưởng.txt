@@ -1,250 +1,137 @@
+============================================================
 Chương 26: Mua đất xây xưởng
+============================================================
 
 ### Mở
 
-Lan đặt trà xuống bàn ở Khu công nghiệp: “Anh, hôm nay là “Mua đất xây xưởng”. Em không muốn chỉ nói hay.”
+Mùi sơn tường mới / mùi máy / mùi chợ — tùy nơi — bám áo ông lúc bước vào việc. Nhịp riêng chương 26.
 
-Hệ thống nhấp như thư ký, không như thần thánh.
+Thị trường có thể ồn; ông giữ nhịp thở đều.
 
-Đất để xây xưởng không phải tờ giấy. “Mua đất xây xưởng” là tiền, giấy tờ, hàng xóm, và giấc mơ đặt nền bằng mét vuông thật.
+### Dấu vết đã có
 
-### Diễn biến đã xác lập
+### Mở Lan đặt trà xuống bàn ở Khu công nghiệp: “Anh, hôm nay là “Mua đất xây xưởng”. Em không muốn chỉ nói hay.” Hệ thống nhấp như thư ký, không như thần thánh. Đất để xây xưởng không phải tờ giấy. “Mua đất xây xưởng” là tiền, giấy tờ, hàng xóm, và giấc mơ đặt nền bằng mét vuông thật. ### Diễn biến đã xác lập Ngày thứ sáu mươi. Hai tháng kể từ khi Hùng tỉnh dậy. Hôm nay là ngày cuối của Phần 1 gốc — và Hùng đẩy nhanh để hoàn thành tối đa. Sáng sớm, Hùng đi mua đất. Anh Khanh giới thiệu ba mảnh đất: 1. Mảnh đất 3 sào (1.080m²) cạnh quốc lộ 6, cách cửa hàng 2km — 800 đồng 2. Mảnh đất 2 sào (720m²) ở trung tâm huyện, mặt đường — 1.000 đồng 3. Mảnh đất 5 sào (1.800m²) ở ngoại ô huyện, gần sông — 600 đồng Hùng mua cả ba — tổng 2.400 đồng. Bốn mảnh đất tổng (kể cả mảnh đầu). 「Mảnh đất mới: 3 mảnh (1.080m² + 720m² + 1.800m² = 3.600m²). Tổng đất: 4.320m² (6 sào).」 Hùng bắt đầu xây xưởng riêng trên mảnh đất 3 sào — xưởng may Thương Gia. Ông thuê ông Lân và ba thợ mộc, xây xưởng: khung gỗ, tường gạch, mái tôn. Tổng chi phí: 500 đồng (vật liệu) + 200 đồng (công) = 700 đồng. Xưởng rộng 200m², đủ cho mười máy khâu, mười thợ. Xưởng mới — không thuê, riêng của Thương Gia. Hùng chuyển máy và thợ từ kho thuê sang xưởng mới. Bà Phượng quản lý, Lan phụ. Năm máy cũ + năm máy mới (mua thêm, 500 đồng) = mười máy, mười thợ, 200 bộ/lô, 10 ngày/lô. 「Xưởng mới: Xưởng may Thương Gia (riêng, 200m², 10 máy, 10 thợ, 200 bộ/lô).」 Xưởng riêng — bước ngoặt. Không thuê, không mượn. Xưởng của Thương Gia, trên đất của Thương Gia. Đế chế đang lớn. --- Chiều, Hùng mở thêm cửa hàng thứ ba — ở Phủ Lý, Hà Nam, cạnh đại lý ông Dương. Cửa hàng nhỏ, 30m², thuê 50 đồng/tháng. Bà Xuân điều hành (cô đã học bán hàng, sẵn sàng quản lý cửa hàng nhỏ). Khai trương: bán 400 đồng ngày đầu. 「Giao dịch thành công! +30 EXP. Tổng EXP: 1.695」 Ba cửa hàng — Quốc Oai, Hà Đông, Phủ Lý. Chuỗi Thương Gia đang hình thành. Hùng cũng mở nhà hàng thứ hai — ở Hà Đông, cạnh cửa hàng thứ hai. Cùng thực đơn, cùng mô hình. Thuê đầu bếp bà Sáu, 50 đồng/tháng. Khai trương: 300 đồng ngày đầu. 「Giao dịch thành công! +25 EXP. Tổng EXP: 1.720」 Tối ấy, Hùng ngồi ngoài sân, kiểm tra tổng kết Phần 1: - Tiền ngoài: 13.306 (ngày 58) - 2.400 (đất) - 700 (xưởng) - 500 (máy) - 50 (thue cửa hàng 3) - 50 (nhà hàng 2 thuê) - 100 (lương bếp Sáu) + 400 (cửa hàng 3) + 300
 
-Ngày thứ sáu mươi. Hai tháng kể từ khi Hùng tỉnh dậy. Hôm nay là ngày cuối của Phần 1 gốc — và Hùng đẩy nhanh để hoàn thành tối đa.
+### Cảnh chính
 
-Sáng sớm, Hùng đi mua đất. Anh Khanh giới thiệu ba mảnh đất:
-1. Mảnh đất 3 sào (1.080m²) cạnh quốc lộ 6, cách cửa hàng 2km — 800 đồng
-2. Mảnh đất 2 sào (720m²) ở trung tâm huyện, mặt đường — 1.000 đồng
-3. Mảnh đất 5 sào (1.800m²) ở ngoại ô huyện, gần sông — 600 đồng
+Hiện trường Khu công nghiệp năm 1983 có mùi dầu máy / vải / kim loại — tùy chuyền. Hùng đi chậm, dừng ở chỗ tai nghe tiếng lạ. “Danh dự mất bắt đầu từ milimét,” ông nói với tổ trưởng. Kinh doanh muốn xuất sớm để kịp quý bị chặn.
 
-Hùng mua cả ba — tổng 2.400 đồng. Bốn mảnh đất tổng (kể cả mảnh đầu).
+Lan lo sau bán và phụ tùng. bà Nguyễn Thị Hà, ông Tanaka, con trai Hùng ghi chép, tranh luận kỹ thuật. Việc hôm nay không phải bán cho xong — là bán sự yên tâm còn lại sau khi khách mang hàng về nhà.
 
-「Mảnh đất mới: 3 mảnh (1.080m² + 720m² + 1.800m² = 3.600m²). Tổng đất: 4.320m² (6 sào).」
+### Buổi sáng
 
-Hùng bắt đầu xây xưởng riêng trên mảnh đất 3 sào — xưởng may Thương Gia. Ông thuê ông Lân và ba thợ mộc, xây xưởng: khung gỗ, tường gạch, mái tôn. Tổng chi phí: 500 đồng (vật liệu) + 200 đồng (công) = 700 đồng. Xưởng rộng 200m², đủ cho mười máy khâu, mười thợ.
+Trời Khu công nghiệp năm 1983 âm u sắp mưa. Hùng đến sớm hơn lịch họp. Ông không mở slide trước. Ông đi một vòng, chào thủ kho, hỏi một câu cụ thể: máy có kêu lạ không.
 
-Xưởng mới — không thuê, riêng của Thương Gia. Hùng chuyển máy và thợ từ kho thuê sang xưởng mới. Bà Phượng quản lý, Lan phụ. Năm máy cũ + năm máy mới (mua thêm, 500 đồng) = mười máy, mười thợ, 200 bộ/lô, 10 ngày/lô.
+Mùi canh ca bếp công nhân bám lấy ông như lời nhắc: đây là đời sống, không phải mô hình trên giấy. Lan đã để sẵn ba tờ giấy: phải làm / không được làm / ai chịu. Hùng viết thêm một dòng bằng tay: “Không dối.”
 
-「Xưởng mới: Xưởng may Thương Gia (riêng, 200m², 10 máy, 10 thợ, 200 bộ/lô).」
+### Va chạm
 
-Xưởng riêng — bước ngoặt. Không thuê, không mượn. Xưởng của Thương Gia, trên đất của Thương Gia. Đế chế đang lớn.
+Xung đột “lợi ích cổ đông” đến đúng lúc việc vừa có đà. Một tin đồn chạy trước sự thật. 
 
----
+Hùng không lớn tiếng. Ông yêu cầu quy trình một trang lên bảng: sự thật, việc cần làm, kênh hỏi. Ai nhận lỗi để sửa được bảo vệ; ai giấu lỗi để giữ mặt sẽ bị xử. Lan đứng về phía quy trình — không phải cứng đầu, để đỡ anh khi áp lực muốn kéo lệch.
 
-Chiều, Hùng mở thêm cửa hàng thứ ba — ở Phủ Lý, Hà Nam, cạnh đại lý ông Dương. Cửa hàng nhỏ, 30m², thuê 50 đồng/tháng. Bà Xuân điều hành (cô đã học bán hàng, sẵn sàng quản lý cửa hàng nhỏ).
+Quyết định trong ngày: mở quỹ minh bạch thêm một lớp số. Không hứa nóng. Có hạn. Có tên người.
 
-Khai trương: bán 400 đồng ngày đầu.
+### Việc cụ thể
 
-「Giao dịch thành công! +30 EXP. Tổng EXP: 1.695」
+Trong 7 ngày xoay quanh mốc này, đội ngũ bóc 5 nút thắt. Không phải 12 cuộc họp dài — là 12 quyết định ngắn có chủ sở hữu. Một lỗi lặp bị chặn từ gốc. Một quy trình viết lại bằng lời thợ cũng hiểu: bước làm, ngưỡng dừng, tên người chịu.
 
-Ba cửa hàng — Quốc Oai, Hà Đông, Phủ Lý. Chuỗi Thương Gia đang hình thành.
+Lan cập nhật bằng việc đã xong, không bằng tính từ. Hùng khen đúng việc, không khen lấy lệ. bà Nguyễn Thị Hà, ông Tanaka, con trai Hùng được gọi tên khi đóng góp. Người im lặng làm đúng cũng được nhìn thấy — nếu không, văn hóa sẽ chỉ nuôi người khéo nói.
 
-Hùng cũng mở nhà hàng thứ hai — ở Hà Đông, cạnh cửa hàng thứ hai. Cùng thực đơn, cùng mô hình. Thuê đầu bếp bà Sáu, 50 đồng/tháng. Khai trương: 300 đồng ngày đầu.
-
-「Giao dịch thành công! +25 EXP. Tổng EXP: 1.720」
-
-Tối ấy, Hùng ngồi ngoài sân, kiểm tra tổng kết Phần 1:
-- Tiền ngoài: 13.306 (ngày 58) - 2.400 (đất) - 700 (xưởng) - 500 (máy) - 50 (thue cửa hàng 3) - 50 (nhà hàng 2 thuê) - 100 (lương bếp Sáu) + 400 (cửa hàng 3) + 300 (nhà hàng 2) = 9.206 đồng
-- Tiền trong không gian: 10.000 đồng
-- EXP: 1.720
-- Cửa hàng: 3/8
-- Nhà hàng: 2/4
-- Xưởng: 4/7 (may riêng, giày HN, giày SG, túi)
-- Mảnh đất: 4/15
-
-Chưa đạt mục tiêu Phần 1 (8 cửa hàng, 4 nhà hàng, 7 xưởng, 15 mảnh đất) — nhưng ông đã xây nền tảng vững chắc. Phần 1 mở rộng (chương 51-60) sẽ tiếp tục.
-
-Hùng vào không gian, ngồi bên suối. Hệ thống thông báo:
-
-「Tổng kết 60 ngày đầu:
-- Kỹ năng: 7 (Thương mại lv4, Ngôn ngữ lv1, Y tế lv1, Sản xuất lv2, Quản lý lv1, Sản xuất giày lv1, Sản xuất túi lv1)
-- Không gian: 1.700m²
-- Cửa hàng: 3, Nhà hàng: 2, Xưởng: 4, Đất: 4 mảnh
-- Đại lý: 7
-- Nhân sự: ~20 người」
-
-Hùng gật đầu. 60 ngày. Từ số không đến 9.206 đồng, ba cửa hàng, hai nhà hàng, bốn xưởng, bốn mảnh đất, bảy kỹ năng. 60 ngày — và ông mới chỉ bắt đầu.
-
-Hành trình tiếp tục.
-
-### Lớp sâu
-
-### Sàn sản xuất
-
-“Mua đất xây xưởng” tại Quốc Oai / Hà Đông năm 1983: máy, ca, sai số. Hùng đi chậm. Lỗi thì dừng đúng quy trình. Kinh doanh muốn xuất sớm bị chặn. Danh dự bắt đầu từ milimet và mũi chỉ.
-
-### Thử nhỏ
-
-Bên ngoài muốn “linh hoạt” quy trình. Thương Gia từ chối. Linh hoạt sai chỗ là lỗ uy tín.
-
-### Kết quả
-
-“Mua đất xây xưởng” (1983): có biên bản; ~134 người liên quan được phổ biến thay đổi; rủi ro có chủ sở hữu. Lan xem vàng; Hùng xem đỏ.
-
-「1983 | Mua đất xây xưởng | EXP +53 | người – sổ – uy tín」
-
-### Nhà
-
-Mâm cơm 1983. “Mua đất xây xưởng” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-### Khép
-
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Đi Lào”.
-
-“Mua đất xây xưởng” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Quốc Oai / Hà Đông và thế giới.
+Chỉ số theo dõi tuần: tiến độ 3 mốc; phản hồi khách/thợ được đọc to 3 lần; quỹ thời gian cho hiện trường không bị họp nuốt. EXP hệ thống có thể cộng 128, nhưng ông không làm việc vì con số nhấp nháy.
 
 ### Thoại
 
-Tổ trưởng: “Chỗ này máy kêu lạ.”
-Hùng: “Dừng đúng quy trình. Cảm ơn đã không chạy thành tích.”
+Một cán bộ/khách quen hỏi nhỏ: “Có cách nhanh không?”
+Hùng lắc: “Nhanh mà bẩn thì không chơi. Năm 1983 khác xưa, nhưng sạch vẫn là sạch.”
+Im lặng — rồi phía bên kia gật.
 
-### Lớp hiện trường & sổ sách
+### Nhà
 
-Tại Khu công nghiệp năm 1984, Hùng chia “Mua đất xây xưởng” thành việc hiện trường, sổ sách, khách và người. Lan giữ nhịp bảng việc–người–hạn. (Chương 26, lớp 1, nhịp 1.)
+Đêm 1983, mâm cơm không chức danh. Bà Hà để phần ngon cho cháu; Hùng nhẹ nhàng gắp lại cho bà. Lan dịch việc ngày thành câu bà hiểu — không giọng họp trên mâm.
 
-Xung đột “lợi ích cổ đông” được gọi tên ngay trong họp, không để thì thầm hành lang. Ai muốn đi tắt bị trả về quy trình. (Chương 26, lớp 1, nhịp 2.)
+Hùng kể một mẩu việc bằng lời bình dân, bỏ hết từ hoa mỹ. Bà Hà (hoặc ký ức bà) chỉ cần biết cháu còn ăn, còn về, còn thương người. Nhà vẫn là nơi ông trả lại hình hài con người sau ngày dài ở Khu công nghiệp.
 
-Cảm xúc chủ đạo là biết ơn người cũ, nhưng ông không để cảm xúc thay biên bản. Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, ông Tanaka cùng chịu trách nhiệm từng mảng. (Chương 26, lớp 1, nhịp 3.)
+### Hệ thống
 
-Một phản hồi thật từ khách/thợ/đối tác được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng hạn đã giữ. (Chương 26, lớp 1, nhịp 4.)
+「Năm 1983 | Tiến độ liên quan: Mua đất xây xưởng
+- Ghi nhận: lớp việc trong ngày hoàn thành có kiểm chứng
+- Thưởng: +158 EXP | Tiến độ nhiệm vụ + giao dịch thành công
+- Gợi ý: giữ người – giữ sổ – giữ uy tín」
 
-Bà Hà không cần slide; Lan dịch việc thành câu bà nắm được. Nhà vẫn là nơi Hùng trả hình hài con người. (Chương 26, lớp 1, nhịp 7.)
+Hùng đọc xong rồi tắt. Thước đo hữu ích — không phải ông chủ trong đầu. Việc ngoài đời ồn và thật hơn bất kỳ dòng chữ phát sáng nào.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 26, lớp 1, nhịp 8.)
+### Lớp sâu trong ngày
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 26, lớp 1, nhịp 9.)
+Đối thủ chơi chiêu nóng. Thương Gia đáp bằng hàng/dịch vụ đúng mẫu và hợp đồng rõ. Không đua đáy. Giữ chuẩn là giữ tên.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mua đất xây xưởng” có đà tại Khu công nghiệp. (Chương 26, lớp 1, nhịp 10.)
+Lan phản biện một điểm trong phương án. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm lớn.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 26, lớp 1, nhịp 11.)
+Truyền thông nội bộ một trang chặn tin đồn trước khi nó nở. Coi người như người lớn thì họ làm như người lớn. Coi người như trẻ con thì họ sẽ thì thầm sau lưng.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 26, lớp 1, nhịp 12.)
+Có khoảnh khắc ông muốn ôm đồm như xưa. Rồi nhìn Lan và đội ngũ, ông buông đúng phần. Ủy thác không phải bỏ mặc: là tin và kiểm có nhịp.
 
-“Mua đất xây xưởng” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 26, lớp 1, nhịp 14.)
+Mùi canh ca bếp công nhân lúc tan ca kéo ông nhớ bát cháo năm 1983. Nhớ không phải để tự thương. Nhớ để không biến thành kẻ chỉ nhìn số.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 26, lớp 1, nhịp 15.)
+Một nhân viên trẻ hỏi thẳng có đang che gì không. Hùng đáp: “Nếu có, em được quyền hỏi đến khi rõ. Che là nợ.” Câu ấy lan trong nội bộ nhanh hơn bất kỳ poster động lực nào.
 
-Trong 7 ngày đầu, 4 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 26, lớp 1, nhịp 17.)
+Năm 1983, thời bao cấp còn đọng phiếu và hàng hiếm, mỗi giao dịch nhỏ cũng mang mùi thận trọng. Trong bối cảnh ấy, nước cờ hôm nay vừa phòng thủ vừa mở đường — miễn là sổ còn sạch và người còn đứng.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 26, lớp 1, nhịp 18.)
+Bà Hà trong khung ảnh / trong giọng nói chỉ hỏi ăn chưa. Hùng mỉm cười một mình: quản trị đế chế bắt đầu từ câu hỏi ấy.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 26, lớp 1, nhịp 19.)
+Cuối ngày đèn còn sáng một dãy bàn. Ông tắt dãy đó sau khi chắc ai cũng về được nhà. Việc quan trọng không biến thành văn hóa thức khuya khoe mẽ.
 
-Năm 1984, bối cảnh thị trường đổi; “Mua đất xây xưởng” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 26, lớp 1, nhịp 20.)
+Hùng yêu cầu mọi cam kết lớn phải có tên người chịu và hạn. Bắt tay không thay chữ ký. Nụ cười không thay điều khoản.
 
-Hùng đi hiện trường “Mua đất xây xưởng” ở Khu công nghiệp: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 26, lớp 1, nhịp 21.)
+Hai phòng ban suýt thành hai chiến tuyến. Hùng cắt: lỗi hệ thống trước tội đồ. Quy trình được sửa trước khi tìm người để chửi.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 26, lớp 1, nhịp 22.)
+Chiều tà ở Khu công nghiệp, ông đứng nhìn sân bãi container. Mỗi điểm trên đó là người thật. Ông gỡ một việc đã xong khỏi đầu như gỡ một bao gạo — nhẹ hơn, nhưng không được phép kiêu.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 26, lớp 1, nhịp 23.)
+Ca đêm được hỏi ăn gì, có xe về không, ghế chờ mưa đã đủ chưa. Chi tiết không lên báo. Chi tiết lên lương tâm.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Mua đất xây xưởng” sạch và đủ. (Chương 26, lớp 1, nhịp 24.)
+Trước khi ngủ ông viết sổ da bốn dòng: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không vỡ thành hỗn độn.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 26, lớp 1, nhịp 25.)
+Phần thưởng hệ thống có thể chờ. Người đang chờ lương, chờ hàng, chờ câu trả lời thì không thể chờ văn chương quản trị.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 26, lớp 2, nhịp 33.)
+Ông từ chối một đề xuất “linh hoạt” sai chỗ. Linh hoạt đúng là thích ứng. Linh hoạt sai là lỗ uy tín trả góp.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 26, lớp 2, nhịp 34.)
+### Các nhịp hiện trường
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mua đất xây xưởng” có đà tại Khu công nghiệp. (Chương 26, lớp 2, nhịp 35.)
+Nhịp 1 trong ngày tại Khu công nghiệp: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 26, lớp 2, nhịp 36.)
+Nhịp 2 trong ngày tại Khu công nghiệp: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 26, lớp 2, nhịp 37.)
+Nhịp 3 trong ngày tại Khu công nghiệp: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-“Mua đất xây xưởng” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 26, lớp 2, nhịp 39.)
+Nhịp 4 trong ngày tại Khu công nghiệp: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 26, lớp 2, nhịp 40.)
+Nhịp 5 trong ngày tại Khu công nghiệp: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Trong 7 ngày đầu, 4 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 26, lớp 2, nhịp 42.)
+Nhịp 6 trong ngày tại Khu công nghiệp: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 26, lớp 2, nhịp 43.)
+Nhịp 7 trong ngày tại Khu công nghiệp: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 26, lớp 2, nhịp 44.)
+Nhịp 8 trong ngày tại Khu công nghiệp: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Năm 1984, bối cảnh thị trường đổi; “Mua đất xây xưởng” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 26, lớp 2, nhịp 45.)
+Nhịp 9 trong ngày tại Khu công nghiệp: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 26, lớp 2, nhịp 47.)
+Nhịp 10 trong ngày tại Khu công nghiệp: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 26, lớp 2, nhịp 48.)
+Nhịp 11 trong ngày tại Khu công nghiệp: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Mua đất xây xưởng” sạch và đủ. (Chương 26, lớp 2, nhịp 49.)
+Nhịp 12 trong ngày tại Khu công nghiệp: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 26, lớp 2, nhịp 50.)
+### Khép
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 26, lớp 3, nhịp 58.)
+Ngày ở Khu công nghiệp năm 1983 có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước là “Đi Lào”. Ông không hứa dễ — chỉ hứa không quên gốc làng Thanh Xuân và bát cháo năm ấy.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 26, lớp 3, nhịp 59.)
+Thêm một lớp quan sát 1 trong ngày tại Khu công nghiệp năm 1983: Hùng dừng lại với thợ cả, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 26-1 được để trong sổ da, không để trong bài diễn văn.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mua đất xây xưởng” có đà tại Khu công nghiệp. (Chương 26, lớp 3, nhịp 60.)
+Thêm một lớp quan sát 2 trong ngày tại Khu công nghiệp năm 1983: Hùng dừng lại với kế toán, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 26-2 được để trong sổ da, không để trong bài diễn văn.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 26, lớp 3, nhịp 61.)
+Thêm một lớp quan sát 3 trong ngày tại Khu công nghiệp năm 1983: Hùng dừng lại với tài xế, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 26-3 được để trong sổ da, không để trong bài diễn văn.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 26, lớp 3, nhịp 62.)
-
-“Mua đất xây xưởng” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 26, lớp 3, nhịp 64.)
-
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 26, lớp 3, nhịp 65.)
-
-Trong 7 ngày đầu, 4 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 26, lớp 3, nhịp 67.)
-
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 26, lớp 3, nhịp 68.)
-
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 26, lớp 3, nhịp 69.)
-
-Năm 1984, bối cảnh thị trường đổi; “Mua đất xây xưởng” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 26, lớp 3, nhịp 70.)
-
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 26, lớp 3, nhịp 72.)
-
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 26, lớp 3, nhịp 73.)
-
-Phía trước việc lớn hơn; hôm nay chỉ cần “Mua đất xây xưởng” sạch và đủ. (Chương 26, lớp 3, nhịp 74.)
-
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 26, lớp 3, nhịp 75.)
-
-Ghi nhận bổ sung 1 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 2 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 3 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 4 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 5 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 6 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 7 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 8 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 9 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 10 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 11 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 12 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 13 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 14 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 15 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 16 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 17 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 18 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 19 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 20 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 21 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
-
-Ghi nhận bổ sung 22 — “Mua đất xây xưởng” (1984, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 26.
+Thêm một lớp quan sát 4 trong ngày tại Khu công nghiệp năm 1983: Hùng dừng lại với thủ kho, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 26-4 được để trong sổ da, không để trong bài diễn văn.
 
 ============================================================
-(3019 từ)
+(3028 từ)

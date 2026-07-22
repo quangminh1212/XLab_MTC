@@ -1,249 +1,139 @@
+============================================================
 Chương 33: Mở rộng thực phẩm
+============================================================
 
 ### Mở
 
-Năm 1984, tại TP.HCM, Hùng mở sổ da dòng đầu: “Mở rộng thực phẩm” — làm đủ, làm thật, giữ người.
+Năm 1985 tại TP.HCM, Hùng mở sổ da trước khi mở miệng. Dòng đầu chỉ có ngày tháng và một nguyên tắc: không dối.
 
-Thị trường ồn; ông giữ nhịp thở đều như thợ siết bu lông.
+Hệ thống nhấp như thư ký — hữu ích, không thần thánh.
 
-Mở rộng thực phẩm. “Mở rộng thực phẩm” không phải nhồi kệ. Là kiểm soát lạnh–nóng, hao hụt, niềm tin.
+### Dấu vết đã có
 
-### Diễn biến đã xác lập
+### Mở Năm 1984, tại TP.HCM, Hùng mở sổ da dòng đầu: “Mở rộng thực phẩm” — làm đủ, làm thật, giữ người. Thị trường ồn; ông giữ nhịp thở đều như thợ siết bu lông. Mở rộng thực phẩm. “Mở rộng thực phẩm” không phải nhồi kệ. Là kiểm soát lạnh–nóng, hao hụt, niềm tin. ### Diễn biến đã xác lập Tháng 2 năm 1984. Xưởng thực phẩm hoạt động ổn định — 30.000 gói/tháng, bán qua cửa hàng và đại lý. Mì gói Thương Gia — bao bì giấy, nhãn đỏ, "Mì Thương Gia — Ngon, Rẻ, Việt Nam" — trở thành hàng quen thuộc ở sáu tỉnh. Mì Thương Gia khác mì nhập khẩu — gia vị đậm đà kiểu Việt, sợi mì dai, không mềm như mì Thái. Người dân thích — vừa no, vừa ngon, vừa rẻ. 4 đồng/gói — bằng nửa giá mì nhập khẩu. Hùng mở rộng — thêm hai xưởng thực phẩm: một ở Phủ Lý, một ở Hạ Long. Mỗi xưởng 30.000 gói/tháng. Tổng: 90.000 gói/tháng, lãi 90.000 đồng/tháng. 「Nhiệm vụ hoàn thành: Sản xuất thực phẩm đóng gói - 30.000 gói/tháng ✓ (đạt và vượt — 90.000 gói/tháng) - Phần thưởng: +150 EXP, Kỹ năng Sản xuất thực phẩm lv1 - Tổng EXP: 3.850 + 150 + (giao dịch) = 4.200」 「Kỹ năng Sản xuất thực phẩm cấp 1: Đánh giá chất lượng thực phẩm 90%, tối ưu quy trình, giảm 15% hao hụt, quản lý an toàn vệ sinh cơ bản.」 Mười kỹ năng. 4.200 EXP. Hùng đang tiến nhanh — nhanh hơn cả dự kiến. Hùng cũng mở rộng xuất khẩu thực phẩm — mì gói Thương Gia xuất khẩu sang Lào và Campuchia. Ông Kham (Lào) nhập 5.000 gói/tháng, bà Sothea (Campuchia) nhập 10.000 gói/tháng. Tổng xuất khẩu: 15.000 gói/tháng, lãi 15.000 đồng/tháng. Thực phẩm — ngành xuất khẩu tốt. Vì thực phẩm nhẹ, dễ vận chuyển, nhu cầu quốc tế lớn. Mì gói Việt Nam ở Lào và Campuchia — hàng độc đáo, không cạnh tranh. Lan quản lý chuỗi cửa hàng, và cô đề xuất: "Anh ơi, mình nên bán mì Thương Gia ở cửa hàng — đặt kệ riêng, trưng bày đẹp. Mì là hàng hút — người vào mua quần áo sẽ mua thêm mì." Hùng gật đầu. "Đúng — bán chéo. Khách vào mua một thứ, mua thêm thứ khác. Em tự quyết." Lan triển khai — kệ mì Thương Gia ở tất cả tám cửa hàng. Mì bán nhanh — khách vào mua quần áo, thấy mì, mua thêm. Doanh thu mỗi cửa hàng tăng 20%. Tối ấy, Hùng ngồi ngoài sân, kiểm tra tài chính: - Tiền ngoài: ~25.000 đồng (tổng tài sản) - Tiền trong không gian: 10.000 đồng - EXP: 4.200 - Không gian: 3.000m² - Cửa hàng: 8 - Nhà hàng: 4 - Xưởng: 10 (7 cũ + 3 thực phẩm) - Mảnh đất: 15 - Đại lý: 9 - Đối tác quốc tế: 3 Đế chế
 
-Tháng 2 năm 1984. Xưởng thực phẩm hoạt động ổn định — 30.000 gói/tháng, bán qua cửa hàng và đại lý. Mì gói Thương Gia — bao bì giấy, nhãn đỏ, "Mì Thương Gia — Ngon, Rẻ, Việt Nam" — trở thành hàng quen thuộc ở sáu tỉnh.
+### Cảnh chính
 
-Mì Thương Gia khác mì nhập khẩu — gia vị đậm đà kiểu Việt, sợi mì dai, không mềm như mì Thái. Người dân thích — vừa no, vừa ngon, vừa rẻ. 4 đồng/gói — bằng nửa giá mì nhập khẩu.
+Điểm chạm khách tại TP.HCM năm 1985: kệ hàng, ánh đèn, thái độ người đứng quầy. Hùng giả làm khách lạ nửa buổi. Ông xem cách chào, cách xử khi hết hàng, cách xin lỗi.
 
-Hùng mở rộng — thêm hai xưởng thực phẩm: một ở Phủ Lý, một ở Hạ Long. Mỗi xưởng 30.000 gói/tháng. Tổng: 90.000 gói/tháng, lãi 90.000 đồng/tháng.
+Lan đào tạo ca kíp: không nói xấu đối thủ, không ép mua, không che lỗi. Trong 9 ngày đầu, 4 lỗi vận hành bị bắt và sửa trước khi thành thói quen xấu.
 
-「Nhiệm vụ hoàn thành: Sản xuất thực phẩm đóng gói
-- 30.000 gói/tháng ✓ (đạt và vượt — 90.000 gói/tháng)
-- Phần thưởng: +150 EXP, Kỹ năng Sản xuất thực phẩm lv1
-- Tổng EXP: 3.850 + 150 + (giao dịch) = 4.200」
+### Buổi sáng
 
-「Kỹ năng Sản xuất thực phẩm cấp 1: Đánh giá chất lượng thực phẩm 90%, tối ưu quy trình, giảm 15% hao hụt, quản lý an toàn vệ sinh cơ bản.」
+Trời TP.HCM năm 1985 chưa kịp sáng hẳn. Hùng đến sớm hơn lịch họp. Ông không mở slide trước. Ông đi một vòng, chào tổ trưởng ca đêm, hỏi một câu cụ thể: đơn gấp có ép người không.
 
-Mười kỹ năng. 4.200 EXP. Hùng đang tiến nhanh — nhanh hơn cả dự kiến.
+Ánh đèn neon trắng lạnh bám lấy ông như lời nhắc: đây là đời sống, không phải mô hình trên giấy. Lan đã để sẵn ba tờ giấy: phải làm / không được làm / ai chịu. Hùng viết thêm một dòng bằng tay: “Không dối.”
 
-Hùng cũng mở rộng xuất khẩu thực phẩm — mì gói Thương Gia xuất khẩu sang Lào và Campuchia. Ông Kham (Lào) nhập 5.000 gói/tháng, bà Sothea (Campuchia) nhập 10.000 gói/tháng. Tổng xuất khẩu: 15.000 gói/tháng, lãi 15.000 đồng/tháng.
+### Va chạm
 
-Thực phẩm — ngành xuất khẩu tốt. Vì thực phẩm nhẹ, dễ vận chuyển, nhu cầu quốc tế lớn. Mì gói Việt Nam ở Lào và Campuchia — hàng độc đáo, không cạnh tranh.
+Xung đột “chuỗi cung ứng đứt gãy” đến đúng lúc việc vừa có đà. Một phòng ban đổ lỗi phòng ban khác. 
 
-Lan quản lý chuỗi cửa hàng, và cô đề xuất: "Anh ơi, mình nên bán mì Thương Gia ở cửa hàng — đặt kệ riêng, trưng bày đẹp. Mì là hàng hút — người vào mua quần áo sẽ mua thêm mì."
+Hùng không lớn tiếng. Ông yêu cầu quy trình một trang lên bảng: sự thật, việc cần làm, kênh hỏi. Ai nhận lỗi để sửa được bảo vệ; ai giấu lỗi để giữ mặt sẽ bị xử. Lan đứng về phía quy trình — không phải cứng đầu, để đỡ anh khi áp lực muốn kéo lệch.
 
-Hùng gật đầu. "Đúng — bán chéo. Khách vào mua một thứ, mua thêm thứ khác. Em tự quyết."
+Quyết định trong ngày: dừng lô hàng để kiểm lại. Không hứa nóng. Có hạn. Có tên người.
 
-Lan triển khai — kệ mì Thương Gia ở tất cả tám cửa hàng. Mì bán nhanh — khách vào mua quần áo, thấy mì, mua thêm. Doanh thu mỗi cửa hàng tăng 20%.
+### Việc cụ thể
 
-Tối ấy, Hùng ngồi ngoài sân, kiểm tra tài chính:
-- Tiền ngoài: ~25.000 đồng (tổng tài sản)
-- Tiền trong không gian: 10.000 đồng
-- EXP: 4.200
-- Không gian: 3.000m²
-- Cửa hàng: 8
-- Nhà hàng: 4
-- Xưởng: 10 (7 cũ + 3 thực phẩm)
-- Mảnh đất: 15
-- Đại lý: 9
-- Đối tác quốc tế: 3
+Trong 9 ngày xoay quanh mốc này, đội ngũ bóc 4 nút thắt. Không phải 61 cuộc họp dài — là 61 quyết định ngắn có chủ sở hữu. Một lỗi lặp bị chặn từ gốc. Một quy trình viết lại bằng lời thợ cũng hiểu: bước làm, ngưỡng dừng, tên người chịu.
 
-Đế chế Thương Gia đang lớn — đều đặn, chắc chắn. Hùng mỉm cười, nhìn trời. Năm 1984 mở ra — năm của mở rộng, của sản xuất mới, của xuất khẩu lớn.
+Lan cập nhật bằng việc đã xong, không bằng tính từ. Hùng khen đúng việc, không khen lấy lệ. bà Nguyễn Thị Hà, kỹ sư Minh, kỹ sư Minh được gọi tên khi đóng góp. Người im lặng làm đúng cũng được nhìn thấy — nếu không, văn hóa sẽ chỉ nuôi người khéo nói.
 
-Hành trình tiếp tục.
-
-### Lớp sâu
-
-### Nhịp “Mở rộng thực phẩm”
-
-Năm 1984 tại Quốc Oai / Hà Đông, việc được bóc thành chuỗi nhỏ: chủ sở hữu, hạn, chuẩn. Lan bảng ba màu. Đỏ — 48 giờ. Hùng không hô hào; ông xem hiện trường.
-
-### Thử nhỏ
-
-Thử nhỏ: báo cáo muộn / lô suýt lệch / tin đồn. Họp 25 phút — nguyên nhân, 48 giờ, cấm giấu. Nhận lỗi được bảo vệ để sửa.
-
-### Kết quả
-
-“Mở rộng thực phẩm” (1984): có biên bản; ~162 người liên quan được phổ biến thay đổi; rủi ro có chủ sở hữu. Lan xem vàng; Hùng xem đỏ.
-
-「1984 | Mở rộng thực phẩm | EXP +56 | người – sổ – uy tín」
-
-### Nhà
-
-Mâm cơm 1984. “Mở rộng thực phẩm” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-### Khép
-
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Tuyển kỹ sư Minh”.
-
-“Mở rộng thực phẩm” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Quốc Oai / Hà Đông và thế giới.
+Chỉ số theo dõi tuần: tiến độ 5 mốc; phản hồi khách/thợ được đọc to 5 lần; quỹ thời gian cho hiện trường không bị họp nuốt. EXP hệ thống có thể cộng 149, nhưng ông không làm việc vì con số nhấp nháy.
 
 ### Thoại
 
-Lan: ““Mở rộng thực phẩm” anh sợ nhất chỗ nào?”
-Hùng: “Sợ hứa nhanh hơn sức.”
-Lan: “Em giữ nhịp. Anh giữ chuẩn.”
+Đối tác: “Cam kết đi, ông Hùng.”
+Hùng: “Cam kết bằng điều khoản và hạn. Không cam kết bằng miệng cho nóng bàn.”
+Lan đẩy bản nháp đã soạn. Việc thắng cảm xúc.
 
-### Lớp hiện trường & sổ sách
+### Nhà
 
-Tại TP.HCM năm 1984, Hùng chia “Mở rộng thực phẩm” thành việc hiện trường, sổ sách, khách và người. Lan giữ nhịp bảng việc–người–hạn. (Chương 33, lớp 1, nhịp 1.)
+Đêm 1985, mâm cơm không chức danh. Bà Hà để phần ngon cho cháu; Hùng nhẹ nhàng gắp lại cho bà. Lan dịch việc ngày thành câu bà hiểu — không giọng họp trên mâm.
 
-Xung đột “chuỗi cung ứng đứt gãy” được gọi tên ngay trong họp, không để thì thầm hành lang. Ai muốn đi tắt bị trả về quy trình. (Chương 33, lớp 1, nhịp 2.)
+Hùng kể một mẩu việc bằng lời bình dân, bỏ hết từ hoa mỹ. Bà Hà (hoặc ký ức bà) chỉ cần biết cháu còn ăn, còn về, còn thương người. Nhà vẫn là nơi ông trả lại hình hài con người sau ngày dài ở TP.HCM.
 
-Cảm xúc chủ đạo là căng thẳng đàm phán, nhưng ông không để cảm xúc thay biên bản. Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, kỹ sư Minh cùng chịu trách nhiệm từng mảng. (Chương 33, lớp 1, nhịp 3.)
+### Hệ thống
 
-Một phản hồi thật từ khách/thợ/đối tác được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng hạn đã giữ. (Chương 33, lớp 1, nhịp 4.)
+「Năm 1985 | Tiến độ liên quan: Mở rộng thực phẩm
+- Ghi nhận: lớp việc trong ngày hoàn thành có kiểm chứng
+- Thưởng: +179 EXP | Tiến độ nhiệm vụ + giao dịch thành công
+- Gợi ý: giữ người – giữ sổ – giữ uy tín」
 
-Bà Hà không cần slide; Lan dịch việc thành câu bà nắm được. Nhà vẫn là nơi Hùng trả hình hài con người. (Chương 33, lớp 1, nhịp 7.)
+Hùng đọc xong rồi tắt. Thước đo hữu ích — không phải ông chủ trong đầu. Việc ngoài đời ồn và thật hơn bất kỳ dòng chữ phát sáng nào.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 33, lớp 1, nhịp 8.)
+### Lớp sâu trong ngày
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 33, lớp 1, nhịp 9.)
+Chiều tà ở TP.HCM, ông đứng nhìn bản đồ ghim. Mỗi điểm trên đó là người thật. Ông gỡ một việc đã xong khỏi đầu như gỡ một bao gạo — nhẹ hơn, nhưng không được phép kiêu.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng thực phẩm” có đà tại TP.HCM. (Chương 33, lớp 1, nhịp 10.)
+Cuối ngày đèn còn sáng một dãy bàn. Ông tắt dãy đó sau khi chắc ai cũng về được nhà. Việc quan trọng không biến thành văn hóa thức khuya khoe mẽ.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 33, lớp 1, nhịp 11.)
+Năm 1985, thời bao cấp còn đọng phiếu và hàng hiếm, mỗi giao dịch nhỏ cũng mang mùi thận trọng. Trong bối cảnh ấy, nước cờ hôm nay vừa phòng thủ vừa mở đường — miễn là sổ còn sạch và người còn đứng.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 33, lớp 1, nhịp 12.)
+Ca đêm được hỏi ăn gì, có xe về không, ghế chờ mưa đã đủ chưa. Chi tiết không lên báo. Chi tiết lên lương tâm.
 
-“Mở rộng thực phẩm” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 33, lớp 1, nhịp 14.)
+Ông nhớ lần đầu bán hàng run tay năm 1983. Cảm giác ấy giúp ông không biến mốc hôm nay thành trò chơi danh vọng.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 33, lớp 1, nhịp 15.)
+Có khoảnh khắc ông muốn ôm đồm như xưa. Rồi nhìn Lan và đội ngũ, ông buông đúng phần. Ủy thác không phải bỏ mặc: là tin và kiểm có nhịp.
 
-Trong 8 ngày đầu, 3 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 33, lớp 1, nhịp 17.)
+Ông từ chối một đề xuất “linh hoạt” sai chỗ. Linh hoạt đúng là thích ứng. Linh hoạt sai là lỗ uy tín trả góp.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 33, lớp 1, nhịp 18.)
+Hùng yêu cầu mọi cam kết lớn phải có tên người chịu và hạn. Bắt tay không thay chữ ký. Nụ cười không thay điều khoản.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 33, lớp 1, nhịp 19.)
+Lan phản biện một điểm trong phương án. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm lớn.
 
-Năm 1984, bối cảnh thị trường đổi; “Mở rộng thực phẩm” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 33, lớp 1, nhịp 20.)
+Một cải tiến nhỏ từ thợ cả được khen công khai. Cải tiến nhỏ được nhìn thấy sẽ đẻ cải tiến vừa. Văn hóa không sống bằng khẩu hiệu — sống bằng việc được thấy.
 
-Hùng đi hiện trường “Mở rộng thực phẩm” ở TP.HCM: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 33, lớp 1, nhịp 21.)
+Đối thủ chơi chiêu nóng. Thương Gia đáp bằng hàng/dịch vụ đúng mẫu và hợp đồng rõ. Không đua đáy. Giữ chuẩn là giữ tên.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 33, lớp 1, nhịp 22.)
+Phần thưởng hệ thống có thể chờ. Người đang chờ lương, chờ hàng, chờ câu trả lời thì không thể chờ văn chương quản trị.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 33, lớp 1, nhịp 23.)
+Một nhân viên trẻ hỏi thẳng có đang che gì không. Hùng đáp: “Nếu có, em được quyền hỏi đến khi rõ. Che là nợ.” Câu ấy lan trong nội bộ nhanh hơn bất kỳ poster động lực nào.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Mở rộng thực phẩm” sạch và đủ. (Chương 33, lớp 1, nhịp 24.)
+Truyền thông nội bộ một trang chặn tin đồn trước khi nó nở. Coi người như người lớn thì họ làm như người lớn. Coi người như trẻ con thì họ sẽ thì thầm sau lưng.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 33, lớp 1, nhịp 25.)
+Kho bạc/kế toán rà dòng tiền ba mươi và chín mươi ngày. Mô hình đẹp trên giấy nhưng xấu thanh khoản thì hoãn. Ảo tưởng đắt hơn cơ hội lỡ — bài học ông trả giá từ những năm đầu.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 33, lớp 2, nhịp 33.)
+Trước khi ngủ ông viết sổ da bốn dòng: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không vỡ thành hỗn độn.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 33, lớp 2, nhịp 34.)
+### Các nhịp hiện trường
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng thực phẩm” có đà tại TP.HCM. (Chương 33, lớp 2, nhịp 35.)
+Nhịp 1 trong ngày tại TP.HCM: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: trả hồ sơ cánh hẩu. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 33, lớp 2, nhịp 36.)
+Nhịp 2 trong ngày tại TP.HCM: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: giữ lương cốt lõi, cắt chi hoa hòe. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 33, lớp 2, nhịp 37.)
+Nhịp 3 trong ngày tại TP.HCM: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: ủy thác việc vận hành, giữ việc chiến lược. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-“Mở rộng thực phẩm” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 33, lớp 2, nhịp 39.)
+Nhịp 4 trong ngày tại TP.HCM: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: từ chối đua giá đáy. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 33, lớp 2, nhịp 40.)
+Nhịp 5 trong ngày tại TP.HCM: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: trả hồ sơ cánh hẩu. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Trong 8 ngày đầu, 3 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 33, lớp 2, nhịp 42.)
+Nhịp 6 trong ngày tại TP.HCM: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: giữ lương cốt lõi, cắt chi hoa hòe. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 33, lớp 2, nhịp 43.)
+Nhịp 7 trong ngày tại TP.HCM: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: ủy thác việc vận hành, giữ việc chiến lược. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 33, lớp 2, nhịp 44.)
+Nhịp 8 trong ngày tại TP.HCM: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: từ chối đua giá đáy. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Năm 1984, bối cảnh thị trường đổi; “Mở rộng thực phẩm” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 33, lớp 2, nhịp 45.)
+Nhịp 9 trong ngày tại TP.HCM: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: trả hồ sơ cánh hẩu. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Hùng đi hiện trường “Mở rộng thực phẩm” ở TP.HCM: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 33, lớp 2, nhịp 46.)
+Nhịp 10 trong ngày tại TP.HCM: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: giữ lương cốt lõi, cắt chi hoa hòe. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 33, lớp 2, nhịp 47.)
+Nhịp 11 trong ngày tại TP.HCM: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: ủy thác việc vận hành, giữ việc chiến lược. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 33, lớp 2, nhịp 48.)
+Nhịp 12 trong ngày tại TP.HCM: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: từ chối đua giá đáy. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Mở rộng thực phẩm” sạch và đủ. (Chương 33, lớp 2, nhịp 49.)
+### Khép
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 33, lớp 2, nhịp 50.)
+Ngày ở TP.HCM năm 1985 có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước là “Tuyển kỹ sư Minh”. Ông không hứa dễ — chỉ hứa không quên gốc làng Thanh Xuân và bát cháo năm ấy.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 33, lớp 3, nhịp 58.)
+Thêm một lớp quan sát 1 trong ngày tại TP.HCM năm 1985: Hùng dừng lại với thợ cả, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 33-1 được để trong sổ da, không để trong bài diễn văn.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 33, lớp 3, nhịp 59.)
+Thêm một lớp quan sát 2 trong ngày tại TP.HCM năm 1985: Hùng dừng lại với kế toán, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 33-2 được để trong sổ da, không để trong bài diễn văn.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng thực phẩm” có đà tại TP.HCM. (Chương 33, lớp 3, nhịp 60.)
+Thêm một lớp quan sát 3 trong ngày tại TP.HCM năm 1985: Hùng dừng lại với tài xế, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 33-3 được để trong sổ da, không để trong bài diễn văn.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 33, lớp 3, nhịp 61.)
+Thêm một lớp quan sát 4 trong ngày tại TP.HCM năm 1985: Hùng dừng lại với thủ kho, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 33-4 được để trong sổ da, không để trong bài diễn văn.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 33, lớp 3, nhịp 62.)
-
-“Mở rộng thực phẩm” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 33, lớp 3, nhịp 64.)
-
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 33, lớp 3, nhịp 65.)
-
-Trong 8 ngày đầu, 3 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 33, lớp 3, nhịp 67.)
-
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 33, lớp 3, nhịp 68.)
-
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 33, lớp 3, nhịp 69.)
-
-Năm 1984, bối cảnh thị trường đổi; “Mở rộng thực phẩm” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 33, lớp 3, nhịp 70.)
-
-Hùng đi hiện trường “Mở rộng thực phẩm” ở TP.HCM: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 33, lớp 3, nhịp 71.)
-
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 33, lớp 3, nhịp 72.)
-
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 33, lớp 3, nhịp 73.)
-
-Phía trước việc lớn hơn; hôm nay chỉ cần “Mở rộng thực phẩm” sạch và đủ. (Chương 33, lớp 3, nhịp 74.)
-
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 33, lớp 3, nhịp 75.)
-
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 33, lớp 4, nhịp 83.)
-
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 33, lớp 4, nhịp 84.)
-
-Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng thực phẩm” có đà tại TP.HCM. (Chương 33, lớp 4, nhịp 85.)
-
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 33, lớp 4, nhịp 86.)
-
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 33, lớp 4, nhịp 87.)
-
-Ghi nhận bổ sung 1 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 2 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 3 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 4 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 5 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 6 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 7 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 8 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 9 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 10 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 11 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 12 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 13 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 14 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 15 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 16 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 17 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 18 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 19 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 20 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 21 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
-
-Ghi nhận bổ sung 22 — “Mở rộng thực phẩm” (1984, TP.HCM): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 33.
+Thêm một lớp quan sát 5 trong ngày tại TP.HCM năm 1985: Hùng dừng lại với kỹ sư trẻ, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 33-5 được để trong sổ da, không để trong bài diễn văn.
 
 ============================================================
-(3004 từ)
+(3057 từ)

@@ -1,227 +1,139 @@
+============================================================
 Chương 78: Mở rộng phòng khám tiếp
+============================================================
 
 ### Mở
 
-Bà Hà hỏi ăn chưa. Hùng đáp rồi vẫn mang “Mở rộng phòng khám tiếp” ra cửa — nhà và việc không nuốt nhau.
+Chữ ký còn ướt mực. Ông không vỗ tay. Ông gọi hiện trường. (Mở riêng ch.78.)
 
-Hệ thống nhấp như thư ký, không như thần thánh.
+Ông nhắc mình: tốc độ không đè người.
 
-Phòng khám tiếp. “Mở rộng phòng khám tiếp” thuốc, sổ khám, giá niêm yết. Không kê đơn để đẩy hàng.
+### Dấu vết đã có
 
-### Diễn biến đã xác lập
+### Mở Bà Hà hỏi ăn chưa. Hùng đáp rồi vẫn mang “Mở rộng phòng khám tiếp” ra cửa — nhà và việc không nuốt nhau. Hệ thống nhấp như thư ký, không như thần thánh. Phòng khám tiếp. “Mở rộng phòng khám tiếp” thuốc, sổ khám, giá niêm yết. Không kê đơn để đẩy hàng. ### Diễn biến đã xác lập Tháng 9 năm 1994. Hùng mở rộng y tế — từ 30 phòng khám lên 50 phòng khám Thương Gia, phủ 50 tỉnh. Tuấn — bác sĩ, quản lý y tế — ngồi trong văn phòng, báo cáo Hùng. "Anh Hùng, 30 phòng khám hiện tại hoạt động tốt — 50.000 lượt khám/tháng, 15.000 trẻ tiêm phòng. Nhưng nhu cầu còn lớn — 20 tỉnh chưa có phòng khám Thương Gia. Người dân ở tỉnh nghèo vẫn thiếu y tế. Em đề xuất mở thêm 20 phòng khám — ở 20 tỉnh còn lại." Hùng xem danh sách — 20 tỉnh, đa số vùng sâu vùng xa. Ông gật đầu. "Được. 20 phòng khám mới. Vốn mỗi phòng khám: 15.000 đồng. Tổng: 300.000 đồng. Bác sĩ: 20 người, y tá: 40 người. Lương bác sĩ 200 đồng/tháng, y tá 80 đồng/tháng. Tổng quỹ lương: 7.200 đồng/tháng." Tuấn ghi chép, rồi nói: "Anh Hùng, em muốn thêm — phòng khám Thương Gia mở bệnh viện. Bệnh viện Thương Gia — 100 giường, phẫu thuật, cấp cứu, nội trú. Ở Hà Đông — cạnh tòa nhà Thương Gia. Vốn: 500.000 đồng. Em muốn — Thương Gia không chỉ khám, mà chữa bệnh nặng." Hùng suy nghĩ — bệnh viện. Trong năm 1994, bệnh viện tư nhân hiếm — đa số bệnh viện nhà nước, đông, thiếu, chậm. Bệnh viện Thương Gia — tư nhân, chất lượng, nhanh. Hùng thấy cơ hội — và trách nhiệm. "Được. Bệnh viện Thương Gia — 100 giường, Hà Đông. Vốn: 500.000 đồng (xây bệnh viện, máy móc X-ray, ultrasound, phòng mổ, phòng cấp cứu). Em lo — tuyển bác sĩ, y tá, thiết kế khoa. Mục tiêu: mở tháng 6 năm 1995." Tuấn mắt sáng — ông mơ ước điều này. Bệnh viện Thương Gia — không chỉ khám, mà chữa bệnh nặng. Cứu người — cứu thật sự, cứu triệt để. 「Nhiệm vụ mới: 50 phòng khám + bệnh viện Thương Gia - Mục tiêu: 100.000 lượt khám/tháng, 100 giường bệnh viện, 20.000 trẻ tiêm phòng - Phần thưởng: 350 EXP, Kỹ năng Y tế lv3 - Thời hạn: 12 tháng」 --- Hùng đi kiểm tra phòng khám — phòng khám Thương Gia Hà Đông, cạnh tòa nhà. Phòng khám 100m² — phòng khám, phòng tiêm, phòng thuốc, phòng X-ray nhỏ. Bác sĩ — tuấn, y tá — hai cô. Khách đông — người dân xếp hàng chờ khám. Hùng vào phòng khám — quan sát. Bác sĩ Tuấn khám — một bà cụ, bảy mươi tuổi, ho khan. Tuấn nghe phổi, xem họng, kê thuốc — thuốc ho, thuốc kháng sinh, vitamin.
 
-Tháng 9 năm 1994. Hùng mở rộng y tế — từ 30 phòng khám lên 50 phòng khám Thương Gia, phủ 50 tỉnh.
+### Cảnh chính
 
-Tuấn — bác sĩ, quản lý y tế — ngồi trong văn phòng, báo cáo Hùng.
+Điểm chạm khách tại Hà Nội năm 1987: kệ hàng, ánh đèn, thái độ người đứng quầy. Hùng giả làm khách lạ nửa buổi. Ông xem cách chào, cách xử khi hết hàng, cách xin lỗi.
 
-"Anh Hùng, 30 phòng khám hiện tại hoạt động tốt — 50.000 lượt khám/tháng, 15.000 trẻ tiêm phòng. Nhưng nhu cầu còn lớn — 20 tỉnh chưa có phòng khám Thương Gia. Người dân ở tỉnh nghèo vẫn thiếu y tế. Em đề xuất mở thêm 20 phòng khám — ở 20 tỉnh còn lại."
+Lan đào tạo ca kíp: không nói xấu đối thủ, không ép mua, không che lỗi. Trong 9 ngày đầu, 5 lỗi vận hành bị bắt và sửa trước khi thành thói quen xấu.
 
-Hùng xem danh sách — 20 tỉnh, đa số vùng sâu vùng xa. Ông gật đầu.
+### Buổi sáng
 
-"Được. 20 phòng khám mới. Vốn mỗi phòng khám: 15.000 đồng. Tổng: 300.000 đồng. Bác sĩ: 20 người, y tá: 40 người. Lương bác sĩ 200 đồng/tháng, y tá 80 đồng/tháng. Tổng quỹ lương: 7.200 đồng/tháng."
+Trời Hà Nội năm 1987 chưa kịp sáng hẳn. Hùng đến sớm hơn lịch họp. Ông không mở slide trước. Ông đi một vòng, chào thợ cả, hỏi một câu cụ thể: sổ có lệch không.
 
-Tuấn ghi chép, rồi nói: "Anh Hùng, em muốn thêm — phòng khám Thương Gia mở bệnh viện. Bệnh viện Thương Gia — 100 giường, phẫu thuật, cấp cứu, nội trú. Ở Hà Đông — cạnh tòa nhà Thương Gia. Vốn: 500.000 đồng. Em muốn — Thương Gia không chỉ khám, mà chữa bệnh nặng."
+Tiếng quạt trần kêu rè bám lấy ông như lời nhắc: đây là đời sống, không phải mô hình trên giấy. Lan đã để sẵn ba tờ giấy: phải làm / không được làm / ai chịu. Hùng viết thêm một dòng bằng tay: “Không dối.”
 
-Hùng suy nghĩ — bệnh viện. Trong năm 1994, bệnh viện tư nhân hiếm — đa số bệnh viện nhà nước, đông, thiếu, chậm. Bệnh viện Thương Gia — tư nhân, chất lượng, nhanh. Hùng thấy cơ hội — và trách nhiệm.
+### Va chạm
 
-"Được. Bệnh viện Thương Gia — 100 giường, Hà Đông. Vốn: 500.000 đồng (xây bệnh viện, máy móc X-ray, ultrasound, phòng mổ, phòng cấp cứu). Em lo — tuyển bác sĩ, y tá, thiết kế khoa. Mục tiêu: mở tháng 6 năm 1995."
+Xung đột “rào cản pháp lý” đến đúng lúc việc vừa có đà. Một người cũ xin đặc cách. 
 
-Tuấn mắt sáng — ông mơ ước điều này. Bệnh viện Thương Gia — không chỉ khám, mà chữa bệnh nặng. Cứu người — cứu thật sự, cứu triệt để.
+Hùng không lớn tiếng. Ông yêu cầu quy trình một trang lên bảng: sự thật, việc cần làm, kênh hỏi. Ai nhận lỗi để sửa được bảo vệ; ai giấu lỗi để giữ mặt sẽ bị xử. Lan đứng về phía quy trình — không phải cứng đầu, để đỡ anh khi áp lực muốn kéo lệch.
 
-「Nhiệm vụ mới: 50 phòng khám + bệnh viện Thương Gia
-- Mục tiêu: 100.000 lượt khám/tháng, 100 giường bệnh viện, 20.000 trẻ tiêm phòng
-- Phần thưởng: 350 EXP, Kỹ năng Y tế lv3
-- Thời hạn: 12 tháng」
+Quyết định trong ngày: dừng lô hàng để kiểm lại. Không hứa nóng. Có hạn. Có tên người.
 
----
+### Việc cụ thể
 
-Hùng đi kiểm tra phòng khám — phòng khám Thương Gia Hà Đông, cạnh tòa nhà. Phòng khám 100m² — phòng khám, phòng tiêm, phòng thuốc, phòng X-ray nhỏ. Bác sĩ — tuấn, y tá — hai cô. Khách đông — người dân xếp hàng chờ khám.
+Trong 9 ngày xoay quanh mốc này, đội ngũ bóc 5 nút thắt. Không phải 16 cuộc họp dài — là 16 quyết định ngắn có chủ sở hữu. Một lỗi lặp bị chặn từ gốc. Một quy trình viết lại bằng lời thợ cũng hiểu: bước làm, ngưỡng dừng, tên người chịu.
 
-Hùng vào phòng khám — quan sát. Bác sĩ Tuấn khám — một bà cụ, bảy mươi tuổi, ho khan. Tuấn nghe phổi, xem họng, kê thuốc — thuốc ho, thuốc kháng sinh, vitamin. Bà cụ nhận thuốc — miễn phí (Thương Gia tài trợ người nghèo).
+Lan cập nhật bằng việc đã xong, không bằng tính từ. Hùng khen đúng việc, không khen lấy lệ. bà Nguyễn Thị Hà, ông Tam, cô Hạnh được gọi tên khi đóng góp. Người im lặng làm đúng cũng được nhìn thấy — nếu không, văn hóa sẽ chỉ nuôi người khéo nói.
 
-"Bác sĩ ơi, cảm ơn." Bà cụ nói, giọng run. "Tôi ho hai tuần — không có thuốc, không có tiền khám. Phòng khám Thương Gia — khám miễn phí, thuốc miễn phí. Cảm ơn. Cảm ơn."
-
-Tuấn mỉm cười, nắm tay bà. "Không có gì, bà. Thương Gia — giúp người nghèo. Bà uống thuốc, nghỉ, sẽ khỏe. Tuần sau, bà đến khám lại — kiểm tra."
-
-Bà cụ gật đầu, nước mắt chảy. Bà ra về — tay cầm thuốc, lòng ấm. Thương Gia — cứu bà, cứu hàng ngàn người nghèo khác.
-
-Hùng nhìn bà cụ ra về, nước mắt lưng tròng. Đây là lý do — không phải tiền, không phải đế chế. Mà vì bà cụ — bảy mươi tuổi, ho hai tuần, không có thuốc. Thương Gia — cho bà thuốc, cho bà khỏe, cho bà hy vọng.
-
-「Giao dịch thành công (20 phòng khám mới): +150 EXP. Tổng EXP: 16.840」
-
-Chiều, Hùng họp Tuấn — phòng họp, tòa nhà Thương Gia.
-
-"Tuấn, bệnh viện Thương Gia — em thiết kế. 100 giường, 5 khoa: nội, ngoại, sản, nhi, cấp cứu. Bác sĩ: 20 người (4/khoa), y tá: 40 người. Máy móc: X-ray, ultrasound, phòng mổ, lab xét nghiệm. Vốn: 500.000 đồng. Em lo — tuyển bác sĩ, mua máy móc, thiết kế khoa."
-
-Tuấn gật đầu. "Em sẽ làm. Nhưng em cần bác sĩ giỏi — bác sĩ phẫu thuật, bác sĩ sản, bác sĩ nhi. Bác sĩ giỏi — ít, làm bệnh viện nhà nước, lương thấp. Em đề xuất — lương 500 đồng/tháng, gấp năm bệnh viện nhà nước. Sẽ có bác sĩ giỏi đến."
-
-"Được. Lương 500 đồng/tháng — bác sĩ giỏi. Anh sẽ trả — vì bác sĩ giỏi = cứu người. Đầu tư bác sĩ = đầu tư sinh mạng."
-
-Tuấn mắt sáng — anh hiểu. Bác sĩ giỏi = cứu người. Thương Gia — đầu tư bác sĩ, đầu tư sinh mạng. Không phải chi phí — mà đầu tư, đầu tư quý nhất.
-
-"Anh Hùng, em sẽ tuyển — bác sĩ phẫu thuật, bác sĩ sản, bác sĩ nhi. Em sẽ tìm — qua bệnh viện, qua trường y, qua quan hệ. Em sẽ tuyển 20 bác sĩ giỏi nhất — cho bệnh viện Thương Gia."
-
-"Tốt. Em tuyển — anh lo vốn. Cùng nhau — bệnh viện Thương Gia, cứu người."
-
-Tối ấy, Hùng về nhà. Bà Hà ngồi ở hiên, bế mèo Mít. Bà bảy mươi tuổi — nhưng khỏe, hồng hào. Bà nhìn cháu, mỉm cười.
-
-"Cậu Hùng, hôm nay con làm gì?"
-
-"Con mở rộng phòng khám, bà. 50 phòng khám — phủ 50 tỉnh. Và con mở bệnh viện — bệnh viện Thương Gia, 100 giường, phẫu thuật, cấp cứu. Con cứu người — không chỉ khám, mà chữa bệnh nặng."
-
-Bà Hà im lặng, nước mắt lưng tròng. Bà hiểu — bệnh nặng, không có bệnh viện, là chết. Bà từng thấy — người làng ốm nặng, không có bệnh viện, mất. Bà biết — bệnh viện là cứu mạng.
-
-"Cậu làm tốt, Hùng ạ. Cậu cứu người. Bà... bà tự hào."
-
-Hùng nắm tay bà, mỉm cười. "Con học từ bà — cứu người. Bà dạy con."
-
-Bà Hà lắc đầu, cười qua nước mắt. "Bà không dạy — bà chỉ yêu. Yêu thương là đủ."
-
-Lan về — cô đi kiểm tra phòng khám miền Nam. "Anh ơi, phòng khám miền Nam — 30 phòng khám, 60.000 lượt khám/tháng. Người dân đến đông — không chỉ khám, mà tiêm phòng, khám định kỳ. Em thấy — trẻ em khỏe hơn, người dân khỏe hơn. Thương Gia — cứu người, thật sự."
-
-Hùng gật đầu. "Đúng. Y tế — không phải ngành kiếm tiền, mà ngành cứu mạng. Mỗi lượt khám — một người khỏe. Mỗi trẻ tiêm phòng — một trẻ không bệnh. Mỗi bệnh viện — hàng ngàn người chữa. Đó là giá trị — giá trị lớn hơn tiền."
-
-Lan im lặng, suy nghĩ. Cô hai mươi ba tuổi, quản lý chuỗi cửa hàng + ngân hàng + trường + phòng khám. Cô đang trở thành người quản lý đa ngành — và cô hiểu: kinh doanh không chỉ tiền, mà cứu người.
-
-Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — no, ngon, ấm. Ba người ăn — bà Hà, Lan, Hùng. Gia đình.
-
-Sau bữa tối, Hùng vào không gian — 8.000m². Ông ngồi bên suối, suy nghĩ. Y tế — 50 phòng khám, 100.000 lượt khám/tháng, 20.000 trẻ tiêm phòng. Và bệnh viện — sắp mở, 100 giường, cứu người nặng. Thương Gia — đế chế y tế, đế chế cứu mạng. Từ bán hàng đến cứu người — hành trình không ngờ. Nhưng đúng — vì y tế là sinh mạng, là hy vọng, là nhân văn.
-
-Hành trình tiếp tục.
-
-### Lớp sâu
-
-### Hiện trường xã hội
-
-“Mở rộng phòng khám tiếp” xuống đất: lớp, trạm, xã, sổ thụ hưởng. Biên lai. Kiểm tra đột xuất. Tiền mờ thì dừng. Năm 1987 tại Hà Nội.
-
-### Thử nhỏ
-
-Thử nhỏ: báo cáo muộn / lô suýt lệch / tin đồn. Họp 25 phút — nguyên nhân, 48 giờ, cấm giấu. Nhận lỗi được bảo vệ để sửa.
-
-### Kết quả
-
-“Mở rộng phòng khám tiếp” (1987): có biên bản; ~342 người liên quan được phổ biến thay đổi; rủi ro có chủ sở hữu. Lan xem vàng; Hùng xem đỏ.
-
-「1987 | Mở rộng phòng khám tiếp | EXP +79 | người – sổ – uy tín」
-
-### Nhà
-
-Mâm cơm 1987. “Mở rộng phòng khám tiếp” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-### Khép
-
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Hoàn thành nhiệm vụ phòng khám”.
-
-“Mở rộng phòng khám tiếp” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Hà Nội và thế giới.
+Chỉ số theo dõi tuần: tiến độ 5 mốc; phản hồi khách/thợ được đọc to 5 lần; quỹ thời gian cho hiện trường không bị họp nuốt. EXP hệ thống có thể cộng 284, nhưng ông không làm việc vì con số nhấp nháy.
 
 ### Thoại
 
-Lan: ““Mở rộng phòng khám tiếp” anh sợ nhất chỗ nào?”
-Hùng: “Sợ hứa nhanh hơn sức.”
-Lan: “Em giữ nhịp. Anh giữ chuẩn.”
+Một cán bộ/khách quen hỏi nhỏ: “Có cách nhanh không?”
+Hùng lắc: “Nhanh mà bẩn thì không chơi. Năm 1987 khác xưa, nhưng sạch vẫn là sạch.”
+Im lặng — rồi phía bên kia gật.
 
-### Lớp hiện trường & sổ sách
+### Nhà
 
-Tại Hà Nội năm 1986, Hùng chia “Mở rộng phòng khám tiếp” thành việc hiện trường, sổ sách, khách và người. Lan giữ nhịp bảng việc–người–hạn. (Chương 78, lớp 1, nhịp 1.)
+Đêm 1987, mâm cơm không chức danh. Bà Hà để phần ngon cho cháu; Hùng nhẹ nhàng gắp lại cho bà. Lan dịch việc ngày thành câu bà hiểu — không giọng họp trên mâm.
 
-Xung đột “rào cản pháp lý” được gọi tên ngay trong họp, không để thì thầm hành lang. Ai muốn đi tắt bị trả về quy trình. (Chương 78, lớp 1, nhịp 2.)
+Hùng kể một mẩu việc bằng lời bình dân, bỏ hết từ hoa mỹ. Bà Hà (hoặc ký ức bà) chỉ cần biết cháu còn ăn, còn về, còn thương người. Nhà vẫn là nơi ông trả lại hình hài con người sau ngày dài ở Hà Nội.
 
-Cảm xúc chủ đạo là nuối tiếc thời gian, nhưng ông không để cảm xúc thay biên bản. Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, ông Tam cùng chịu trách nhiệm từng mảng. (Chương 78, lớp 1, nhịp 3.)
+### Hệ thống
 
-Một phản hồi thật từ khách/thợ/đối tác được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng hạn đã giữ. (Chương 78, lớp 1, nhịp 4.)
+「Năm 1987 | Tiến độ liên quan: Mở rộng phòng khám tiếp
+- Ghi nhận: lớp việc trong ngày hoàn thành có kiểm chứng
+- Thưởng: +314 EXP | Tiến độ nhiệm vụ + giao dịch thành công
+- Gợi ý: giữ người – giữ sổ – giữ uy tín」
 
-Bà Hà không cần slide; Lan dịch việc thành câu bà nắm được. Nhà vẫn là nơi Hùng trả hình hài con người. (Chương 78, lớp 1, nhịp 7.)
+Hùng đọc xong rồi tắt. Thước đo hữu ích — không phải ông chủ trong đầu. Việc ngoài đời ồn và thật hơn bất kỳ dòng chữ phát sáng nào.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 78, lớp 1, nhịp 8.)
+### Lớp sâu trong ngày
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 78, lớp 1, nhịp 9.)
+Một cải tiến nhỏ từ tài xế thâm niên được khen công khai. Cải tiến nhỏ được nhìn thấy sẽ đẻ cải tiến vừa. Văn hóa không sống bằng khẩu hiệu — sống bằng việc được thấy.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng phòng khám tiếp” có đà tại Hà Nội. (Chương 78, lớp 1, nhịp 10.)
+Bà Hà trong khung ảnh / trong giọng nói chỉ hỏi ăn chưa. Hùng mỉm cười một mình: quản trị đế chế bắt đầu từ câu hỏi ấy.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 78, lớp 1, nhịp 11.)
+Một nhân viên trẻ hỏi thẳng có đang che gì không. Hùng đáp: “Nếu có, em được quyền hỏi đến khi rõ. Che là nợ.” Câu ấy lan trong nội bộ nhanh hơn bất kỳ poster động lực nào.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 78, lớp 1, nhịp 12.)
+Ông nhớ lần đầu bán hàng run tay năm 1983. Cảm giác ấy giúp ông không biến mốc hôm nay thành trò chơi danh vọng.
 
-“Mở rộng phòng khám tiếp” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 78, lớp 1, nhịp 14.)
+Hùng yêu cầu mọi cam kết lớn phải có tên người chịu và hạn. Bắt tay không thay chữ ký. Nụ cười không thay điều khoản.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 78, lớp 1, nhịp 15.)
+Mùi mưa bụi trên sắt lúc tan ca kéo ông nhớ bát cháo năm 1983. Nhớ không phải để tự thương. Nhớ để không biến thành kẻ chỉ nhìn số.
 
-Trong 5 ngày đầu, 4 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 78, lớp 1, nhịp 17.)
+Hai phòng ban suýt thành hai chiến tuyến. Hùng cắt: lỗi hệ thống trước tội đồ. Quy trình được sửa trước khi tìm người để chửi.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 78, lớp 1, nhịp 18.)
+Hùng kiểm tra lại một con số đẹp. Đẹp mà không truy xuất nguồn thì chưa phải đẹp. Ông trả số về cho đúng tay chịu trách nhiệm.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 78, lớp 1, nhịp 19.)
+Ông từ chối một đề xuất “linh hoạt” sai chỗ. Linh hoạt đúng là thích ứng. Linh hoạt sai là lỗ uy tín trả góp.
 
-Năm 1986, bối cảnh thị trường đổi; “Mở rộng phòng khám tiếp” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 78, lớp 1, nhịp 20.)
+Cuối ngày đèn còn sáng một dãy bàn. Ông tắt dãy đó sau khi chắc ai cũng về được nhà. Việc quan trọng không biến thành văn hóa thức khuya khoe mẽ.
 
-Hùng đi hiện trường “Mở rộng phòng khám tiếp” ở Hà Nội: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 78, lớp 1, nhịp 21.)
+Lan phản biện một điểm trong phương án. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm lớn.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 78, lớp 1, nhịp 22.)
+Năm 1987, những năm đầu mở cửa, cơ hội nhởn nhơ nhưng luật và vốn còn mỏng như giấy nến. Trong bối cảnh ấy, nước cờ hôm nay vừa phòng thủ vừa mở đường — miễn là sổ còn sạch và người còn đứng.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 78, lớp 1, nhịp 23.)
+Trước khi ngủ ông viết sổ da bốn dòng: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không vỡ thành hỗn độn.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Mở rộng phòng khám tiếp” sạch và đủ. (Chương 78, lớp 1, nhịp 24.)
+Ca đêm được hỏi ăn gì, có xe về không, ghế chờ mưa đã đủ chưa. Chi tiết không lên báo. Chi tiết lên lương tâm.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 78, lớp 1, nhịp 25.)
+Có khoảnh khắc ông muốn ôm đồm như xưa. Rồi nhìn Lan và đội ngũ, ông buông đúng phần. Ủy thác không phải bỏ mặc: là tin và kiểm có nhịp.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 78, lớp 2, nhịp 33.)
+Kho bạc/kế toán rà dòng tiền ba mươi và chín mươi ngày. Mô hình đẹp trên giấy nhưng xấu thanh khoản thì hoãn. Ảo tưởng đắt hơn cơ hội lỡ — bài học ông trả giá từ những năm đầu.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 78, lớp 2, nhịp 34.)
+### Các nhịp hiện trường
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng phòng khám tiếp” có đà tại Hà Nội. (Chương 78, lớp 2, nhịp 35.)
+Nhịp 1 trong ngày tại Hà Nội: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 78, lớp 2, nhịp 36.)
+Nhịp 2 trong ngày tại Hà Nội: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 78, lớp 2, nhịp 37.)
+Nhịp 3 trong ngày tại Hà Nội: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-“Mở rộng phòng khám tiếp” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 78, lớp 2, nhịp 39.)
+Nhịp 4 trong ngày tại Hà Nội: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 78, lớp 2, nhịp 40.)
+Nhịp 5 trong ngày tại Hà Nội: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Trong 5 ngày đầu, 4 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 78, lớp 2, nhịp 42.)
+Nhịp 6 trong ngày tại Hà Nội: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 78, lớp 2, nhịp 43.)
+Nhịp 7 trong ngày tại Hà Nội: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 78, lớp 2, nhịp 44.)
+Nhịp 8 trong ngày tại Hà Nội: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Năm 1986, bối cảnh thị trường đổi; “Mở rộng phòng khám tiếp” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 78, lớp 2, nhịp 45.)
+Nhịp 9 trong ngày tại Hà Nội: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 78, lớp 2, nhịp 47.)
+Nhịp 10 trong ngày tại Hà Nội: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 78, lớp 2, nhịp 48.)
+Nhịp 11 trong ngày tại Hà Nội: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Mở rộng phòng khám tiếp” sạch và đủ. (Chương 78, lớp 2, nhịp 49.)
+Nhịp 12 trong ngày tại Hà Nội: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 78, lớp 2, nhịp 50.)
+### Khép
 
-Ghi nhận bổ sung 1 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
+Ngày ở Hà Nội năm 1987 có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước là “Hoàn thành nhiệm vụ phòng khám”. Ông không hứa dễ — chỉ hứa không quên gốc làng Thanh Xuân và bát cháo năm ấy.
 
-Ghi nhận bổ sung 2 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
+Thêm một lớp quan sát 1 trong ngày tại Hà Nội năm 1987: Hùng dừng lại với thợ cả, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 78-1 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 3 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
+Thêm một lớp quan sát 2 trong ngày tại Hà Nội năm 1987: Hùng dừng lại với kế toán, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 78-2 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 4 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
+Thêm một lớp quan sát 3 trong ngày tại Hà Nội năm 1987: Hùng dừng lại với tài xế, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 78-3 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 5 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
+Thêm một lớp quan sát 4 trong ngày tại Hà Nội năm 1987: Hùng dừng lại với thủ kho, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 78-4 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 6 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
-
-Ghi nhận bổ sung 7 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
-
-Ghi nhận bổ sung 8 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
-
-Ghi nhận bổ sung 9 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
-
-Ghi nhận bổ sung 10 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
-
-Ghi nhận bổ sung 11 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
-
-Ghi nhận bổ sung 12 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
-
-Ghi nhận bổ sung 13 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
-
-Ghi nhận bổ sung 14 — “Mở rộng phòng khám tiếp” (1986, Hà Nội): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 78.
+Thêm một lớp quan sát 5 trong ngày tại Hà Nội năm 1987: Hùng dừng lại với kỹ sư trẻ, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 78-5 được để trong sổ da, không để trong bài diễn văn.
 
 ============================================================
-(3023 từ)
+(3055 từ)

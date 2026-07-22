@@ -1,215 +1,137 @@
+============================================================
 Chương 100: Sản xuất phần mềm
+============================================================
 
 ### Mở
 
-Không banner. Chỉ việc “Sản xuất phần mềm” và người chịu hậu quả nếu làm ẩu. Khu công nghiệp, 1987.
+Cổng xưởng vừa mở. Bụi sáng bay trong nắng. Ông bước vào trước đoàn xe con. (Mở riêng ch.100.)
 
-Ông nhắc: tốc độ không đè chất lượng, chất lượng không đè con người.
+Thị trường có thể ồn; ông giữ nhịp thở đều.
 
-Phần mềm — về nhà với ký ức Lý Minh. “Sản xuất phần mềm” là ERP giản dị cho doanh nghiệp Việt: đủ dùng, giá vừa, không thần thánh hóa.
+### Dấu vết đã có
 
-### Diễn biến đã xác lập
+### Mở Không banner. Chỉ việc “Sản xuất phần mềm” và người chịu hậu quả nếu làm ẩu. Khu công nghiệp, 1987. Ông nhắc: tốc độ không đè chất lượng, chất lượng không đè con người. Phần mềm — về nhà với ký ức Lý Minh. “Sản xuất phần mềm” là ERP giản dị cho doanh nghiệp Việt: đủ dùng, giá vừa, không thần thánh hóa. ### Diễn biến đã xác lập Tháng 6 năm 2001. Hùng thành lập công ty phần mềm Thương Gia — viết phần mềm quản lý, kế toán, bán hàng. Phần mềm — ngành thứ mười tám. Hùng mang kiến thức thế kỷ 21 — ông biết phần mềm sẽ là ngành tỷ đô. Phần mềm quản lý doanh nghiệp (ERP), kế toán, bán hàng — mọi doanh nghiệp cần. Việt Nam 2001 — phần mềm còn sơ khai, doanh nghiệp quản lý bằng sổ sách. Hùng thấy cơ hội — phần mềm Thương Gia, quản lý hiện đại, giá rẻ. Hùng ngồi trong văn phòng, họp Đức. "Đức, cháu muốn thành lập công ty phần mềm — viết phần mềm quản lý, kế toán, bán hàng. Cho Thương Gia và bán ngoài. Vốn 200 triệu." Đức gật đầu. "Phần mềm — em hiểu cơ bản. Cần lập trình viên — người viết mã nguồn. Em cần 10 lập trình viên, tốt nghiệp cntt. Lương 400 đồng/tháng. Máy tính — 20 máy (NEC, qua Tanaka). Văn phòng — tòa nhà Thương Gia, tầng 3." Hùng gật đầu. "Được. 10 lập trình viên, 20 máy, văn phòng tầng 3. Vốn 200 triệu. Anh sẽ tuyển — lập trình viên, tốt nghiệp bách khoa, cntt. Và anh — anh sẽ thiết kế phần mềm. Anh biết — anh có kiến thức tương lai." Hùng biết — phần mềm quản lý thế kỷ 21: ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), SCM (Supply Chain Management). Ông sẽ thiết kế — đơn giản, phù hợp Việt Nam, giá rẻ. 「Nhiệm vụ mới: Thành lập công ty phần mềm - Mục tiêu: 3 phần mềm (quản lý, kế toán, bán hàng), 100 khách trong 12 tháng - Phần thưởng: 400 EXP, Kỹ năng Phần mềm lv1 - Thời hạn: 12 tháng」 --- Hùng tuyển lập trình viên — 10 người, tốt nghiệp bách khoa cntt. Ông tuyển anh Long — lập trình viên, hai mươi lăm tuổi, tốt nghiệp bách khoa, giỏi viết mã, đam mê máy tính. Anh Long — thế hệ mới, lớn lên sau Đổi Mới, hiểu máy tính, hiểu internet. "Anh Long, công ty phần mềm Thương Gia — em phụ trách kỹ thuật. Anh sẽ thiết kế phần mềm — em viết mã. 3 phần mềm: quản lý doanh nghiệp (ERP), kế toán, bán hàng. Anh — anh thiết kế, em viết mã. Được không?" Long mắt sáng — anh đam mê viết mã. "Anh Hùng, em — em viết mã được. Em giỏi C, Pascal, BASIC. Em sẽ viết mã — phần mềm
 
-Tháng 6 năm 2001. Hùng thành lập công ty phần mềm Thương Gia — viết phần mềm quản lý, kế toán, bán hàng.
+### Cảnh chính
 
-Phần mềm — ngành thứ mười tám. Hùng mang kiến thức thế kỷ 21 — ông biết phần mềm sẽ là ngành tỷ đô. Phần mềm quản lý doanh nghiệp (ERP), kế toán, bán hàng — mọi doanh nghiệp cần. Việt Nam 2001 — phần mềm còn sơ khai, doanh nghiệp quản lý bằng sổ sách. Hùng thấy cơ hội — phần mềm Thương Gia, quản lý hiện đại, giá rẻ.
+Hiện trường Khu công nghiệp năm 1990 có mùi dầu máy / vải / kim loại — tùy chuyền. Hùng đi chậm, dừng ở chỗ tai nghe tiếng lạ. “Danh dự mất bắt đầu từ milimét,” ông nói với tổ trưởng. Kinh doanh muốn xuất sớm để kịp quý bị chặn.
 
-Hùng ngồi trong văn phòng, họp Đức. "Đức, cháu muốn thành lập công ty phần mềm — viết phần mềm quản lý, kế toán, bán hàng. Cho Thương Gia và bán ngoài. Vốn 200 triệu."
+Lan lo sau bán và phụ tùng. bà Nguyễn Thị Hà, ông Tam, cô Hạnh ghi chép, tranh luận kỹ thuật. Việc hôm nay không phải bán cho xong — là bán sự yên tâm còn lại sau khi khách mang hàng về nhà.
 
-Đức gật đầu. "Phần mềm — em hiểu cơ bản. Cần lập trình viên — người viết mã nguồn. Em cần 10 lập trình viên, tốt nghiệp cntt. Lương 400 đồng/tháng. Máy tính — 20 máy (NEC, qua Tanaka). Văn phòng — tòa nhà Thương Gia, tầng 3."
+### Buổi sáng
 
-Hùng gật đầu. "Được. 10 lập trình viên, 20 máy, văn phòng tầng 3. Vốn 200 triệu. Anh sẽ tuyển — lập trình viên, tốt nghiệp bách khoa, cntt. Và anh — anh sẽ thiết kế phần mềm. Anh biết — anh có kiến thức tương lai."
+Trời Khu công nghiệp năm 1990 âm u sắp mưa. Hùng đến sớm hơn lịch họp. Ông không mở slide trước. Ông đi một vòng, chào tài xế thâm niên, hỏi một câu cụ thể: ca qua có ốm không.
 
-Hùng biết — phần mềm quản lý thế kỷ 21: ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), SCM (Supply Chain Management). Ông sẽ thiết kế — đơn giản, phù hợp Việt Nam, giá rẻ.
+Tiếng xe nâng lùi có còi bám lấy ông như lời nhắc: đây là đời sống, không phải mô hình trên giấy. Lan đã để sẵn ba tờ giấy: phải làm / không được làm / ai chịu. Hùng viết thêm một dòng bằng tay: “Không dối.”
 
-「Nhiệm vụ mới: Thành lập công ty phần mềm
-- Mục tiêu: 3 phần mềm (quản lý, kế toán, bán hàng), 100 khách trong 12 tháng
-- Phần thưởng: 400 EXP, Kỹ năng Phần mềm lv1
-- Thời hạn: 12 tháng」
+### Va chạm
 
----
+Xung đột “thiếu vốn ngắn hạn” đến đúng lúc việc vừa có đà. Một phòng ban đổ lỗi phòng ban khác. 
 
-Hùng tuyển lập trình viên — 10 người, tốt nghiệp bách khoa cntt. Ông tuyển anh Long — lập trình viên, hai mươi lăm tuổi, tốt nghiệp bách khoa, giỏi viết mã, đam mê máy tính. Anh Long — thế hệ mới, lớn lên sau Đổi Mới, hiểu máy tính, hiểu internet.
+Hùng không lớn tiếng. Ông yêu cầu quy trình một trang lên bảng: sự thật, việc cần làm, kênh hỏi. Ai nhận lỗi để sửa được bảo vệ; ai giấu lỗi để giữ mặt sẽ bị xử. Lan đứng về phía quy trình — không phải cứng đầu, để đỡ anh khi áp lực muốn kéo lệch.
 
-"Anh Long, công ty phần mềm Thương Gia — em phụ trách kỹ thuật. Anh sẽ thiết kế phần mềm — em viết mã. 3 phần mềm: quản lý doanh nghiệp (ERP), kế toán, bán hàng. Anh — anh thiết kế, em viết mã. Được không?"
+Quyết định trong ngày: dừng lô hàng để kiểm lại. Không hứa nóng. Có hạn. Có tên người.
 
-Long mắt sáng — anh đam mê viết mã. "Anh Hùng, em — em viết mã được. Em giỏi C, Pascal, BASIC. Em sẽ viết mã — phần mềm Thương Gia. Nhưng em cần — thiết kế. Anh thiết kế, em viết mã."
+### Việc cụ thể
 
-Hùng mỉm cười. "Anh sẽ thiết kế — anh biết phần mềm quản lý. ERP — quản lý toàn doanh nghiệp: mua hàng, sản xuất, bán hàng, kho, nhân sự, tài chính. Kế toán — sổ cái, báo cáo, thuế. Bán hàng — POS, hóa đơn, khách hàng. Anh — anh thiết kế, em viết mã."
+Trong 6 ngày xoay quanh mốc này, đội ngũ bóc 3 nút thắt. Không phải 80 cuộc họp dài — là 80 quyết định ngắn có chủ sở hữu. Một lỗi lặp bị chặn từ gốc. Một quy trình viết lại bằng lời thợ cũng hiểu: bước làm, ngưỡng dừng, tên người chịu.
 
-Hùng thiết kế phần mềm — ông mang kiến thức thế kỷ 21. Ông vẽ lưu đồ, viết đặc tả, thiết kế giao diện. Đơn giản — phù hợp Việt Nam, dễ dùng, giá rẻ.
+Lan cập nhật bằng việc đã xong, không bằng tính từ. Hùng khen đúng việc, không khen lấy lệ. bà Nguyễn Thị Hà, ông Tam, cô Hạnh được gọi tên khi đóng góp. Người im lặng làm đúng cũng được nhìn thấy — nếu không, văn hóa sẽ chỉ nuôi người khéo nói.
 
-ERP Thương Gia — quản lý toàn doanh nghiệp: mua hàng (đơn hàng, nhà cung cấp), sản xuất (kế hoạch, tiến độ), bán hàng (đơn hàng, khách hàng), kho (nhập, xuất, tồn), nhân sự (lương, chấm công), tài chính (thu, chi, báo cáo). Tích hợp — một hệ thống, quản lý tất cả.
-
-Kế toán Thương Gia — sổ cái, báo cáo tài chính, thuế, hóa đơn. Tự động — nhập liệu, tính toán, báo cáo. Nhanh — nhanh hơn sổ sách gấp mười.
-
-Bán hàng Thương Gia — POS (Point of Sale), hóa đơn, khách hàng, thẻ thành viên. Tích hợp — với ERP, kế toán. Mua hàng — POS ghi, ERP cập nhật kho, kế toán ghi sổ. Một hệ thống — xuyên suốt.
-
-Long viết mã — 3 tháng, phần mềm đầu tiên (kế toán) hoàn thành. Hùng kiểm thử — chạy thử, kiểm tra. Phần mềm chạy — đúng, nhanh, dễ dùng. Hùng gật đầu hài lòng.
-
-"Long, phần mềm kế toán — tốt. Em tiếp — ERP, bán hàng. 3 tháng nữa, hoàn thành cả 3."
-
-Long gật đầu — anh viết mã, say mê. Anh hai mươi lăm tuổi, và anh đang viết phần mềm đầu tiên của Việt Nam — phần mềm Thương Gia.
-
-Phần mềm Thương Gia ra mắt — tháng 12 năm 2001. 3 phần mềm: ERP, kế toán, bán hàng. Giá: ERP 5.000 đồng/doanh nghiệp, kế toán 2.000 đồng, bán hàng 1.500 đồng. Rẻ — rẻ hơn phần mềm nước ngoài 80%.
-
-Hùng dùng nội bộ — Thương Gia. 66 cửa hàng dùng POS bán hàng, 10 chi nhánh ngân hàng dùng kế toán, 18 nhà máy dùng ERP. Thương Gia — khách đầu tiên, lớn nhất. Phần mềm chạy — cửa hàng bán hàng nhanh (POS), ngân hàng kế toán nhanh (tự động), nhà máy quản lý nhanh (ERP). Hiệu quả — gấp ba sổ sách.
-
-Bán ngoài — 100 doanh nghiệp mua trong 6 tháng. Đa số doanh nghiệp vừa — cần quản lý, cần kế toán, cần bán hàng. Phần mềm Thương Gia — rẻ, dễ dùng, phù hợp Việt Nam. Họ mua — và họ thích.
-
-Một khách — bà Phượng, chủ xưởng may nhỏ — mua phần mềm kế toán. "Anh Hùng, phần mềm kế toán — tuyệt! Trước đây, em ghi sổ — mất 3 ngày/tháng. Bây giờ — phần mềm, 3 giờ/tháng. Nhanh — nhanh gấp mười. Em — em tiết kiệm thời gian, tập trung sản xuất."
-
-Hùng mỉm cười. Phần mềm — hiệu quả. Doanh nghiệp tiết kiệm thời gian, tập trung sản xuất. Thương Gia — mang hiệu quả, mang hiện đại, mang phát triển.
-
-「Giao dịch thành công (phần mềm ra mắt): +100 EXP. Tổng EXP: 23.650」
-
-「Nhiệm vụ hoàn thành: Công ty phần mềm 3 sản phẩm
-- 3 phần mềm ✓ (ERP, kế toán, bán hàng)
-- 100 khách ✓ (66 nội bộ + 100 ngoài = 166, vượt mục tiêu)
-- Phần thưởng: +400 EXP, Kỹ năng Phần mềm lv1
-- Tổng EXP: 24.050」
-
-「Kỹ năng Phần mềm cấp 1: Thiết kế phần mềm, quản lý dự án phần mềm, lập trình cơ bản, hiểu ERP/CRM/SCM, đánh giá chất lượng phần mềm.」
-
-Phần mềm lv1. Thương Gia — đế chế phần mềm. 3 phần mềm, 166 khách, 2 triệu lãi/tháng. Hùng mỉm cười — ông tiên phong phần mềm Việt Nam. Từ bán hàng đến phần mềm — hành trình 18 năm. Và phần mềm — tương lai, hiệu quả, hiện đại.
-
-Tối ấy, Hùng về nhà. Bà Hà ngồi ở phòng khách, bế bé Bảo — bé hai tuổi, biết nói, biết chạy. Bà nhìn cháu nội, mỉm cười.
-
-"Cậu Hùng, phần mềm — là gì?"
-
-Hùng cười — bà lại hỏi. "Bà, phần mềm — như sách hướng dẫn, nhưng trong máy tính. Máy tính — chạy theo phần mềm. Phần mềm kế toán — máy tính kế toán cho mình. Phần mềm bán hàng — máy tính bán hàng cho mình. Phần mềm — giúp máy tính làm việc cho người."
-
-Bà Hà gật đầu — bà hiểu đại khái. "Máy tính — làm việc cho người. Tiện — tiện lắm. Cháu bà — làm máy tính làm việc. Thông minh."
-
-Hùng mỉm cười. "Bà, con — con mang hiệu quả. Phần mềm — giúp doanh nghiệp quản lý nhanh, kế toán nhanh, bán hàng nhanh. Nhanh — thì phát triển. Con — con giúp doanh nghiệp phát triển."
-
-Bà Hà tự hào — luôn tự hào. "Cháu bà — luôn tiên phong. Từ bán rong đến... máy tính làm việc. Bà — bà không hiểu hết, nhưng bà tự hào."
-
-Hạnh — cô bế Bảo, ngồi cạnh. "Anh ơi, phần mềm — em dùng, kế toán cửa hàng. Nhanh lắm — em nhập liệu, phần mềm tính, báo cáo ra. Em — em tiết kiệm 2 ngày/tháng. Em — em thích phần mềm!"
-
-Hùng cười. "Em thích — anh cũng thích. Phần mềm — tương lai. Mọi doanh nghiệp sẽ dùng — không còn sổ sách. Thương Gia — tiên phong, dẫn đầu."
-
-Bảo — bé hai tuổi, bập bẹ: "Bố... bố. Phần mềm... phần mềm." Bé nhại — lại nhại. Cả nhà cười — Bảo nhại "phần mềm", bé hai tuổi, nhại từ thế kỷ 21.
-
-Lan về — cô dùng phần mềm POS ở 66 cửa hàng. "Anh ơi, POS — tuyệt! Bán hàng nhanh — quét mã, tính tiền, in hóa đơn. Khách — khách thích, nhanh, không chờ. Em — em tăng doanh thu 10% — vì bán nhanh, khách đông."
-
-Hùng gật đầu. "Đúng. POS — tăng hiệu quả, tăng doanh thu. Phần mềm — không chỉ quản lý, mà tăng doanh thu. Thương Gia — dùng nội bộ, tăng hiệu quả. Bán ngoài — tăng doanh thu. Win-win."
-
-Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — no, ngon. Năm người ăn — bà Hà, Lan, Hùng, Hạnh, Bảo. Gia đình.
-
-Sau bữa tối, Hùng vào không gian — 9.500m². Ông ngồi bên suối, suy nghĩ. Phần mềm — 3 sản phẩm, 166 khách, 2 triệu lãi/tháng. Ngành mới — và sẽ lớn. Hùng biết — phần mềm sẽ thay đổi mọi thứ, như internet. Thương Gia — tiên phong, dẫn đầu. Và ông — ông mang kiến thức thế kỷ 21, xây phần mềm Việt Nam. Từ bán rong đến phần mềm — hành trình 18 năm. Và đây mới là bắt đầu.
-
-Hành trình tiếp tục.
-
-### Lớp sâu
-
-### Sàn sản xuất
-
-“Sản xuất phần mềm” tại Hà Nội năm 1989: máy, ca, sai số. Hùng đi chậm. Lỗi thì dừng đúng quy trình. Kinh doanh muốn xuất sớm bị chặn. Danh dự bắt đầu từ milimet và mũi chỉ.
-
-### Thử nhỏ
-
-Hai phòng ban đổ lỗi quanh “Sản xuất phần mềm”. Hùng cắt: lỗi hệ thống trước tội đồ. Quy trình một trang lên bảng tin.
-
-### Kết quả
-
-“Sản xuất phần mềm” (1989): có biên bản; ~430 người liên quan được phổ biến thay đổi; rủi ro có chủ sở hữu. Lan xem vàng; Hùng xem đỏ.
-
-「1989 | Sản xuất phần mềm | EXP +90 | người – sổ – uy tín」
-
-### Nhà
-
-Mâm cơm 1989. “Sản xuất phần mềm” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-### Khép
-
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Mở rộng cửa hàng 108”.
-
-“Sản xuất phần mềm” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Hà Nội và thế giới.
+Chỉ số theo dõi tuần: tiến độ 2 mốc; phản hồi khách/thợ được đọc to 2 lần; quỹ thời gian cho hiện trường không bị họp nuốt. EXP hệ thống có thể cộng 350, nhưng ông không làm việc vì con số nhấp nháy.
 
 ### Thoại
 
-Đối tác tại Khu công nghiệp: “Cam kết đi.”
-Hùng: “Cam kết bằng điều khoản và hạn, không bằng miệng cho nóng.”
-Lan đẩy bản nháp.
+Thủ kho: “Anh ơi, chỗ này em thấy chưa ổn.”
+Hùng: “Nói cụ thể. Rồi mình dừng đúng quy trình — không chạy thành tích.”
+Ông ghi tên người góp ý vào sổ khen tháng.
 
-### Lớp hiện trường & sổ sách
+### Nhà
 
-Tại Khu công nghiệp năm 1987, Hùng chia “Sản xuất phần mềm” thành việc hiện trường, sổ sách, khách và người. Lan giữ nhịp bảng việc–người–hạn. (Chương 100, lớp 1, nhịp 1.)
+Đêm 1990, mâm cơm không chức danh. Hạnh nhắc thuốc và giấc ngủ như nhắc KPI sức khỏe. Lan dịch việc ngày thành câu bà hiểu — không giọng họp trên mâm.
 
-Xung đột “thiếu vốn ngắn hạn” được gọi tên ngay trong họp, không để thì thầm hành lang. Ai muốn đi tắt bị trả về quy trình. (Chương 100, lớp 1, nhịp 2.)
+Hùng kể một mẩu việc bằng lời bình dân, bỏ hết từ hoa mỹ. Bà Hà (hoặc ký ức bà) chỉ cần biết cháu còn ăn, còn về, còn thương người. Nhà vẫn là nơi ông trả lại hình hài con người sau ngày dài ở Khu công nghiệp.
 
-Cảm xúc chủ đạo là tự hào thầm lặng, nhưng ông không để cảm xúc thay biên bản. Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, ông Tam cùng chịu trách nhiệm từng mảng. (Chương 100, lớp 1, nhịp 3.)
+### Hệ thống
 
-Một phản hồi thật từ khách/thợ/đối tác được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng hạn đã giữ. (Chương 100, lớp 1, nhịp 4.)
+「Năm 1990 | Tiến độ liên quan: Sản xuất phần mềm
+- Ghi nhận: lớp việc trong ngày hoàn thành có kiểm chứng
+- Thưởng: +380 EXP | Cột mốc 10 chương — +EXP, mở rộng không gian
+- Gợi ý: giữ người – giữ sổ – giữ uy tín」
 
-Bà Hà không cần slide; Lan dịch việc thành câu bà nắm được. Nhà vẫn là nơi Hùng trả hình hài con người. (Chương 100, lớp 1, nhịp 7.)
+Hùng đọc xong rồi tắt. Thước đo hữu ích — không phải ông chủ trong đầu. Việc ngoài đời ồn và thật hơn bất kỳ dòng chữ phát sáng nào.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 100, lớp 1, nhịp 8.)
+### Lớp sâu trong ngày
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 100, lớp 1, nhịp 9.)
+Phần thưởng hệ thống có thể chờ. Người đang chờ lương, chờ hàng, chờ câu trả lời thì không thể chờ văn chương quản trị.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Sản xuất phần mềm” có đà tại Khu công nghiệp. (Chương 100, lớp 1, nhịp 10.)
+Ca đêm được hỏi ăn gì, có xe về không, ghế chờ mưa đã đủ chưa. Chi tiết không lên báo. Chi tiết lên lương tâm.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 100, lớp 1, nhịp 11.)
+Kho bạc/kế toán rà dòng tiền ba mươi và chín mươi ngày. Mô hình đẹp trên giấy nhưng xấu thanh khoản thì hoãn. Ảo tưởng đắt hơn cơ hội lỡ — bài học ông trả giá từ những năm đầu.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 100, lớp 1, nhịp 12.)
+Hai phòng ban suýt thành hai chiến tuyến. Hùng cắt: lỗi hệ thống trước tội đồ. Quy trình được sửa trước khi tìm người để chửi.
 
-“Sản xuất phần mềm” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 100, lớp 1, nhịp 14.)
+Bà Hà trong khung ảnh / trong giọng nói chỉ hỏi ăn chưa. Hùng mỉm cười một mình: quản trị đế chế bắt đầu từ câu hỏi ấy.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 100, lớp 1, nhịp 15.)
+Một cải tiến nhỏ từ bảo vệ cổng được khen công khai. Cải tiến nhỏ được nhìn thấy sẽ đẻ cải tiến vừa. Văn hóa không sống bằng khẩu hiệu — sống bằng việc được thấy.
 
-Trong 9 ngày đầu, 2 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 100, lớp 1, nhịp 17.)
+Ông từ chối một đề xuất “linh hoạt” sai chỗ. Linh hoạt đúng là thích ứng. Linh hoạt sai là lỗ uy tín trả góp.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 100, lớp 1, nhịp 18.)
+Truyền thông nội bộ một trang chặn tin đồn trước khi nó nở. Coi người như người lớn thì họ làm như người lớn. Coi người như trẻ con thì họ sẽ thì thầm sau lưng.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 100, lớp 1, nhịp 19.)
+Lan phản biện một điểm trong phương án. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm lớn.
 
-Năm 1987, bối cảnh thị trường đổi; “Sản xuất phần mềm” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 100, lớp 1, nhịp 20.)
+Một nhân viên trẻ hỏi thẳng có đang che gì không. Hùng đáp: “Nếu có, em được quyền hỏi đến khi rõ. Che là nợ.” Câu ấy lan trong nội bộ nhanh hơn bất kỳ poster động lực nào.
 
-Hùng đi hiện trường “Sản xuất phần mềm” ở Khu công nghiệp: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 100, lớp 1, nhịp 21.)
+Đối thủ chơi chiêu nóng. Thương Gia đáp bằng hàng/dịch vụ đúng mẫu và hợp đồng rõ. Không đua đáy. Giữ chuẩn là giữ tên.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 100, lớp 1, nhịp 22.)
+Năm 1990, những năm đầu mở cửa, cơ hội nhởn nhơ nhưng luật và vốn còn mỏng như giấy nến. Trong bối cảnh ấy, nước cờ hôm nay vừa phòng thủ vừa mở đường — miễn là sổ còn sạch và người còn đứng.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 100, lớp 1, nhịp 23.)
+Chiều tà ở Khu công nghiệp, ông đứng nhìn sân bãi container. Mỗi điểm trên đó là người thật. Ông gỡ một việc đã xong khỏi đầu như gỡ một bao gạo — nhẹ hơn, nhưng không được phép kiêu.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Sản xuất phần mềm” sạch và đủ. (Chương 100, lớp 1, nhịp 24.)
+Ông nhớ lần đầu bán hàng run tay năm 1983. Cảm giác ấy giúp ông không biến mốc hôm nay thành trò chơi danh vọng.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 100, lớp 1, nhịp 25.)
+Cuối ngày đèn còn sáng một dãy bàn. Ông tắt dãy đó sau khi chắc ai cũng về được nhà. Việc quan trọng không biến thành văn hóa thức khuya khoe mẽ.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 100, lớp 2, nhịp 33.)
+Mùi mực in biên bản lúc tan ca kéo ông nhớ bát cháo năm 1983. Nhớ không phải để tự thương. Nhớ để không biến thành kẻ chỉ nhìn số.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 100, lớp 2, nhịp 34.)
+### Các nhịp hiện trường
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Sản xuất phần mềm” có đà tại Khu công nghiệp. (Chương 100, lớp 2, nhịp 35.)
+Nhịp 1 trong ngày tại Khu công nghiệp: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 100, lớp 2, nhịp 36.)
+Nhịp 2 trong ngày tại Khu công nghiệp: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 100, lớp 2, nhịp 37.)
+Nhịp 3 trong ngày tại Khu công nghiệp: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-“Sản xuất phần mềm” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 100, lớp 2, nhịp 39.)
+Nhịp 4 trong ngày tại Khu công nghiệp: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 100, lớp 2, nhịp 40.)
+Nhịp 5 trong ngày tại Khu công nghiệp: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Trong 9 ngày đầu, 2 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 100, lớp 2, nhịp 42.)
+Nhịp 6 trong ngày tại Khu công nghiệp: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 1 — “Sản xuất phần mềm” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 100.
+Nhịp 7 trong ngày tại Khu công nghiệp: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 2 — “Sản xuất phần mềm” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 100.
+Nhịp 8 trong ngày tại Khu công nghiệp: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 3 — “Sản xuất phần mềm” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 100.
+Nhịp 9 trong ngày tại Khu công nghiệp: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 4 — “Sản xuất phần mềm” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 100.
+Nhịp 10 trong ngày tại Khu công nghiệp: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 5 — “Sản xuất phần mềm” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 100.
+Nhịp 11 trong ngày tại Khu công nghiệp: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 6 — “Sản xuất phần mềm” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 100.
+Nhịp 12 trong ngày tại Khu công nghiệp: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ghi nhận bổ sung 7 — “Sản xuất phần mềm” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 100.
+### Khép
 
-Ghi nhận bổ sung 8 — “Sản xuất phần mềm” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 100.
+Ngày ở Khu công nghiệp năm 1990 có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước là “Mở rộng cửa hàng 108”. Ông không hứa dễ — chỉ hứa không quên gốc làng Thanh Xuân và bát cháo năm ấy.
 
-Ghi nhận bổ sung 9 — “Sản xuất phần mềm” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 100.
+Thêm một lớp quan sát 1 trong ngày tại Khu công nghiệp năm 1990: Hùng dừng lại với thợ cả, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 100-1 được để trong sổ da, không để trong bài diễn văn.
+
+Thêm một lớp quan sát 2 trong ngày tại Khu công nghiệp năm 1990: Hùng dừng lại với kế toán, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 100-2 được để trong sổ da, không để trong bài diễn văn.
+
+Thêm một lớp quan sát 3 trong ngày tại Khu công nghiệp năm 1990: Hùng dừng lại với tài xế, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 100-3 được để trong sổ da, không để trong bài diễn văn.
+
+Thêm một lớp quan sát 4 trong ngày tại Khu công nghiệp năm 1990: Hùng dừng lại với thủ kho, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 100-4 được để trong sổ da, không để trong bài diễn văn.
 
 ============================================================
-(3027 từ)
+(3036 từ)

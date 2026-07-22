@@ -1,238 +1,139 @@
+============================================================
 Chương 102: Mở rộng nhà hàng 42
+============================================================
 
 ### Mở
 
-Bà Hà hỏi ăn chưa. Hùng đáp rồi vẫn mang “Mở rộng nhà hàng 42” ra cửa — nhà và việc không nuốt nhau.
+Cổng xưởng vừa mở. Bụi sáng bay trong nắng. Ông bước vào trước đoàn xe con. (Mở riêng ch.102.)
 
-Hệ thống nhấp như thư ký, không như thần thánh.
+Nếu chỉ làm đúng một việc, ông chọn đúng với người.
 
-42 nhà hàng. “Mở rộng nhà hàng 42” mang mùi nước dùng và ca bếp. Vệ sinh bếp là uy tín không kém biển hiệu.
+### Dấu vết đã có
 
-### Diễn biến đã xác lập
+### Mở Bà Hà hỏi ăn chưa. Hùng đáp rồi vẫn mang “Mở rộng nhà hàng 42” ra cửa — nhà và việc không nuốt nhau. Hệ thống nhấp như thư ký, không như thần thánh. 42 nhà hàng. “Mở rộng nhà hàng 42” mang mùi nước dùng và ca bếp. Vệ sinh bếp là uy tín không kém biển hiệu. ### Diễn biến đã xác lập Sáng hôm sau, Trần Văn Hùng và Lan thức dậy sớm, trước khi mặt trời mọc. Hôm nay là ngày họ đi Pháp - quốc gia đầu tiên trong hành trình mở rộng kinh doanh sang châu Âu. Trần Văn Hùng đã chuẩn bị kỹ: hàng mẫu, tiền, giấy tờ, và quần áo phù hợp với thời tiết châu Âu. Hai anh em đi tàu hỏa đến Hà Nội, rồi từ Hà Nội đi máy bay đến Paris. Chuyến bay dài mười hai giờ, bay ngang nửa vòng trái đất. Lan ngạc nhiên khi ngồi trên máy bay lần đầu tiên. "Anh, bay cao quá," Lan nói, nhìn ra cửa sổ. "Em thấy mây trắng bên dưới. Thế giới nhỏ xíu." "Đây là lần đầu em bay," Trần Văn Hùng mỉm cười. "Lần sau em sẽ quen. Châu Âu còn xa hơn nữa, phải bay dài." Khi đến Paris, Lan sững sờ trước vẻ đẹp của thủ đô Pháp. Paris lớn hơn Hà Nội nhiều, với những tòa nhà cổ kính, đường phố rộng rãi, và tháp Eiffel sừng sững. Mùa xuân ở Paris, trời trong xanh, nắng nhẹ, hoa nở khắp phố. "Anh, Paris đẹp quá," Lan nói, đôi mắt mở to. "Em chưa từng thấy thành phố đẹp như vậy. Tòa nhà cổ kính, đường phố sạch sẽ, hoa nở khắp nơi." "Paris là thủ đô thời trang và văn hóa của thế giới," Trần Văn Hùng nói. "Ở đây có nhu cầu cao về hàng hóa chất lượng, đặc biệt là thời trang và hàng thủ công. Đây là thị trường tiềm năng lớn." Hai anh em đi dạo quanh khu trung tâm, quan sát tình hình. Khu thương mại sầm uất, với nhiều cửa hàng lớn, bán đủ loại hàng hóa. Ông thấy rằng hàng thủ công châu Á - đặc biệt là lụa, gốm sứ, và đồ gỗ - được bán với giá cao. Quần áo may tay, túi xách da, và giày dép thủ công cũng được ưa chuộng. Ông tìm đến khu chợ thương mại quốc tế, nơi các thương lái từ khắp thế giới giao dịch. Ở đây, ông gặp một thương lái tên là ông Pierre, người Pháp, có uy tín trong ngành hàng nhập khẩu. "Bonjour, Monsieur," Trần Văn Hùng nói bằng tiếng Pháp, sử dụng kỹ năng ngôn ngữ cấp 1. "Tôi là Trần Văn Hùng, từ Việt Nam. Tôi có nguồn hàng chất lượng cao, muốn hợp tác với ông." Ông Pierre ngạc nhiên khi nghe ông nói tiếng Pháp trôi chảy. "Vous parlez français? Người Việt Nam mà nói tiếng
 
-Sáng hôm sau, Trần Văn Hùng và Lan thức dậy sớm, trước khi mặt trời mọc. Hôm nay là ngày họ đi Pháp - quốc gia đầu tiên trong hành trình mở rộng kinh doanh sang châu Âu. Trần Văn Hùng đã chuẩn bị kỹ: hàng mẫu, tiền, giấy tờ, và quần áo phù hợp với thời tiết châu Âu.
+### Cảnh chính
 
-Hai anh em đi tàu hỏa đến Hà Nội, rồi từ Hà Nội đi máy bay đến Paris. Chuyến bay dài mười hai giờ, bay ngang nửa vòng trái đất. Lan ngạc nhiên khi ngồi trên máy bay lần đầu tiên.
+Cửa ngoài tại Seoul năm 1990 không cần bài diễn văn dài. Cần mẫu hàng, truy xuất, điều khoản phạt trễ, bảo hành. Hùng không hứa điều không làm được. Đối thủ giảm giá — Thương Gia không đua đáy.
 
-"Anh, bay cao quá," Lan nói, nhìn ra cửa sổ. "Em thấy mây trắng bên dưới. Thế giới nhỏ xíu."
+Lan siết phần dịch vụ sau bán. Ông giữ phần văn hóa: cúi đầu đúng lúc, thẳng lưng đúng chỗ. Xung đột “áp lực truyền thông” được gọi tên trong phòng họp, không mang về thì thầm.
 
-"Đây là lần đầu em bay," Trần Văn Hùng mỉm cười. "Lần sau em sẽ quen. Châu Âu còn xa hơn nữa, phải bay dài."
+### Buổi sáng
 
-Khi đến Paris, Lan sững sờ trước vẻ đẹp của thủ đô Pháp. Paris lớn hơn Hà Nội nhiều, với những tòa nhà cổ kính, đường phố rộng rãi, và tháp Eiffel sừng sững. Mùa xuân ở Paris, trời trong xanh, nắng nhẹ, hoa nở khắp phố.
+Trời Seoul năm 1990 chưa kịp sáng hẳn. Hùng đến sớm hơn lịch họp. Ông không mở slide trước. Ông đi một vòng, chào đối tác nhỏ tỉnh lẻ, hỏi một câu cụ thể: đơn gấp có ép người không.
 
-"Anh, Paris đẹp quá," Lan nói, đôi mắt mở to. "Em chưa từng thấy thành phố đẹp như vậy. Tòa nhà cổ kính, đường phố sạch sẽ, hoa nở khắp nơi."
+Tiếng gõ bàn phím dồn dập bám lấy ông như lời nhắc: đây là đời sống, không phải mô hình trên giấy. Lan đã để sẵn ba tờ giấy: phải làm / không được làm / ai chịu. Hùng viết thêm một dòng bằng tay: “Không dối.”
 
-"Paris là thủ đô thời trang và văn hóa của thế giới," Trần Văn Hùng nói. "Ở đây có nhu cầu cao về hàng hóa chất lượng, đặc biệt là thời trang và hàng thủ công. Đây là thị trường tiềm năng lớn."
+### Va chạm
 
-Hai anh em đi dạo quanh khu trung tâm, quan sát tình hình. Khu thương mại sầm uất, với nhiều cửa hàng lớn, bán đủ loại hàng hóa. Ông thấy rằng hàng thủ công châu Á - đặc biệt là lụa, gốm sứ, và đồ gỗ - được bán với giá cao. Quần áo may tay, túi xách da, và giày dép thủ công cũng được ưa chuộng.
+Xung đột “áp lực truyền thông” đến đúng lúc việc vừa có đà. Một tin đồn chạy trước sự thật. 
 
-Ông tìm đến khu chợ thương mại quốc tế, nơi các thương lái từ khắp thế giới giao dịch. Ở đây, ông gặp một thương lái tên là ông Pierre, người Pháp, có uy tín trong ngành hàng nhập khẩu.
+Hùng không lớn tiếng. Ông yêu cầu quy trình một trang lên bảng: sự thật, việc cần làm, kênh hỏi. Ai nhận lỗi để sửa được bảo vệ; ai giấu lỗi để giữ mặt sẽ bị xử. Lan đứng về phía quy trình — không phải cứng đầu, để đỡ anh khi áp lực muốn kéo lệch.
 
-"Bonjour, Monsieur," Trần Văn Hùng nói bằng tiếng Pháp, sử dụng kỹ năng ngôn ngữ cấp 1. "Tôi là Trần Văn Hùng, từ Việt Nam. Tôi có nguồn hàng chất lượng cao, muốn hợp tác với ông."
+Quyết định trong ngày: công bố sự thật nội bộ một trang. Không hứa nóng. Có hạn. Có tên người.
 
-Ông Pierre ngạc nhiên khi nghe ông nói tiếng Pháp trôi chảy. "Vous parlez français? Người Việt Nam mà nói tiếng Pháp giỏi thế? Tôi ấn tượng đấy. Ông có hàng gì?"
+### Việc cụ thể
 
-"Tôi có quần áo may tay, túi xách da, giày dép thủ công, và sản phẩm điện tử," Trần Văn Hùng nói. "Tất cả đều sản xuất tại Việt Nam, chất lượng cao, giá hợp lý."
+Trong 8 ngày xoay quanh mốc này, đội ngũ bóc 5 nút thắt. Không phải 94 cuộc họp dài — là 94 quyết định ngắn có chủ sở hữu. Một lỗi lặp bị chặn từ gốc. Một quy trình viết lại bằng lời thợ cũng hiểu: bước làm, ngưỡng dừng, tên người chịu.
 
-Trần Văn Hùng lấy từ vali ra hàng mẫu: 10 bộ quần áo may tay, 5 chiếc túi xách da, 5 đôi giày thủ công, và 5 chiếc radio. Ông cũng lấy ra trà và cà phê Việt Nam.
+Lan cập nhật bằng việc đã xong, không bằng tính từ. Hùng khen đúng việc, không khen lấy lệ. bà Nguyễn Thị Hà, Klaus, ông Phúc được gọi tên khi đóng góp. Người im lặng làm đúng cũng được nhìn thấy — nếu không, văn hóa sẽ chỉ nuôi người khéo nói.
 
-Ông Pierre cầm lên xem từng món hàng, kiểm tra chất lượng. Ông sững sờ.
-
-"Quần áo may tay, đường kim mũi chỉ hoàn hảo! Túi xách da, da thật, đường may chắc chắn! Giày thủ công, bền đẹp! Và radio - sản xuất tại Việt Nam? Tôi không tin được!"
-
-"Tôi có xưởng sản xuất ở Việt Nam," Trần Văn Hùng nói. "Tôi sản xuất quần áo, giày dép, túi xách, và điện tử. Chất lượng cao, giá hợp lý."
-
-"Giá thế nào?" ông Pierre hỏi.
-
-"Quần áo 50 đồng một bộ, túi xách 80 đồng một chiếc, giày 70 đồng một đôi, radio 120 đồng một chiếc, trà 10 đồng một kg, cà phê 15 đồng một kg," Trần Văn Hùng nói. "Tôi có thể cung cấp mỗi tháng 200 bộ quần áo, 100 chiếc túi, 100 đôi giày, 50 chiếc radio, 500kg trà, và 300kg cà phê."
-
-Ông Pierre tính toán, suy nghĩ. "Giá của ông hợp lý, chất lượng tốt. Thị trường Pháp cần hàng thủ công châu Á. Được, tôi sẽ hợp tác. Tôi cần nguồn hàng ổn định mỗi tháng."
-
-Hai người ký kết hợp đồng. Trần Văn Hùng mừng rỡ - ông đã tìm được đối tác ở Pháp, quốc gia đầu tiên ở châu Âu.
-
-Lan cũng rất vui. "Anh, em đã thấy Paris, em đã gặp đối tác Pháp. Em đã nói tiếng Pháp với ông Pierre. Em tự hào quá."
-
-"Em giỏi lắm," Trần Văn Hùng mỉm cười. "Em đã giao tiếp bằng tiếng Pháp. Anh tự hào về em."
-
-Hai anh em dành hai ngày tham quan Paris, đi thăm tháp Eiffel, bảo tàng Louvre, và nhà thờ Notre Dame. Lan ngạc nhiên trước vẻ đẹp và lịch sử của Paris.
-
-Khi về đến nhà, ông đưa cho bà 2000 đồng.
-
-"Bà, cháu đã tìm được đối tác ở Pháp," Trần Văn Hùng nói. "Ông Pierre là thương lái lớn, ông ấy đặt hàng mỗi tháng. Cháu đã mở rộng kinh doanh sang châu Âu."
-
-Bà Hà mỉm cười, đôi mắt rưng rưng. "Cháu làm ăn tốt quá. Bà tự hào về cháu. Châu Âu xa lắm, mà cháu vẫn thành công."
-
-Trần Văn Hùng vào phòng, kiểm tra không gian. Hệ thống thông báo:
-
-"Chủ nhân đã tìm được đối tác ở Pháp. Nhận được 100 điểm kinh nghiệm."
-
-"Điểm kinh nghiệm hiện tại: 15405."
-
-"Tiến độ nhiệm vụ phần 3: 1/5 nước phương Tây."
-
-Trần Văn Hùng gật đầu. Còn 4 nước nữa. Ông quyết định đi Đức tiếp.
-
-Buổi tối, gia đình ăn cơm. "Hùng à, cháu có kế hoạch gì tiếp theo?" bà Hà hỏi.
-
-"Cháu sẽ đi Đức," Trần Văn Hùng nói. "Đức là thị trường lớn, nhu cầu cao về sản phẩm công nghiệp và điện tử. Cháu muốn tìm đối tác ở Berlin."
-
-Bà Hà gật đầu. "Được rồi, bà tin cháu. Nhưng cháu phải cẩn thận."
-
-"Cháu biết ạ," Trần Văn Hùng mỉm cười.
-
-Sau bữa tối, Trần Văn Hùng vào phòng, vẽ kế hoạch đi Đức. Hành trình của ông tiếp tục.
-
-### Lớp sâu
-
-### Mặt tiền
-
-“Mở rộng nhà hàng 42” năm 1989 ở Hà Nội: khách, giá, thái độ. Hùng đứng góc quan sát. Lan siết ca và tồn. Lệch chuẩn sửa trong 48 giờ.
-
-### Thử nhỏ
-
-Thử nhỏ: báo cáo muộn / lô suýt lệch / tin đồn. Họp 25 phút — nguyên nhân, 48 giờ, cấm giấu. Nhận lỗi được bảo vệ để sửa.
-
-### Kết quả
-
-“Mở rộng nhà hàng 42” (1989): có biên bản; ~438 người liên quan được phổ biến thay đổi; rủi ro có chủ sở hữu. Lan xem vàng; Hùng xem đỏ.
-
-「1989 | Mở rộng nhà hàng 42 | EXP +91 | người – sổ – uy tín」
-
-### Nhà
-
-Mâm cơm 1989. “Mở rộng nhà hàng 42” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-### Khép
-
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Mở rộng nhà máy 30”.
-
-“Mở rộng nhà hàng 42” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Hà Nội và thế giới.
+Chỉ số theo dõi tuần: tiến độ 4 mốc; phản hồi khách/thợ được đọc to 4 lần; quỹ thời gian cho hiện trường không bị họp nuốt. EXP hệ thống có thể cộng 356, nhưng ông không làm việc vì con số nhấp nháy.
 
 ### Thoại
 
-Lan: ““Mở rộng nhà hàng 42” anh sợ nhất chỗ nào?”
-Hùng: “Sợ hứa nhanh hơn sức.”
-Lan: “Em giữ nhịp. Anh giữ chuẩn.”
+Đối tác: “Cam kết đi, ông Hùng.”
+Hùng: “Cam kết bằng điều khoản và hạn. Không cam kết bằng miệng cho nóng bàn.”
+Lan đẩy bản nháp đã soạn. Việc thắng cảm xúc.
 
-### Lớp hiện trường & sổ sách
+### Nhà
 
-Tại Seoul năm 1987, Hùng chia “Mở rộng nhà hàng 42” thành việc hiện trường, sổ sách, khách và người. Lan giữ nhịp bảng việc–người–hạn. (Chương 102, lớp 1, nhịp 1.)
+Đêm 1990, mâm cơm không chức danh. Hạnh nhắc thuốc và giấc ngủ như nhắc KPI sức khỏe. Lan dịch việc ngày thành câu bà hiểu — không giọng họp trên mâm.
 
-Xung đột “áp lực truyền thông” được gọi tên ngay trong họp, không để thì thầm hành lang. Ai muốn đi tắt bị trả về quy trình. (Chương 102, lớp 1, nhịp 2.)
+Hùng kể một mẩu việc bằng lời bình dân, bỏ hết từ hoa mỹ. Bà Hà (hoặc ký ức bà) chỉ cần biết cháu còn ăn, còn về, còn thương người. Nhà vẫn là nơi ông trả lại hình hài con người sau ngày dài ở Seoul.
 
-Cảm xúc chủ đạo là ấm áp gia đình, nhưng ông không để cảm xúc thay biên bản. Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, Klaus cùng chịu trách nhiệm từng mảng. (Chương 102, lớp 1, nhịp 3.)
+### Hệ thống
 
-Một phản hồi thật từ khách/thợ/đối tác được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng hạn đã giữ. (Chương 102, lớp 1, nhịp 4.)
+「Năm 1990 | Tiến độ liên quan: Mở rộng nhà hàng 42
+- Ghi nhận: lớp việc trong ngày hoàn thành có kiểm chứng
+- Thưởng: +386 EXP | Tiến độ nhiệm vụ + giao dịch thành công
+- Gợi ý: giữ người – giữ sổ – giữ uy tín」
 
-Bà Hà không cần slide; Lan dịch việc thành câu bà nắm được. Nhà vẫn là nơi Hùng trả hình hài con người. (Chương 102, lớp 1, nhịp 7.)
+Hùng đọc xong rồi tắt. Thước đo hữu ích — không phải ông chủ trong đầu. Việc ngoài đời ồn và thật hơn bất kỳ dòng chữ phát sáng nào.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 102, lớp 1, nhịp 8.)
+### Lớp sâu trong ngày
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 102, lớp 1, nhịp 9.)
+Có khoảnh khắc ông muốn ôm đồm như xưa. Rồi nhìn Lan và đội ngũ, ông buông đúng phần. Ủy thác không phải bỏ mặc: là tin và kiểm có nhịp.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng nhà hàng 42” có đà tại Seoul. (Chương 102, lớp 1, nhịp 10.)
+Ông nhớ lần đầu bán hàng run tay năm 1983. Cảm giác ấy giúp ông không biến mốc hôm nay thành trò chơi danh vọng.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 102, lớp 1, nhịp 11.)
+Cuối ngày đèn còn sáng một dãy bàn. Ông tắt dãy đó sau khi chắc ai cũng về được nhà. Việc quan trọng không biến thành văn hóa thức khuya khoe mẽ.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 102, lớp 1, nhịp 12.)
+Chiều tà ở Seoul, ông đứng nhìn cổng xưởng giờ tan ca. Mỗi điểm trên đó là người thật. Ông gỡ một việc đã xong khỏi đầu như gỡ một bao gạo — nhẹ hơn, nhưng không được phép kiêu.
 
-“Mở rộng nhà hàng 42” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 102, lớp 1, nhịp 14.)
+Một cải tiến nhỏ từ tổ trưởng ca đêm được khen công khai. Cải tiến nhỏ được nhìn thấy sẽ đẻ cải tiến vừa. Văn hóa không sống bằng khẩu hiệu — sống bằng việc được thấy.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 102, lớp 1, nhịp 15.)
+Kho bạc/kế toán rà dòng tiền ba mươi và chín mươi ngày. Mô hình đẹp trên giấy nhưng xấu thanh khoản thì hoãn. Ảo tưởng đắt hơn cơ hội lỡ — bài học ông trả giá từ những năm đầu.
 
-Trong 5 ngày đầu, 4 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 102, lớp 1, nhịp 17.)
+Hùng yêu cầu mọi cam kết lớn phải có tên người chịu và hạn. Bắt tay không thay chữ ký. Nụ cười không thay điều khoản.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 102, lớp 1, nhịp 18.)
+Ca đêm được hỏi ăn gì, có xe về không, ghế chờ mưa đã đủ chưa. Chi tiết không lên báo. Chi tiết lên lương tâm.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 102, lớp 1, nhịp 19.)
+Đối thủ chơi chiêu nóng. Thương Gia đáp bằng hàng/dịch vụ đúng mẫu và hợp đồng rõ. Không đua đáy. Giữ chuẩn là giữ tên.
 
-Năm 1987, bối cảnh thị trường đổi; “Mở rộng nhà hàng 42” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 102, lớp 1, nhịp 20.)
+Trước khi ngủ ông viết sổ da bốn dòng: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không vỡ thành hỗn độn.
 
-Hùng đi hiện trường “Mở rộng nhà hàng 42” ở Seoul: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 102, lớp 1, nhịp 21.)
+Lan phản biện một điểm trong phương án. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm lớn.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 102, lớp 1, nhịp 22.)
+Truyền thông nội bộ một trang chặn tin đồn trước khi nó nở. Coi người như người lớn thì họ làm như người lớn. Coi người như trẻ con thì họ sẽ thì thầm sau lưng.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 102, lớp 1, nhịp 23.)
+Hùng kiểm tra lại một con số đẹp. Đẹp mà không truy xuất nguồn thì chưa phải đẹp. Ông trả số về cho đúng tay chịu trách nhiệm.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Mở rộng nhà hàng 42” sạch và đủ. (Chương 102, lớp 1, nhịp 24.)
+Bà Hà trong khung ảnh / trong giọng nói chỉ hỏi ăn chưa. Hùng mỉm cười một mình: quản trị đế chế bắt đầu từ câu hỏi ấy.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 102, lớp 1, nhịp 25.)
+Ông từ chối một đề xuất “linh hoạt” sai chỗ. Linh hoạt đúng là thích ứng. Linh hoạt sai là lỗ uy tín trả góp.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 102, lớp 2, nhịp 33.)
+Hai phòng ban suýt thành hai chiến tuyến. Hùng cắt: lỗi hệ thống trước tội đồ. Quy trình được sửa trước khi tìm người để chửi.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 102, lớp 2, nhịp 34.)
+### Các nhịp hiện trường
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng nhà hàng 42” có đà tại Seoul. (Chương 102, lớp 2, nhịp 35.)
+Nhịp 1 trong ngày tại Seoul: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 102, lớp 2, nhịp 36.)
+Nhịp 2 trong ngày tại Seoul: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 102, lớp 2, nhịp 37.)
+Nhịp 3 trong ngày tại Seoul: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-“Mở rộng nhà hàng 42” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 102, lớp 2, nhịp 39.)
+Nhịp 4 trong ngày tại Seoul: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 102, lớp 2, nhịp 40.)
+Nhịp 5 trong ngày tại Seoul: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Trong 5 ngày đầu, 4 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 102, lớp 2, nhịp 42.)
+Nhịp 6 trong ngày tại Seoul: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 102, lớp 2, nhịp 43.)
+Nhịp 7 trong ngày tại Seoul: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 102, lớp 2, nhịp 44.)
+Nhịp 8 trong ngày tại Seoul: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Năm 1987, bối cảnh thị trường đổi; “Mở rộng nhà hàng 42” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 102, lớp 2, nhịp 45.)
+Nhịp 9 trong ngày tại Seoul: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Hùng đi hiện trường “Mở rộng nhà hàng 42” ở Seoul: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 102, lớp 2, nhịp 46.)
+Nhịp 10 trong ngày tại Seoul: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 102, lớp 2, nhịp 47.)
+Nhịp 11 trong ngày tại Seoul: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 102, lớp 2, nhịp 48.)
+Nhịp 12 trong ngày tại Seoul: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Mở rộng nhà hàng 42” sạch và đủ. (Chương 102, lớp 2, nhịp 49.)
+### Khép
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 102, lớp 2, nhịp 50.)
+Ngày ở Seoul năm 1990 có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước là “Mở rộng nhà máy 30”. Ông không hứa dễ — chỉ hứa không quên gốc làng Thanh Xuân và bát cháo năm ấy.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 102, lớp 3, nhịp 58.)
+Thêm một lớp quan sát 1 trong ngày tại Seoul năm 1990: Hùng dừng lại với thợ cả, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 102-1 được để trong sổ da, không để trong bài diễn văn.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 102, lớp 3, nhịp 59.)
+Thêm một lớp quan sát 2 trong ngày tại Seoul năm 1990: Hùng dừng lại với kế toán, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 102-2 được để trong sổ da, không để trong bài diễn văn.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng nhà hàng 42” có đà tại Seoul. (Chương 102, lớp 3, nhịp 60.)
+Thêm một lớp quan sát 3 trong ngày tại Seoul năm 1990: Hùng dừng lại với tài xế, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 102-3 được để trong sổ da, không để trong bài diễn văn.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 102, lớp 3, nhịp 61.)
+Thêm một lớp quan sát 4 trong ngày tại Seoul năm 1990: Hùng dừng lại với thủ kho, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 102-4 được để trong sổ da, không để trong bài diễn văn.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 102, lớp 3, nhịp 62.)
-
-“Mở rộng nhà hàng 42” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 102, lớp 3, nhịp 64.)
-
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 102, lớp 3, nhịp 65.)
-
-Ghi nhận bổ sung 1 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 2 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 3 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 4 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 5 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 6 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 7 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 8 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 9 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 10 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 11 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 12 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 13 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 14 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
-
-Ghi nhận bổ sung 15 — “Mở rộng nhà hàng 42” (1987, Seoul): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 102.
+Thêm một lớp quan sát 5 trong ngày tại Seoul năm 1990: Hùng dừng lại với kỹ sư trẻ, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 102-5 được để trong sổ da, không để trong bài diễn văn.
 
 ============================================================
-(3002 từ)
+(3039 từ)

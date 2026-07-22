@@ -1,224 +1,137 @@
+============================================================
 Chương 103: Mở rộng nhà máy 30
+============================================================
 
 ### Mở
 
-Trên bản đồ/bảng số/hiện trường cùng một mũi tên: “Mở rộng nhà máy 30”. Năm 1987.
+Chuông điện thoại để im một phút. Ông cần một câu hỏi đúng trước khi nghe ai nói. (Mở riêng ch.103.)
 
-Nếu chỉ làm đúng một việc hôm nay, ông chọn đúng với người.
+Thị trường có thể ồn; ông giữ nhịp thở đều.
 
-30 nhà máy. “Mở rộng nhà máy 30” dễ kiêu. Hùng đi từng nhà máy như đi khám sức khỏe — tìm bệnh, không tìm ảnh chụp.
+### Dấu vết đã có
 
-### Diễn biến đã xác lập
+### Mở Trên bản đồ/bảng số/hiện trường cùng một mũi tên: “Mở rộng nhà máy 30”. Năm 1987. Nếu chỉ làm đúng một việc hôm nay, ông chọn đúng với người. 30 nhà máy. “Mở rộng nhà máy 30” dễ kiêu. Hùng đi từng nhà máy như đi khám sức khỏe — tìm bệnh, không tìm ảnh chụp. ### Diễn biến đã xác lập Tháng 12 năm 2002. Hùng mở rộng nhà máy — từ 18 lên 30 nhà máy Thương Gia. Hùng ngồi trong văn phòng, họp Minh — quản lý kỹ thuật tổng thể. Bên cạnh, ông Hải — quản lý cơ khí, ông Khoa — quản lý điện tử, ông Phúc — quản lý thép, ông Thành — quản lý xi măng. "Minh, Phần 3 — mục tiêu 30 nhà máy. Hiện 18 — cần thêm 12. Ngành mới: thép (xong), xi măng (xong), điện tử (xong), viễn thông (xong), phần mềm (xong). Cần thêm: lọc nước, gạch ngói, nhựa, bao bì, hóa phẩm, dệt nhuộm, thủy tinh, sơn, dây điện, ống nhựa, phân bón." Minh gật đầu. "12 nhà máy mới — đa ngành. Em sẽ quản lý tổng thể, mỗi nhà máy có giám đốc riêng. Vốn mỗi nhà máy: 200-500 triệu. Tổng vốn: ~4 tỷ. 12 nhà máy — 12 tháng." Hùng gật đầu. "Được. 12 nhà máy — 12 tháng. Mỗi nhà máy — một ngành, một thị trường. Thương Gia — đế chế công nghiệp đa ngành." 「Nhiệm vụ mới: Mở 30 nhà máy - Mục tiêu: 30 nhà máy, doanh thu 10 tỷ/tháng - Phần thưởng: 500 EXP, Kỹ năng Sản xuất lv4 - Thời hạn: 12 tháng」 --- Hùng xây 12 nhà máy — mỗi nhà máy một ngành: 1. Lọc nước — Hà Nội, lọc nước sạch, bán cho khu dân cư. Vốn 300 triệu. 10.000 m³/tháng. 2. Gạch ngói — Bắc Ninh, nung gạch ngói, cho xây dựng. Vốn 200 triệu. 1 triệu viên/tháng. 3. Nhựa — Hải Phòng, ép nhựa, vỏ TV, vỏ điện thoại, thùng, chai. Vốn 300 triệu. 50 tấn/tháng. 4. Bao bì — Hà Đông, in bao bì, túi, hộp, nhãn. Vốn 150 triệu. 1 triệu túi/tháng. 5. Hóa phẩm — Đà Nẵng, sản xuất xà phòng, dầu gội, nước tẩy rửa. Vốn 250 triệu. 100 tấn/tháng. 6. Dệt nhuộm — Nam Định, dệt vải, nhuộm màu, cho may công nghiệp. Vốn 400 triệu. 200.000m vải/tháng. 7. Thủy tinh — Quảng Ninh, sản xuất thủy tinh, chai, lọ, cửa sổ. Vốn 350 triệu. 50 tấn/tháng. 8. Sơn — Hải Phòng, sản xuất sơn, cho xây dựng, cho công nghiệp. Vốn 200 triệu. 100 tấn/tháng. 9. Dây điện — Hà Nội, sản xuất dây điện, cho xây dựng, cho điện tử. Vốn 200 triệu. 500.000m/tháng. 10. Ống nhựa — Bình Dương, sản xuất ống nhựa, cấp thoát nước. Vốn 200 triệu. 100 tấn/tháng. 11. Phân bón — Ninh Bình, sản xuất phân bón NPK, cho nông nghiệp. Vốn 500 triệu. 5.000 tấn/tháng. 12. Bê tông
 
-Tháng 12 năm 2002. Hùng mở rộng nhà máy — từ 18 lên 30 nhà máy Thương Gia.
+### Cảnh chính
 
-Hùng ngồi trong văn phòng, họp Minh — quản lý kỹ thuật tổng thể. Bên cạnh, ông Hải — quản lý cơ khí, ông Khoa — quản lý điện tử, ông Phúc — quản lý thép, ông Thành — quản lý xi măng.
+Hiện trường Khu công nghiệp năm 1990 có mùi dầu máy / vải / kim loại — tùy chuyền. Hùng đi chậm, dừng ở chỗ tai nghe tiếng lạ. “Danh dự mất bắt đầu từ milimét,” ông nói với tổ trưởng. Kinh doanh muốn xuất sớm để kịp quý bị chặn.
 
-"Minh, Phần 3 — mục tiêu 30 nhà máy. Hiện 18 — cần thêm 12. Ngành mới: thép (xong), xi măng (xong), điện tử (xong), viễn thông (xong), phần mềm (xong). Cần thêm: lọc nước, gạch ngói, nhựa, bao bì, hóa phẩm, dệt nhuộm, thủy tinh, sơn, dây điện, ống nhựa, phân bón."
+Lan lo sau bán và phụ tùng. bà Nguyễn Thị Hà, ông Tanaka, con trai Hùng ghi chép, tranh luận kỹ thuật. Việc hôm nay không phải bán cho xong — là bán sự yên tâm còn lại sau khi khách mang hàng về nhà.
 
-Minh gật đầu. "12 nhà máy mới — đa ngành. Em sẽ quản lý tổng thể, mỗi nhà máy có giám đốc riêng. Vốn mỗi nhà máy: 200-500 triệu. Tổng vốn: ~4 tỷ. 12 nhà máy — 12 tháng."
+### Buổi sáng
 
-Hùng gật đầu. "Được. 12 nhà máy — 12 tháng. Mỗi nhà máy — một ngành, một thị trường. Thương Gia — đế chế công nghiệp đa ngành."
+Trời Khu công nghiệp năm 1990 se lạnh cuối mùa. Hùng đến sớm hơn lịch họp. Ông không mở slide trước. Ông đi một vòng, chào trưởng phòng bán hàng, hỏi một câu cụ thể: sổ có lệch không.
 
-「Nhiệm vụ mới: Mở 30 nhà máy
-- Mục tiêu: 30 nhà máy, doanh thu 10 tỷ/tháng
-- Phần thưởng: 500 EXP, Kỹ năng Sản xuất lv4
-- Thời hạn: 12 tháng」
+Mùi mực in biên bản bám lấy ông như lời nhắc: đây là đời sống, không phải mô hình trên giấy. Lan đã để sẵn ba tờ giấy: phải làm / không được làm / ai chịu. Hùng viết thêm một dòng bằng tay: “Không dối.”
 
----
+### Va chạm
 
-Hùng xây 12 nhà máy — mỗi nhà máy một ngành:
+Xung đột “chuỗi cung ứng đứt gãy” đến đúng lúc việc vừa có đà. Một đối tác đòi nới chuẩn. 
 
-1. Lọc nước — Hà Nội, lọc nước sạch, bán cho khu dân cư. Vốn 300 triệu. 10.000 m³/tháng.
-2. Gạch ngói — Bắc Ninh, nung gạch ngói, cho xây dựng. Vốn 200 triệu. 1 triệu viên/tháng.
-3. Nhựa — Hải Phòng, ép nhựa, vỏ TV, vỏ điện thoại, thùng, chai. Vốn 300 triệu. 50 tấn/tháng.
-4. Bao bì — Hà Đông, in bao bì, túi, hộp, nhãn. Vốn 150 triệu. 1 triệu túi/tháng.
-5. Hóa phẩm — Đà Nẵng, sản xuất xà phòng, dầu gội, nước tẩy rửa. Vốn 250 triệu. 100 tấn/tháng.
-6. Dệt nhuộm — Nam Định, dệt vải, nhuộm màu, cho may công nghiệp. Vốn 400 triệu. 200.000m vải/tháng.
-7. Thủy tinh — Quảng Ninh, sản xuất thủy tinh, chai, lọ, cửa sổ. Vốn 350 triệu. 50 tấn/tháng.
-8. Sơn — Hải Phòng, sản xuất sơn, cho xây dựng, cho công nghiệp. Vốn 200 triệu. 100 tấn/tháng.
-9. Dây điện — Hà Nội, sản xuất dây điện, cho xây dựng, cho điện tử. Vốn 200 triệu. 500.000m/tháng.
-10. Ống nhựa — Bình Dương, sản xuất ống nhựa, cấp thoát nước. Vốn 200 triệu. 100 tấn/tháng.
-11. Phân bón — Ninh Bình, sản xuất phân bón NPK, cho nông nghiệp. Vốn 500 triệu. 5.000 tấn/tháng.
-12. Bê tông — Hà Nội, trạm trộn bê tông, cho xây dựng. Vốn 300 triệu. 10.000 m³/tháng.
+Hùng không lớn tiếng. Ông yêu cầu quy trình một trang lên bảng: sự thật, việc cần làm, kênh hỏi. Ai nhận lỗi để sửa được bảo vệ; ai giấu lỗi để giữ mặt sẽ bị xử. Lan đứng về phía quy trình — không phải cứng đầu, để đỡ anh khi áp lực muốn kéo lệch.
 
-12 nhà máy — 12 ngành, 12 thị trường. Mỗi nhà máy — một mắt xích trong hệ sinh thái Thương Gia. Bao bì — cho hàng Thương Gia. Nhựa — cho vỏ TV, điện thoại. Dệt — cho may công nghiệp. Dây điện — cho điện tử, xây dựng. Phân bón — cho nông dân. Bê tông — cho xây dựng. Tất cả nối — hệ sinh thái khép kín.
+Quyết định trong ngày: ký điều khoản phạt trễ rõ. Không hứa nóng. Có hạn. Có tên người.
 
-12 tháng sau — 30 nhà máy hoạt động. Tổng doanh thu sản xuất: 12 tỷ/tháng (thép 5 tỷ + xi măng 6 tỷ + cơ khí 1 tỷ + điện tử 2 triệu + 12 nhà máy mới 1 tỷ). Lãi: 4 tỷ/tháng.
+### Việc cụ thể
 
-「Giao dịch thành công (12 nhà máy mới): +200 EXP. Tổng EXP: 24.980」
+Trong 9 ngày xoay quanh mốc này, đội ngũ bóc 6 nút thắt. Không phải 11 cuộc họp dài — là 11 quyết định ngắn có chủ sở hữu. Một lỗi lặp bị chặn từ gốc. Một quy trình viết lại bằng lời thợ cũng hiểu: bước làm, ngưỡng dừng, tên người chịu.
 
-「Nhiệm vụ hoàn thành: 30 nhà máy
-- 30 nhà máy ✓
-- Doanh thu 12 tỷ/tháng ✓ (vượt mục tiêu 10 tỷ)
-- Phần thưởng: +500 EXP, Kỹ năng Sản xuất lv4
-- Tổng EXP: 25.480」
+Lan cập nhật bằng việc đã xong, không bằng tính từ. Hùng khen đúng việc, không khen lấy lệ. bà Nguyễn Thị Hà, ông Tanaka, con trai Hùng được gọi tên khi đóng góp. Người im lặng làm đúng cũng được nhìn thấy — nếu không, văn hóa sẽ chỉ nuôi người khéo nói.
 
-「Kỹ năng Sản xuất cấp 4: Quản lý hệ thống nhà máy đa ngành, tối ưu hóa sản xuất toàn hệ thống, quản lý chuỗi cung ứng khép kín, đánh giá chất lượng quốc tế, quản lý 3.000 công nhân.」
-
-Sản xuất lv4. Thương Gia — đế chế công nghiệp. 30 nhà máy, 30 ngành, 12 tỷ/tháng. Hùng mỉm cười — từ 1 xưởng may (1983) đến 30 nhà máy (2002). 19 năm — công nghiệp đa ngành. Hệ sinh thái khép kín — từ nguyên liệu đến sản phẩm, tất cả do Thương Gia.
-
-Tối ấy, Hùng về nhà. Bà Hà ngồi ở hiên, bế bé Bảo — bé ba tuổi rưỡi, biết nói nhiều, biết chạy nhảy. Bà nhìn cháu nội, mỉm cười.
-
-"Cậu Hùng, 30 nhà máy — 30 ngành?"
-
-"Dạ, bà. 30 nhà máy — thép, xi măng, điện tử, cơ khí, lọc nước, gạch, nhựa, bao bì, hóa phẩm, dệt, thủy tinh, sơn, dây điện, ống nhựa, phân bón, bê tông. 30 ngành — con — con công nghiệp hóa Việt Nam."
-
-Bà Hà lắc đầu — bà không đếm hết được. "30 ngành... cháu bà — 30 ngành. Bà... bà không tin. Nhưng bà tự hào."
-
-Hùng nắm tay bà, mỉm cười. "Bà, con — con vẫn là cháu bà. 30 ngành — nhưng con vẫn đi xe đạp, vẫn ăn cơm bà Xuân nấu, vẫn ngủ cạnh bà. Không thay."
-
-Bà Hà cười — nụ cười hiền. "Bà biết. Bà luôn biết."
-
-Hạnh — cô bế Bảo, mỉm cười. "Anh ơi, 30 nhà máy — hệ sinh thái khép kín. Bao bì — cho hàng Thương Gia. Nhựa — cho vỏ TV. Dệt — cho may. Dây điện — cho điện tử. Tất cả nối — tất cả Thương Gia. Anh — anh xây hệ sinh thái, không chỉ công ty."
-
-Hùng gật đầu. "Đúng. Hệ sinh thái — tự cung tự cấp, khép kín. Nguyên liệu — Thương Gia sản xuất. Sản phẩm — Thương Gia sản xuất. Bao bì — Thương Gia sản xuất. Vận chuyển — Thương Gia vận chuyển. Bán — Thương Gia bán. Khép kín — hiệu quả, rẻ, kiểm soát."
-
-Lan về — cô đi kiểm tra nhà máy. "Anh ơi, 30 nhà máy — lớn lắm! Em — em đi 5 nhà hàng, 10 cửa hàng, 3 nhà máy — một ngày. Em — em mệt, nhưng vui. Thương Gia — lớn, rất lớn. Em — em không ngờ, 8 năm trước, em quản lý 1 cửa hàng. Bây giờ — 108 cửa hàng, 42 nhà hàng, 30 nhà máy. Em — em lớn cùng Thương Gia."
-
-Hùng mỉm cười. "Em — em lớn cùng Thương Gia. Em hai mươi tám tuổi, quản lý đế chế. Em — em giỏi. Và sau này — em sẽ quản lý nhiều hơn. Phần 4 — toàn cầu. Em — em sẽ đi thế giới."
-
-Lan mắt sáng — cô sẽ đi thế giới. Cô hai mươi tám tuổi, và cô có cả tương lai. Cô sẽ học, sẽ lớn, sẽ mạnh — cùng anh, cùng Thương Gia.
-
-Bữa tối — bà Xuân nấu: gà luộc, thịt bò xào, canh măng, nem rán, xôi gấc, dưa muối, chè. Bảy món — no, ngon. Năm người ăn — bà Hà, Lan, Hùng, Hạnh, Bảo. Gia đình.
-
-Sau bữa tối, Hùng vào không gian — 9.500m². Ông ngồi bên suối, suy nghĩ. 30 nhà máy — hệ sinh thái khép kín. 19 năm — từ 1 xưởng đến 30 nhà máy. Thương Gia — đế chế công nghiệp. Hùng mỉm cười — ông đang tiến. Phần 3 gần hoàn thành — 108 cửa hàng ✓, 42 nhà hàng ✓, 30 nhà máy ✓. Còn xuất khẩu 10 tỷ/tháng. Tiếp tục.
-
-Hành trình tiếp tục.
-
-### Lớp sâu
-
-### Sàn sản xuất
-
-“Mở rộng nhà máy 30” tại Hà Nội năm 1989: máy, ca, sai số. Hùng đi chậm. Lỗi thì dừng đúng quy trình. Kinh doanh muốn xuất sớm bị chặn. Danh dự bắt đầu từ milimet và mũi chỉ.
-
-### Thử nhỏ
-
-Hai phòng ban đổ lỗi quanh “Mở rộng nhà máy 30”. Hùng cắt: lỗi hệ thống trước tội đồ. Quy trình một trang lên bảng tin.
-
-### Kết quả
-
-“Mở rộng nhà máy 30” (1989): có biên bản; ~442 người liên quan được phổ biến thay đổi; rủi ro có chủ sở hữu. Lan xem vàng; Hùng xem đỏ.
-
-「1989 | Mở rộng nhà máy 30 | EXP +91 | người – sổ – uy tín」
-
-### Nhà
-
-Mâm cơm 1989. “Mở rộng nhà máy 30” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-### Khép
-
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Mở rộng xuất khẩu châu Âu”.
-
-“Mở rộng nhà máy 30” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Hà Nội và thế giới.
+Chỉ số theo dõi tuần: tiến độ 5 mốc; phản hồi khách/thợ được đọc to 5 lần; quỹ thời gian cho hiện trường không bị họp nuốt. EXP hệ thống có thể cộng 359, nhưng ông không làm việc vì con số nhấp nháy.
 
 ### Thoại
 
-Đối tác tại Khu công nghiệp: “Cam kết đi.”
-Hùng: “Cam kết bằng điều khoản và hạn, không bằng miệng cho nóng.”
-Lan đẩy bản nháp.
+Bảo vệ cổng: “Anh ơi, chỗ này em thấy chưa ổn.”
+Hùng: “Nói cụ thể. Rồi mình dừng đúng quy trình — không chạy thành tích.”
+Ông ghi tên người góp ý vào sổ khen tháng.
 
-### Lớp hiện trường & sổ sách
+### Nhà
 
-Tại Khu công nghiệp năm 1987, Hùng chia “Mở rộng nhà máy 30” thành việc hiện trường, sổ sách, khách và người. Lan giữ nhịp bảng việc–người–hạn. (Chương 103, lớp 1, nhịp 1.)
+Đêm 1990, mâm cơm không chức danh. Hạnh nhắc thuốc và giấc ngủ như nhắc KPI sức khỏe. Lan dịch việc ngày thành câu bà hiểu — không giọng họp trên mâm.
 
-Xung đột “chuỗi cung ứng đứt gãy” được gọi tên ngay trong họp, không để thì thầm hành lang. Ai muốn đi tắt bị trả về quy trình. (Chương 103, lớp 1, nhịp 2.)
+Hùng kể một mẩu việc bằng lời bình dân, bỏ hết từ hoa mỹ. Bà Hà (hoặc ký ức bà) chỉ cần biết cháu còn ăn, còn về, còn thương người. Nhà vẫn là nơi ông trả lại hình hài con người sau ngày dài ở Khu công nghiệp.
 
-Cảm xúc chủ đạo là căng thẳng đàm phán, nhưng ông không để cảm xúc thay biên bản. Trần Văn Hùng, Trần Thị Lan, bà Nguyễn Thị Hà, ông Tanaka cùng chịu trách nhiệm từng mảng. (Chương 103, lớp 1, nhịp 3.)
+### Hệ thống
 
-Một phản hồi thật từ khách/thợ/đối tác được đọc to. Khen ghi. Chê có hạn sửa. Uy tín là tổng hạn đã giữ. (Chương 103, lớp 1, nhịp 4.)
+「Năm 1990 | Tiến độ liên quan: Mở rộng nhà máy 30
+- Ghi nhận: lớp việc trong ngày hoàn thành có kiểm chứng
+- Thưởng: +389 EXP | Tiến độ nhiệm vụ + giao dịch thành công
+- Gợi ý: giữ người – giữ sổ – giữ uy tín」
 
-Bà Hà không cần slide; Lan dịch việc thành câu bà nắm được. Nhà vẫn là nơi Hùng trả hình hài con người. (Chương 103, lớp 1, nhịp 7.)
+Hùng đọc xong rồi tắt. Thước đo hữu ích — không phải ông chủ trong đầu. Việc ngoài đời ồn và thật hơn bất kỳ dòng chữ phát sáng nào.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 103, lớp 1, nhịp 8.)
+### Lớp sâu trong ngày
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 103, lớp 1, nhịp 9.)
+Ông từ chối một đề xuất “linh hoạt” sai chỗ. Linh hoạt đúng là thích ứng. Linh hoạt sai là lỗ uy tín trả góp.
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng nhà máy 30” có đà tại Khu công nghiệp. (Chương 103, lớp 1, nhịp 10.)
+Bà Hà trong khung ảnh / trong giọng nói chỉ hỏi ăn chưa. Hùng mỉm cười một mình: quản trị đế chế bắt đầu từ câu hỏi ấy.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 103, lớp 1, nhịp 11.)
+Hùng kiểm tra lại một con số đẹp. Đẹp mà không truy xuất nguồn thì chưa phải đẹp. Ông trả số về cho đúng tay chịu trách nhiệm.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 103, lớp 1, nhịp 12.)
+Truyền thông nội bộ một trang chặn tin đồn trước khi nó nở. Coi người như người lớn thì họ làm như người lớn. Coi người như trẻ con thì họ sẽ thì thầm sau lưng.
 
-“Mở rộng nhà máy 30” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 103, lớp 1, nhịp 14.)
+Chiều tà ở Khu công nghiệp, ông đứng nhìn chuyền sản xuất. Mỗi điểm trên đó là người thật. Ông gỡ một việc đã xong khỏi đầu như gỡ một bao gạo — nhẹ hơn, nhưng không được phép kiêu.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 103, lớp 1, nhịp 15.)
+Gió lùa qua cửa sổ mở lúc tan ca kéo ông nhớ bát cháo năm 1983. Nhớ không phải để tự thương. Nhớ để không biến thành kẻ chỉ nhìn số.
 
-Trong 6 ngày đầu, 5 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 103, lớp 1, nhịp 17.)
+Kho bạc/kế toán rà dòng tiền ba mươi và chín mươi ngày. Mô hình đẹp trên giấy nhưng xấu thanh khoản thì hoãn. Ảo tưởng đắt hơn cơ hội lỡ — bài học ông trả giá từ những năm đầu.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 103, lớp 1, nhịp 18.)
+Ca đêm được hỏi ăn gì, có xe về không, ghế chờ mưa đã đủ chưa. Chi tiết không lên báo. Chi tiết lên lương tâm.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 103, lớp 1, nhịp 19.)
+Đối thủ chơi chiêu nóng. Thương Gia đáp bằng hàng/dịch vụ đúng mẫu và hợp đồng rõ. Không đua đáy. Giữ chuẩn là giữ tên.
 
-Năm 1987, bối cảnh thị trường đổi; “Mở rộng nhà máy 30” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 103, lớp 1, nhịp 20.)
+Một nhân viên trẻ hỏi thẳng có đang che gì không. Hùng đáp: “Nếu có, em được quyền hỏi đến khi rõ. Che là nợ.” Câu ấy lan trong nội bộ nhanh hơn bất kỳ poster động lực nào.
 
-Hùng đi hiện trường “Mở rộng nhà máy 30” ở Khu công nghiệp: chào ca kíp, lắng nghe tiếng máy/quầy hơn slide. (Chương 103, lớp 1, nhịp 21.)
+Có khoảnh khắc ông muốn ôm đồm như xưa. Rồi nhìn Lan và đội ngũ, ông buông đúng phần. Ủy thác không phải bỏ mặc: là tin và kiểm có nhịp.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 103, lớp 1, nhịp 22.)
+Lan phản biện một điểm trong phương án. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm lớn.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 103, lớp 1, nhịp 23.)
+Năm 1990, những năm đầu mở cửa, cơ hội nhởn nhơ nhưng luật và vốn còn mỏng như giấy nến. Trong bối cảnh ấy, nước cờ hôm nay vừa phòng thủ vừa mở đường — miễn là sổ còn sạch và người còn đứng.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Mở rộng nhà máy 30” sạch và đủ. (Chương 103, lớp 1, nhịp 24.)
+Phần thưởng hệ thống có thể chờ. Người đang chờ lương, chờ hàng, chờ câu trả lời thì không thể chờ văn chương quản trị.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 103, lớp 1, nhịp 25.)
+Trước khi ngủ ông viết sổ da bốn dòng: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không vỡ thành hỗn độn.
 
-Đêm, sổ da bốn dòng: được / chưa / cảm ơn / xin lỗi. Viết để ngày không vỡ. (Chương 103, lớp 2, nhịp 33.)
+Hai phòng ban suýt thành hai chiến tuyến. Hùng cắt: lỗi hệ thống trước tội đồ. Quy trình được sửa trước khi tìm người để chửi.
 
-Hệ thống nhấp rồi im. Hùng tắt thông báo — thước đo, không ông chủ trong đầu. (Chương 103, lớp 2, nhịp 34.)
+### Các nhịp hiện trường
 
-Ông nhớ bát cháo 1983 để không kiêu khi “Mở rộng nhà máy 30” có đà tại Khu công nghiệp. (Chương 103, lớp 2, nhịp 35.)
+Nhịp 1 trong ngày tại Khu công nghiệp: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: từ chối đua giá đáy. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Người trẻ phản biện lịch trình; ông khen công khai và sửa ngay. Phòng họp không thành phòng vỗ tay. (Chương 103, lớp 2, nhịp 36.)
+Nhịp 2 trong ngày tại Khu công nghiệp: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: trả hồ sơ cánh hẩu. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Tin đồn bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. (Chương 103, lớp 2, nhịp 37.)
+Nhịp 3 trong ngày tại Khu công nghiệp: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: giữ lương cốt lõi, cắt chi hoa hòe. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-“Mở rộng nhà máy 30” neo vào mạch dài: việc làm, uy tín, năng lực — không anh hùng ca cô lập. (Chương 103, lớp 2, nhịp 39.)
+Nhịp 4 trong ngày tại Khu công nghiệp: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: ủy thác việc vận hành, giữ việc chiến lược. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Cuối ngày ông hỏi ca đêm ăn gì, có ốm không. Số trên bảng không thay câu hỏi dưới sàn. (Chương 103, lớp 2, nhịp 40.)
+Nhịp 5 trong ngày tại Khu công nghiệp: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: từ chối đua giá đáy. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Trong 6 ngày đầu, 5 nút thắt bị bóc. Checklist một trang, làm thật, không “nhìn chung ổn”. (Chương 103, lớp 2, nhịp 42.)
+Nhịp 6 trong ngày tại Khu công nghiệp: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: trả hồ sơ cánh hẩu. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Đối thủ chơi chiêu nóng; Thương Gia đáp bằng hợp đồng rõ và hàng/dịch vụ đúng mẫu, không đua đáy. (Chương 103, lớp 2, nhịp 43.)
+Nhịp 7 trong ngày tại Khu công nghiệp: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: giữ lương cốt lõi, cắt chi hoa hòe. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Lan nhắn anh nhớ nghỉ. Hùng gật — tốc độ không được đè người. (Chương 103, lớp 2, nhịp 44.)
+Nhịp 8 trong ngày tại Khu công nghiệp: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: ủy thác việc vận hành, giữ việc chiến lược. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Năm 1987, bối cảnh thị trường đổi; “Mở rộng nhà máy 30” là nước cờ vừa giữ sổ sạch vừa mở đường. (Chương 103, lớp 2, nhịp 45.)
+Nhịp 9 trong ngày tại Khu công nghiệp: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: từ chối đua giá đáy. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Một chỉ số đẹp bị soi nguồn; không truy xuất được thì chưa được công bố. (Chương 103, lớp 2, nhịp 47.)
+Nhịp 10 trong ngày tại Khu công nghiệp: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: trả hồ sơ cánh hẩu. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ủy thác có nhịp: tin Lan/đội ngũ và kiểm đúng hạn, không ôm đồm cũng không bỏ mặc. (Chương 103, lớp 2, nhịp 48.)
+Nhịp 11 trong ngày tại Khu công nghiệp: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: giữ lương cốt lõi, cắt chi hoa hòe. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Phía trước việc lớn hơn; hôm nay chỉ cần “Mở rộng nhà máy 30” sạch và đủ. (Chương 103, lớp 2, nhịp 49.)
+Nhịp 12 trong ngày tại Khu công nghiệp: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: ủy thác việc vận hành, giữ việc chiến lược. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
 
-Ông ghi tên người góp ý đúng vào sổ khen — văn hóa sống bằng việc được nhìn thấy. (Chương 103, lớp 2, nhịp 50.)
+### Khép
 
-Ghi nhận bổ sung 1 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
+Ngày ở Khu công nghiệp năm 1990 có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước là “Mở rộng xuất khẩu châu Âu”. Ông không hứa dễ — chỉ hứa không quên gốc làng Thanh Xuân và bát cháo năm ấy.
 
-Ghi nhận bổ sung 2 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
+Thêm một lớp quan sát 1 trong ngày tại Khu công nghiệp năm 1990: Hùng dừng lại với thợ cả, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 103-1 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 3 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
+Thêm một lớp quan sát 2 trong ngày tại Khu công nghiệp năm 1990: Hùng dừng lại với kế toán, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 103-2 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 4 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
+Thêm một lớp quan sát 3 trong ngày tại Khu công nghiệp năm 1990: Hùng dừng lại với tài xế, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 103-3 được để trong sổ da, không để trong bài diễn văn.
 
-Ghi nhận bổ sung 5 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
-
-Ghi nhận bổ sung 6 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
-
-Ghi nhận bổ sung 7 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
-
-Ghi nhận bổ sung 8 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
-
-Ghi nhận bổ sung 9 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
-
-Ghi nhận bổ sung 10 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
-
-Ghi nhận bổ sung 11 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
-
-Ghi nhận bổ sung 12 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
-
-Ghi nhận bổ sung 13 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
-
-Ghi nhận bổ sung 14 — “Mở rộng nhà máy 30” (1987, Khu công nghiệp): Hùng đối chiếu một chỉ số với một câu chuyện người thật; Lan chốt hạn; không để việc đỏ ngủ quên trong chương 103.
+Thêm một lớp quan sát 4 trong ngày tại Khu công nghiệp năm 1990: Hùng dừng lại với thủ kho, nghe một chi tiết nhỏ không có trên dashboard. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 103-4 được để trong sổ da, không để trong bài diễn văn.
 
 ============================================================
-(3028 từ)
+(3032 từ)
