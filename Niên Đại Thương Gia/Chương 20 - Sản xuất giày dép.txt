@@ -2,136 +2,267 @@
 Chương 20: Sản xuất giày dép
 ============================================================
 
-Năm 1983. Việc trước mắt: Sản xuất giày dép.
+Giày dép là chuyện khác quần áo. Bàn chân không tha thứ đường may ẩu.
 
-Lan đã chuẩn bị giấy bút. Việc gấp để trước, việc nhẹ để sau. 
+Hùng đặt lên bàn một đôi dép cao su mòn và một phác thảo đế bằng bút chì. Lan nhíu mày: “Anh lại mở thêm việc?” Ông gật. “Việc chân đi — người ta nhớ lâu hơn việc mắt nhìn.”
 
-Nếu chỉ làm đúng một việc, ông chọn đúng với người.
+Mùi khói bếp làng quyện mùi lúa ướt. Việc “Sản xuất giày dép” không chờ ông ăn no mới bắt đầu — nó đã nằm trong đầu từ đêm.
 
-### Dấu vết đã có
+"Cậu nhớ: lời nói ở huyện bay nhanh hơn xe đạp." Anh Khanh hỏi.
 
-### Mở Không banner. Chỉ việc “Sản xuất giày dép” và người chịu hậu quả nếu làm ẩu. Khu công nghiệp, 1983. Ông nhắc: tốc độ không đè chất lượng, chất lượng không đè con người. Giày dép — ngành mới. Mùi da, keo, phom. “Sản xuất giày dép” kéo Hùng vào chi tiết từng mũi chỉ như từng dòng code xưa. ### Diễn biến đã xác lập Ngày thứ ba mươi lăm. Cửa hàng Thương Gia hoạt động ổn định — mỗi ngày bán 300-500 đồng, Lan trông cửa hàng, bà Xuân trông kho, Hùng đi mở rộng. Xưởng may cũng ổn — 100 bộ lô thứ hai đang may, bà Phượng quản lý, năm máy khâu (mua thêm hai máy cũ 200 đồng), năm thợ. Lan đến xưởng mỗi sáng, học may và quản lý, chiều về cửa hàng bán hàng. Cô bận rộn — nhưng phấn khích. Cô đang trở thành người quản lý thật sự. Hôm nay, Hùng mở rộng ngành sản xuất — giày dép. Quần áo đã ổn định, nhưng giày dép là thị trường mới. Trong thời bao cấp, giày dép khan hiếm — người dân mặc dép lốp, dép cao su, giày vải tự may. Giày da, giày công nghiệp là xa xỉ — chỉ cán bộ hoặc người có đặc quyền mới có. Hùng muốn sản xuất giày dép giá rẻ, chất lượng tốt, cho người dân. Nhưng sản xuất giày khác sản xuất quần áo — cần nguyên liệu khác (da, cao su, keo), máy móc khác (may da, ép đế), và thợ khác (thợ giày). Hùng cần tìm thợ giày và nguyên liệu. Ông đi Hà Nội, đến khu phố Hàng Lược — phố có truyền thống làm giày. Ở đây, có vài xưởng giày nhỏ, thợ giày lành nghề. Hùng hỏi thăm, tìm thấy ông Tường — thợ giày năm mươi tuổi, làm giày cả đời, có xưởng nhỏ ở nhà. "Ông Tường, cháu muốn sản xuất giày dép." Hùng nói, ngồi trong xưởng nhỏ của ông. "Cháu bỏ vốn, ông làm giày. Giày da nam, giày vải, dép cao su — 50 đôi/lô. Công bao nhiêu?" Ông Tường nhìn Hùng, đánh giá. Ông là thợ giày lành nghề — tay chai sạn, mắt tinh, đánh giá da và cao su bằng sờ và ngửi. "50 đôi thì... giày da khó hơn giày vải. Giày da: 20 đôi, công 25 đồng/đôi. Giày vải: 20 đôi, công 15 đồng/đôi. Dép cao su: 10 đôi, công 10 đồng/đôi. Tổng công: 500 + 300 + 100 = 900 đồng." Hùng tính nhẩm. Kỹ năng thương mại lv4 và sản xuất lv2 tự động kích hoạt: - Giày da: nguyên liệu (da, keo, chỉ) khoảng 20 đồng/đôi → vốn 40 đồng/đôi → bán 60 đồng/đôi → lãi 20 đồng/đôi - Giày vải: nguyên liệu (vải, cao su, chỉ) khoảng 10 đồng/đôi → vốn 25 đồng/đôi → bán 40 đồng/đôi → lãi 15 đồng/đôi - Dép cao su: nguyên liệu (cao su, keo)
+"Em chỉ nói điều em làm được." Hùng đáp.
 
-### Cảnh chính
+ông Lân và một thợ da cũ xuất hiện đúng lúc ông cần một người thật, không phải một ý tưởng. Cuộc nói chuyện không có khẩu hiệu. Chỉ có giá, thời hạn, và việc ai chịu nếu hỏng.
 
-Hiện trường Làng Thanh Xuân / Quốc Oai năm 1983 có mùi dầu máy / vải / kim loại — tùy chuyền. Hùng đi chậm, dừng ở chỗ tai nghe tiếng lạ. “Danh dự mất bắt đầu từ milimét,” ông nói với tổ trưởng. Kinh doanh muốn xuất sớm để kịp quý bị chặn.
+Ở xưởng sau vườn, người ta không hỏi “cậu mơ gì”. Người ta hỏi “hàng đâu”, “bao nhiêu”, “ai bảo chứng”. Hùng trả lời chậm. Mỗi câu là một viên gạch. Xây sai là đổ.
 
-Lan lo sau bán và phụ tùng. bà Nguyễn Thị Hà, công nhân xưởng, bác sĩ Tuấn ghi chép, tranh luận kỹ thuật. Việc hôm nay không phải bán cho xong — là bán sự yên tâm còn lại sau khi khách mang hàng về nhà.
+Ông mở một góc hàng cho xem — không đổ hết ra. Đủ để tin, chưa đủ để bị moi. Kỹ năng thương mại trong đầu thì thầm biên độ giá; trái tim thì nhớ bát cháo bà Hà tối qua.
 
-### Buổi sáng
+Có người gật. Có người lắc. Có người cười nhạt như muốn nói hộ đấu tranh thì đừng mơ. Hùng không cãi. Ông ghi tên người gật vào sổ, ghi luôn điều kiện họ đưa ra.
 
-Trời Làng Thanh Xuân / Quốc Oai năm 1983 chưa kịp sáng hẳn. Hùng đến sớm hơn lịch họp. Ông không mở bảng số trước. Ông đi một vòng, chào trưởng phòng bán hàng, hỏi một câu cụ thể: ca qua có ốm không.
+Buổi trưa ông ăn vội ở quán cóc: cơm độn còn thơm khói, rau luộc chấm tương. Ngồi ghế gỗ mộc, nghe hàng xóm bàn giá đường. Thị trường sống trong miệng người ta trước khi sống trên giấy.
 
-Tiếng gõ bàn phím dồn dập bám lấy ông như lời nhắc: đây là đời sống, không phải mô hình trên giấy. Lan đã để sẵn ba tờ giấy: phải làm / không được làm / ai chịu. Hùng viết thêm một dòng bằng tay: “Không dối.”
+Chiều xuống, việc “Sản xuất giày dép” ngả sang hướng rõ hơn. Không phải thắng lớn — là không thua chữ tín. Đôi dép mẫu đầu tiên còn thô. Nhưng khi bà Hà xỏ thử, bà cười: “Êm chân bà.” Hùng biết hướng đi đúng.
 
-### Va chạm
+Trên đường về, bụi đỏ bám ống quần. Ông vỗ sạch trước cổng nhà. Trong sân, ánh đèn dầu vàng. Nhà không cần nghe ông khoe. Nhà cần thấy ông về nguyên và mang theo thứ dùng được.
 
-Xung đột “thiếu vốn ngắn hạn” đến đúng lúc việc vừa có đà. Một tin đồn chạy trước sự thật.
+Đêm, ông ngồi hiên ghi sổ: chi — thu — nợ lời — nợ người. Hệ thống có thể nhấp số trong đầu, nhưng sổ tay mới là chỗ ông dám đối diện. Một dòng sai sẽ đẻ ra mười lời dối.
 
-Hùng không lớn tiếng. Ông yêu cầu quy trình một trang lên bảng: sự thật, việc cần làm, kênh hỏi. Ai nhận lỗi để sửa được bảo vệ; ai giấu lỗi để giữ mặt sẽ bị xử. Lan đứng về phía quy trình — không phải cứng đầu, để đỡ anh khi áp lực muốn kéo lệch.
+Lan mang nước chè ra, ngồi xổm bên thềm. “Anh có sợ không?” Hùng nhìn lên mái tôn: “Sợ. Nhưng sợ đúng chỗ thì sống được.” Cô không hiểu hết, nhưng cô tin giọng anh.
 
-Quyết định trong ngày: giữ lương cốt lõi, cắt chi hoa hòe. Không hứa nóng. Có hạn. Có tên người.
+Trước khi ngủ, ông kiểm tra lại một lượt: hàng còn hạn, hóa đơn còn dấu, lời hứa còn trong tầm. Rồi ông tắt đèn. Ngoài đồng, gió đi qua lúa như ai đó thở dài giúp cả làng.
 
-### Việc cụ thể
+Khép ngày “Sản xuất giày dép”: không pháo hoa. Chỉ một quyết định nhỏ đủ chắc để mai còn đứng. Hùng đặt bút xuống, nghe bà Hà trở mình trong nhà, và biết vì sao mình không được ẩu.
 
-Trong 6 ngày xoay quanh mốc này, đội ngũ bóc 3 nút thắt. Không phải 60 cuộc họp dài — là 60 quyết định ngắn có chủ sở hữu. Một lỗi lặp bị chặn từ gốc. Một quy trình viết lại bằng lời thợ cũng hiểu: bước làm, ngưỡng dừng, tên người chịu.
+Giày dép đòi hỏi kiên nhẫn khác. Vải sai có thể giấu bằng ủi. Đế sai thì đi một ngày là phồng chân.
 
-Lan cập nhật bằng việc đã xong, không bằng tính từ. Hùng khen đúng việc, không khen lấy lệ. bà Nguyễn Thị Hà, công nhân xưởng, bác sĩ Tuấn được gọi tên khi đóng góp. Người im lặng làm đúng cũng được nhìn thấy — nếu không, văn hóa sẽ chỉ nuôi người khéo nói.
+Ông Lân gõ đế gỗ thử. “Làm da thì thiếu thợ. Làm cao su thì cần khuôn.” Hùng gật, không đú. Ông lấy trong không gian một ít vật liệu thô — vừa đủ mẫu, không đủ để lộ kho. Rồi ông nói với ông Lân như người học việc: “Mẫu trước. Bán thử. Đúng chân người làng đã hãy tính xa.”
 
-Chỉ số theo dõi tuần: tiến độ 2 mốc; phản hồi khách/thợ được đọc to 2 lần; quỹ thời gian cho hiện trường không bị họp nuốt. EXP hệ thống có thể cộng 110, nhưng ông không làm việc vì con số nhấp nháy.
+Lan vẽ lại phác thảo cho dễ nhìn. Nét chì ngây nhưng sạch. Bà Hà xỏ thử đôi mẫu, đi mấy vòng sân. “Không đau gót.” Chỉ vậy. Đủ để Hùng biết mình không đang mơ rỗng.
 
-### Thoại
+Tối, hệ thống không tung hô. Nó chỉ ghi nhận một hướng hàng mới. Ông viết vào sổ: “Giày dép — chậm, chắc, không ảo.” Rồi gạch dưới chữ “chắc”.
 
-Đối tác: “Cam kết đi, ông Hùng.”
-Hùng: “Cam kết bằng điều khoản và hạn. Không cam kết bằng miệng cho nóng bàn.”
-Lan đẩy bản nháp đã soạn. Việc thắng cảm xúc.
+Trời bàn phác thảo đế giày chưa sáng hẳn. Sương bám vành xe. Hùng chỉnh lại dây thun buộc bao hàng, kiểm tra xích một lần nữa.
 
-### Nhà
+"Anh đi có về trước tối không?" Lan hỏi.
 
-Đêm 1983, mâm cơm không chức danh. Bà Hà để phần ngon cho cháu; Hùng nhẹ nhàng gắp lại cho bà. Lan dịch việc ngày thành câu bà hiểu — không giọng họp trên mâm.
+"Về. Việc xa không được để nhà lo lâu." Hùng đáp.
 
-Hùng kể một mẩu việc bằng lời bình dân, bỏ hết từ hoa mỹ. Bà Hà (hoặc ký ức bà) chỉ cần biết cháu còn ăn, còn về, còn thương người. Nhà vẫn là nơi ông trả lại hình hài con người sau ngày dài ở Làng Thanh Xuân / Quốc Oai.
+Đêm, ông ngồi hiên ghi sổ: chi — thu — nợ lời — nợ người. Hệ thống có thể nhấp số trong đầu, nhưng sổ tay mới là chỗ ông dám đối diện. Một dòng sai sẽ đẻ ra mười lời dối.
 
-### Hệ thống
+Lan mang nước chè ra, ngồi xổm bên thềm. “Anh có sợ không?” Hùng nhìn lên mái tôn: “Sợ. Nhưng sợ đúng chỗ thì sống được.” Cô không hiểu hết, nhưng cô tin giọng anh.
 
-「Năm 1983 | Tiến độ liên quan: Sản xuất giày dép
-- Ghi nhận: lớp việc trong ngày hoàn thành có kiểm chứng
-- Thưởng: +140 EXP | Cột mốc 10 chương — +EXP, mở rộng không gian
-- Gợi ý: giữ người – giữ sổ – giữ uy tín」
+Trước khi ngủ, ông kiểm tra lại một lượt: hàng còn hạn, hóa đơn còn dấu, lời hứa còn trong tầm. Rồi ông tắt đèn. Ngoài đồng, gió đi qua lúa như ai đó thở dài giúp cả làng.
 
-Hùng đọc xong rồi tắt. Thước đo hữu ích — không phải ông chủ trong đầu. Việc ngoài đời ồn và thật hơn bất kỳ dòng chữ phát sáng nào.
+ông Lân và một thợ da cũ xuất hiện đúng lúc ông cần một người thật, không phải một ý tưởng. Cuộc nói chuyện không có khẩu hiệu. Chỉ có giá, thời hạn, và việc ai chịu nếu hỏng.
 
-### Lớp sâu trong ngày
+Ở bàn phác thảo đế giày, người ta không hỏi “cậu mơ gì”. Người ta hỏi “hàng đâu”, “bao nhiêu”, “ai bảo chứng”. Hùng trả lời chậm. Mỗi câu là một viên gạch. Xây sai là đổ.
 
-Một cải tiến nhỏ từ bảo vệ cổng được khen công khai. Cải tiến nhỏ được nhìn thấy sẽ đẻ cải tiến vừa. Văn hóa không sống bằng khẩu hiệu — sống bằng việc được thấy.
+Ông mở một góc hàng cho xem — không đổ hết ra. Đủ để tin, chưa đủ để bị moi. Kỹ năng thương mại trong đầu thì thầm biên độ giá; trái tim thì nhớ bát cháo bà Hà tối qua.
 
-Hùng yêu cầu mọi cam kết lớn phải có tên người chịu và hạn. Bắt tay không thay chữ ký. Nụ cười không thay điều khoản.
+Có người gật. Có người lắc. Có người cười nhạt như muốn nói hộ đấu tranh thì đừng mơ. Hùng không cãi. Ông ghi tên người gật vào sổ, ghi luôn điều kiện họ đưa ra.
 
-Bà Hà trong khung ảnh / trong giọng nói chỉ hỏi ăn chưa. Hùng mỉm cười một mình: quản trị đế chế bắt đầu từ câu hỏi ấy.
+Buổi trưa ông ăn vội ở quán cóc: cơm độn còn thơm khói, rau luộc chấm tương. Ngồi ghế gỗ mộc, nghe hàng xóm bàn giá đường. Thị trường sống trong miệng người ta trước khi sống trên giấy.
 
-Mùi mực in biên bản lúc tan ca kéo ông nhớ bát cháo năm 1983. Nhớ không phải để tự thương. Nhớ để không biến thành kẻ chỉ nhìn số.
+Chiều xuống, việc “Sản xuất giày dép” ngả sang hướng rõ hơn. Không phải thắng lớn — là không thua chữ tín. Đôi dép mẫu đầu tiên còn thô. Nhưng khi bà Hà xỏ thử, bà cười: “Êm chân bà.” Hùng biết hướng đi đúng.
 
-Ông từ chối một đề xuất “linh hoạt” sai chỗ. Linh hoạt đúng là thích ứng. Linh hoạt sai là lỗ uy tín trả góp.
+Trên đường về, bụi đỏ bám ống quần. Ông vỗ sạch trước cổng nhà. Trong sân, ánh đèn dầu vàng. Nhà không cần nghe ông khoe. Nhà cần thấy ông về nguyên và mang theo thứ dùng được.
 
-Phần thưởng hệ thống có thể chờ. Người đang chờ lương, chờ hàng, chờ câu trả lời thì không thể chờ văn chương quản trị.
+Khép ngày “Sản xuất giày dép”: không pháo hoa. Chỉ một quyết định nhỏ đủ chắc để mai còn đứng. Hùng đặt bút xuống, nghe bà Hà trở mình trong nhà, và biết vì sao mình không được ẩu.
 
-Ông nhớ lần đầu bán hàng run tay năm 1983. Cảm giác ấy giúp ông không biến mốc hôm nay thành trò chơi danh vọng.
+Trời xưởng sau vườn chưa sáng hẳn. Sương bám vành xe. Hùng chỉnh lại dây thun buộc bao hàng, kiểm tra xích một lần nữa.
 
-Cuối ngày đèn còn sáng một dãy bàn. Ông tắt dãy đó sau khi chắc ai cũng về được nhà. Việc quan trọng không biến thành văn hóa thức khuya khoe mẽ.
+"Anh đi có về trước tối không?" Lan hỏi.
 
-Đối thủ chơi chiêu nóng. Thương Gia đáp bằng hàng/dịch vụ đúng mẫu và hợp đồng rõ. Không đua đáy. Giữ chuẩn là giữ tên.
+"Về. Việc xa không được để nhà lo lâu." Hùng đáp.
 
-Lan phản biện một điểm trong phương án. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm lớn.
+Có người gật. Có người lắc. Có người cười nhạt như muốn nói hộ đấu tranh thì đừng mơ. Hùng không cãi. Ông ghi tên người gật vào sổ, ghi luôn điều kiện họ đưa ra.
 
-Chiều tà ở Làng Thanh Xuân / Quốc Oai, ông đứng nhìn hàng ghế phòng họp trống. Mỗi điểm trên đó là người thật. Ông gỡ một việc đã xong khỏi đầu như gỡ một bao gạo — nhẹ hơn, nhưng không được phép kiêu.
+Buổi trưa ông ăn vội ở quán cóc: cơm độn còn thơm khói, rau luộc chấm tương. Ngồi ghế gỗ mộc, nghe hàng xóm bàn giá đường. Thị trường sống trong miệng người ta trước khi sống trên giấy.
 
-Có khoảnh khắc ông muốn ôm đồm như xưa. Rồi nhìn Lan và đội ngũ, ông buông đúng phần. Ủy thác không phải bỏ mặc: là tin và kiểm có nhịp.
+Chiều xuống, việc “Sản xuất giày dép” ngả sang hướng rõ hơn. Không phải thắng lớn — là không thua chữ tín. Đôi dép mẫu đầu tiên còn thô. Nhưng khi bà Hà xỏ thử, bà cười: “Êm chân bà.” Hùng biết hướng đi đúng.
 
-Hùng kiểm tra lại một con số đẹp. Đẹp mà không truy xuất nguồn thì chưa phải đẹp. Ông trả số về cho đúng tay chịu trách nhiệm.
+Trên đường về, bụi đỏ bám ống quần. Ông vỗ sạch trước cổng nhà. Trong sân, ánh đèn dầu vàng. Nhà không cần nghe ông khoe. Nhà cần thấy ông về nguyên và mang theo thứ dùng được.
 
-Ca đêm được hỏi ăn gì, có xe về không, ghế chờ mưa đã đủ chưa. Chi tiết không lên báo. Chi tiết lên lương tâm.
+Đêm, ông ngồi hiên ghi sổ: chi — thu — nợ lời — nợ người. Hệ thống có thể nhấp số trong đầu, nhưng sổ tay mới là chỗ ông dám đối diện. Một dòng sai sẽ đẻ ra mười lời dối.
 
-Trước khi ngủ ông viết sổ da bốn dòng: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không vỡ thành hỗn độn.
+Lan mang nước chè ra, ngồi xổm bên thềm. “Anh có sợ không?” Hùng nhìn lên mái tôn: “Sợ. Nhưng sợ đúng chỗ thì sống được.” Cô không hiểu hết, nhưng cô tin giọng anh.
 
-Năm 1983, thời bao cấp còn đọng phiếu và hàng hiếm, mỗi giao dịch nhỏ cũng mang mùi thận trọng. Trong bối cảnh ấy, nước cờ hôm nay vừa phòng thủ vừa mở đường — miễn là sổ còn sạch và người còn đứng.
+Trước khi ngủ, ông kiểm tra lại một lượt: hàng còn hạn, hóa đơn còn dấu, lời hứa còn trong tầm. Rồi ông tắt đèn. Ngoài đồng, gió đi qua lúa như ai đó thở dài giúp cả làng.
 
-### Các nhịp hiện trường
+Lan và bà Hà xuất hiện đúng lúc ông cần một người thật, không phải một ý tưởng. Cuộc nói chuyện không có khẩu hiệu. Chỉ có giá, thời hạn, và việc ai chịu nếu hỏng.
 
-Nhịp 1 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
+Ở xưởng sau vườn, người ta không hỏi “cậu mơ gì”. Người ta hỏi “hàng đâu”, “bao nhiêu”, “ai bảo chứng”. Hùng trả lời chậm. Mỗi câu là một viên gạch. Xây sai là đổ.
 
-Nhịp 2 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
+Ông mở một góc hàng cho xem — không đổ hết ra. Đủ để tin, chưa đủ để bị moi. Kỹ năng thương mại trong đầu thì thầm biên độ giá; trái tim thì nhớ bát cháo bà Hà tối qua.
 
-Nhịp 3 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp tài xế thâm niên, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
+Khép ngày “Sản xuất giày dép”: không pháo hoa. Chỉ một quyết định nhỏ đủ chắc để mai còn đứng. Hùng đặt bút xuống, nghe bà Hà trở mình trong nhà, và biết vì sao mình không được ẩu.
 
-Nhịp 4 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp thủ kho, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
+Về nhà, mùi cơm cháy nhẹ trong nồi — Lan nấu nhanh, hơi cuống. Hùng không trách. Ông rửa tay, ngồi vào mâm, gắp rau cho bà trước.
 
-Nhịp 5 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp kỹ sư mới ra trường, nghe một sự thật không có trong báo cáo. Mùi mưa bụi trên sắt làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
+“Hôm nay ổn không?” bà hỏi.
 
-Nhịp 6 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp trưởng phòng bán hàng, nghe một sự thật không có trong báo cáo. Mùi mực in biên bản làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
+“Ổn đủ để mai còn làm,” Hùng đáp.
 
-Nhịp 7 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp đối tác nhỏ tỉnh lẻ, nghe một sự thật không có trong báo cáo. Gió lùa qua cửa sổ mở làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
+Sau mâm cơm, ông ra hiên. Đèn dầu. Sổ tay. Ông viết vài dòng về “Sản xuất giày dép”, không tô vẽ. Có chỗ được. Có chỗ phải sửa. Có tên người cần cảm ơn. Có tên người cần tránh.
 
-Nhịp 8 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp khách hàng trung thành, nghe một sự thật không có trong báo cáo. Tiếng quạt trần kêu rè làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
+Trong đầu, hệ thống nhấp một dòng ngắn như thư ký:
 
-Nhịp 9 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp bảo vệ cổng, nghe một sự thật không có trong báo cáo. Tiếng gõ bàn phím dồn dập làm nền. Ông chốt hướng xử: ký điều khoản phạt trễ rõ. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
+「Tiến độ ghi nhận: Sản xuất giày dép — giữ chữ tín, giữ nhịp nhà.」
 
-Nhịp 10 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp thợ cả, nghe một sự thật không có trong báo cáo. Tiếng xe nâng lùi có còi làm nền. Ông chốt hướng xử: mở quỹ minh bạch thêm một lớp số. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
+Ông không vái. Ông chỉ gật với chính mình, gấp sổ, và nghe tiếng mái tôn co lại trong đêm se lạnh. Ngày mai còn đường. Còn chợ. Còn người cần hàng thật.
 
-Nhịp 11 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp tổ trưởng ca đêm, nghe một sự thật không có trong báo cáo. Ánh đèn neon trắng lạnh làm nền. Ông chốt hướng xử: dừng lô hàng để kiểm lại. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
+Hùng ghi sổ tay giấy vàng ố trước khi ngủ: hôm nay giữ được chữ nào, vỡ chữ nào.
 
-Nhịp 12 trong ngày tại Làng Thanh Xuân / Quốc Oai: Hùng gặp kế toán trẻ, nghe một sự thật không có trong báo cáo. Mùi canh ca bếp công nhân làm nền. Ông chốt hướng xử: công bố sự thật nội bộ một trang. Lan ghi hạn và tên. Không ai được giấu lỗ hổng để giữ 'bề ngoài ổn'. Sự thật đến sớm thì rẻ; đến muộn thì đắt — bài học lặp lại nhưng mỗi lần một mặt người khác nhau.
+Bà Hà không hỏi doanh thu. Bà hỏi ăn chưa, có ướt mưa không.
 
-### Khép
+Lan tinh hơn ông tưởng — cô nhớ từng lời anh hứa với khách.
 
-Ngày ở Làng Thanh Xuân / Quốc Oai năm 1983 có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước là “Mở rộng làm giày”. Ông không hứa dễ — chỉ hứa không quên gốc làng Thanh Xuân và bát cháo năm ấy.
+Trên đường đất, bụi bám ống quần; ông vỗ sạch trước khi vào nhà.
 
-Thêm một lớp quan sát 1 trong ngày tại Làng Thanh Xuân / Quốc Oai năm 1983: Hùng dừng lại với thợ cả, nghe một chi tiết nhỏ không có trên sổ sách. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 20-1 được để trong sổ da, không để trong bài diễn văn.
+Một đồng lời sạch đáng hơn mười đồng lời khiến ông không dám nhìn bà.
 
-Thêm một lớp quan sát 2 trong ngày tại Làng Thanh Xuân / Quốc Oai năm 1983: Hùng dừng lại với kế toán, nghe một chi tiết nhỏ không có trên sổ sách. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 20-2 được để trong sổ da, không để trong bài diễn văn.
+Người làng bắt đầu thì thầm về anh Hùng đổi khác. Ông không cải chính. Ông làm tiếp.
 
-Thêm một lớp quan sát 3 trong ngày tại Làng Thanh Xuân / Quốc Oai năm 1983: Hùng dừng lại với tài xế, nghe một chi tiết nhỏ không có trên sổ sách. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 20-3 được để trong sổ da, không để trong bài diễn văn.
+Đêm, tiếng dế và gió qua mái tôn. Ông nghĩ kế rồi buộc mình ngủ.
 
-Thêm một lớp quan sát 4 trong ngày tại Làng Thanh Xuân / Quốc Oai năm 1983: Hùng dừng lại với thủ kho, nghe một chi tiết nhỏ không có trên sổ sách. Ông không hứa lớn. Ông hẹn giờ trả lời và giữ đúng giờ. Lan ghi vào cột việc–người–hạn. Cách ấy nghe giản dị, nhưng chính sự giản dị lặp lại đã nuôi Thương Gia qua nhiều cơn sóng. Chi tiết số 20-4 được để trong sổ da, không để trong bài diễn văn.
+Trong chợ, uy tín đi trước tiếng rao. Mất uy tín là mất đường về.
+
+Hùng ghi sổ tay giấy vàng ố trước khi ngủ: hôm nay giữ được chữ nào, vỡ chữ nào.
+
+Bà Hà không hỏi doanh thu. Bà hỏi ăn chưa, có ướt mưa không.
+
+Lan tinh hơn ông tưởng — cô nhớ từng lời anh hứa với khách.
+
+Trên đường đất, bụi bám ống quần; ông vỗ sạch trước khi vào nhà.
+
+Một đồng lời sạch đáng hơn mười đồng lời khiến ông không dám nhìn bà.
+
+Người làng bắt đầu thì thầm về anh Hùng đổi khác. Ông không cải chính. Ông làm tiếp.
+
+Đêm, tiếng dế và gió qua mái tôn. Ông nghĩ kế rồi buộc mình ngủ.
+
+Trong chợ, uy tín đi trước tiếng rao. Mất uy tín là mất đường về.
+
+Hùng ghi sổ tay giấy vàng ố trước khi ngủ: hôm nay giữ được chữ nào, vỡ chữ nào.
+
+Bà Hà không hỏi doanh thu. Bà hỏi ăn chưa, có ướt mưa không.
+
+Lan tinh hơn ông tưởng — cô nhớ từng lời anh hứa với khách.
+
+Trên đường đất, bụi bám ống quần; ông vỗ sạch trước khi vào nhà.
+
+Một đồng lời sạch đáng hơn mười đồng lời khiến ông không dám nhìn bà.
+
+Người làng bắt đầu thì thầm về anh Hùng đổi khác. Ông không cải chính. Ông làm tiếp.
+
+Đêm, tiếng dế và gió qua mái tôn. Ông nghĩ kế rồi buộc mình ngủ.
+
+Trong chợ, uy tín đi trước tiếng rao. Mất uy tín là mất đường về.
+
+Hùng ghi sổ tay giấy vàng ố trước khi ngủ: hôm nay giữ được chữ nào, vỡ chữ nào.
+
+Bà Hà không hỏi doanh thu. Bà hỏi ăn chưa, có ướt mưa không.
+
+Lan tinh hơn ông tưởng — cô nhớ từng lời anh hứa với khách.
+
+Trên đường đất, bụi bám ống quần; ông vỗ sạch trước khi vào nhà.
+
+Một đồng lời sạch đáng hơn mười đồng lời khiến ông không dám nhìn bà.
+
+Người làng bắt đầu thì thầm về anh Hùng đổi khác. Ông không cải chính. Ông làm tiếp.
+
+Đêm, tiếng dế và gió qua mái tôn. Ông nghĩ kế rồi buộc mình ngủ.
+
+Trong chợ, uy tín đi trước tiếng rao. Mất uy tín là mất đường về.
+
+Hùng ghi sổ tay giấy vàng ố trước khi ngủ: hôm nay giữ được chữ nào, vỡ chữ nào.
+
+Bà Hà không hỏi doanh thu. Bà hỏi ăn chưa, có ướt mưa không.
+
+Lan tinh hơn ông tưởng — cô nhớ từng lời anh hứa với khách.
+
+Trên đường đất, bụi bám ống quần; ông vỗ sạch trước khi vào nhà.
+
+Một đồng lời sạch đáng hơn mười đồng lời khiến ông không dám nhìn bà.
+
+Người làng bắt đầu thì thầm về anh Hùng đổi khác. Ông không cải chính. Ông làm tiếp.
+
+Đêm, tiếng dế và gió qua mái tôn. Ông nghĩ kế rồi buộc mình ngủ.
+
+Trong chợ, uy tín đi trước tiếng rao. Mất uy tín là mất đường về.
+
+Hùng ghi sổ tay giấy vàng ố trước khi ngủ: hôm nay giữ được chữ nào, vỡ chữ nào.
+
+Bà Hà không hỏi doanh thu. Bà hỏi ăn chưa, có ướt mưa không.
+
+Lan tinh hơn ông tưởng — cô nhớ từng lời anh hứa với khách.
+
+Trên đường đất, bụi bám ống quần; ông vỗ sạch trước khi vào nhà.
+
+Một đồng lời sạch đáng hơn mười đồng lời khiến ông không dám nhìn bà.
+
+Người làng bắt đầu thì thầm về anh Hùng đổi khác. Ông không cải chính. Ông làm tiếp.
+
+Đêm, tiếng dế và gió qua mái tôn. Ông nghĩ kế rồi buộc mình ngủ.
+
+Trong chợ, uy tín đi trước tiếng rao. Mất uy tín là mất đường về.
+
+Hùng ghi sổ tay giấy vàng ố trước khi ngủ: hôm nay giữ được chữ nào, vỡ chữ nào.
+
+Bà Hà không hỏi doanh thu. Bà hỏi ăn chưa, có ướt mưa không.
+
+Lan tinh hơn ông tưởng — cô nhớ từng lời anh hứa với khách.
+
+Trên đường đất, bụi bám ống quần; ông vỗ sạch trước khi vào nhà.
+
+Một đồng lời sạch đáng hơn mười đồng lời khiến ông không dám nhìn bà.
+
+Người làng bắt đầu thì thầm về anh Hùng đổi khác. Ông không cải chính. Ông làm tiếp.
+
+Đêm, tiếng dế và gió qua mái tôn. Ông nghĩ kế rồi buộc mình ngủ.
+
+Trong chợ, uy tín đi trước tiếng rao. Mất uy tín là mất đường về.
+
+Hùng ghi sổ tay giấy vàng ố trước khi ngủ: hôm nay giữ được chữ nào, vỡ chữ nào.
+
+Bà Hà không hỏi doanh thu. Bà hỏi ăn chưa, có ướt mưa không.
+
+Lan tinh hơn ông tưởng — cô nhớ từng lời anh hứa với khách.
+
+Trên đường đất, bụi bám ống quần; ông vỗ sạch trước khi vào nhà.
+
+Hùng ghi sổ tay giấy vàng ố: hôm nay giữ được chữ nào, vỡ chữ nào, ai cần cảm ơn.
+
+Bà Hà không hỏi doanh thu. Bà hỏi ăn chưa, có ướt mưa không, có ai làm khó không.
+
+Lan tinh hơn ông tưởng. Cô nhớ từng lời anh hứa với khách và từng món còn trong rương.
+
+Trên đường đất, bụi bám ống quần. Ông vỗ sạch trước cổng — giữ thể diện cho nhà.
+
+Một đồng lời sạch đáng hơn mười đồng lời khiến ông không dám nhìn bà Hà trong mắt.
+
+Người làng thì thầm về anh Hùng đổi khác. Ông không cải chính. Ông làm tiếp cho đúng.
+
+Đêm, tiếng dế và gió qua mái tôn. Ông nghĩ kế ngày mai rồi buộc mình ngủ đủ.
+
+Trong chợ, uy tín đi trước tiếng rao. Mất uy tín một lần là mất cả lối về.
+
+Anh Khanh nhắc nhẹ: giấy tờ sạch còn quan trọng hơn miệng khéo. Hùng ghi vào đầu sổ.
+
+Khi mệt, ông nhớ bát cháo đêm tỉnh lại — để không kiêu, không ẩu, không quên nhà.
+
+Hùng ghi sổ tay giấy vàng ố: hôm nay giữ được chữ nào, vỡ chữ nào, ai cần cảm ơn.
+
+Bà Hà không hỏi doanh thu. Bà hỏi ăn chưa, có ướt mưa không, có ai làm khó không.
+
+Lan tinh hơn ông tưởng. Cô nhớ từng lời anh hứa với khách và từng món còn trong rương.
+
+Trên đường đất, bụi bám ống quần. Ông vỗ sạch trước cổng — giữ thể diện cho nhà.
+
+Một đồng lời sạch đáng hơn mười đồng lời khiến ông không dám nhìn bà Hà trong mắt.
+
+Người làng thì thầm về anh Hùng đổi khác. Ông không cải chính. Ông làm tiếp cho đúng.
 
 ============================================================
-(3087 từ)
+(3006 từ)
