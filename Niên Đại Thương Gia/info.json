@@ -239,3 +239,62 @@ Fix: _strip_rewrite_all.py — strip spam, keep cores, unique opens, domain scen
 Audit: 360/360, words 3000-4049 avg~3022, pad=0, heavy_dup=0, dup_open=0.
 Keys: Ch1 "Đau. Đau như thể..."; Ch360 "Tôi đã làm được...".
 Structure 6 parts complete. Mid-late still more structural than early literary cores.
+
+============================================================
+AUDIT TOÀN BỘ 360 CHƯƠNG (2026-03-22) — Đánh giá bổ sung & hệ thống
+============================================================
+
+A. KẾT LUẬN NGẮN
+- Cấu trúc 360 chương / 6 phần: ĐỦ.
+- Đọc được, có khép + cầu nối: ĐẠT mức hoàn thiện khung.
+- Hệ thống số liệu (EXP / Space / tiền / skill / nhiệm vụ): KHÔNG ĐÚNG chuẩn info.json trên phần lớn bộ truyện.
+- Cần bổ sung chính: SỔ CÁI HỆ THỐNG + số liệu mốc phần + scene đặc thù (không chỉ khung generic).
+
+B. HỆ THỐNG SỐ LIỆU — CHI TIẾT
+Mục tiêu info.json:
+  Space: 1000 → 3500(ch60) → 6200(130) → 12000(200) → 25000(270) → 45000(330) → 60000(360)
+  EXP:   0 → 7800(60) → 19500(130) → 38000(200) → 62000(270) → 81000(330) → 98500(360)
+
+Thực tế trong text:
+  - Chỉ ~6 chương có chuỗi EXP “thật” (chủ yếu ch3–9).
+  - Chỉ ~4 chương nhắc số m² không gian có kiểm được.
+  - ~340 chương có 「…」 nhưng phần lớn là khép generic (tiến độ/ghi nhận), KHÔNG phải sổ cái.
+  - Mốc ch60/130/200/270/330/360: KHÔNG thấy EXP/Space khớp target trong text.
+  - currentStateSnapshot trong info.json ĐÓNG BĂNG (EXP 1205, space 1700, ngày 35) — lệch end-state và lệch luôn ch10.
+
+Mâu thuẫn nội bộ sớm (ví dụ):
+  - Ch5: Tổng EXP 120/100 + space 1.200m² (ổn hướng).
+  - Ch6: 145 EXP.
+  - Ch8: 195; Ch9: 230.
+  - Ch10: nhiệm vụ +200 EXP / +300m² được loan báo nhưng tổng EXP/Space không chốt rõ; space vẫn nói 1.200m².
+  - Khép template chèn thêm “EXP +41/+10x” song song tổng thật → DOUBLE BOOK (hai sổ).
+  - Ch7: “145 + 10” vs dòng khép “EXP +107” (ảo).
+
+C. CẤU TRÚC / ĐỌC
+Phủ proxy 8 yếu tố:
+  dialogue ~359/360 | family 360 | khép ~359 | conflict/plan 360
+  numbers thật (đồng/m²/EXP/%/tỷ) chỉ ~15/360
+  → Cảm xúc/khung có; “kết quả + số liệu” theo rule THIẾU hàng loạt từ ~ch11.
+
+D. LỆCH OUTLINE / INFO
+  - Tên file/chương thực tế không khớp hết mô tả info (vd info nói 52–53 Vĩnh Phúc/Hưng Yên; file là Tuyển Minh / phòng khám…).
+  - Part boundary titles có (89,200,270,330…) nhưng thiếu payoff số liệu phần thưởng lớn theo rule.
+
+E. LỖI NHỎ ĐÃ QUÉT
+  - Anachronism sớm: Mercedes, billboard (đã/patch).
+  - Facebook xuất hiện 1 lần (cần ràng năm nếu trước 2000).
+  - Ch1 còn rò năm 1989/2024 trong ký ức (chấp nhận một phần nếu là ký ức kiếp trước — nên gắn nhãn rõ).
+
+F. ƯU TIÊN BỔ SUNG (khi làm tiếp)
+1) CRITICAL — Dựng system_ledger.json theo mốc ch1–360 (EXP, space, skill, tiền, nhiệm vụ) khớp info.json; inject thông báo hệ thống chuẩn vào mỗi chương (đặc biệt 11–360 và mốc 50/60/100/130/155/200/221/270/300/330/356/360).
+2) HIGH — Gỡ double-book EXP ở ch2–10; chốt 1 dòng Tổng EXP/Space cuối mỗi chương sớm.
+3) HIGH — Viết lại scene số liệu cho các chương “Hoàn thành Phần” (60/89/112/200/270/330) + ngân hàng 155 + khủng hoảng 221–240.
+4) MED — Đồng bộ info.json titles/end-state/currentStateSnapshot với file thật.
+5) MED — Bổ sung foreshadow/payoff 3–5 chương (Lan CEO, 2008, bàn giao) bằng chi tiết sự kiện, không chỉ khép.
+6) LOW — Tỉa khép generic trùng pattern; tăng dialogue riêng giọng nhân vật phụ (Minh, Tâm, Hạnh, Sato…).
+
+G. VERDICT
+  Hoàn thiện KỂ CHUYỆN KHUNG: ~7.5/10
+  Hoàn thiện HỆ THỐNG SỐ LIỆU: ~2.5/10 (gãy từ ch11)
+  Hoàn thiện theo rule 2.0 đầy đủ: CHƯA — cần vòng ledger + mốc phần.
+
