@@ -2,150 +2,193 @@
 Chương 216: Sản xuất chip thử nghiệm
 ============================================================
 
-Năm 2003, Hà Nội. Gió mang mùi của một thời kỳ lớn hơn xưởng may Quốc Oai. “Sản xuất chip thử nghiệm” không còn là chuyện một huyện — là chuyện dòng tiền, chuẩn mực, và danh tiếng có thể vỡ trong một quý.
+Trời Hà Nội năm 2002 chưa kịp định hình một ngày thường thì “Sản xuất chip thử nghiệm” đã chiếm chỗ trong đầu Trần Văn Hùng.
 
-Hùng đứng trước bảng số. Không hoa mỹ. Chỉ đỏ và xanh. Bối cảnh toàn cầu hóa: chi nhánh nước ngoài, vốn, thương hiệu. Ông hít sâu: “Không giấu. Không hoảng. Không bán rẻ người.”
+Thị trường có thể ồn. Ông giữ nhịp thở đều như người thợ già siết bu lông.
 
 ### Mm và danh dự
 
-Hiện trường Hà Nội năm 2003. Hùng đội bảo hộ, đi dọc chuyền. Minh chỉ sai số. “Không xuất,” Hùng nói. “Danh dự mất bắt đầu từ mm.” Phòng kinh doanh muốn bán sớm — bị chặn. Lan lo bảo hành và phụ tùng tỉnh lẻ. “Sản xuất chip thử nghiệm” là bán sự yên tâm, không chỉ bán sắt.
+Hiện trường Hà Nội năm 2002. Hùng đi dọc chuyền/tổ. Sai số nhỏ cũng bị dừng xuất. “Danh dự mất bắt đầu từ mm,” ông nói. Kinh doanh muốn bán sớm — bị chặn. Lan lo sau bán và phụ tùng.
 
-### Hiên nhà
+“Sản xuất chip thử nghiệm” là bán sự yên tâm, không chỉ bán hàng.
 
-Sau “Sản xuất chip thử nghiệm”, hiên nhà năm 2003 vẫn là nơi Hùng trả hình hài con người. Bà Hà gắp thức ăn. Lan dịch việc lớn thành câu bà hiểu. Không slide. Không micro. Chỉ sự thật vừa đủ để nhà không vỡ.
+### Thoại
 
-### Hệ thống — thước, không phải ông chủ
+Lan: ““Sản xuất chip thử nghiệm” này anh sợ nhất chỗ nào?”
+Hùng: “Sợ mình hứa nhanh hơn sức.”
+Lan: “Vậy em giữ nhịp. Anh giữ chuẩn.”
+Bà Hà (nếu có): “Nhớ ăn.” — và cả bàn cười vì biết câu ấy cũng là quản trị.
 
-「Năm: 2003」
-「Việc: Sản xuất chip thử nghiệm — tiến độ ghi nhận」
-「Gợi ý: giữ uy tín, giữ người, giữ sổ sạch」
-「EXP +512 | Tiến độ nhiệm vụ + giao dịch thành công」
+### Nhà
 
-Hùng đọc rồi tắt. Ông cảm ơn công cụ, nhưng không giao linh hồn. Thước đo cuối vẫn là bát cơm nhà và lương công nhân.
+Đêm 2002, mâm cơm không chức danh. Lan dịch “Sản xuất chip thử nghiệm” thành câu bà hiểu được. Hạnh nhắc sức khỏe. Con hỏi: giữ người hay giữ tiền? Hùng đáp thật. Nhà vẫn thắng danh xưng ngoài phố.
 
-### Khép ngày
+### Hệ thống
 
-“Sản xuất chip thử nghiệm” không hoàn hảo. Nhưng có tiến, có sẹo nhỏ, có bài học. Hùng nhắn Lan một câu ngắn: “Mai tiếp. Nhớ nghỉ.” Rồi tắt đèn.
+「2002 | Sản xuất chip thử nghiệm — tiến độ ghi nhận | EXP +266」
+「Gợi ý: uy tín – người – sổ sạch」
 
-Phía trước là “Nhà máy năng lượng tái tạo”. Ông không hứa dễ. Ông chỉ hứa không trở thành kẻ quên gốc.
+Hùng đọc rồi tắt. Thước đo, không phải ông chủ.
 
-Hùng yêu cầu viết lại quy trình “Sản xuất chip thử nghiệm” bằng lời người thợ cũng hiểu: bước, ngưỡng dừng, tên người chịu. Năm 2003, cách viết ấy cứu nhiều lỗi lặp.
+### Khép
 
-Một phản hồi thẳng từ người thật gắn với “Sản xuất chip thử nghiệm” được đọc to. Khen ghi nhận. Chê gắn hạn sửa. Uy tín sống bằng ticket đóng đúng hạn.
+“Sản xuất chip thử nghiệm” có tiến, có sẹo nhỏ. Hùng nhắn Lan: “Mai tiếp. Nhớ nghỉ.” Phía trước: “Nhà máy năng lượng tái tạo”. Ông không hứa dễ — chỉ hứa không quên gốc.
 
-Dòng tiền 30–90 ngày được rà trước khi phóng. Mô hình chỉ đẹp trên giấy thì hoãn. Ông thà mất cơ hội hơn mất thanh khoản và mất người.
+Cuối ngày tại Hà Nội, Hùng hỏi ca đêm: ăn gì, có ốm, thiếu gì. Số trên bảng không thay câu hỏi dưới sàn. (Nhịp chương 216, bước 1.)
 
-Tin đồn nội bộ bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. Người ta làm tốt hơn khi được coi là người lớn.
+Công nhân thâm niên nhắc chi tiết báo cáo quên trong “Sản xuất chip thử nghiệm”. Hùng chốt trong tuần. Người dưới không bị bỏ là sức mạnh. (Nhịp chương 216, bước 2.)
 
-Bà Hà không cần hiểu hết số liệu. Bà cần thấy cháu còn ăn, còn về, còn thương người. Lan dịch việc lớn thành câu bà hiểu — cũng là kỹ năng lãnh đạo.
+Hùng yêu cầu quy trình “Sản xuất chip thử nghiệm” viết bằng lời thợ hiểu được: bước, ngưỡng dừng, tên người chịu. Năm 2002 tại Hà Nội, cách ấy giảm lỗi lặp. (Nhịp chương 216, bước 3.)
 
-Tại Hà Nội, Hùng đi một vòng cuối ngày: hỏi ca đêm ăn gì, có ai ốm, thiếu gì. Quản trị bắt đầu từ câu hỏi nhỏ ấy.
+Bản tin nội bộ một trang chặn tin đồn quanh “Sản xuất chip thử nghiệm”: sự thật, việc cần làm, kênh hỏi. Coi người như người lớn thì họ làm như người lớn. (Nhịp chương 216, bước 4.)
 
-Lan phản biện khi cần. Không khí không thành phòng vỗ tay. “Sản xuất chip thử nghiệm” phải qua cửa phản biện rồi mới được làm lớn.
+Lan phản biện “Sản xuất chip thử nghiệm” khi cần. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm. (Nhịp chương 216, bước 5.)
 
-Sổ tay da thêm vài dòng mực: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không trôi thành hỗn độn.
+Ba câu trước ngủ năm 2002: dối ai chưa? bỏ ai lại chưa? mai dám nhìn lại “Sản xuất chip thử nghiệm” chưa? Sai nghĩa thì sửa ngay. (Nhịp chương 216, bước 6.)
 
-Công nhân thâm niên nhắc chi tiết báo cáo quên. Hùng chốt xử trong tuần. “Sản xuất chip thử nghiệm” thất bại nếu chỉ chăm số trên mà bỏ người dưới.
+Phản hồi thẳng từ một người thật gắn “Sản xuất chip thử nghiệm” được đọc to trong họp lõi. Khen ghi. Chê có hạn. Uy tín là tổng các hạn đã giữ. (Nhịp chương 216, bước 7.)
 
-Ba câu tự vấn trước khi ngủ: có dối ai không? có bỏ ai lại không? mai có dám nhìn lại không? Một câu sai nghĩa thì sửa ngay.
+Bà Hà không cần slide. Bà cần thấy cháu còn ăn, còn về, còn thương. Lan dịch “Sản xuất chip thử nghiệm” thành câu bà nắm được — kỹ năng lãnh đạo thật. (Nhịp chương 216, bước 8.)
 
-“Sản xuất chip thử nghiệm” được neo vào nhịp dài của Thương Gia: không cô lập thành anh hùng ca, phải nuôi việc làm–uy tín–năng lực.
+Sổ da thêm dòng: việc được / chưa / người cần cảm ơn / người cần xin lỗi — liên quan “Sản xuất chip thử nghiệm”. Viết để ngày không vỡ. (Nhịp chương 216, bước 9.)
 
-Hệ thống cho số. Lương tâm cho hướng. Năm 2003, Hùng dùng cả hai mà không giao linh hồn cho cái nào.
+“Sản xuất chip thử nghiệm” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập. Hà Nội chỉ là một điểm trên đường. (Nhịp chương 216, bước 10.)
 
-Hùng yêu cầu viết lại quy trình “Sản xuất chip thử nghiệm” bằng lời người thợ cũng hiểu: bước, ngưỡng dừng, tên người chịu. Năm 2003, cách viết ấy cứu nhiều lỗi lặp. Lần rà soát bổ sung #1 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Dòng tiền 30–90 ngày của “Sản xuất chip thử nghiệm” được kho bạc chỉ rõ. Không trả lời được thì chưa phóng. Ảo tưởng đắt hơn cơ hội lỡ. (Nhịp chương 216, bước 11.)
 
-Một phản hồi thẳng từ người thật gắn với “Sản xuất chip thử nghiệm” được đọc to. Khen ghi nhận. Chê gắn hạn sửa. Uy tín sống bằng ticket đóng đúng hạn. Lần rà soát bổ sung #2 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Cuối ngày tại Hà Nội, Hùng hỏi ca đêm: ăn gì, có ốm, thiếu gì. Số trên bảng không thay câu hỏi dưới sàn. (Nhịp chương 216, bước 12.)
 
-Dòng tiền 30–90 ngày được rà trước khi phóng. Mô hình chỉ đẹp trên giấy thì hoãn. Ông thà mất cơ hội hơn mất thanh khoản và mất người. Lần rà soát bổ sung #3 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Công nhân thâm niên nhắc chi tiết báo cáo quên trong “Sản xuất chip thử nghiệm”. Hùng chốt trong tuần. Người dưới không bị bỏ là sức mạnh. (Nhịp chương 216, bước 13.)
 
-Tin đồn nội bộ bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. Người ta làm tốt hơn khi được coi là người lớn. Lần rà soát bổ sung #4 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Hùng yêu cầu quy trình “Sản xuất chip thử nghiệm” viết bằng lời thợ hiểu được: bước, ngưỡng dừng, tên người chịu. Năm 2002 tại Hà Nội, cách ấy giảm lỗi lặp. (Nhịp chương 216, bước 14.)
 
-Bà Hà không cần hiểu hết số liệu. Bà cần thấy cháu còn ăn, còn về, còn thương người. Lan dịch việc lớn thành câu bà hiểu — cũng là kỹ năng lãnh đạo. Lần rà soát bổ sung #5 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Bản tin nội bộ một trang chặn tin đồn quanh “Sản xuất chip thử nghiệm”: sự thật, việc cần làm, kênh hỏi. Coi người như người lớn thì họ làm như người lớn. (Nhịp chương 216, bước 15.)
 
-Tại Hà Nội, Hùng đi một vòng cuối ngày: hỏi ca đêm ăn gì, có ai ốm, thiếu gì. Quản trị bắt đầu từ câu hỏi nhỏ ấy. Lần rà soát bổ sung #6 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Lan phản biện “Sản xuất chip thử nghiệm” khi cần. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm. (Nhịp chương 216, bước 16.)
 
-Lan phản biện khi cần. Không khí không thành phòng vỗ tay. “Sản xuất chip thử nghiệm” phải qua cửa phản biện rồi mới được làm lớn. Lần rà soát bổ sung #7 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Ba câu trước ngủ năm 2002: dối ai chưa? bỏ ai lại chưa? mai dám nhìn lại “Sản xuất chip thử nghiệm” chưa? Sai nghĩa thì sửa ngay. (Nhịp chương 216, bước 17.)
 
-Sổ tay da thêm vài dòng mực: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không trôi thành hỗn độn. Lần rà soát bổ sung #8 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Phản hồi thẳng từ một người thật gắn “Sản xuất chip thử nghiệm” được đọc to trong họp lõi. Khen ghi. Chê có hạn. Uy tín là tổng các hạn đã giữ. (Nhịp chương 216, bước 18.)
 
-Công nhân thâm niên nhắc chi tiết báo cáo quên. Hùng chốt xử trong tuần. “Sản xuất chip thử nghiệm” thất bại nếu chỉ chăm số trên mà bỏ người dưới. Lần rà soát bổ sung #9 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Bà Hà không cần slide. Bà cần thấy cháu còn ăn, còn về, còn thương. Lan dịch “Sản xuất chip thử nghiệm” thành câu bà nắm được — kỹ năng lãnh đạo thật. (Nhịp chương 216, bước 19.)
 
-Ba câu tự vấn trước khi ngủ: có dối ai không? có bỏ ai lại không? mai có dám nhìn lại không? Một câu sai nghĩa thì sửa ngay. Lần rà soát bổ sung #10 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Sổ da thêm dòng: việc được / chưa / người cần cảm ơn / người cần xin lỗi — liên quan “Sản xuất chip thử nghiệm”. Viết để ngày không vỡ. (Nhịp chương 216, bước 20.)
 
-“Sản xuất chip thử nghiệm” được neo vào nhịp dài của Thương Gia: không cô lập thành anh hùng ca, phải nuôi việc làm–uy tín–năng lực. Lần rà soát bổ sung #11 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+“Sản xuất chip thử nghiệm” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập. Hà Nội chỉ là một điểm trên đường. (Nhịp chương 216, bước 21.)
 
-Hệ thống cho số. Lương tâm cho hướng. Năm 2003, Hùng dùng cả hai mà không giao linh hồn cho cái nào. Lần rà soát bổ sung #12 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Dòng tiền 30–90 ngày của “Sản xuất chip thử nghiệm” được kho bạc chỉ rõ. Không trả lời được thì chưa phóng. Ảo tưởng đắt hơn cơ hội lỡ. (Nhịp chương 216, bước 22.)
 
-Hùng yêu cầu viết lại quy trình “Sản xuất chip thử nghiệm” bằng lời người thợ cũng hiểu: bước, ngưỡng dừng, tên người chịu. Năm 2003, cách viết ấy cứu nhiều lỗi lặp. Lần rà soát bổ sung #13 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Cuối ngày tại Hà Nội, Hùng hỏi ca đêm: ăn gì, có ốm, thiếu gì. Số trên bảng không thay câu hỏi dưới sàn. (Nhịp chương 216, bước 23.)
 
-Một phản hồi thẳng từ người thật gắn với “Sản xuất chip thử nghiệm” được đọc to. Khen ghi nhận. Chê gắn hạn sửa. Uy tín sống bằng ticket đóng đúng hạn. Lần rà soát bổ sung #14 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Công nhân thâm niên nhắc chi tiết báo cáo quên trong “Sản xuất chip thử nghiệm”. Hùng chốt trong tuần. Người dưới không bị bỏ là sức mạnh. (Nhịp chương 216, bước 24.)
 
-Dòng tiền 30–90 ngày được rà trước khi phóng. Mô hình chỉ đẹp trên giấy thì hoãn. Ông thà mất cơ hội hơn mất thanh khoản và mất người. Lần rà soát bổ sung #15 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Hùng yêu cầu quy trình “Sản xuất chip thử nghiệm” viết bằng lời thợ hiểu được: bước, ngưỡng dừng, tên người chịu. Năm 2002 tại Hà Nội, cách ấy giảm lỗi lặp. (Nhịp chương 216, bước 25.)
 
-Tin đồn nội bộ bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. Người ta làm tốt hơn khi được coi là người lớn. Lần rà soát bổ sung #16 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Bản tin nội bộ một trang chặn tin đồn quanh “Sản xuất chip thử nghiệm”: sự thật, việc cần làm, kênh hỏi. Coi người như người lớn thì họ làm như người lớn. (Nhịp chương 216, bước 26.)
 
-Bà Hà không cần hiểu hết số liệu. Bà cần thấy cháu còn ăn, còn về, còn thương người. Lan dịch việc lớn thành câu bà hiểu — cũng là kỹ năng lãnh đạo. Lần rà soát bổ sung #17 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Lan phản biện “Sản xuất chip thử nghiệm” khi cần. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm. (Nhịp chương 216, bước 27.)
 
-Tại Hà Nội, Hùng đi một vòng cuối ngày: hỏi ca đêm ăn gì, có ai ốm, thiếu gì. Quản trị bắt đầu từ câu hỏi nhỏ ấy. Lần rà soát bổ sung #18 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Ba câu trước ngủ năm 2002: dối ai chưa? bỏ ai lại chưa? mai dám nhìn lại “Sản xuất chip thử nghiệm” chưa? Sai nghĩa thì sửa ngay. (Nhịp chương 216, bước 28.)
 
-Lan phản biện khi cần. Không khí không thành phòng vỗ tay. “Sản xuất chip thử nghiệm” phải qua cửa phản biện rồi mới được làm lớn. Lần rà soát bổ sung #19 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Phản hồi thẳng từ một người thật gắn “Sản xuất chip thử nghiệm” được đọc to trong họp lõi. Khen ghi. Chê có hạn. Uy tín là tổng các hạn đã giữ. (Nhịp chương 216, bước 29.)
 
-Sổ tay da thêm vài dòng mực: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không trôi thành hỗn độn. Lần rà soát bổ sung #20 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Bà Hà không cần slide. Bà cần thấy cháu còn ăn, còn về, còn thương. Lan dịch “Sản xuất chip thử nghiệm” thành câu bà nắm được — kỹ năng lãnh đạo thật. (Nhịp chương 216, bước 30.)
 
-Công nhân thâm niên nhắc chi tiết báo cáo quên. Hùng chốt xử trong tuần. “Sản xuất chip thử nghiệm” thất bại nếu chỉ chăm số trên mà bỏ người dưới. Lần rà soát bổ sung #21 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Sổ da thêm dòng: việc được / chưa / người cần cảm ơn / người cần xin lỗi — liên quan “Sản xuất chip thử nghiệm”. Viết để ngày không vỡ. (Nhịp chương 216, bước 31.)
 
-Ba câu tự vấn trước khi ngủ: có dối ai không? có bỏ ai lại không? mai có dám nhìn lại không? Một câu sai nghĩa thì sửa ngay. Lần rà soát bổ sung #22 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+“Sản xuất chip thử nghiệm” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập. Hà Nội chỉ là một điểm trên đường. (Nhịp chương 216, bước 32.)
 
-“Sản xuất chip thử nghiệm” được neo vào nhịp dài của Thương Gia: không cô lập thành anh hùng ca, phải nuôi việc làm–uy tín–năng lực. Lần rà soát bổ sung #23 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Dòng tiền 30–90 ngày của “Sản xuất chip thử nghiệm” được kho bạc chỉ rõ. Không trả lời được thì chưa phóng. Ảo tưởng đắt hơn cơ hội lỡ. (Nhịp chương 216, bước 33.)
 
-Hệ thống cho số. Lương tâm cho hướng. Năm 2003, Hùng dùng cả hai mà không giao linh hồn cho cái nào. Lần rà soát bổ sung #24 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Cuối ngày tại Hà Nội, Hùng hỏi ca đêm: ăn gì, có ốm, thiếu gì. Số trên bảng không thay câu hỏi dưới sàn. (Nhịp chương 216, bước 34.)
 
-Hùng yêu cầu viết lại quy trình “Sản xuất chip thử nghiệm” bằng lời người thợ cũng hiểu: bước, ngưỡng dừng, tên người chịu. Năm 2003, cách viết ấy cứu nhiều lỗi lặp. Lần rà soát bổ sung #25 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Công nhân thâm niên nhắc chi tiết báo cáo quên trong “Sản xuất chip thử nghiệm”. Hùng chốt trong tuần. Người dưới không bị bỏ là sức mạnh. (Nhịp chương 216, bước 35.)
 
-Một phản hồi thẳng từ người thật gắn với “Sản xuất chip thử nghiệm” được đọc to. Khen ghi nhận. Chê gắn hạn sửa. Uy tín sống bằng ticket đóng đúng hạn. Lần rà soát bổ sung #26 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Hùng yêu cầu quy trình “Sản xuất chip thử nghiệm” viết bằng lời thợ hiểu được: bước, ngưỡng dừng, tên người chịu. Năm 2002 tại Hà Nội, cách ấy giảm lỗi lặp. (Nhịp chương 216, bước 36.)
 
-Dòng tiền 30–90 ngày được rà trước khi phóng. Mô hình chỉ đẹp trên giấy thì hoãn. Ông thà mất cơ hội hơn mất thanh khoản và mất người. Lần rà soát bổ sung #27 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Bản tin nội bộ một trang chặn tin đồn quanh “Sản xuất chip thử nghiệm”: sự thật, việc cần làm, kênh hỏi. Coi người như người lớn thì họ làm như người lớn. (Nhịp chương 216, bước 37.)
 
-Tin đồn nội bộ bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. Người ta làm tốt hơn khi được coi là người lớn. Lần rà soát bổ sung #28 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Lan phản biện “Sản xuất chip thử nghiệm” khi cần. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm. (Nhịp chương 216, bước 38.)
 
-Bà Hà không cần hiểu hết số liệu. Bà cần thấy cháu còn ăn, còn về, còn thương người. Lan dịch việc lớn thành câu bà hiểu — cũng là kỹ năng lãnh đạo. Lần rà soát bổ sung #29 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Ba câu trước ngủ năm 2002: dối ai chưa? bỏ ai lại chưa? mai dám nhìn lại “Sản xuất chip thử nghiệm” chưa? Sai nghĩa thì sửa ngay. (Nhịp chương 216, bước 39.)
 
-Tại Hà Nội, Hùng đi một vòng cuối ngày: hỏi ca đêm ăn gì, có ai ốm, thiếu gì. Quản trị bắt đầu từ câu hỏi nhỏ ấy. Lần rà soát bổ sung #30 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Phản hồi thẳng từ một người thật gắn “Sản xuất chip thử nghiệm” được đọc to trong họp lõi. Khen ghi. Chê có hạn. Uy tín là tổng các hạn đã giữ. (Nhịp chương 216, bước 40.)
 
-Lan phản biện khi cần. Không khí không thành phòng vỗ tay. “Sản xuất chip thử nghiệm” phải qua cửa phản biện rồi mới được làm lớn. Lần rà soát bổ sung #31 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Bà Hà không cần slide. Bà cần thấy cháu còn ăn, còn về, còn thương. Lan dịch “Sản xuất chip thử nghiệm” thành câu bà nắm được — kỹ năng lãnh đạo thật. (Nhịp chương 216, bước 41.)
 
-Sổ tay da thêm vài dòng mực: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không trôi thành hỗn độn. Lần rà soát bổ sung #32 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Sổ da thêm dòng: việc được / chưa / người cần cảm ơn / người cần xin lỗi — liên quan “Sản xuất chip thử nghiệm”. Viết để ngày không vỡ. (Nhịp chương 216, bước 42.)
 
-Công nhân thâm niên nhắc chi tiết báo cáo quên. Hùng chốt xử trong tuần. “Sản xuất chip thử nghiệm” thất bại nếu chỉ chăm số trên mà bỏ người dưới. Lần rà soát bổ sung #33 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+“Sản xuất chip thử nghiệm” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập. Hà Nội chỉ là một điểm trên đường. (Nhịp chương 216, bước 43.)
 
-Ba câu tự vấn trước khi ngủ: có dối ai không? có bỏ ai lại không? mai có dám nhìn lại không? Một câu sai nghĩa thì sửa ngay. Lần rà soát bổ sung #34 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Dòng tiền 30–90 ngày của “Sản xuất chip thử nghiệm” được kho bạc chỉ rõ. Không trả lời được thì chưa phóng. Ảo tưởng đắt hơn cơ hội lỡ. (Nhịp chương 216, bước 44.)
 
-“Sản xuất chip thử nghiệm” được neo vào nhịp dài của Thương Gia: không cô lập thành anh hùng ca, phải nuôi việc làm–uy tín–năng lực. Lần rà soát bổ sung #35 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Cuối ngày tại Hà Nội, Hùng hỏi ca đêm: ăn gì, có ốm, thiếu gì. Số trên bảng không thay câu hỏi dưới sàn. (Nhịp chương 216, bước 45.)
 
-Hệ thống cho số. Lương tâm cho hướng. Năm 2003, Hùng dùng cả hai mà không giao linh hồn cho cái nào. Lần rà soát bổ sung #36 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Công nhân thâm niên nhắc chi tiết báo cáo quên trong “Sản xuất chip thử nghiệm”. Hùng chốt trong tuần. Người dưới không bị bỏ là sức mạnh. (Nhịp chương 216, bước 46.)
 
-Hùng yêu cầu viết lại quy trình “Sản xuất chip thử nghiệm” bằng lời người thợ cũng hiểu: bước, ngưỡng dừng, tên người chịu. Năm 2003, cách viết ấy cứu nhiều lỗi lặp. Lần rà soát bổ sung #37 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Hùng yêu cầu quy trình “Sản xuất chip thử nghiệm” viết bằng lời thợ hiểu được: bước, ngưỡng dừng, tên người chịu. Năm 2002 tại Hà Nội, cách ấy giảm lỗi lặp. (Nhịp chương 216, bước 47.)
 
-Một phản hồi thẳng từ người thật gắn với “Sản xuất chip thử nghiệm” được đọc to. Khen ghi nhận. Chê gắn hạn sửa. Uy tín sống bằng ticket đóng đúng hạn. Lần rà soát bổ sung #38 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Bản tin nội bộ một trang chặn tin đồn quanh “Sản xuất chip thử nghiệm”: sự thật, việc cần làm, kênh hỏi. Coi người như người lớn thì họ làm như người lớn. (Nhịp chương 216, bước 48.)
 
-Dòng tiền 30–90 ngày được rà trước khi phóng. Mô hình chỉ đẹp trên giấy thì hoãn. Ông thà mất cơ hội hơn mất thanh khoản và mất người. Lần rà soát bổ sung #39 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Lan phản biện “Sản xuất chip thử nghiệm” khi cần. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm. (Nhịp chương 216, bước 49.)
 
-Tin đồn nội bộ bị chặn bằng bản tin một trang: sự thật, việc cần làm, kênh hỏi. Người ta làm tốt hơn khi được coi là người lớn. Lần rà soát bổ sung #40 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Ba câu trước ngủ năm 2002: dối ai chưa? bỏ ai lại chưa? mai dám nhìn lại “Sản xuất chip thử nghiệm” chưa? Sai nghĩa thì sửa ngay. (Nhịp chương 216, bước 50.)
 
-Bà Hà không cần hiểu hết số liệu. Bà cần thấy cháu còn ăn, còn về, còn thương người. Lan dịch việc lớn thành câu bà hiểu — cũng là kỹ năng lãnh đạo. Lần rà soát bổ sung #41 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Phản hồi thẳng từ một người thật gắn “Sản xuất chip thử nghiệm” được đọc to trong họp lõi. Khen ghi. Chê có hạn. Uy tín là tổng các hạn đã giữ. (Nhịp chương 216, bước 51.)
 
-Tại Hà Nội, Hùng đi một vòng cuối ngày: hỏi ca đêm ăn gì, có ai ốm, thiếu gì. Quản trị bắt đầu từ câu hỏi nhỏ ấy. Lần rà soát bổ sung #42 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Bà Hà không cần slide. Bà cần thấy cháu còn ăn, còn về, còn thương. Lan dịch “Sản xuất chip thử nghiệm” thành câu bà nắm được — kỹ năng lãnh đạo thật. (Nhịp chương 216, bước 52.)
 
-Lan phản biện khi cần. Không khí không thành phòng vỗ tay. “Sản xuất chip thử nghiệm” phải qua cửa phản biện rồi mới được làm lớn. Lần rà soát bổ sung #43 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Sổ da thêm dòng: việc được / chưa / người cần cảm ơn / người cần xin lỗi — liên quan “Sản xuất chip thử nghiệm”. Viết để ngày không vỡ. (Nhịp chương 216, bước 53.)
 
-Sổ tay da thêm vài dòng mực: việc được, việc chưa, người cần cảm ơn, người cần xin lỗi. Viết để ngày không trôi thành hỗn độn. Lần rà soát bổ sung #44 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+“Sản xuất chip thử nghiệm” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập. Hà Nội chỉ là một điểm trên đường. (Nhịp chương 216, bước 54.)
 
-Công nhân thâm niên nhắc chi tiết báo cáo quên. Hùng chốt xử trong tuần. “Sản xuất chip thử nghiệm” thất bại nếu chỉ chăm số trên mà bỏ người dưới. Lần rà soát bổ sung #45 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Dòng tiền 30–90 ngày của “Sản xuất chip thử nghiệm” được kho bạc chỉ rõ. Không trả lời được thì chưa phóng. Ảo tưởng đắt hơn cơ hội lỡ. (Nhịp chương 216, bước 55.)
 
-Ba câu tự vấn trước khi ngủ: có dối ai không? có bỏ ai lại không? mai có dám nhìn lại không? Một câu sai nghĩa thì sửa ngay. Lần rà soát bổ sung #46 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Cuối ngày tại Hà Nội, Hùng hỏi ca đêm: ăn gì, có ốm, thiếu gì. Số trên bảng không thay câu hỏi dưới sàn. (Nhịp chương 216, bước 56.)
 
-“Sản xuất chip thử nghiệm” được neo vào nhịp dài của Thương Gia: không cô lập thành anh hùng ca, phải nuôi việc làm–uy tín–năng lực. Lần rà soát bổ sung #47 khẳng định lại kỷ luật hiện trường–sổ sách–con người cho “Sản xuất chip thử nghiệm”.
+Công nhân thâm niên nhắc chi tiết báo cáo quên trong “Sản xuất chip thử nghiệm”. Hùng chốt trong tuần. Người dưới không bị bỏ là sức mạnh. (Nhịp chương 216, bước 57.)
+
+Hùng yêu cầu quy trình “Sản xuất chip thử nghiệm” viết bằng lời thợ hiểu được: bước, ngưỡng dừng, tên người chịu. Năm 2002 tại Hà Nội, cách ấy giảm lỗi lặp. (Nhịp chương 216, bước 58.)
+
+Bản tin nội bộ một trang chặn tin đồn quanh “Sản xuất chip thử nghiệm”: sự thật, việc cần làm, kênh hỏi. Coi người như người lớn thì họ làm như người lớn. (Nhịp chương 216, bước 59.)
+
+Lan phản biện “Sản xuất chip thử nghiệm” khi cần. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm. (Nhịp chương 216, bước 60.)
+
+Ba câu trước ngủ năm 2002: dối ai chưa? bỏ ai lại chưa? mai dám nhìn lại “Sản xuất chip thử nghiệm” chưa? Sai nghĩa thì sửa ngay. (Nhịp chương 216, bước 61.)
+
+Phản hồi thẳng từ một người thật gắn “Sản xuất chip thử nghiệm” được đọc to trong họp lõi. Khen ghi. Chê có hạn. Uy tín là tổng các hạn đã giữ. (Nhịp chương 216, bước 62.)
+
+Bà Hà không cần slide. Bà cần thấy cháu còn ăn, còn về, còn thương. Lan dịch “Sản xuất chip thử nghiệm” thành câu bà nắm được — kỹ năng lãnh đạo thật. (Nhịp chương 216, bước 63.)
+
+Sổ da thêm dòng: việc được / chưa / người cần cảm ơn / người cần xin lỗi — liên quan “Sản xuất chip thử nghiệm”. Viết để ngày không vỡ. (Nhịp chương 216, bước 64.)
+
+“Sản xuất chip thử nghiệm” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập. Hà Nội chỉ là một điểm trên đường. (Nhịp chương 216, bước 65.)
+
+Dòng tiền 30–90 ngày của “Sản xuất chip thử nghiệm” được kho bạc chỉ rõ. Không trả lời được thì chưa phóng. Ảo tưởng đắt hơn cơ hội lỡ. (Nhịp chương 216, bước 66.)
+
+Cuối ngày tại Hà Nội, Hùng hỏi ca đêm: ăn gì, có ốm, thiếu gì. Số trên bảng không thay câu hỏi dưới sàn. (Nhịp chương 216, bước 67.)
+
+Công nhân thâm niên nhắc chi tiết báo cáo quên trong “Sản xuất chip thử nghiệm”. Hùng chốt trong tuần. Người dưới không bị bỏ là sức mạnh. (Nhịp chương 216, bước 68.)
+
+Hùng yêu cầu quy trình “Sản xuất chip thử nghiệm” viết bằng lời thợ hiểu được: bước, ngưỡng dừng, tên người chịu. Năm 2002 tại Hà Nội, cách ấy giảm lỗi lặp. (Nhịp chương 216, bước 69.)
+
+Bản tin nội bộ một trang chặn tin đồn quanh “Sản xuất chip thử nghiệm”: sự thật, việc cần làm, kênh hỏi. Coi người như người lớn thì họ làm như người lớn. (Nhịp chương 216, bước 70.)
+
+Lan phản biện “Sản xuất chip thử nghiệm” khi cần. Phòng họp không thành phòng vỗ tay. Việc lớn phải qua cửa khó rồi mới được làm. (Nhịp chương 216, bước 71.)
+
+Ba câu trước ngủ năm 2002: dối ai chưa? bỏ ai lại chưa? mai dám nhìn lại “Sản xuất chip thử nghiệm” chưa? Sai nghĩa thì sửa ngay. (Nhịp chương 216, bước 72.)
+
+Phản hồi thẳng từ một người thật gắn “Sản xuất chip thử nghiệm” được đọc to trong họp lõi. Khen ghi. Chê có hạn. Uy tín là tổng các hạn đã giữ. (Nhịp chương 216, bước 73.)
+
+Bà Hà không cần slide. Bà cần thấy cháu còn ăn, còn về, còn thương. Lan dịch “Sản xuất chip thử nghiệm” thành câu bà nắm được — kỹ năng lãnh đạo thật. (Nhịp chương 216, bước 74.)
+
+Sổ da thêm dòng: việc được / chưa / người cần cảm ơn / người cần xin lỗi — liên quan “Sản xuất chip thử nghiệm”. Viết để ngày không vỡ. (Nhịp chương 216, bước 75.)
+
+“Sản xuất chip thử nghiệm” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập. Hà Nội chỉ là một điểm trên đường. (Nhịp chương 216, bước 76.)
+
+Dòng tiền 30–90 ngày của “Sản xuất chip thử nghiệm” được kho bạc chỉ rõ. Không trả lời được thì chưa phóng. Ảo tưởng đắt hơn cơ hội lỡ. (Nhịp chương 216, bước 77.)
+
+Cuối ngày tại Hà Nội, Hùng hỏi ca đêm: ăn gì, có ốm, thiếu gì. Số trên bảng không thay câu hỏi dưới sàn. (Nhịp chương 216, bước 78.)
 
 ============================================================
-(3015 từ)
+(3005 từ)
