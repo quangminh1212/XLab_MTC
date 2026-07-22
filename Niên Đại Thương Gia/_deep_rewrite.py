@@ -85,25 +85,36 @@ def year_loc(n: int, title: str) -> tuple[int, str]:
         y = int(tm.group(0))
     elif n <= 30:
         y = 1983
+    elif n <= 50:
+        y = 1984
     elif n <= 60:
         y = 1985
-    elif n <= 100:
-        y = 1987 + (n - 90) // 5 if n >= 90 else 1986
+    elif n <= 89:
+        y = 1986 + (n - 61) // 15
+    elif n <= 112:
+        y = 1988
     elif n <= 130:
-        y = 1989 + (n - 101) // 10
-    elif n <= 200:
+        y = 1990
+    elif n <= 154:
+        y = 1992
+    elif n <= 170:
+        y = 1993
+    elif n <= 185:
+        y = 1994
+    elif n <= 199:
         y = 1995
     elif n <= 220:
         y = 2000 + (n - 201) // 5
     elif n <= 240:
         y = 2008
-    elif n <= 300:
-        y = 2012
+    elif n <= 270:
+        y = 2009 + (n - 241) // 15
+    elif n <= 299:
+        y = 2011
     elif n <= 330:
         y = 2014
     else:
         y = 2020 + (n - 331) // 8
-
     t = title.lower()
     loc = "Hà Nội"
     if n <= 20:
@@ -157,26 +168,37 @@ def open_scene(n: int, title: str, y: int, loc: str) -> str:
         variants = [
             f"""Trời {loc} năm {y} còn mang mùi rơm ẩm và khói bếp. Trần Văn Hùng thức dậy với hai bộ nhớ chồng lên nhau: Lý Minh chết vì deadline, và Hùng sống lại trong cái nghèo có tên. Việc hôm nay mang tên “{title}” — nghe lớn với người ngoài, nhưng với ông chỉ là bước phải bước nếu không muốn bà Hà và Lan tiếp tục ăn cháo loãng.
 
-Ông rửa mặt bằng nước giếng lạnh. Nước cắt vào da, kéo ông khỏi cơn mơ. Ngoài sân, gà gáy. Trong bếp, bà Hà đã mon men nhóm lửa. {era}.""",
+Ông rửa mặt bằng nước giếng lạnh. Nước cắt vào da, kéo ông khỏi cơn mơ. Ngoài sân, gà gáy. Trong bếp, bà Hà đã mon men nhóm lửa. Bối cảnh: {era}.""",
             f"""Đêm qua Hùng suýt không ngủ. Không phải vì sợ ma, vì sợ ngày mai mình lại trở thành kẻ hứa suông như kiếp trước của thân xác này. “{title}” nằm trong đầu ông như một lời thề nhỏ.
 
 Sáng {y}, {loc}. Ông ngồi trên mép giường gỗ, nhìn bàn tay chai sạn — bàn tay không phải của kỹ sư Bitexco. “Làm thật,” ông lẩm. “Hôm nay làm thật.”""",
             f"""Lan hé cửa: “Anh dậy chưa?” Giọng em gái mười tám tuổi, lo hơn trách. Hùng đáp khẽ: “Dậy rồi.” Trong nhà đất {loc}, năm {y}, “{title}” bắt đầu bằng những việc không ai viết lên báo: nhóm lửa, vo gạo, tính từng đồng, nhìn người khác bằng mắt không dối.""",
         ]
         return variants[n % 3]
-    if 90 <= n <= 130:
-        return f"""Năm {y} tại {loc}, Thương Gia đã có tên nhưng chưa được phép kiêu. “{title}” đặt Hùng và Lan vào chỗ phải chọn: ôm hết hay tin người. {era}.
+    if n <= 89:
+        return f"""Năm {y} tại {loc}. Thương Gia đang lớn khỏi cái quầy đầu — “{title}” là mắt xích buộc Hùng không được chủ quan. Bối cảnh: {era}.
+
+Ông đến xưởng/cửa trước giờ mở. Nghe máy, nhìn hàng, hỏi thợ ăn gì ca đêm. Lan mang sổ doanh thu viết tay. “Anh, số đẹp nhưng em muốn nghe chỗ xấu.” Hùng gật: “Nói chỗ xấu trước.”"""
+    if n <= 130:
+        return f"""Năm {y} tại {loc}, Thương Gia đã có tên nhưng chưa được phép kiêu. “{title}” đặt Hùng và Lan vào chỗ phải chọn: ôm hết hay tin người. Bối cảnh: {era}.
 
 Hùng đến sớm hơn lịch. Ông không mở laptop trước — ông mở sổ tay da, viết ba dòng: việc, người, rủi ro. Lan mang hai ly trà. “Anh, hôm nay mình làm thật chứ không làm cho có báo cáo.” Ông gật: “Làm thật.”"""
-    if 200 <= n <= 240:
+    if n <= 199:
+        return f"""Năm {y}, {loc}. Bản đồ Đông Nam Á / châu Á trên tường đầy đinh ghim. “{title}” kéo Thương Gia ra khỏi vùng an toàn trong nước. Bối cảnh: {era}.
+
+Hùng/Lan chuẩn bị hồ sơ chất lượng và điều khoản rõ. “Không hứa điều không làm được,” ông dặn đoàn. Rồi họ bước vào việc."""
+    if n <= 240:
         return f"""Năm {y}, {loc}. Gió mang mùi của một thời kỳ lớn hơn xưởng may Quốc Oai. “{title}” không còn là chuyện một huyện — là chuyện dòng tiền, chuẩn mực, và danh tiếng có thể vỡ trong một quý.
 
-Hùng đứng trước bảng số. Không hoa mỹ. Chỉ đỏ và xanh. {era}. Ông hít sâu: “Không giấu. Không hoảng. Không bán rẻ người.”"""
+Hùng đứng trước bảng số. Không hoa mỹ. Chỉ đỏ và xanh. Bối cảnh: {era}. Ông hít sâu: “Không giấu. Không hoảng. Không bán rẻ người.”"""
+    if n <= 299:
+        return f"""Năm {y} tại {loc}. Sau khủng hoảng, “{title}” là bài kiểm tra có xây lại được niềm tin và năng lực thật không. Bối cảnh: {era}.
+
+Hùng không ăn mừng sớm. Ông đi hiện trường, hỏi công nhân, rà hợp đồng. Lan giữ nhịp thị trường. “Lớn mà rỗng thì đừng lớn,” ông nói."""
     # 300-360
-    return f"""Năm {y} tại {loc}. “{title}” chạm tầng di sản: quyền ai giữ, việc ai gánh, tinh thần ai nhớ. {era}.
+    return f"""Năm {y} tại {loc}. “{title}” chạm tầng di sản: quyền ai giữ, việc ai gánh, tinh thần ai nhớ. Bối cảnh: {era}.
 
 Hùng không vội họp lớn. Ông uống trà, nhìn ảnh bà Hà và Lan trên kệ, rồi mới mở cửa phòng họp. “Hôm nay nói ít, làm đúng.”"""
-
 
 def deepen_from_core(core: str, n: int, title: str, y: int, loc: str) -> str:
     """Literary continuation rooted in core tokens."""
