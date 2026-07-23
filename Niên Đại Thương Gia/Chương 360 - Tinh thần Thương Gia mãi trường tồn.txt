@@ -14,7 +14,6 @@ Sau lễ, ông không ở lại tiệc lâu. Ông đi qua khu trưng bày kỷ v
 
 Ông ngồi thêm một lúc, nghe nhịp thở nhà, để tim chậm lại đúng mức của người đã qua sóng.
 
-Những quyết định lớn trong đời ông hầu hết bắt đầu từ việc nhỏ làm đúng: sổ sạch, lời ít, hiện trường đủ.
 
 Nếu có điều muốn khắc vào gỗ, ông sẽ khắc: đừng đổi người lấy số.
 
@@ -171,6 +170,7 @@ Hùng nắm tay người bên cạnh. “Về nhà.”
 
 ============================================================
 
+
 Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
 
 Trên đường quanh Hà Nội và vùng sâu, ông nhìn dãy văn phòng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
@@ -234,3 +234,14 @@ Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xo
 Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Tinh thần Thương Gia mãi trường tồn" năm 2024 tại Hà Nội và vùng sâu, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “thiếu vốn ngắn hạn" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “tự hào thầm lặng" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành Phần 6 — phần thưởng lớn EXP + không gian + kỹ năng" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Tinh thần Thương Gia mãi trường tồn" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
 Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Tinh thần Thương Gia mãi trường tồn" năm 2024 tại Hà Nội và vùng sâu, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “thiếu vốn ngắn hạn" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “tự hào thầm lặng" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành Phần 6 — phần thưởng lớn EXP + không gian + kỹ năng" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Tinh thần Thương Gia mãi trường tồn" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+Ông tắt đèn. Về nhà.
+
+============================================================
+「Hệ thống — CỘT MỐC ch.360」
+Năm: 2024
+Tổng EXP: 98,500 (+375 nhịp này)
+Không gian kho: 60,000m² (+250m²)
+Kỹ năng trọng yếu: Nhiệm vụ tối thượng: HOÀN THÀNH, Danh hiệu: Thương gia vĩ đại, Hệ thống: đóng sổ thư ký — tinh thần tiếp nối
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

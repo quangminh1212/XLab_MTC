@@ -195,4 +195,16 @@ Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo m
 
 Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Gặp lại làng Thanh Xuân" năm 2020 tại Làng Thanh Xuân, Quốc Oai, chi tiết số 38 gắn với công nhân xưởng: họ phải xử lý góc “thiếu vốn ngắn hạn" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “tự hào thầm lặng" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Cột mốc 10 chương — +EXP, mở rộng không gian" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Gặp lại làng Thanh Xuân" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Gặp lại làng Thanh Xuân" năm 2020 tại Làng Thanh Xuân, Quốc Oai, chi tiết số 39 gắn với bác sĩ Tuấn: họ phải xử lý góc “thiếu vốn ngắn hạn" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “tự hào thầm lặng" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Cột mốc 10 chương — +EXP, mở rộng không gian" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Gặp lại làng Thanh Xuân" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Gặp lại làng Thanh Xuân" năm 2020 tại Làng Thanh Xuân, Quốc Oai, chi tiết số 39 gắn với bác sĩ Tuấn: họ phải xử lý góc “thiếu vốn ngắn hạn" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “tự hào thầm lặng" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Cột mốc 10 chương — +EXP, mở rộng không gian" không quan trọng bằng việc mai còn mở được cửa. 
+
+
+Kết thúc đoạn này, “Gặp lại làng Thanh Xuân" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.350」
+Năm: 2021
+Tổng EXP: 93,000 (+600 nhịp này)
+Không gian kho: 55,400m² (+520m²)
+Kỹ năng trọng yếu: Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

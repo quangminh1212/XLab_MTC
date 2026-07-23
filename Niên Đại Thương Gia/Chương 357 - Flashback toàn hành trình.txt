@@ -18,7 +18,6 @@ Hùng chạm tay lên mép sổ da mòn: còn giấy để sửa sai là còn ma
 
 Ông ngồi thêm một lúc, nghe nhịp thở nhà, để tim chậm lại đúng mức của người đã qua sóng.
 
-Những quyết định lớn trong đời ông hầu hết bắt đầu từ việc nhỏ làm đúng: sổ sạch, lời ít, hiện trường đủ.
 
 Nếu có điều muốn khắc vào gỗ, ông sẽ khắc: đừng đổi người lấy số.
 
@@ -162,6 +161,8 @@ Minh/thế hệ sau được giao việc cụ thể kèm hạn — không giao h
 
 Lan và Hùng chia vai: một giữ nhịp đối ngoại/điều hành, một giữ luật và chiến lược. Lẫn vai là cùng mù. Chi tiết ch.357-24.
 
+
+
 ### Khép — Flashback toàn hành trình
 
 Ông ghi vào cuối trang: nhớ không phải để sống lại hào quang, mà để không tái phạm những lần suýt mất người vì việc.
@@ -169,6 +170,7 @@ Lan và Hùng chia vai: một giữ nhịp đối ngoại/điều hành, một g
 Khi cuộn phim trong đầu tắt, ông nói: “Được sống lại một lần là đủ nếu sống đúng.” Phía trước là bữa tối ba thế hệ — nơi ký ức phải hóa thành mâm cơm, không hóa thành bài giảng.
 
 ============================================================
+
 
 Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên chất lượng, và nói thẳng chỗ sẽ đau.
 
@@ -233,3 +235,12 @@ Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói 
 Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Flashback toàn hành trình" năm 2024 tại TP.HCM, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Flashback toàn hành trình" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
 Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Flashback toàn hành trình" năm 2024 tại TP.HCM, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Flashback toàn hành trình" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.357」
+Năm: 2023
+Tổng EXP: 97,375 (+375 nhịp này)
+Không gian kho: 59,250m² (+250m²)
+Kỹ năng trọng yếu: Ảnh hưởng xã hội lv3, Nhiệm vụ tối thượng: HOÀN THÀNH, Danh hiệu: Thương gia vĩ đại
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

@@ -16,7 +16,6 @@ Hùng chạm tay lên mép sổ da mòn: còn giấy để sửa sai là còn ma
 
 Ông ngồi thêm một lúc, nghe nhịp thở nhà, để tim chậm lại đúng mức của người đã qua sóng.
 
-Những quyết định lớn trong đời ông hầu hết bắt đầu từ việc nhỏ làm đúng: sổ sạch, lời ít, hiện trường đủ.
 
 Nếu có điều muốn khắc vào gỗ, ông sẽ khắc: đừng đổi người lấy số.
 
@@ -162,6 +161,8 @@ Minh/thế hệ sau được giao việc cụ thể kèm hạn — không giao h
 
 Lan và Hùng chia vai: một giữ nhịp đối ngoại/điều hành, một giữ luật và chiến lược. Lẫn vai là cùng mù. Chi tiết ch.358-24.
 
+
+
 ### Khép — Bữa tối ba thế hệ
 
 Ông ghi vào cuối trang: đế chế chỉ là phần ngoài. Phần trong là còn ngồi được với nhau sau bốn chục năm sóng.
@@ -169,6 +170,7 @@ Lan và Hùng chia vai: một giữ nhịp đối ngoại/điều hành, một g
 Trước khi tan mâm, Hùng giơ ly nước: “Vì còn ngồi được với nhau.” Uống. Đủ. Ông dặn mọi người ngủ sớm — đêm mai là đêm trước lễ, đừng diễn trước giờ diễn.
 
 ============================================================
+
 
 Thế hệ sau muốn tốc độ; thế hệ trước muốn không vỡ chữ tín.
 
@@ -233,3 +235,12 @@ Một chi tiết năm 2024: tỷ giá phải khóa phụ lục. Mất trắng th
 Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Bữa tối ba thế hệ" năm 2024 tại Đà Nẵng, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Bữa tối ba thế hệ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
 Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Bữa tối ba thế hệ" năm 2024 tại Đà Nẵng, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Bữa tối ba thế hệ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.358」
+Năm: 2023
+Tổng EXP: 97,750 (+375 nhịp này)
+Không gian kho: 59,500m² (+250m²)
+Kỹ năng trọng yếu: Ảnh hưởng xã hội lv3, Nhiệm vụ tối thượng: HOÀN THÀNH, Danh hiệu: Thương gia vĩ đại
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================
