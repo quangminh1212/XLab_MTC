@@ -335,3 +335,20 @@ D. VERDICT SAU PASS
 E. FILE
   system_ledger.json | _fix_system_and_pad.py | _force_min_words.py | _audit_system_full.py
 
+============================================================
+PASS NỐT 2026-07-23 (check còn việc → làm nốt)
+============================================================
+Đã xử lý:
+1) Spam “hướng Hàn Quốc” → 0 hit (map loc theo title/year)
+2) maxrep≥5 → 0 (dedupe đoạn lặp ch11–20…)
+3) Mở yếu “Việc số / Bước vào / hướng HQ” → hook title-true
+4) Handcraft thêm mốc: 60, 200, 270, 330, 341, 342 (+ trước đó 155,221-240,300-302)
+5) Force ≥3000 sau dedupe; EXP panel 360/360; short=0
+6) Ch1 Đau / Ch360 Tôi đã làm được giữ
+
+Còn có thể (không chặn “xong khung”):
+- Tay viết dày thêm mid non-mốc nếu muốn mật độ ch1–10 toàn bộ
+- Tiền mặt/SKU chi tiết từng ch ngoài ledger EXP/Space
+- Dialogue phụ (Sato/Hạnh) riêng giọng sâu hơn
+
+Verdict khung+hệ thống+mốc: ~8.5/10 | văn toàn bộ tay: ~6.5/10
