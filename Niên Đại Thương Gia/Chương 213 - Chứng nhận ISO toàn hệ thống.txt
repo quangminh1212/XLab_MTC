@@ -182,4 +182,16 @@ Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để c
 
 Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 39 gắn với con trai Hùng: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+
+
+Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.213」
+Năm: 1998
+Tổng EXP: 41,095 (+238 nhịp này)
+Không gian kho: 13,857m² (+143m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

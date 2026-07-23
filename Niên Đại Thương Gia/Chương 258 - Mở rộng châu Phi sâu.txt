@@ -184,4 +184,16 @@ Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để c
 
 Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Mở rộng châu Phi sâu" năm 2008 tại Châu Phi, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng châu Phi sâu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
-Có người muốn làm nhanh bằng cách che. Ông chọn làm chậm bằng cách mở. Trong “Mở rộng châu Phi sâu" năm 2008 tại Châu Phi, chi tiết số 41 gắn với Trần Thị Lan: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng châu Phi sâu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Có người muốn làm nhanh bằng cách che. Ông chọn làm chậm bằng cách mở. Trong “Mở rộng châu Phi sâu" năm 2008 tại Châu Phi, chi tiết số 41 gắn với Trần Thị Lan: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+
+
+Kết thúc đoạn này, “Mở rộng châu Phi sâu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.258」
+Năm: 2010
+Tổng EXP: 58,000 (+333 nhịp này)
+Không gian kho: 23,000m² (+167m²)
+Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================
