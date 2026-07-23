@@ -178,4 +178,16 @@ Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để c
 
 Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Bước ngoặt sức khỏe" năm 1988 tại Singapore, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Bước ngoặt sức khỏe" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
-Có người muốn làm nhanh bằng cách che. Ông chọn làm chậm bằng cách mở. Trong “Bước ngoặt sức khỏe" năm 1988 tại Singapore, chi tiết số 41 gắn với Trần Thị Lan: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Bước ngoặt sức khỏe" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Có người muốn làm nhanh bằng cách che. Ông chọn làm chậm bằng cách mở. Trong “Bước ngoặt sức khỏe" năm 1988 tại Singapore, chi tiết số 41 gắn với Trần Thị Lan: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+
+
+Kết thúc đoạn này, “Bước ngoặt sức khỏe" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.119」
+Năm: 1988
+Tổng EXP: 18,583 (+83 nhịp này)
+Không gian kho: 6,017m² (+17m²)
+Kỹ năng trọng yếu: Tài chính lv1, Tài chính lv2, Giáo dục lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

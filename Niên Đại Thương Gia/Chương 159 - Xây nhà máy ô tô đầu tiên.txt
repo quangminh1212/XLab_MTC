@@ -180,4 +180,16 @@ Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo m
 
 Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Xây nhà máy ô tô đầu tiên" năm 1992 tại Khu công nghiệp, chi tiết số 38 gắn với ông Sato: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Xây nhà máy ô tô đầu tiên" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Xây nhà máy ô tô đầu tiên" năm 1992 tại Khu công nghiệp, chi tiết số 39 gắn với đối tác địa phương: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Xây nhà máy ô tô đầu tiên" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Xây nhà máy ô tô đầu tiên" năm 1992 tại Khu công nghiệp, chi tiết số 39 gắn với đối tác địa phương: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+
+
+Kết thúc đoạn này, “Xây nhà máy ô tô đầu tiên" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.159」
+Năm: 1991
+Tổng EXP: 25,200 (+300 nhịp này)
+Không gian kho: 8,400m² (+100m²)
+Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

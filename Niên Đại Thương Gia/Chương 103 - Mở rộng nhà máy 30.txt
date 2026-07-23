@@ -182,4 +182,16 @@ Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để c
 
 Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Mở rộng nhà máy 30" năm 1987 tại Khu công nghiệp, chi tiết số 39 gắn với con trai Hùng: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng nhà máy 30" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Mở rộng nhà máy 30" năm 1987 tại Khu công nghiệp, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng nhà máy 30" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Mở rộng nhà máy 30" năm 1987 tại Khu công nghiệp, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+
+
+Kết thúc đoạn này, “Mở rộng nhà máy 30" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.103」
+Năm: 1987
+Tổng EXP: 16,875 (+125 nhịp này)
+Không gian kho: 5,600m² (+33m²)
+Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

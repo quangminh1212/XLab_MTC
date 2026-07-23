@@ -180,4 +180,16 @@ Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo m
 
 Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Văn Hùng mở rộng quỹ từ thiện" năm 1992 tại Hà Nội và vùng sâu, chi tiết số 38 gắn với kỹ sư Minh: họ phải xử lý góc “hiểu lầm nội bộ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “buông bỏ đúng lúc" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Văn Hùng mở rộng quỹ từ thiện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Văn Hùng mở rộng quỹ từ thiện" năm 1992 tại Hà Nội và vùng sâu, chi tiết số 39 gắn với kỹ sư Minh: họ phải xử lý góc “hiểu lầm nội bộ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “buông bỏ đúng lúc" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Văn Hùng mở rộng quỹ từ thiện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Văn Hùng mở rộng quỹ từ thiện" năm 1992 tại Hà Nội và vùng sâu, chi tiết số 39 gắn với kỹ sư Minh: họ phải xử lý góc “hiểu lầm nội bộ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “buông bỏ đúng lúc" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+
+
+Kết thúc đoạn này, “Văn Hùng mở rộng quỹ từ thiện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.154」
+Năm: 1991
+Tổng EXP: 23,820 (+180 nhịp này)
+Không gian kho: 7,928m² (+72m²)
+Kỹ năng trọng yếu: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

@@ -179,4 +179,16 @@ Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để c
 
 Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Thử nghiệm mẫu xe Thành Công" năm 1992 tại Đà Nẵng, chi tiết số 39 gắn với ông Tam: họ phải xử lý góc “thiếu vốn ngắn hạn" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “tự hào thầm lặng" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Cột mốc 10 chương — +EXP, mở rộng không gian" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thử nghiệm mẫu xe Thành Công" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Thử nghiệm mẫu xe Thành Công" năm 1992 tại Đà Nẵng, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “thiếu vốn ngắn hạn" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “tự hào thầm lặng" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Cột mốc 10 chương — +EXP, mở rộng không gian" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thử nghiệm mẫu xe Thành Công" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Thử nghiệm mẫu xe Thành Công" năm 1992 tại Đà Nẵng, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “thiếu vốn ngắn hạn" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “tự hào thầm lặng" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Cột mốc 10 chương — +EXP, mở rộng không gian" không quan trọng bằng việc mai còn mở được cửa. 
+
+
+Kết thúc đoạn này, “Thử nghiệm mẫu xe Thành Công" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.160」
+Năm: 1992
+Tổng EXP: 25,500 (+300 nhịp này)
+Không gian kho: 8,500m² (+100m²)
+Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================
