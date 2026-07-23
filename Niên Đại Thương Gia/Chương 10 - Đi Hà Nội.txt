@@ -200,6 +200,8 @@ Cầu nối sang nhịp sau không hứa thắng — hứa mang chuẩn: đúng 
 
 Tại Hà Nội năm 1983, sau nhịp “Đi Hà Nội”, Hùng không vội khoe. Ông mở bốn cột: thu – chi – nợ lời – nợ người. Cột lệch thì dừng khen. (ch.10/8)
 
+
+
 ### Khép — Đi Hà Nội
 
 Việc “Đi Hà Nội” được gói lại bằng một quyết định có tên người chịu trách nhiệm. Chỗ mơ hồ bị gạch. Chỗ chắc được giữ.
@@ -214,4 +216,11 @@ Trước khi ngủ, ông viết một dòng cầu nối: việc tiếp theo là 
 
 Sổ nằm dưới gối như thói quen cũ của người sợ quên. Ông cười tự giễu, rồi ngủ thật.
 
+============================================================
+「Hệ thống — CỘT MỐC ch.10」
+Năm: 1983
+Tổng EXP: 350 (+46 nhịp này)
+Không gian kho: 1,200m² (+0m²)
+Kỹ năng trọng yếu: Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
 ============================================================

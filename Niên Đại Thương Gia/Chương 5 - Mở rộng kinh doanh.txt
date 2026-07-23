@@ -47,7 +47,7 @@ Khách đến nhanh. Anh Khanh đã giới thiệu — ba đồng nghiệp của
 「Nhiệm vụ hoàn thành: Cải thiện cuộc sống gia đình trong 7 ngày
 - Kết quả: Gia đình có đủ ăn trong 1 tháng ✓
 - EXP nhận được: +100 (thưởng hoàn thành)
-- Tổng EXP: 120
+- Tiến độ EXP của nhiệm vụ lúc này: 120
 - Phần thưởng: Không gian mở rộng +200m² (1.200m² tổng)
 - Kỹ năng Thương mại cấp 1 → cấp 2 (tự động nâng cấp khi đạt 100 EXP)」
 
@@ -169,6 +169,8 @@ Tổng EXP: 120 | Không gian: 1,200m²
 Nhịp này: +30 EXP, +50m²
 Kỹ năng gần nhất: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2
 
+
+
 ### Khép — Mở rộng kinh doanh
 
 Cửa mới khóa muộn hơn dự kiến — vì còn sót một việc nhỏ phải làm đúng. “Mở rộng kinh doanh” khép bằng việc, không bằng băng keo khai trương.
@@ -183,4 +185,11 @@ Chốt ý nghĩa chương này: sau “Mở rộng kinh doanh”, ông không ch
 
 Lan gõ cửa nhẹ: “Ngủ đi.” Ông đáp “Ừ.” Có những mệnh lệnh chỉ nhà mới được phép đưa.
 
+============================================================
+「Hệ thống — CỘT MỐC ch.5」
+Năm: 1983
+Tổng EXP: 120 (+30 nhịp này)
+Không gian kho: 1,200m² (+50m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2
+Ghi chú: sổ cái khớp system_ledger — không double-book
 ============================================================

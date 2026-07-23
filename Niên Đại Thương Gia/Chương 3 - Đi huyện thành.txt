@@ -83,14 +83,14 @@ Hùng nhận tiền. 50 đồng — số tiền đầu tiên ông kiếm đượ
 - Bán: 1 bộ quần áo nam (sơ mi trắng + quần dài đen)
 - Giá: 50 đồng
 - EXP nhận được: +10
-- Tổng EXP: 10/100 (nhiệm vụ cải thiện gia đình)
+- Tiến độ EXP của nhiệm vụ lúc này: 10/100 (nhiệm vụ cải thiện gia đình)
 - Tiền mặt: 10.050 đồng (10.000 trong không gian + 50 ngoài)」
 
 10 EXP. Đầu tiên. Hùng cảm thấy như vừa nhận được thành tựu đầu tiên trong game — nhỏ nhưng quan trọng. 90 EXP nữa để hoàn thành nhiệm vụ, nhưng ông biết rằng nhiệm vụ không chỉ đếm EXP, mà còn đếm kết quả thực tế: gia đình đủ ăn trong một tháng.
 
 Người đàn ông mặc thử áo, vừa vặn, rồi đi vui vẻ. Ông ta sẽ mặc bộ áo này đi làm, và đồng nghiệp sẽ hỏi mua ở đâu — đó là tiếp thị truyền miệng, hiệu quả nhất trong thời không có quảng cáo.
 
-Hùng tiếp tục. Ông đi dọc đường chính, dừng ở từng nhóm người, hỏi thăm, giới thiệu. Không ép, không chèo kéo — chỉ nói "em có quần áo may công nghiệp, vải tốt, ai cần thì mua". Trong thời bao cấp, hàng tốt tự bán — không cần tiếp thị, không cần quảng cáo trực tuyến, không cần quảng cáo Facebook.
+Hùng tiếp tục. Ông đi dọc đường chính, dừng ở từng nhóm người, hỏi thăm, giới thiệu. Không ép, không chèo kéo — chỉ nói "em có quần áo may công nghiệp, vải tốt, ai cần thì mua". Trong thời bao cấp, hàng tốt tự bán — không cần tiếp thị, không cần quảng cáo trực tuyến, không cần quảng cáo mạng xã hội.
 
 Trong vòng ba giờ, Hùng bán được năm bộ quần áo:
 - 2 bộ nam (sơ mi + quần): 50 đồng/bộ = 100 đồng
@@ -99,8 +99,8 @@ Trong vòng ba giờ, Hùng bán được năm bộ quần áo:
 
 Tổng: 220 đồng + 50 đồng ban đầu = 270 đồng.
 
-「Giao dịch thành công! Tổng EXP hôm nay: +50
-- Tổng EXP: 50/100
+「Giao dịch thành công! EXP nhận trong giao dịch này: +50
+- Tiến độ EXP của nhiệm vụ lúc này: 50/100
 - Tiền mặt ngoài: 270 đồng
 - Kho quần áo còn: 94 bộ」
 
@@ -193,6 +193,8 @@ Mâm cơm 1983. “Đi huyện thành” được dịch thành câu bà hiểu.
 
 「1983 · ch.3 · Đi huyện thành · Tổng EXP 60 · Không gian 1,100m² · +30 EXP」
 
+
+
 ### Khép — Đi huyện thành
 
 Việc “Đi huyện thành” được gói lại bằng một quyết định có tên người chịu trách nhiệm. Chỗ mơ hồ bị gạch. Chỗ chắc được giữ.
@@ -209,4 +211,11 @@ Chốt ý nghĩa chương này: sau “Đi huyện thành”, ông không chỉ 
 
 Ngoài phố năm ấy vẫn ồn. Trong nhà, ông chọn im như một kỷ luật cuối ngày.
 
+============================================================
+「Hệ thống — GHI NHẬN ch.3」
+Năm: 1983
+Tổng EXP: 60 (+30 nhịp này)
+Không gian kho: 1,100m² (+50m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
 ============================================================

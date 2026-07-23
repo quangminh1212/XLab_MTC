@@ -162,6 +162,8 @@ Lan giữ cột việc–người–hạn. Ai trễ không bị la đám đông;
 
 Hiện trường “Đi Hải Dương” có mùi sắt máy, mực sổ, cà phê nguội. Ông đi chậm giữa hàng. Chỉ đứng đó mới thấy quy trình gãy trước khi báo cáo đẹp che. Chi tiết ch.12-3.
 
+
+
 ### Khép — Đi Hải Dương
 
 Việc “Đi Hải Dương” được gói lại bằng một quyết định có tên người chịu trách nhiệm. Chỗ mơ hồ bị gạch. Chỗ chắc được giữ.
@@ -177,6 +179,7 @@ Trước khi ngủ, ông viết một dòng cầu nối: việc tiếp theo là 
 Ông để bút xuống giữa trang. Dòng trống là chỗ mai sẽ viết — nếu còn xứng.
 
 ============================================================
+
 
 Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
 
@@ -241,3 +244,12 @@ Sổ “Đi Hải Dương" đánh dấu xanh — quan trọng.
 Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Đi Hải Dương" năm 1983 tại Hà Nội, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Đi Hải Dương" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
 Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Đi Hải Dương" năm 1983 tại Hà Nội, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Đi Hải Dương" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.12」
+Năm: 1983
+Tổng EXP: 460 (+55 nhịp này)
+Không gian kho: 1,280m² (+40m²)
+Kỹ năng trọng yếu: Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

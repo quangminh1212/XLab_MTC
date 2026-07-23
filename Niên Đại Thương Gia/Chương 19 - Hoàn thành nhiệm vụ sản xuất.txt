@@ -158,6 +158,8 @@ Lan giữ cột việc–người–hạn. Ai trễ không bị la đám đông;
 
 Hiện trường “Hoàn thành nhiệm vụ sản xuất” có mùi sắt máy, mực sổ, cà phê nguội. Ông đi chậm giữa hàng. Chỉ đứng đó mới thấy quy trình gãy trước khi báo cáo đẹp che. Chi tiết ch.19-3.
 
+
+
 ### Khép — Hoàn thành nhiệm vụ sản xuất
 
 Lô hàng/lô máy được ký xuất chỉ khi lỗi nhìn thấy đã bị loại. “Hoàn thành nhiệm vụ sản xuất” xong trên giấy chỉ sau khi xong trên tay thợ.
@@ -175,6 +177,7 @@ Chốt ý nghĩa chương này: sau “Hoàn thành nhiệm vụ sản xuất”
 Ngoài phố năm ấy vẫn ồn. Trong nhà, ông chọn im như một kỷ luật cuối ngày.
 
 ============================================================
+
 
 Một chi tiết năm 1983: mẫu thử phải lưu. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
 
@@ -239,3 +242,12 @@ Quần áo vá không xấu hổ bằng nhà hết gạo trước chiều.
 Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Hoàn thành nhiệm vụ sản xuất" năm 1983 tại Khu công nghiệp, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Hoàn thành nhiệm vụ sản xuất" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
 Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Hoàn thành nhiệm vụ sản xuất" năm 1983 tại Khu công nghiệp, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Hoàn thành nhiệm vụ sản xuất" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.19」
+Năm: 1984
+Tổng EXP: 845 (+55 nhịp này)
+Không gian kho: 1,560m² (+40m²)
+Kỹ năng trọng yếu: Thương mại lv2, Y tế lv1, Sản xuất lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

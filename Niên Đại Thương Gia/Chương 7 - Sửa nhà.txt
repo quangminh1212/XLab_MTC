@@ -202,6 +202,8 @@ Tại miền Bắc năm 1983, sau nhịp “Sửa nhà”, Hùng không vội kh
 
 Lan đối chiếu biên bản với hiện trường “Sửa nhà”. Chỗ hứa chưa giao bị gạch đỏ. Tên người chịu được viết rõ trước khi ai đó kịp quên. (ch.7/8)
 
+
+
 ### Khép — Sửa nhà
 
 Việc “Sửa nhà” được gói lại bằng một quyết định có tên người chịu trách nhiệm. Chỗ mơ hồ bị gạch. Chỗ chắc được giữ.
@@ -218,4 +220,11 @@ Trước khi ngủ, ông viết một dòng cầu nối: việc tiếp theo là 
 
 Trước khi nằm, ông chạm tay vào mép sổ da: cảm ơn vì còn giấy để sửa sai.
 
+============================================================
+「Hệ thống — GHI NHẬN ch.7」
+Năm: 1983
+Tổng EXP: 212 (+46 nhịp này)
+Không gian kho: 1,200m² (+0m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2
+Ghi chú: sổ cái khớp system_ledger — không double-book
 ============================================================

@@ -189,4 +189,16 @@ Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để c
 
 Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Đầu tư bất động sản" năm 1985 tại Hà Nội, chi tiết số 39 gắn với con trai Hùng: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Đầu tư bất động sản" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Đầu tư bất động sản" năm 1985 tại Hà Nội, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Đầu tư bất động sản" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Đầu tư bất động sản" năm 1985 tại Hà Nội, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+
+
+Kết thúc đoạn này, “Đầu tư bất động sản" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.48」
+Năm: 1985
+Tổng EXP: 4,800 (+200 nhịp này)
+Không gian kho: 2,900m² (+50m²)
+Kỹ năng trọng yếu: Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

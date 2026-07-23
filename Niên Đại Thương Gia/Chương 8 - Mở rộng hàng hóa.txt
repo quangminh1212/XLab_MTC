@@ -60,7 +60,7 @@ Bà cụ mua hai bánh — 6 đồng. Rồi bà thấy kem đánh răng. "Kem đ
 
 Bà cụ mua một tuýp, một bàn chải (2 đồng). Tổng: 13 đồng.
 
-「Giao dịch thành công! +10 EXP. Tổng EXP: 165」
+「Giao dịch thành công! +10 EXP. Số dư EXP lúc giao dịch:  165」
 
 Tin đồn lan nhanh. Trong thời bao cấp, hàng xịn xuất hiện ở chợ là tin tức lớn — người dân truyền miệng: "Có thanh niên bán xà phòng xịn, kem đánh răng, dầu gội ở hẻm cạnh chợ." Buổi sáng, Hùng bán hết 10 bánh xà phòng (30 đồng), 5 tuýp kem đánh răng (25 đồng), 5 bàn chải (10 đồng), 5 chai dầu gội (8 đồng/chiếc = 40 đồng). Tổng đồ dùng: 105 đồng.
 
@@ -68,7 +68,7 @@ Thuốc: 10 hộp vitamin B, giá 5 đồng/hộp = 50 đồng. Mua chủ yếu 
 
 Tổng thu nhập buổi sáng: 200 (quần áo) + 15 (trứng) + 5 (mì) + 105 (đồ dùng) + 50 (thuốc) = 375 đồng.
 
-「Tổng EXP hôm nay: +40. Tổng EXP: 195」
+「EXP nhận trong giao dịch này: +40. Tổng EXP: 195」
 
 375 đồng trong một buổi sáng — gấp đôi ngày thường. Đa dạng hóa hàng hóa hiệu quả rõ rệt. Hùng hài lòng — nhưng ông biết rằng không thể mỗi ngày bán 375 đồng, vì hàng trong kho có hạn. Ông cần bắt đầu tìm nguồn hàng bên ngoài — mua sỉ ở Hà Nội, bán lẻ ở huyện. Kho không gian là dự phòng, không phải nguồn chính.
 
@@ -202,6 +202,8 @@ Buổi tối ông về nhà không mang theo cả đế chế. Ông mang một c
 
 Một rủi ro nhỏ bị mang ra bàn đúng lúc mọi người muốn quên. Giấu rủi ro nhỏ là đặt cọc cho cháy lớn — bài học ông viết đi viết lại trong sổ da. (Nhịp ch.8-15.)
 
+
+
 ### Khép — Mở rộng hàng hóa
 
 Cửa mới khóa muộn hơn dự kiến — vì còn sót một việc nhỏ phải làm đúng. “Mở rộng hàng hóa” khép bằng việc, không bằng băng keo khai trương.
@@ -216,4 +218,11 @@ Trước khi ngủ, ông viết một dòng cầu nối: việc tiếp theo là 
 
 Hùng gấp sổ. Ông ngủ nghiêng về phía cửa sổ — phía có gió, phía còn đường.
 
+============================================================
+「Hệ thống — GHI NHẬN ch.8」
+Năm: 1983
+Tổng EXP: 258 (+46 nhịp này)
+Không gian kho: 1,200m² (+0m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2
+Ghi chú: sổ cái khớp system_ledger — không double-book
 ============================================================

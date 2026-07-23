@@ -220,3 +220,10 @@ Nhiệm vụ chính: Trở thành thương gia lớn nhất Việt Nam
 Nhiệm vụ đầu: Cải thiện cuộc sống gia đình trong 7 ngày (+100 EXP, +200m²)
 
 ============================================================
+「Hệ thống — CỘT MỐC ch.1」
+Năm: 1983
+Tổng EXP: 0 (+0 nhịp này)
+Không gian kho: 1,000m² (+0m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

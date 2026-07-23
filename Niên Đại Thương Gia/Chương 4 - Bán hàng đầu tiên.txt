@@ -56,7 +56,7 @@ Hùng nhìn bà — quần áo cũ, tay chai sạn, mắt mệt. Bà là nông d
 
 Bà cười, rút tiền, cầm bộ blouse, đi nhanh về phía làng — bà sẽ mang về cho con gái thử. Hùng nhận 50 đồng, hệ thống thông báo:
 
-「Giao dịch thành công! +10 EXP. Tổng EXP: 60/100」
+「Giao dịch thành công! +10 EXP. Số dư EXP lúc giao dịch:  60/100」
 
 Tiếp theo: trứng và mì gói. Hùng mang rổ trứng (20 quả) và 2 thùng mì ra đường chính, đặt lên mảnh vải cũ trải đất. Không quảng cáo ầm ĩ — chỉ ngồi cạnh, để người đi đường tự nhìn thấy.
 
@@ -68,15 +68,15 @@ Một bà cụ dừng lại, nhìn rổ trứng. "Trứng gì đây, cậu? Gà 
 
 Bà cụ xới trứng, soi dưới nắng — trứng tươi, lòng trong, không ôi. Bà mua 10 quả, giá 1 đồng/quả (giá chợ đen 2 đồng/quả, giá Cung Tiêu Xã 0.5 đồng nhưng cần phiếu và hiếm). 10 đồng cho 10 quả trứng — rẻ hơn chợ đen, đắt hơn Cung Tiêu Xã, nhưng không cần phiếu, mua được ngay.
 
-「Giao dịch thành công! +5 EXP. Tổng EXP: 65/100」
+「Giao dịch thành công! +5 EXP. Số dư EXP lúc giao dịch:  65/100」
 
 Mì gói: 2 thùng, mỗi thùng 30 gói. Hùng bán lẻ — 0.5 đồng/gói, 15 đồng/thùng. Một người đàn ông mua 1 thùng cho gia đình — vợ ông mới sinh con, cần đồ ăn bổ, mì gói là thức ăn "bồi" trong thời bao cấp.
 
-「Giao dịch thành công! +5 EXP. Tổng EXP: 70/100」
+「Giao dịch thành công! +5 EXP. Số dư EXP lúc giao dịch:  70/100」
 
 70 EXP. Còn 30 EXP nữa. Hùng tiếp tục bán quần áo — trong buổi sáng, ông bán thêm 3 bộ nam (50 đồng/bộ) và 1 bộ trẻ em (30 đồng). Tổng thu nhập buổi sáng: 50 + 10 + 15 + 150 + 30 = 255 đồng.
 
-「Tổng EXP hôm nay: +30. Tổng EXP: 80/100」
+「EXP nhận trong giao dịch này: +30. Tổng EXP: 80/100」
 
 80 EXP. Còn 20 EXP nữa. Hùng có thể bán thêm chiều, nhưng ông quyết định dừng — không nên bán quá nhiều một ngày. 5 bộ quần áo + trứng + mì là đủ. Thêm nữa sẽ gây chú ý — ai cũng hỏi "hàng ở đâu ra", và câu trả lời "phụ việc ở Hà Nội" sẽ không thuyết phục nếu ông bán quá nhiều.
 
@@ -105,7 +105,7 @@ Hùng đồng ý. Ông lấy ra bộ sơ mi trắng cao cấp + quần tây đen
 
 Hùng ghi nhớ. Buổi chiều, ông mang bộ quần áo đến nhà người đàn ông — ông ta tên Khanh, cán bộ phòng tài chính huyện. Anh thử áo, vừa vặn, hài lòng, trả 80 đồng.
 
-「Giao dịch thành công! +10 EXP. Tổng EXP: 90/100」
+「Giao dịch thành công! +10 EXP. Số dư EXP lúc giao dịch:  90/100」
 
 90 EXP. Còn 10 EXP nữa. Hùng mỉm cười — ngày mai ông sẽ hoàn thành nhiệm vụ dễ dàng.
 
@@ -193,6 +193,8 @@ Mâm cơm 1983. “Bán hàng đầu tiên” được dịch thành câu bà hi
 
 「1983 · ch.4 · Bán hàng đầu tiên · Tổng EXP 90 · Không gian 1,150m² · +30 EXP」
 
+
+
 ### Khép — Bán hàng đầu tiên
 
 Việc “Bán hàng đầu tiên” được gói lại bằng một quyết định có tên người chịu trách nhiệm. Chỗ mơ hồ bị gạch. Chỗ chắc được giữ.
@@ -207,4 +209,11 @@ Chốt ý nghĩa chương này: sau “Bán hàng đầu tiên”, ông không c
 
 Ông để bút xuống giữa trang. Dòng trống là chỗ mai sẽ viết — nếu còn xứng.
 
+============================================================
+「Hệ thống — GHI NHẬN ch.4」
+Năm: 1983
+Tổng EXP: 90 (+30 nhịp này)
+Không gian kho: 1,150m² (+50m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
 ============================================================

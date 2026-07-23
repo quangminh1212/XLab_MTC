@@ -186,4 +186,16 @@ Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để c
 
 Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Mở rộng trường học" năm 1986 tại Hà Nội và vùng sâu, chi tiết số 39 gắn với kỹ sư Minh: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng trường học" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
 
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Mở rộng trường học" năm 1986 tại Hà Nội và vùng sâu, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng trường học" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Mở rộng trường học" năm 1986 tại Hà Nội và vùng sâu, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+
+
+Kết thúc đoạn này, “Mở rộng trường học" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.66」
+Năm: 1985
+Tổng EXP: 9,080 (+213 nhịp này)
+Không gian kho: 3,780m² (+47m²)
+Kỹ năng trọng yếu: Đầu tư lv1, Chiến lược lv1, Đầu tư lv2
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================
